@@ -29,6 +29,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Asianet_HD_BTS/output/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 https://jiotvpllive.cdn.jio.com/bpk-tv/Asianet_BTS/output/index.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"glnODBEnJaTSyU0VQgdCXw", "kid":"6ug4zNddSh+/9v190cl3gA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="Surya HD" tvg-logo="https://sund-images.sunnxt.com/194397/640x360_SuryaTVHD_194397_7b54e231-bbb9-48d2-8aae-35a5886deed3.jpg" group-title="Sun NX",Surya HD
@@ -44,15 +45,6 @@ https://livestream6.sunnxt.com/30612a1b269d4a18aa14657641c47515/SuryaTVB_IN_inde
 #EXTINF:-1 tvg-id="Surya Movies" tvg-logo="https://sund-images.sunnxt.com/194385/640x360_SuryaMovies_194385_2d5dbc38-915d-4e41-b8b0-ea98ca6c88d3.jpg" group-title="Sun NX",Surya Movies
 https://livestream.sunnxt.com/e24ee14c395945bd8ccb065e1bce8b9b/SuryaMoviesB_IN_index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PIss+GEcND5qIxtqnHyLWA", "kid":"JaHSpMP4SLGu2RGtaR/iMg" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="Surya Music" tvg-logo="https://sund-images.sunnxt.com/194338/640x360_SuryaMusic_194338_7fe35164-9a93-45ad-92a1-31126e592a84.jpg" group-title="Sun NX",Surya Music
-https://livestream.sunnxt.com/8c2352ff54954e7b9a4188045dcf3b27/SuryaMusicB_IN_index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"m60orW8j27kXxj7mgPZqHw", "kid":"EVY7AKRrQ/Kg+A7PQqT7dw" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="Surya Comedy" tvg-logo="https://sund-images.sunnxt.com/194400/640x360_UdayaComedy_194400_476f38f8-3104-4816-a540-968b36f27a5f.jpg" group-title="Sun NX",Surya Comedy
-https://livestream.sunnxt.com/6505e922bf164423ad122f404747356a/SuryaComedyB_IN_index.mpd
 
 #EXTINF:-1 tvg-id="1641" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeKeralamHD.png" group-title="Malayalam",Zee Keralam HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey

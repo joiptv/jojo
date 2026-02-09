@@ -482,3 +482,13 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports2_Tamil_HD_BTS/output/index.mp
 
 #EXTINF:-1 tvg-id="443" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_HD.png" group-title="Malayalam",Asianet HD
 https://portal2m3u.cr7x.workers.dev/t=eyJwb3J0YWwiOiJodHRwOi8vdGF0YXR2LmNjIiwibWFjIjoiMDA6MUE6Nzk6MDA6Mjg6RTciLCJzbiI6Ijg5QTdDMEZGNEI1MjgiLCJkZXZpY2UiOiJGRkQ5QjdEQ0Q5N0NGNUJCMkM0Q0Q1NjQ4QzMzNzA1MDg3N0FGQ0U1NjU2MzFDQkI1RDZFQUVGQUY3MDFBNTBFIn0=/11943.m3u
+
+},
+  {
+    "logo": "https://img.media.jio.com/tvpimages/47/31/302099_1753203208252_l_high.jpg",
+    "name": "Asianet Movies",
+    "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Asianet_Movies_BTS/output/index.mpd",
+    "drmScheme": "clearkey",
+    "drmLicense": "ca83419dfa1b56f794032b271b8f2c84:d592520eea361507a63c94bff799dfb6",
+    "cookie": "__hdnea__=st=1770601490~exp=1770687890~acl=/*~hmac=b97fe164fce9f0f8c153686784262a0abc2a21d6bc6f4042adc9aa0c6f326424"
+  },

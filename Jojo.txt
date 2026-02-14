@@ -304,48 +304,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_1_BTS/output/index.
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_2_BTS/output/index.mpd?__hdnea__=st=1770968162~exp=1771054562~acl=/*~hmac=a20b369ce7b0b48ea6f53ecd616f0e94ba595042495610cae245fed7b640c883
 
-#EXTINF:-1 tvg-id="SONY TEN 1 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 1 HD
-https://dishmt.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8?hdnea=st=1771052626~exp=1771052926~acl=*~id=fc6ac7d8-b7d4-4eba-895d-dd32bec7d635~hmac=9cc0e56bc5f82ccd4b150a4f8f6f6c0f6573d0d4cb45d6112190de1f19f376eb
-
-#EXTINF:-1 tvg-id="SONY TEN 2 HD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 2 HD
-https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?hdnea=st=1771052626~exp=1771052926~acl=*~id=fc6ac7d8-b7d4-4eba-895d-dd32bec7d635~hmac=9cc0e56bc5f82ccd4b150a4f8f6f6c0f6573d0d4cb45d6112190de1f19f376eb
-
-#EXTINF:-1 tvg-id="SONY TEN 3 HD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 3 HD
-https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=st=1771052626~exp=1771052926~acl=*~id=fc6ac7d8-b7d4-4eba-895d-dd32bec7d635~hmac=9cc0e56bc5f82ccd4b150a4f8f6f6c0f6573d0d4cb45d6112190de1f19f376eb
-
-#EXTINF:-1 tvg-id="SONY TEN 4" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 4
-https://dishmt.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8?hdnea=st=1771052626~exp=1771052926~acl=*~id=fc6ac7d8-b7d4-4eba-895d-dd32bec7d635~hmac=9cc0e56bc5f82ccd4b150a4f8f6f6c0f6573d0d4cb45d6112190de1f19f376eb
-
-#EXTINF:-1 tvg-id="SONY TEN 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 5 HD
-https://dishmt.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8?hdnea=st=1771052626~exp=1771052926~acl=*~id=fc6ac7d8-b7d4-4eba-895d-dd32bec7d635~hmac=9cc0e56bc5f82ccd4b150a4f8f6f6c0f6573d0d4cb45d6112190de1f19f376eb
-
-
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/2214/1750777602214-h" group-title="LIVE EVENTS",TATA IPL TV
-https://livetv.hotstar.com/mp2/gec-india/faffc00f9fc7402db40108fd87c2d53e/index_7.m3u8?%7CCookie=hdntl=exp=1771098404~acl=%2f*~id=e6742e0b608c62c681361be94afbadc1~data=hdntl~hmac=c586cd62d3c0142a5a30407d1e12637e539d1ba2c0498f754535ff54e197d47f&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/
-
-#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/5745/1750779565745-h" group-title="LIVE EVENTS",STAR SPORTS CRICKET CLASSIC
-https://livetv.hotstar.com/mp1/gec-india-hotstartv/3e222014b2524730ad86d0a8457ca5c1/index_7.m3u8?%7CCookie=hdntl=exp=1771098404~acl=%2f*~id=e6742e0b608c62c681361be94afbadc1~data=hdntl~hmac=c586cd62d3c0142a5a30407d1e12637e539d1ba2c0498f754535ff54e197d47f&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/
-
-#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/3639/1756796893639-h" group-title="LIVE EVENTS",T20s TV
-https://livetv.hotstar.com/mp2/gec-india/60b51adb7eae4ae492e6ba6c156a1efe/index_7.m3u8?%7CCookie=hdntl=exp=1771098404~acl=%2f*~id=e6742e0b608c62c681361be94afbadc1~data=hdntl~hmac=c586cd62d3c0142a5a30407d1e12637e539d1ba2c0498f754535ff54e197d47f&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/
-
-#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7430/567430-h" group-title="Sports",Star Sports HD1
-https://livetv-push.hotstar.com/dash/live/2002464/sshd1livetvwv/master.mpd?%7CCookie=hdntl=exp=1771098432~acl=*sshd1livetv*~id=a0db88b1a3769975554b9a5832c38a48~data=hdntl~hmac=929e9b842fef66fe88456f733ee94847844424ed089be063b41608fabbb87627&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&drmScheme=clearkey&drmLicense=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
-
-#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7432/567432-h" group-title="Sports",Star Sports HD2
-https://livetv-push.hotstar.com/dash/live/2002465/sshd2livetvwv/master.mpd?%7CCookie=hdntl=exp=1771098454~acl=*sshd2livetv*~id=f7ddce57a4a8609bea4a8d0c734859a7~data=hdntl~hmac=c6e0d6baedece48c90f164cb1d273b1eb89e8d28be8cc1f224df6484c1b2b0f3&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&drmScheme=clearkey&drmLicense=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
-
-#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7433/567433-h" group-title="Sports",Star Sports Hindi HD1
-https://livetv-push.hotstar.com/dash/live/2002466-b/sshindiwv/master.mpd?%7CCookie=hdntl=exp=1771098473~acl=*sshindi*~id=413729695e81798e6f7dd1f6f0e97bf5~data=hdntl~hmac=eead8af30444f207308ab6d8aea140bf4a2ae6fcf99cd51a26510cc729c3a251&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&drmScheme=clearkey&drmLicense=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
-
-#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7435/567435-h" group-title="Sports",Star Sports Select HD1
-https://livetv-push.hotstar.com/dash/live/2002470-b/ssselecthd1wv/master.mpd?%7CCookie=hdntl=exp=1771098490~acl=*ssselecthd1*~id=dab5a5e62220b5b65bc55d5fd831e53b~data=hdntl~hmac=04860b65a970c7091ee97781441e21d386182ce6f9b4fd5f7b73246fe5adc8db&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&drmScheme=clearkey&drmLicense=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
-
-#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7437/567437-h" group-title="Sports",Star Sports Select HD2
-https://livetv-push.hotstar.com/dash/live/2002471/ssselecthd2wv/master.mpd?%7CCookie=hdntl=exp=1771098506~acl=*ssselecthd2*~id=0258437226cf628744f11946a311a10b~data=hdntl~hmac=e5c0747075b00dacbdc5cc58ebabf0818fb9f196175bde5089dffdd58fd1daf0&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&drmScheme=clearkey&drmLicense=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
-
 #EXTINF:-1 tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2HindiHD_Transparent_c72d6289-27aa-422d-8420-40135329a5b6.png" group-title="Sports",Star Sports 2 Hindi HD
 https://jcevents.hotstar.com/bpk-tv/f0e3e64ae415771d8e460317ce97aa5e/Fallback/f0e3e64ae415771d8e460317ce97aa5e.m3u8?%7CCookie=hdntl=exp=1771098404~acl=%2f*~id=e6742e0b608c62c681361be94afbadc1~data=hdntl~hmac=c586cd62d3c0142a5a30407d1e12637e539d1ba2c0498f754535ff54e197d47f&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/
 
@@ -363,3 +321,16 @@ https://livetv.hotstar.com/mp2/gec-india-1540057084/6569043a1d874fb49fc2cf2f273f
 
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7400/567400-h" group-title="Movies",Asianet Movies
 https://livetv.hotstar.com/mp1/gec-india-1540057039/96454b89b9cd49df822108b6975a1a60/index.mpd?%7CCookie=hdntl=exp=1771098404~acl=%2f*~id=e6742e0b608c62c681361be94afbadc1~data=hdntl~hmac=c586cd62d3c0142a5a30407d1e12637e539d1ba2c0498f754535ff54e197d47f&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&drmScheme=clearkey&drmLicense=53e552bf422a4feeb017e38ba43e0000:9cf91549836b4ce98e9d8137591dd38e
+
+====FANCODE=====
+
+
+
+#EXT-X-STREAM-INF:BANDWIDTH=1245960,AVERAGE-BANDWIDTH=1245960,CODECS="avc1.4d401f,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000
+https://in-mc-flive.fancode.com/mumbai/140404_malayalam_hls_a456b85dea83926_1ta-di_h264/540p.m3u8?hdntl=Expires=1771159103~_GO=Generated~acl=/mumbai/140404_malayalam_hls_a456b85dea83926_1ta-di_h264/*~Signature=ATihZv4ZE0zzx0z3C06l5kPOc52sD_HJwyxvNA0DoRuIR3xi009qmbDFBcvL70yOUKg2jqMhR1deyQWsjTnLqnMEBS4H
+#EXT-X-STREAM-INF:BANDWIDTH=1756808,AVERAGE-BANDWIDTH=1756808,CODECS="avc1.64001f,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000
+https://in-mc-flive.fancode.com/mumbai/140404_malayalam_hls_a456b85dea83926_1ta-di_h264/720p.m3u8?hdntl=Expires=1771159103~_GO=Generated~acl=/mumbai/140404_malayalam_hls_a456b85dea83926_1ta-di_h264/*~Signature=ATihZv4ZE0zzx0z3C06l5kPOc52sD_HJwyxvNA0DoRuIR3xi009qmbDFBcvL70yOUKg2jqMhR1deyQWsjTnLqnMEBS4H
+#EXT-X-STREAM-INF:BANDWIDTH=3289416,AVERAGE-BANDWIDTH=3289416,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000
+https://in-mc-flive.fancode.com/mumbai/140404_malayalam_hls_a456b85dea83926_1ta-di_h264/1080p.m3u8?hdntl=Expires=1771159103~_GO=Generated~acl=/mumbai/140404_malayalam_hls_a456b85dea83926_1ta-di_h264/*~Signature=ATihZv4ZE0zzx0z3C06l5kPOc52sD_HJwyxvNA0DoRuIR3xi009qmbDFBcvL70yOUKg2jqMhR1deyQWsjTnLqnMEBS4H
+#EXT-X-STREAM-INF:BANDWIDTH=5376032,AVERAGE-BANDWIDTH=5376032,CODECS="avc1.64002a,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000
+https://in-mc-flive.fancode.com/mumbai/140404_malayalam_hls_a456b85dea83926_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1771159103~_GO=Generated~acl=/mumbai/140404_malayalam_hls_a456b85dea83926_1ta-di_h264/*~Signature=ATihZv4ZE0zzx0z3C06l5kPOc52sD_HJwyxvNA0DoRuIR3xi009qmbDFBcvL70yOUKg2jqMhR1deyQWsjTnLqnMEBS4H

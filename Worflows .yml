@@ -1,0 +1,264 @@
+
+name: Update JioStar Playlist
+
+on:
+  schedule:
+    - cron: '0 */3 * * *' # Refreshes every 3 hours to keep Hotstar tokens active
+  workflow_dispatch:
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Process Jio and Hotstar Updates
+        run: |
+          python <<EOF
+          import requests
+          import re
+          import os
+
+          m3u_file = "jio.txt"
+          jio_worker = "https://jtv.pfy.workers.dev"
+          hotstar_worker = "https://livetv.panguplay.workers.dev/hotstar?uid=vaathala"
+
+          try:
+              # 1. Fetch Jio Cookie
+              jio_res = requests.get(jio_worker, timeout=15)
+              jio_match = re.search(r'__hdnea__=([^"\'\s&]+)', jio_res.text)
+              jio_token = f"__hdnea__={jio_match.group(1)}" if jio_match else None
+              
+              # 2. Fetch Hotstar Data
+              hs_res = requests.get(hotstar_worker, timeout=20)
+              hs_text = hs_res.text
+              # Assuming a global token for Hotstar from the worker text
+              hs_match = re.search(r'hdntl=exp=[^&"\'\s]+', hs_text)
+              hs_token = hs_match.group(0) if hs_match else None
+
+              if not os.path.exists(m3u_file):
+                  print(f"Error: {m3u_file} not found")
+                  exit(1)
+
+              with open(m3u_file, 'r', encoding='utf-8') as f:
+                  lines = f.readlines()
+
+              updated_lines = []
+              for i, line in enumerate(lines):
+                  line = line.strip()
+                  
+                  # --- HANDLE HOTSTAR LINES ---
+                  if "#EXTHTTP" in line and "hdntl" in line and hs_token:
+                      # Update the header cookie
+                      line = re.sub(r'hdntl=exp=[^"]+', hs_token, line)
+                      updated_lines.append(line)
+                  
+                  elif "hotstar.com" in line and hs_token:
+                      # Update the link parameter
+                      line = re.sub(r'hdntl=exp=[^&|]+', hs_token, line)
+                      updated_lines.append(line)
+
+                  # --- HANDLE JIO LINES ---
+                  elif "jiotvmblive.cdn.jio.com" in line and jio_token:
+                      # Clean existing token and append fresh one
+                      clean_link = re.sub(r'([?&])__hdnea__=[^&]*', '', line)
+                      sep = "&" if "?" in clean_link else "?"
+                      updated_lines.append(f"{clean_link}{sep}{jio_token}")
+
+                  else:
+                      updated_lines.append(line)
+
+              # Save results back to the same file
+              with open(m3u_file, 'w', encoding='utf-8') as f:
+                  f.write("\n".join(updated_lines) + "\n")
+              
+              print("Successfully updated Jio and Hotstar tokens in jiostar.m3u")
+
+          except Exception as e:
+              print(f"Error: {e}")
+              exit(1)
+          EOF
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add jiostar.m3u
+          git commit -m "Automated update: Refreshed Jio and Hotstar tokens" || echo "No changes"
+          git push
+
+
+
+
+
+
+name: Auto-Update index.html
+
+on:
+  schedule:
+    - cron: '0 */2 * * *' # Runs every 2 hours
+  workflow_dispatch: # Allows manual run
+
+permissions:
+  contents: write
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install requests
+        run: pip install requests
+
+      - name: Run Update Script
+        run: |
+          cat <<EOF > update_script.py
+          import requests
+          import re
+          import sys
+
+          FILE_NAME = "index.html"
+          JIO_SOURCE = "https://livetv-cb7.pages.dev/hotstar"
+          ZEE_SOURCE = "https://join-vaathala1-for-more.vodep39240327.workers.dev/zee5.m3u"
+          
+          headers = {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+          }
+          
+          # 1. FETCH JIO TOKEN
+          print("1. Fetching Jio token...")
+          jio_token = None
+          try:
+              jio_resp = requests.get(JIO_SOURCE, headers=headers, timeout=15)
+              jio_resp.raise_for_status()
+              jio_match = re.search(r'(__hdnea__=[^"&\s]*)', jio_resp.text)
+              if jio_match:
+                  jio_token = jio_match.group(1)
+                  print(f" -> Found Jio Token: {jio_token[:25]}...")
+              else:
+                  print(" -> WARNING: No Jio token found.")
+          except Exception as e:
+              print(f" -> Error fetching Jio source: {e}")
+
+          # 2. FETCH ZEE TOKEN
+          print("\n2. Fetching Zee token...")
+          zee_token = None
+          try:
+              zee_resp = requests.get(ZEE_SOURCE, headers=headers, timeout=15)
+              zee_resp.raise_for_status()
+              zee_match = re.search(r'(hdntl=[^"\'\s]*)', zee_resp.text)
+              if zee_match:
+                  zee_token = zee_match.group(1)
+                  print(f" -> Found Zee Token: {zee_token[:25]}...")
+              else:
+                  print(" -> WARNING: No Zee token found.")
+          except Exception as e:
+              print(f" -> Error fetching Zee source: {e}")
+
+          if not jio_token and not zee_token:
+              print("CRITICAL ERROR: Neither token could be fetched. Aborting to protect playlist.")
+              sys.exit(1)
+
+          # 3. UPDATE FILE (ONLY WITHIN MARKERS)
+          print(f"\n3. Updating {FILE_NAME} within markers...")
+          try:
+              with open(FILE_NAME, "r", encoding="utf-8") as f:
+                  lines = f.readlines()
+          except Exception as e:
+              print(f"Error reading file: {e}")
+              sys.exit(1)
+
+          new_lines = []
+          updated_jio = 0
+          updated_zee = 0
+          removed_cookies = 0
+          in_auto_block = False
+
+          for line in lines:
+              stripped = line.strip()
+              
+              # Turn ON auto-updating when we hit the START marker
+              if stripped == "# >>> JIO_AUTO_START":
+                  in_auto_block = True
+                  new_lines.append(line)
+                  continue
+                  
+              # Turn OFF auto-updating when we hit the END marker
+              if stripped == "# >>> JIO_AUTO_END":
+                  in_auto_block = False
+                  new_lines.append(line)
+                  continue
+              
+              # If we are INSIDE the markers, apply the logic
+              if in_auto_block:
+                  # DELETE JIO COOKIE HEADER
+                  if stripped.startswith('#EXTHTTP:') and '"cookie"' in stripped.lower() and '__hdnea__' in stripped:
+                      removed_cookies += 1
+                      continue 
+                      
+                  # UPDATE JIO .MPD LINKS
+                  if jio_token and '.mpd' in stripped and ('__hdnea__' in stripped or 'jio' in stripped.lower() or 'hotstar' in stripped.lower()):
+                      base_link = stripped.split('.mpd')[0] + '.mpd'
+                      new_lines.append(f'{base_link}?{jio_token}\n')
+                      updated_jio += 1
+                      continue
+                      
+                  # >>> FIXED: UPDATE ZEE5 .M3U8 LINKS <<<
+                  # Now matches if it has .m3u8 AND contains "zee5" OR "hdntl="
+                  if zee_token and '.m3u8' in stripped and ('zee5' in stripped.lower() or 'hdntl=' in stripped.lower()):
+                      # Cut the link exactly at .m3u8 to remove any old token
+                      base_link = stripped.split('.m3u8')[0] + '.m3u8'
+                      new_lines.append(f'{base_link}?{zee_token}\n')
+                      updated_zee += 1
+                      continue
+                      
+                  # LEAVE UNMATCHED LINES INSIDE THE BLOCK UNTOUCHED
+                  new_lines.append(line)
+              
+              # If we are OUTSIDE the markers, do absolutely nothing, just keep the line
+              else:
+                  new_lines.append(line)
+
+          # Write changes back to file
+          with open(FILE_NAME, "w", encoding="utf-8") as f:
+              f.writelines(new_lines)
+
+          print(f"\nSuccess!")
+          print(f" -> Updated {updated_jio} Jio links.")
+          print(f" -> Updated {updated_zee} Zee links.")
+          print(f" -> Removed {removed_cookies} obsolete cookie lines.")
+          EOF
+          
+          python update_script.py
+
+      - name: Commit & Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html
+          if git diff --cached --quiet; then
+            echo "➡️ No changes detected (Tokens are the same)"
+            exit 0
+          fi
+          git commit -m "✅ Auto-update Jio and Zee Tokens"
+          git push origin mainname: Auto-Update index.html
+

@@ -1,4 +1,4 @@
-name: Update JioStar Playlist
+name: Update Jio
 
 on:
   schedule:
@@ -91,5 +91,5 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add jiostar.m3u
+          git add Jojo.m3u
           git commit -m "Automated update: Refreshed

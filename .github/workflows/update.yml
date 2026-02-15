@@ -1,4 +1,4 @@
-name: Auto-Update index.html
+name: Auto-Update Jojo.m3u
 
 on:
   schedule:
@@ -33,7 +33,7 @@ jobs:
           import re
           import sys
 
-          FILE_NAME = "Jojo.txt"
+          FILE_NAME = "Jojo.m3u"
           JIO_SOURCE = "https://livetv-cb7.pages.dev/hotstar"
           ZEE_SOURCE = "https://join-vaathala1-for-more.vodep39240327.workers.dev/zee5.m3u"
           
@@ -151,7 +151,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add index.html
+          git add Jojo.m3u
           if git diff --cached --quiet; then
             echo "➡️ No changes detected (Tokens are the same)"
             exit 0

@@ -330,3 +330,16 @@ https://livetv.hotstar.com/mp1/gec-india-1540057039/96454b89b9cd49df822108b6975a
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey.joker-verse.workers.dev/license
 #EXTHTTP:{"Cookie":"hdntl=exp=1771213056~acl=/*~id=a2cbd69c5e3a92749f7c47e12966ef77~data=hdntl~hmac=163f7f68a8ac1fdab267d7e6d4dc2ecc06a0e44fc25b1bb39a8370f37d46c8ff","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)","X-User-Agent":"OTT Navigator/1.7.0.2.4 (Linux;Android 13; en; 1xp60xz)"}
 https://livetv.hotstar.com/mp1/gec-india-1540057042/65edc0359d4b49f7a42d06d4dfe8457b/index.mpd|Cookie=hdntl=exp=1771213056~acl=/*~id=a2cbd69c5e3a92749f7c47e12966ef77~data=hdntl~hmac=163f7f68a8ac1fdab267d7e6d4dc2ecc06a0e44fc25b1bb39a8370f37d46c8ff&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)&X-User-Agent=OTT Navigator/1.7.0.2.4 (Linux;Android 13; en; 1xp60xz)
+
+
+=====SONY====
+
+
+#EXTINF:-1 tvg-id="sony-ten-1" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 1
+https://dishmt.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8?hdnea=st=1771158211~exp=1771158511~acl=*~id=e8c8e07e-f007-4ee3-9ec3-4bc58ebc4168~hmac=1a3588ccdad94bd8455943e7d498a8615685c2e693192dff8bbcef8935478bee
+#EXTINF:-1 tvg-id="sony-ten-2" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 2
+https://dishmt.slivcdn.com/hls/live/2020590/TEN2SD/master.m3u8?hdnea=st=1771158211~exp=1771158511~acl=*~id=e8c8e07e-f007-4ee3-9ec3-4bc58ebc4168~hmac=1a3588ccdad94bd8455943e7d498a8615685c2e693192dff8bbcef8935478bee
+#EXTINF:-1 tvg-id="sony-ten-3" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 3
+https://dishmt.slivcdn.com/hls/live/2020592/TEN3SD/master.m3u8?hdnea=st=1771158211~exp=1771158511~acl=*~id=e8c8e07e-f007-4ee3-9ec3-4bc58ebc4168~hmac=1a3588ccdad94bd8455943e7d498a8615685c2e693192dff8bbcef8935478bee
+#EXTINF:-1 tvg-id="sony-ten-4" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 4
+https://dishmt.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8?hdnea=st=1771158211~exp=1771158511~acl=*~id=e8c8e07e-f007-4ee3-9ec3-4bc58ebc4168~hmac=1a3588ccdad94bd8455943e7d498a8615685c2e693192dff8bbcef8935478bee

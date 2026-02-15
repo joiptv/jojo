@@ -34,7 +34,7 @@ jobs:
           import sys
 
           FILE_NAME = "Jojo.m3u"
-          JIO_SOURCE = "https://livetv-cb7.pages.dev/hotstar"
+          JIO_SOURCE = "https://raw.githubusercontent.com/Arunjunan20/My-IPTV/refs/heads/main/jiostar.m3u"
           ZEE_SOURCE = "https://join-vaathala1-for-more.vodep39240327.workers.dev/zee5.m3u"
           
           headers = {

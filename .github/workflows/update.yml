@@ -33,7 +33,7 @@ jobs:
           import re
           import sys
 
-          FILE_NAME = "jojo.txt"
+          FILE_NAME = "Jojo.txt"
           JIO_SOURCE = "https://livetv-cb7.pages.dev/hotstar"
           ZEE_SOURCE = "https://join-vaathala1-for-more.vodep39240327.workers.dev/zee5.m3u"
           

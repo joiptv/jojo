@@ -27,7 +27,7 @@ jobs:
           import re
           import os
 
-          m3u_file = "jojo.txt"
+          m3u_file = "Jojo.txt"
           jio_worker = "https://jtv.pfy.workers.dev"
           hotstar_worker = "https://livetv.panguplay.workers.dev/hotstar?uid=vaathala"
 
@@ -80,7 +80,7 @@ jobs:
               with open(m3u_file, 'w', encoding='utf-8') as f:
                   f.write("\n".join(updated_lines) + "\n")
               
-              print("Successfully updated Jio and Hotstar tokens in jojo.txt")
+              print("Successfully updated Jio and Hotstar tokens in Jojo.txt")
 
           except Exception as e:
               print(f"Error: {e}")

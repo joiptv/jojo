@@ -28,7 +28,7 @@ jobs:
           import os
 
           m3u_file = "Jojo.m3u"
-          jio_worker = "https://jtv.pfy.workers.dev"
+          jio_worker = "https://raw.githubusercontent.com/Arunjunan20/My-IPTV/refs/heads/main/jiostar.m3u"
           hotstar_worker = "https://livetv.panguplay.workers.dev/hotstar?uid=vaathala"
 
           try:

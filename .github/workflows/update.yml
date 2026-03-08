@@ -34,8 +34,8 @@ jobs:
           import sys
 
           FILE_NAME = "Jojo.m3u"
-          JIO_SOURCE = "https://raw.githubusercontent.com/Arunjunan20/My-IPTV/refs/heads/main/jiostar.m3u"
-          ZEE_SOURCE = "https://join-vaathala1-for-more.vodep39240327.workers.dev/zee5.m3u"
+          JIO_SOURCE = "https://xyz.07live.workers.dev/playlist.m3u?user=gana-sunega&pass=krish-ka"
+          ZEE_SOURCE = "https://xyz.07live.workers.dev/playlist.m3u?user=gana-sunega&pass=krish-ka"
           
           headers = {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"

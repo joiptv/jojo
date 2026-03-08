@@ -1,10 +1,9 @@
 name: Auto-Update Jojo.m3u
 
 on:
+  workflow_dispatch:
   schedule:
-    -cron: '0 */10 * * * *' # Runs every 1 hours
-  workflow_dispatch: # Allows manual run
-
+    - cron: '0 */10 * * * *'
 permissions:
   contents: write
 

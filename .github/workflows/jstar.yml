@@ -28,7 +28,7 @@ jobs:
           import os
 
           m3u_file = "Jojo.m3u"
-          jio_worker = "https://xyz.07live.workers.dev/playlist.m3u?user=gana-sunega&pass=krish-ka"
+          jio_worker = "https://raw.githubusercontent.com/alex4528x/m3u/refs/heads/main/jtv.m3u"
           hotstar_worker = "https://xyz.07live.workers.dev/playlist.m3u?user=gana-sunega&pass=krish-ka"
 
           headers = {

@@ -28,8 +28,8 @@ jobs:
           import os
 
           m3u_file = "Jojo.m3u"
-          jio_worker = "https://jtv.pfy.workers.dev"
-          hotstar_worker = "https://livetv.panguplay.workers.dev/hotstar?uid=vaathala"
+          jio_worker = "https://xyz.07live.workers.dev/playlist.m3u?user=gana-sunega&pass=krish-ka"
+          hotstar_worker = "https://xyz.07live.workers.dev/playlist.m3u?user=gana-sunega&pass=krish-ka"
 
           headers = {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"

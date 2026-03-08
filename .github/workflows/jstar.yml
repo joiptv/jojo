@@ -2,7 +2,7 @@ name: Update JioStar Playlist
 
 on:
   schedule:
-    - cron: '0 */10 * * * *' # Refreshes every 1 Mints to keep Hotstar tokens active
+    - cron: '0 */01 * * *' # Refreshes every 1 Mints to keep Hotstar tokens active
   workflow_dispatch:
 
 jobs:

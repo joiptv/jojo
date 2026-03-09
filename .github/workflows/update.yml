@@ -33,8 +33,8 @@ jobs:
           import sys
 
           FILE_NAME = "Jojo.m3u"
-          JIO_SOURCE = "https://xyz.07live.workers.dev/playlist.m3u?user=gana-sunega&pass=krish-ka"
-          ZEE_SOURCE = "https://sflex07.fun/v3/ZioGarmTara.m3u.live"
+          JIO_SOURCE = "https://raw.githubusercontent.com/alex4528x/m3u/refs/heads/main/jtv.m3u"
+          ZEE_SOURCE = "https://xyz.07live.workers.dev/playlist.m3u?user=gana-sunega&pass=krish-ka"
           
           headers = {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"

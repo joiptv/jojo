@@ -134,11 +134,11 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ReporterTV." tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_REPORTER_TV/images/LOGO_HD/image.png" group-title="News",Reporter TV
-https://segment.yuppcdn.net/050522/reporter/playlist.m3u8
+https://yuppnimrestreammum.akamaized.net/181224/smil:keralavision.smil/hdntl=exp=1773159160~acl=%2f*~data=hdntl~hmac=5ab0089a8ff1d9ce122d6a299a80af67324d4b4c167d4b863b4f3a9ff9719cf7/chunklist_b1928000.m3u8
 
 
 #EXTINF:-1 tvg-id="JaihindTV" tvg-logo="https://i.imgur.com/NaiA73p.png" group-title="News",Jaihind TV
-https://yuppnimrestreammum.akamaized.net/260723/smil:jaihind1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e38
+https://yuppnimrestreammum.akamaized.net/260723/smil:jaihind1.smil/hdntl=exp=1773159152~acl=%2f*~data=hdntl~hmac=37a2119607260e468ee38f0c953231cac377ad554a11229ca2c1a09d0fd4985a/chunklist_b1928000.m3u8
 
 
 #EXTINF:-1 tvg-id="Big Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Big_TV_Logo.jpg" group-title="News",Big Tv

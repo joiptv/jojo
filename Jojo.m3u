@@ -69,8 +69,8 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Asianet_Movies_BTS/output/index.mpd?__hdn
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=1f85fea5f617503d9166990f21afc2c2&key=b2fc26f5b5595606827d4000a9d1b178
 #EXTVLCOPT:http-user-agent=billatvoriginals
-#EXTHTTP:{ "cookie":"__hdnea__=st=1773048978~exp=1773135378~acl=/*~hmac=eb5f234b78ce6336ec153123f0b9957634c59a79aed75cca6c277f879dfe97df" }
-https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeKeralamHD_MOB/WDVLive/index.mpd
+#EXTHTTP:{ "cookie":"__hdnea__=st=1773062030~exp=1773148430~acl=/*~hmac=5566d4b294b3eee3137f8bc830ed4da247dfb103ea50f8409e2790336075dbe3" }
+https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeKeralamHD_MOB/WDVLive/index.mpd?__hdnea__=st=1773062030~exp=1773148430~acl=/*~hmac=5566d4b294b3eee3137f8bc830ed4da247dfb103ea50f8409e2790336075dbe3
 
 #EXTINF:-1 tvg-id="459" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Movies_HD.png",Asianet Movies HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey

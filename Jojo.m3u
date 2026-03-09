@@ -134,11 +134,11 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ReporterTV." tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_REPORTER_TV/images/LOGO_HD/image.png" group-title="News",Reporter TV
-https://yuppnimrestreammum.akamaized.net/181224/smil:keralavision.smil/hdntl=exp=1773159160~acl=%2f*~data=hdntl~hmac=5ab0089a8ff1d9ce122d6a299a80af67324d4b4c167d4b863b4f3a9ff9719cf7/chunklist_b1928000.m3u8
+https://yuppnimresmum.akamaized.net/050522/reporter/playlist.m3u8?hdnts=st=1773074064~exp=1773077664~acl=!*/050522/reporter/*!yuppTVCom_61_-1_4b72e1798cc44a4b_IN_49.15.134.210/payload/yuppTVCom_61_-1_4b72e1798cc44a4b_IN_49.15.134.210/*~hmac=243c843c95c983a4340574405c4e5cfe55e1e6ba536beb466550880d70239d32&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=MAL&ads.content_genre=NEWS&ads.channel=703&ads.channel_name=ReporterTV&ads.network_name=yupptv&ads.user=0
 
 
 #EXTINF:-1 tvg-id="JaihindTV" tvg-logo="https://i.imgur.com/NaiA73p.png" group-title="News",Jaihind TV
-https://yuppnimrestreammum.akamaized.net/260723/smil:jaihind1.smil/hdntl=exp=1773159152~acl=%2f*~data=hdntl~hmac=37a2119607260e468ee38f0c953231cac377ad554a11229ca2c1a09d0fd4985a/chunklist_b1928000.m3u8
+https://yuppnimrestreammum.akamaized.net/260723/smil:jaihind1.smil/playlist.m3u8?hdnts=st=1773073851~exp=1773077451~acl=!*/260723/smil:jaihind1.smil/*!yuppTVCom_61_-1_4b72e1798cc44a4b_IN_49.15.134.210/payload/yuppTVCom_61_-1_4b72e1798cc44a4b_IN_49.15.134.210/*~hmac=3a4e591a5c4db2a433343c06f9c33650cf86a2e7c4c08fcc159e3470ba887539&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=MAL&ads.content_genre=ENT&ads.channel=307&ads.channel_name=JaihindTV&ads.network_name=yupptv&ads.user=0
 
 
 #EXTINF:-1 tvg-id="Big Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Big_TV_Logo.jpg" group-title="News",Big Tv

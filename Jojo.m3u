@@ -64,6 +64,13 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Flower_TV_BTS/output/index.mpd?__hdnea__=
 https://jiotvpllive.cdn.jio.com/bpk-tv/Asianet_Movies_BTS/output/index.mpd?__hdnea__=st=1772974701~exp=1773061101~acl=/*~hmac=74da9cfac46e6a957599c53f85c1e70719a78b76e795b479a31b9cf6ae513fd2&xxx=%7Ccookie=__hdnea__=st=1772974701~exp=1773061101~acl=/*~hmac=74da9cfac46e6a957599c53f85c1e70719a78b76e795b479a31b9cf6ae513fd2
 
 
+#EXTINF:-1 tvg-id="965" group-title="KashurFlix Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Keralam_HD.png",Zee Keralam HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=1f85fea5f617503d9166990f21afc2c2&key=b2fc26f5b5595606827d4000a9d1b178
+#EXTVLCOPT:http-user-agent=billatvoriginals
+#EXTHTTP:{ "cookie":"__hdnea__=st=1773048978~exp=1773135378~acl=/*~hmac=eb5f234b78ce6336ec153123f0b9957634c59a79aed75cca6c277f879dfe97df" }
+https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeKeralamHD_MOB/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="459" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Movies_HD.png",Asianet Movies HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey

@@ -15,14 +15,10 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v3
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
+      - name: Set up Node.js environment
+        uses: actions/setup-node@v6.3.0
         with:
           node-version: '24'
-
-      - name: Force Node 24
-        run: |
-          echo "FORCE_JAVASCRIPT_ACTIONS_TO_NODE24=true" >> $GITHUB_ENV
 
       - name: Download Updated File
         run: |

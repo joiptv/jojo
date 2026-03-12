@@ -2,7 +2,7 @@ name: Auto-Update jojo.m3u
 
 on:
   schedule:
-    - cron: '*/30 * * * *'# Runs every 2 hours
+    - cron: '0 */2 * * *' # Runs every 2 hours
   workflow_dispatch: # Allows manual run
 
 permissions:
@@ -11,15 +11,18 @@ permissions:
 jobs:
   update-playlist:
     runs-on: ubuntu-latest
+    # Force the runner to use Node.js 24 for all actions
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
     steps:
       - name: Checkout Code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6 # Updated from v4 to v6
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v6 # Updated from v4 to v6
         with:
           python-version: '3.x'
 
@@ -93,49 +96,37 @@ jobs:
           for line in lines:
               stripped = line.strip()
               
-              # Turn ON auto-updating when we hit the START marker
               if stripped == "# >>> JIO_AUTO_START":
                   in_auto_block = True
                   new_lines.append(line)
                   continue
                   
-              # Turn OFF auto-updating when we hit the END marker
               if stripped == "# >>> JIO_AUTO_END":
                   in_auto_block = False
                   new_lines.append(line)
                   continue
               
-              # If we are INSIDE the markers, apply the logic
               if in_auto_block:
-                  # DELETE JIO COOKIE HEADER
                   if stripped.startswith('#EXTHTTP:') and '"cookie"' in stripped.lower() and '__hdnea__' in stripped:
                       removed_cookies += 1
                       continue 
                       
-                  # UPDATE JIO .MPD LINKS
                   if jio_token and '.mpd' in stripped and ('__hdnea__' in stripped or 'jio' in stripped.lower() or 'hotstar' in stripped.lower()):
                       base_link = stripped.split('.mpd')[0] + '.mpd'
                       new_lines.append(f'{base_link}?{jio_token}\n')
                       updated_jio += 1
                       continue
                       
-                  # >>> FIXED: UPDATE ZEE5 .M3U8 LINKS <<<
-                  # Now matches if it has .m3u8 AND contains "zee5" OR "hdntl="
                   if zee_token and '.m3u8' in stripped and ('zee5' in stripped.lower() or 'hdntl=' in stripped.lower()):
-                      # Cut the link exactly at .m3u8 to remove any old token
                       base_link = stripped.split('.m3u8')[0] + '.m3u8'
                       new_lines.append(f'{base_link}?{zee_token}\n')
                       updated_zee += 1
                       continue
                       
-                  # LEAVE UNMATCHED LINES INSIDE THE BLOCK UNTOUCHED
                   new_lines.append(line)
-              
-              # If we are OUTSIDE the markers, do absolutely nothing, just keep the line
               else:
                   new_lines.append(line)
 
-          # Write changes back to file
           with open(FILE_NAME, "w", encoding="utf-8") as f:
               f.writelines(new_lines)
 
@@ -158,3 +149,4 @@ jobs:
           fi
           git commit -m "✅ Auto-update Jio and Zee Tokens"
           git push origin main
+

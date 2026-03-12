@@ -1,0 +1,37 @@
+name: Sync Jojo File from External Link
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'  # ഓരോ 30 മിനിറ്റ്
+  push:
+    branches:
+      - main  # പ്രധാന ശാഖ
+
+jobs:
+  update_jojo:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+
+      - name: Force Node 24
+        run: |
+          echo "FORCE_JAVASCRIPT_ACTIONS_TO_NODE24=true" >> $GITHUB_ENV
+
+      - name: Download Updated File
+        run: |
+          curl -L -o Jojo.m3u https://raw.githubusercontent.com/alex4528x/m3u/refs/heads/main/jtv.m3u
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add Jojo.m3u
+          git commit -m "Update Jojo.m3u from external link"
+          git push

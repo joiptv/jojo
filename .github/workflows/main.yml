@@ -2,7 +2,7 @@ name: Auto-Update jojo.m3u
 
 on:
   schedule:
-    - cron: '0 */20 * * * *' # Runs every 2 hours
+    - cron: '*/30 * * * *'# Runs every 2 hours
   workflow_dispatch: # Allows manual run
 
 permissions:

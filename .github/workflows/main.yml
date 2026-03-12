@@ -11,33 +11,31 @@ on:
 jobs:
   update_jojo:
     runs-on: ubuntu-latest
-    
-    # 1. This force variable silences the warning for all internal actions
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-    
-    # 2. Permissions are required to push changes back
+
     permissions:
       contents: write
 
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
     steps:
       - name: Checkout Repo
-        uses: actions/checkout@v4
-
-      # 3. Removed setup-node entirely. It is not needed for curl/git.
+        uses: actions/checkout@v4.2.2
 
       - name: Download Updated File
-        run: curl -L -o Jojo.m3u https://raw.githubusercontent.com/alex4528x/m3u/refs/heads/main/jtv.m3u
+        run: |
+          curl -L "https://raw.githubusercontent.com/alex4528x/m3u/refs/heads/main/jtv.m3u" -o Jojo.m3u
 
       - name: Commit and Push Changes
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add Jojo.m3u
-          if ! git diff --cached --quiet; then
-            git commit -m "Update Jojo.m3u from external link"
-            git push origin main
-          else
+
+          if git diff --cached --quiet; then
             echo "No changes detected."
+          else
+            git commit -m "Update Jojo.m3u from external link"
+            git push
           fi

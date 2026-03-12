@@ -3,7 +3,7 @@ name: Sync Jojo File from Link
 on:
   push:
     branches:
-      - main  # നിങ്ങളുടെ പ്രധാന ശാഖ
+      - main  # പ്രധാന ശാഖ
 
 jobs:
   update_jojo:
@@ -12,6 +12,11 @@ jobs:
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'  # Node.js 20 version
 
       - name: Download Updated File
         run: |

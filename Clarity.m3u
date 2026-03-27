@@ -9906,8 +9906,16 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 # ===== SonyLiv Events =====
 
 #EXTM3U
-#DATE:- 27-03-2026 20:20
+#DATE:- 27-03-2026 22:20
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
+#EXTINF:-1 tvg-id="1090500468" tvg-name="Wheel Of Fortune" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016503/177427369984580_WOF_simulcast_23mar_landscape_thumb.jpg" tvg-language="Hindi" group-title="SonyLiv EVENT | Game show",HIN | Wheel Of Fortune
+https://sonymtmnew-akamaized.pages.dev/hls/live/2022321/DAI17ME-WOF/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=018f97e85ea2f43375bde8d17d9f6e12-1774630200128
+#EXTINF:-1 tvg-id="1090507704" tvg-name="UEFA International Friendlies" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016470/1774040646020735_INT_Friendlies26_Austria_vs_Ghana_20mar_landscape_thumb.jpg" tvg-language="English" group-title="SonyLiv EVENT | Football",ENG | Austria vs Ghana - 27 Mar 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2005445/Austria_2703/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=018f97e85ea2f43375bde8d17d9f6e12-1774630200128
+#EXTINF:-1 tvg-id="1090507705" tvg-name="UEFA International Friendlies" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016471/1774041329837959_INT_Friendlies26_Montenegro_vs_Andorra_20mar_landscape_thumb.jpg" tvg-language="English" group-title="SonyLiv EVENT | Football",ENG | Montenegro vs Andorra - 27 Mar 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/Monteneg2703/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=018f97e85ea2f43375bde8d17d9f6e12-1774630200128
+#EXTINF:-1 tvg-id="1090507703" tvg-name="UEFA International Friendlies" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016626/1774568589035686_INT_Friendlies26_Azerbaijan_vs_St_Lucia_27mar_landscape_thumb.jpg" tvg-language="English" group-title="SonyLiv EVENT | Football",ENG | Azerbaijan vs St. Lucia - 27 Mar 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/Azerbaij2703/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=018f97e85ea2f43375bde8d17d9f6e12-1774630200128
 
 
 # ===== Sony Channels =====

@@ -70,12 +70,13 @@ https://latest.rkdyiptv.workers.dev/live/1981.m3u8?token=rkdyiptv&exp=1774722600
 #EXTHTTP:{"Cookie":"hdntl=exp=1774768473~acl=%2f*~id=ade6e0f50a979e2edb313c559bf09f53~data=hdntl~hmac=db356486ce9200d6eec0bea8b0786cfbde349803836b07d54423a2246a4bc8dd","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 #https://livetv-push.hotstar.com/dash/live/2002464-b/sshd1livetvwv/master.mpd
 
-#EXTINF:-1 tvg-id="Star Sports Hindi 1 HD" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1-by-xfireflix.png" group-title="IPL 2026"  group-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/8763/1739203338763-a",Star Sports Hindi 1 HD
+#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7433/567433-h" group-title="IPL 2026" group-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/8763/1739203338763-a" ,Star Sports Hindi 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
+#KODIPROP:inputstream.adaptive.license_key=81872faa1d6b45fa9045cdeb2e310000:9b88168e61274587a471962c46b94675
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTHTTP:{"Cookie":"hdntl=exp=1774768473~acl=%2f*~id=ade6e0f50a979e2edb313c559bf09f53~data=hdntl~hmac=db356486ce9200d6eec0bea8b0786cfbde349803836b07d54423a2246a4bc8dd","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#https://livetv-push.hotstar.com/dash/live/2002466-b/sshindiwv/master.mpd
+#EXTHTTP:{"Cookie":"hdntl=exp=1774763750~acl=%2f*~id=d7828cfbfc2fe7f0bae649921447adbd~data=hdntl~hmac=5d4969603847e329355c7cdce346fb3c33f6a1333c0468c13f432ec9bcd380df"}
+https://livetv.hotstar.com/mp1/gec-india-1540065788/fa6a4f0005ef4f90ab24484d165b0aaf/index.mpd|Cookie="hdntl=exp=1774763750~acl=%2f*~id=d7828cfbfc2fe7f0bae649921447adbd~data=hdntl~hmac=5d4969603847e329355c7cdce346fb3c33f6a1333c0468c13f432ec9bcd380df"
+
 
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7432/567432-h" group-title="IPL 2026"  group-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/8763/1739203338763-a",Star Sports HD2
 #KODIPROP:inputstream.adaptive.license_type=clearkey

@@ -35,15 +35,15 @@ https://livetv.hotstar.com/mp2/gec-india-1540065785/a00717b1324f45eb814eec9e48a1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f64a24b3950468497390155c4880000:68f788aced6c4ecb89108f22fe9ee087
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTHTTP:{"Cookie":"hdntl=exp=1774679941~acl=%2f*~id=7c38b26266dab8b0b30d4d0c6f39a636~data=hdntl~hmac=40102a4c1b2133dffd7760c884c84892a27b20ee693bc62e63b1132dd76a37a9"}
-https://livetv.hotstar.com/mp2/gec-india-1540065791/8bb5cd7a8e274186977473a6771d9352/index.mpd|Cookie="hdntl=exp=1774679941~acl=%2f*~id=7c38b26266dab8b0b30d4d0c6f39a636~data=hdntl~hmac=40102a4c1b2133dffd7760c884c84892a27b20ee693bc62e63b1132dd76a37a9"
+#EXTHTTP:{"Cookie":"hdntl=exp=1774807237~acl=%2f*~id=d5fedf364d776910b2bd6604118d60df~data=hdntl~hmac=0828bfec6eb5da028aaa62a06ee6a5bfa7f4e88806f79c9d563c93f528570b3e"}
+https://livetv.hotstar.com/mp2/gec-india-1540065791/8bb5cd7a8e274186977473a6771d9352/index.mpd|Cookie="hdntl=exp=1774807237~acl=%2f*~id=d5fedf364d776910b2bd6604118d60df~data=hdntl~hmac=0828bfec6eb5da028aaa62a06ee6a5bfa7f4e88806f79c9d563c93f528570b3e"
 
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7437/567437-h" group-title="Clarity TV | JioHotStar⭐" group-logo="https://clarity1-tv.vercel.app/IMG/JioStar.png" ,Star Sports Select HD2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2effd2e98f95492cb7418857bf610000:f0e42f1c91fb4b59bf6684cb4478d82e
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTHTTP:{"Cookie":"hdntl=exp=1774679944~acl=%2f*~id=96334b5e933343098e463a1802544d2c~data=hdntl~hmac=064cda43a408f084ef7e4090cc0bea7455bc9526d8d7e712f3149065191d21de"}
-https://livetv.hotstar.com/mp1/gec-india-1540065794/e2408fbafb9d4a5ab23775b69e5737d7/index.mpd|Cookie="hdntl=exp=1774679944~acl=%2f*~id=96334b5e933343098e463a1802544d2c~data=hdntl~hmac=064cda43a408f084ef7e4090cc0bea7455bc9526d8d7e712f3149065191d21de"
+#EXTHTTP:{"Cookie":"hdntl=exp=1774807240~acl=%2f*~id=720a6b7460e83c759ea1367e747d77ae~data=hdntl~hmac=2a5d64f8becd79aff99e97f344dcc88c930a6c728baa8727a5e334293ccc4749"}
+https://livetv.hotstar.com/mp1/gec-india-1540065794/e2408fbafb9d4a5ab23775b69e5737d7/index.mpd|Cookie="hdntl=exp=1774807240~acl=%2f*~id=720a6b7460e83c759ea1367e747d77ae~data=hdntl~hmac=2a5d64f8becd79aff99e97f344dcc88c930a6c728baa8727a5e334293ccc4749"
 
 
 

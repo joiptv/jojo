@@ -44,7 +44,7 @@
 #https://c2ag.short.gy/n/kan.m3u8
 
 #EXTINF:-1 tvg-id="1106" group-title="IPL 2026"  group-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/8763/1739203338763-a" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/8763/1739203338763-a",SKY Sports HD
-https://latest.rkdyiptv.workers.dev/live/1981.m3u8?token=rkdyiptv&exp=1774722600&origin=https%3A%2F%2Flatest.rkdyiptv.workers.dev&referer=https%3A%2F%2Flatest.rkdyiptv.workers.dev%2F&cookie=70915eb76209295c3bc995e88d75eb92
+#https://latest.rkdyiptv.workers.dev/live/1981.m3u8?token=rkdyiptv&exp=1774722600&origin=https%3A%2F%2Flatest.rkdyiptv.workers.dev&referer=https%3A%2F%2Flatest.rkdyiptv.workers.dev%2F&cookie=70915eb76209295c3bc995e88d75eb92
 
 
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/8763/1739203338763-a" group-title="IPL 2026"  group-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/8763/1739203338763-a",PRIME HIN
@@ -90,19 +90,19 @@ https://livetv.hotstar.com/mp1/gec-india-1540065788/fa6a4f0005ef4f90ab24484d165b
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/8763/1739203338763-a" group-title="IPL 2026" group-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/8763/1739203338763-a",Star Sports 2 Hindi HD
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
 #EXTHTTP:{"Cookie":"hdntl=exp=1774768473~acl=%2f*~id=ade6e0f50a979e2edb313c559bf09f53~data=hdntl~hmac=db356486ce9200d6eec0bea8b0786cfbde349803836b07d54423a2246a4bc8dd","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#https://jcevents.hotstar.com/bpk-tv/f0e3e64ae415771d8e460317ce97aa5e/Fallback/f0e3e64ae415771d8e460317ce97aa5e.m3u8|Cookie="hdntl=exp=1774360723~acl=%2f*~id=1ce6055eb0f9b85ddd59887414f25dff~data=hdntl~hmac=3a640269c29f36d9632cf0368b524e35a66f3f63f288dfc25e9e42958885567c"
+https://jcevents.hotstar.com/bpk-tv/f0e3e64ae415771d8e460317ce97aa5e/Fallback/f0e3e64ae415771d8e460317ce97aa5e.m3u8|Cookie="hdntl=exp=1774768473~acl=%2f*~id=ade6e0f50a979e2edb313c559bf09f53~data=hdntl~hmac=db356486ce9200d6eec0bea8b0786cfbde349803836b07d54423a2246a4bc8dd"
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/8763/1739203338763-a" group-title="IPL 2026" group-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/8763/1739203338763-a",Star Sports 2 Hindi
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
 #EXTHTTP:{"Cookie":"hdntl=exp=1774768473~acl=%2f*~id=ade6e0f50a979e2edb313c559bf09f53~data=hdntl~hmac=db356486ce9200d6eec0bea8b0786cfbde349803836b07d54423a2246a4bc8dd","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#https://jcevents.hotstar.com/bpk-tv/2c7182c8e6a22cfa6ebc02bbc9ed6dd0/Fallback/2c7182c8e6a22cfa6ebc02bbc9ed6dd0.m3u8|Cookie="hdntl=exp=1774360723~acl=%2f*~id=1ce6055eb0f9b85ddd59887414f25dff~data=hdntl~hmac=3a640269c29f36d9632cf0368b524e35a66f3f63f288dfc25e9e42958885567c"
+https://jcevents.hotstar.com/bpk-tv/2c7182c8e6a22cfa6ebc02bbc9ed6dd0/Fallback/2c7182c8e6a22cfa6ebc02bbc9ed6dd0.m3u8|Cookie="hdntl=exp=1774768473~acl=%2f*~id=ade6e0f50a979e2edb313c559bf09f53~data=hdntl~hmac=db356486ce9200d6eec0bea8b0786cfbde349803836b07d54423a2246a4bc8dd"
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/8763/1739203338763-a" group-title="IPL 2026" group-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/8763/1739203338763-a",Star Sports 2 Telugu
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
 #EXTHTTP:{"Cookie":"hdntl=exp=1774768473~acl=%2f*~id=ade6e0f50a979e2edb313c559bf09f53~data=hdntl~hmac=db356486ce9200d6eec0bea8b0786cfbde349803836b07d54423a2246a4bc8dd","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#https://jcevents.hotstar.com/bpk-tv/034d1fb94cae87294a06f4dc266084b9/Fallback/034d1fb94cae87294a06f4dc266084b9.m3u8|Cookie="hdntl=exp=1774360723~acl=%2f*~id=1ce6055eb0f9b85ddd59887414f25dff~data=hdntl~hmac=3a640269c29f36d9632cf0368b524e35a66f3f63f288dfc25e9e42958885567c"
+https://jcevents.hotstar.com/bpk-tv/034d1fb94cae87294a06f4dc266084b9/Fallback/034d1fb94cae87294a06f4dc266084b9.m3u8|Cookie="hdntl=exp=1774768473~acl=%2f*~id=ade6e0f50a979e2edb313c559bf09f53~data=hdntl~hmac=db356486ce9200d6eec0bea8b0786cfbde349803836b07d54423a2246a4bc8dd"
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/8763/1739203338763-a" group-title="IPL 2026" group-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/8763/1739203338763-a",Star Sports 2 Tamil
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
 #EXTHTTP:{"Cookie":"hdntl=exp=1774768473~acl=%2f*~id=ade6e0f50a979e2edb313c559bf09f53~data=hdntl~hmac=db356486ce9200d6eec0bea8b0786cfbde349803836b07d54423a2246a4bc8dd","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-#https://jcevents.hotstar.com/bpk-tv/4db6f833701e78ae4443cb268020f03b/Fallback/4db6f833701e78ae4443cb268020f03b.m3u8|Cookie="hdntl=exp=1774360723~acl=%2f*~id=1ce6055eb0f9b85ddd59887414f25dff~data=hdntl~hmac=3a640269c29f36d9632cf0368b524e35a66f3f63f288dfc25e9e42958885567c"
+https://jcevents.hotstar.com/bpk-tv/4db6f833701e78ae4443cb268020f03b/Fallback/4db6f833701e78ae4443cb268020f03b.m3u8|Cookie="hdntl=exp=1774768473~acl=%2f*~id=ade6e0f50a979e2edb313c559bf09f53~data=hdntl~hmac=db356486ce9200d6eec0bea8b0786cfbde349803836b07d54423a2246a4bc8dd"
 
 #EXTINF:-1 group-title="IPL 2026" group-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/8763/1739203338763-a" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png",Willow HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
@@ -116,36 +116,36 @@ https://livetv.hotstar.com/mp1/gec-india-1540065788/fa6a4f0005ef4f90ab24484d165b
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=965dc2ddb1d85138ad787999a7f30ca5:859695076e67fe961836b564db6d689c
 #EXTVLCOPT:http-user-agent=@watch_clarity
-#EXTHTTP:{"cookie":"__hdnea__=st=1774648839~exp=1774735239~acl=/*~hmac=9c4b413ec2dc4f7dc1703988d9abc4902473253183e8b1140920ddfa29cb1cfd"}
-http://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_HD1_BTS/output/index.mpd
+#EXTHTTP:{"cookie":"__hdnea__=st=1774677340~exp=1774763740~acl=/*~hmac=7eb95c2f281c79f35b787601f3631c9095e6075ae5cf974df5bbbbc58ca9e7a8"}
+http://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_HD1_BTS/output/index.mpd?__hdnea__=st=1774677340~exp=1774763740~acl=/*~hmac=7eb95c2f281c79f35b787601f3631c9095e6075ae5cf974df5bbbbc58ca9e7a8
 
 #EXTINF:-1 tvg-id="1108" tvg-language="Hindi" group-title="IPL 2026" group-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/8763/1739203338763-a" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/8763/1739203338763-a",Star Sports 1 Hindi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4
 #EXTVLCOPT:http-user-agent=@watch_clarity
-#EXTHTTP:{"cookie":"__hdnea__=st=1774648839~exp=1774735239~acl=/*~hmac=9c4b413ec2dc4f7dc1703988d9abc4902473253183e8b1140920ddfa29cb1cfd"}
-http://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd
+#EXTHTTP:{"cookie":"__hdnea__=st=1774677340~exp=1774763740~acl=/*~hmac=7eb95c2f281c79f35b787601f3631c9095e6075ae5cf974df5bbbbc58ca9e7a8"}
+http://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd?__hdnea__=st=1774677340~exp=1774763740~acl=/*~hmac=7eb95c2f281c79f35b787601f3631c9095e6075ae5cf974df5bbbbc58ca9e7a8
 
 #EXTINF:-1 tvg-id="1108" tvg-language="Hindi" group-title="IPL 2026" group-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/8763/1739203338763-a" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/8763/1739203338763-a",Star Sports 1 Tamil HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2272c0bc6b2e5cb090b1f55996e0026c:943923934de1d5536ab01c67fca8b337
 #EXTVLCOPT:http-user-agent=@watch_clarity
-#EXTHTTP:{"cookie":"__hdnea__=st=1774648839~exp=1774735239~acl=/*~hmac=9c4b413ec2dc4f7dc1703988d9abc4902473253183e8b1140920ddfa29cb1cfd"}
-https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.mpd
+#EXTHTTP:{"cookie":"__hdnea__=st=1774677340~exp=1774763740~acl=/*~hmac=7eb95c2f281c79f35b787601f3631c9095e6075ae5cf974df5bbbbc58ca9e7a8"}
+https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.mpd?__hdnea__=st=1774677340~exp=1774763740~acl=/*~hmac=7eb95c2f281c79f35b787601f3631c9095e6075ae5cf974df5bbbbc58ca9e7a8
 
 #EXTINF:-1 tvg-id="1108" tvg-language="Hindi" group-title="IPL 2026" group-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/8763/1739203338763-a" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/8763/1739203338763-a",Star Sports 1 Telugu HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=49e84b9edfd85379b90c81b7d2d3d2bf:19c82d3ff094fa06af95820a1572ecb5
 #EXTVLCOPT:http-user-agent=@watch_clarity
-#EXTHTTP:{"cookie":"__hdnea__=st=1774648839~exp=1774735239~acl=/*~hmac=9c4b413ec2dc4f7dc1703988d9abc4902473253183e8b1140920ddfa29cb1cfd"}
-https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd
+#EXTHTTP:{"cookie":"__hdnea__=st=1774677340~exp=1774763740~acl=/*~hmac=7eb95c2f281c79f35b787601f3631c9095e6075ae5cf974df5bbbbc58ca9e7a8"}
+https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd?__hdnea__=st=1774677340~exp=1774763740~acl=/*~hmac=7eb95c2f281c79f35b787601f3631c9095e6075ae5cf974df5bbbbc58ca9e7a8
 
 #EXTINF:-1 tvg-id="1122" tvg-language="Kannada" group-title="IPL 2026"  group-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/8763/1739203338763-a" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_2_Kannada.png",Star Sports 2 Kannada
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7af2add2968a56309519ac2680c18f25:f992a14e0def17ccdfe16f58c4ce56c5
 #EXTVLCOPT:http-user-agent=@watch_clarity
-#EXTHTTP:{"cookie":"__hdnea__=st=1774648839~exp=1774735239~acl=/*~hmac=9c4b413ec2dc4f7dc1703988d9abc4902473253183e8b1140920ddfa29cb1cfd"}
-http://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_2_Kannada_BTS/output/index.mpd
+#EXTHTTP:{"cookie":"__hdnea__=st=1774677340~exp=1774763740~acl=/*~hmac=7eb95c2f281c79f35b787601f3631c9095e6075ae5cf974df5bbbbc58ca9e7a8"}
+http://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_2_Kannada_BTS/output/index.mpd?__hdnea__=st=1774677340~exp=1774763740~acl=/*~hmac=7eb95c2f281c79f35b787601f3631c9095e6075ae5cf974df5bbbbc58ca9e7a8
 
 #EXTINF: -1 tvg-id="1301" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TP4K_Thumbnail-v2/TP4K_Thumbnail.png" group-title="IPL 2026"  group-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/8763/1739203338763-a", Star 4K
 #https://tvstar.top:443/live/0434102149/0434102149/333368.ts

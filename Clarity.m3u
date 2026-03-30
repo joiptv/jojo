@@ -9889,8 +9889,10 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 # ===== SonyLiv Events =====
 
 #EXTM3U
-#DATE:- 29-03-2026 21:40
+#DATE:- 30-03-2026 20:40
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
+#EXTINF:-1 tvg-id="1090507774" tvg-name="UEFA International Friendlies" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016626/1774569315401686_INT_Friendlies26_Azerbaijan_vs_Sierra_Leone_27mar_landscape_thumb.jpg" tvg-language="English" group-title="SonyLiv EVENT | Football",ENG | Azerbaijan vs Sierra Leone - 30 Mar 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/Azerbaij3003/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e382109bafb1e50057fd5e5da8b4f436-1774883400089
 
 
 # ===== Sony Channels =====

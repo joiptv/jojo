@@ -9735,14 +9735,10 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 # ===== SonyLiv Events =====
 
 #EXTM3U
-#DATE:- 01-04-2026 02:40
+#DATE:- 01-04-2026 03:20
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 #EXTINF:-1 tvg-id="1090507972" tvg-name="South Africa Women's Tour of New Zealand 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016646/1774623263469696_NZw_vs_SAw_2nd_ODI_landscape_thumb.jpg" tvg-language="English" group-title="SonyLiv EVENT | Cricket",ENG | 2nd ODI - 1 Apr 2026
-https://sonymtmnew.akamaized.net/hls/live/2094588/NZWomen_3103/ENG/master.m3u8?hdnea=exp=1775029810~acl=/*~id=12760776857467434445926388301742~hmac=9690f7586146c54fbbac07e78d5607b5c23552146140dcf085f84fb4bf86f0d4|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=970c88a088230e43c799e91e34928847-1774991400100
-#EXTINF:-1 tvg-id="1090507968" tvg-name="European Qualifiers For 2026 FIFA World Cup" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016706/1774839890651799_European_Qualifiers26_Play_offs_Finals_Bosnia_Herzegovina_vs_Italy_30mar_landscape_thumb.jpg" tvg-language="English" group-title="SonyLiv EVENT | Football",ENG | Bosnia-Herzegovina vs Italy - Playoff Final - 1 Apr 2026
-https://sonymtmnew.akamaized.net/hls/live/2022320/EQ_Bosni3103/ENG/master.m3u8?hdnea=exp=1775029810~acl=/*~id=12760776857467434445926388301742~hmac=9690f7586146c54fbbac07e78d5607b5c23552146140dcf085f84fb4bf86f0d4|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=970c88a088230e43c799e91e34928847-1774991400100
-#EXTINF:-1 tvg-id="1090507971" tvg-name="European Qualifiers For 2026 FIFA World Cup" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016706/1774840286083799_European_Qualifiers26_Play_offs_Finals_Czechia_vs_Denmark_30mar_landscape_thumb.jpg" tvg-language="English" group-title="SonyLiv EVENT | Football",ENG | Czechia vs Denmark - Playoff Final - 1 Apr 2026
-https://sonymtmnew.akamaized.net/hls/live/2022321/EQ_Czech3103/ENG/master.m3u8?hdnea=exp=1775029810~acl=/*~id=12760776857467434445926388301742~hmac=9690f7586146c54fbbac07e78d5607b5c23552146140dcf085f84fb4bf86f0d4|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=970c88a088230e43c799e91e34928847-1774991400100
+https://sonymtmnew.akamaized.net/hls/live/2094588/NZWomen_3103/ENG/master.m3u8?hdnea=exp=1775029810~acl=/*~id=12760776857467434445926388301742~hmac=9690f7586146c54fbbac07e78d5607b5c23552146140dcf085f84fb4bf86f0d4|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ca0c974e154f2a64528227025af056c0-1774993800111
 
 
 # ===== Sony Channels =====
@@ -17856,6 +17852,10 @@ https://port.denver69.fun/Kids/doraemon.m3u8
 #EXTVLCOPT:http-user-agent=Denver1769
 https://port.denver69.fun/Kids/shinchan.m3u8
 #EXTM3U
+
+#EXTINF:-1 tvg-id="141072" group-title="SonyLiv | Live events" group-logo="https://clarity1-tv.vercel.app/IMG/SonyLIV.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Women's-tour-of-New-Zealand-ODIs-old.jpg",South Africa Women vs New Zealand Women (South Africa Women's tour of New Zealand - 2026)
+#EXTVLCOPT:http-user-agent=Denver1769
+https://fancode-s1.dr-strange.workers.dev/wanda.m3u8?id=141072&lang=english
 
 #EXTINF:-1 tvg-id="141493" group-title="SonyLiv | Live events" group-logo="https://clarity1-tv.vercel.app/IMG/SonyLIV.png" tvg-logo="https://images.fancode.com/aig/match/v1774680543070/141493_CASACARDS_APP.png",Real Valladolid vs Cádiz (LALIGA Hypermotion 2025-26)
 #EXTVLCOPT:http-user-agent=Denver1769

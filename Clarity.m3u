@@ -9782,8 +9782,10 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 # ===== SonyLiv Events =====
 
 #EXTM3U
-#DATE:- 31-03-2026 02:20
+#DATE:- 31-03-2026 16:00
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
+#EXTINF:-1 tvg-id="1090507847" tvg-name="Indian Football League 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016701/1774779082736601_IFC_Gokulam_Kerala_FC_vs_Aizawl_FC_landscape_thumb.jpg" tvg-language="English" group-title="SonyLiv EVENT | Football",ENG | Gokulam Kerala FC vs Aizawl FC - 31 Mar 2026
+https://sonymtmnew.akamaized.net/hls/live/2018457/GokulamK3103/ENG/std_lrl-800300010.m3u8?hdnea=exp=1774995017~acl=/*~id=29809174885123148176471586260807~hmac=330bdff3bf734cab6735abb0f735d40797596b987a82b608144c18ae2a857b35|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c22dceb42294d4f4cb87e39ae9874232-1774953000119
 
 
 # ===== Sony Channels =====

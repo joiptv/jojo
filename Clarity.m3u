@@ -57,7 +57,7 @@ https://livetv.hotstar.com/mp2/gec-india/60b51adb7eae4ae492e6ba6c156a1efe/index_
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/16-by-xfireflix.png" group-title="  Clarity TV | JioHotStar⭐" group-logo="https://clarity1-tv.vercel.app/IMG/JioStar.png",Star Sports 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b7cdde012ce04e90a08b90622e020000:13603245acab444faef6cab5198de55f
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
 #EXTHTTP:{"Cookie":"hdntl=exp=1775098493~acl=%2f*~id=eababdabd7c91ab145c72d8c5dcef88a~data=hdntl~hmac=60a500fc2a509cc2c8ab016d60ef1dcf98e1b31cd91fb6cb215f4056f6c385c6","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 https://livetv.hotstar.com/mp1/gec-india-1540065782/fce958099ca84fc3b980e651a4a668a8/index.mpd|Cookie="hdntl=exp=1775098493~acl=%2f*~id=eababdabd7c91ab145c72d8c5dcef88a~data=hdntl~hmac=60a500fc2a509cc2c8ab016d60ef1dcf98e1b31cd91fb6cb215f4056f6c385c6"
 
@@ -65,7 +65,7 @@ https://livetv.hotstar.com/mp1/gec-india-1540065782/fce958099ca84fc3b980e651a4a6
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1-by-xfireflix.png" group-title="  Clarity TV | JioHotStar⭐" group-logo="https://clarity1-tv.vercel.app/IMG/JioStar.png",Star Sports Hindi 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=81872faa1d6b45fa9045cdeb2e310000:9b88168e61274587a471962c46b94675
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
 #EXTHTTP:{"Cookie":"hdntl=exp=1775098493~acl=%2f*~id=eababdabd7c91ab145c72d8c5dcef88a~data=hdntl~hmac=60a500fc2a509cc2c8ab016d60ef1dcf98e1b31cd91fb6cb215f4056f6c385c6","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 https://livetv.hotstar.com/mp1/gec-india-1540065788/fa6a4f0005ef4f90ab24484d165b0aaf/index.mpd|Cookie="hdntl=exp=1775098493~acl=%2f*~id=eababdabd7c91ab145c72d8c5dcef88a~data=hdntl~hmac=60a500fc2a509cc2c8ab016d60ef1dcf98e1b31cd91fb6cb215f4056f6c385c6"
 
@@ -73,7 +73,7 @@ https://livetv.hotstar.com/mp1/gec-india-1540065788/fa6a4f0005ef4f90ab24484d165b
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7432/567432-h" group-title="  Clarity TV | JioHotStar⭐" group-logo="https://clarity1-tv.vercel.app/IMG/JioStar.png",Star Sports HD2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9dacc80134404c34ba184022c28d0000:982183fb4d9449c995859b7cff512092
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
 #EXTHTTP:{"Cookie":"hdntl=exp=1775098493~acl=%2f*~id=eababdabd7c91ab145c72d8c5dcef88a~data=hdntl~hmac=60a500fc2a509cc2c8ab016d60ef1dcf98e1b31cd91fb6cb215f4056f6c385c6","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 https://livetv.hotstar.com/mp2/gec-india-1540065785/a00717b1324f45eb814eec9e48a12db8/index.mpd|Cookie="hdntl=exp=1775098493~acl=%2f*~id=eababdabd7c91ab145c72d8c5dcef88a~data=hdntl~hmac=60a500fc2a509cc2c8ab016d60ef1dcf98e1b31cd91fb6cb215f4056f6c385c6"
 
@@ -9735,8 +9735,10 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 # ===== SonyLiv Events =====
 
 #EXTM3U
-#DATE:- 01-04-2026 11:20
+#DATE:- 01-04-2026 17:00
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
+#EXTINF:-1 tvg-id="1090508036" tvg-name="Indian Football League 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016576/1774436373190422_IFC_Rajasthan_United_FC-vs-Chanmari_FC_landscape_thumb.jpg" tvg-language="English" group-title="SonyLiv EVENT | Football",ENG | Rajasthan United FC vs Chanmari FC - 1 Apr 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/20000293/IFL_Raja0104/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=06d98a44e20e3f56b26c316efb28773d-1775043000166
 
 
 # ===== Sony Channels =====

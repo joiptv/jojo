@@ -9741,8 +9741,19 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 # ===== SonyLiv Events =====
 
 #EXTM3U
-#DATE:- 04-04-2026 11:20
+#DATE:- 04-04-2026 16:40
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
+# Join us on Telegram: https://t.me/jitendraunatti_github
+#EXTINF:-1 tvg-id="1090510251" tvg-name="The Emirates FA Cup 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016634/1774600565261142_FC_Cup_26_QF_Manchester_City_vs_Liverpool_landscape_thumb.jpg" tvg-language="English" group-title="SonyLiv EVENT | Football",ENG | Manchester City vs Liverpool - Quarter-Final - 4 Apr 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/FACup_Ma0404/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=936e2709b324b553b246b88754542ffe-1775301000124
+#EXTINF:-1 tvg-id="1090510251" tvg-name="The Emirates FA Cup 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016634/1774600565261142_FC_Cup_26_QF_Manchester_City_vs_Liverpool_landscape_thumb.jpg" tvg-language="Hindi" group-title="SonyLiv EVENT | Football",HIN | Manchester City vs Liverpool - Quarter-Final - 4 Apr 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/FACup_Ma0404/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=936e2709b324b553b246b88754542ffe-1775301000124
+#EXTINF:-1 tvg-id="1090510251" tvg-name="The Emirates FA Cup 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016634/1774600565261142_FC_Cup_26_QF_Manchester_City_vs_Liverpool_landscape_thumb.jpg" tvg-language="Tamil" group-title="SonyLiv EVENT | Football",TAM | Manchester City vs Liverpool - Quarter-Final - 4 Apr 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/FACup_Ma0404/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=936e2709b324b553b246b88754542ffe-1775301000124
+#EXTINF:-1 tvg-id="1090510251" tvg-name="The Emirates FA Cup 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016634/1774600565261142_FC_Cup_26_QF_Manchester_City_vs_Liverpool_landscape_thumb.jpg" tvg-language="Telugu" group-title="SonyLiv EVENT | Football",TEL | Manchester City vs Liverpool - Quarter-Final - 4 Apr 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/FACup_Ma0404/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=936e2709b324b553b246b88754542ffe-1775301000124
+#EXTINF:-1 tvg-id="1090510251" tvg-name="The Emirates FA Cup 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016634/1774600565261142_FC_Cup_26_QF_Manchester_City_vs_Liverpool_landscape_thumb.jpg" tvg-language="Kannada" group-title="SonyLiv EVENT | Football",KAN | Manchester City vs Liverpool - Quarter-Final - 4 Apr 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/FACup_Ma0404/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=936e2709b324b553b246b88754542ffe-1775301000124
 
 
 # ===== Sony Channels =====

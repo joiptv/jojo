@@ -24,7 +24,7 @@ https://game.denver69.fun/Series/Jhs.php?id=hin
 #EXTINF:-1 tvg-id="1106" group-title="IPL 2026"  group-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/8763/1739203338763-a" tvg-logo="https://pbs.twimg.com/media/G7vaGYkaMAIIECs.jpg",Hot✨-Engilsh FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTHTTP:{"Cookie":"hdntl=exp=1775361263~acl=%2f*~id=7ba1ddcd0c03efd50d12957c98f632ee~data=hdntl~hmac=55ce81a685f3b8532eeb84e86680f70c7a65128ab27adb1d0fdd9d472d4c29ec","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-https://jcevents.hotstar.com/bpk-tv/e03bbf7688f4b14faa3782e78851c3d9_CTV/Fallback/index2.m3u8
+#https://jcevents.hotstar.com/bpk-tv/e03bbf7688f4b14faa3782e78851c3d9_CTV/Fallback/index2.m3u8
 #https://live12p.hotstar.com/cmaf/live/2024711/inallow-ipl-2026/hin/1540065694/15mindvrm01d54b3139c78043869e1582e6ceec105c01april2026/master_a_stereo.m3u8
 #https://jcevents.hotstar.com/bpk-tv/e03bbf7688f4b14faa3782e78851c3d9_CTV/Fallback/index2.m3u8
 #EXTINF:-1 tvg-id="1106" group-title="IPL 2026"  group-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/8763/1739203338763-a" tvg-logo="https://pbs.twimg.com/media/G7vaGYkaMAIIECs.jpg",ADfree Hot✨-Hindi 4K
@@ -34,7 +34,7 @@ https://jcevents.hotstar.com/bpk-tv/e03bbf7688f4b14faa3782e78851c3d9_CTV/Fallbac
 
 #EXTINF:-1 tvg-id="1106" group-title="IPL 2026"  group-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/8763/1739203338763-a" tvg-logo="https://pbs.twimg.com/media/G7vaGYkaMAIIECs.jpg",Hot✨-Hindi FHD
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@watch_clarity","Creator":"@watch_clarity"}
-https://dillzy-stream.sayanwork-studioo.workers.dev/live/abc123.m3u8
+#https://dillzy-stream.sayanwork-studioo.workers.dev/live/abc123.m3u8
 
 #EXTINF:-1 tvg-id="1106" group-title="IPL 2026"  group-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/8763/1739203338763-a" tvg-logo="https://pbs.twimg.com/media/G7vaGYkaMAIIECs.jpg",Hot✨-Tamil
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@watch_clarity","Creator":"@watch_clarity"}
@@ -43,9 +43,9 @@ https://dillzy-stream.sayanwork-studioo.workers.dev/live/abc123.m3u8
 #EXTINF:-1 tvg-id="1106" group-title="IPL 2026"  group-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/8763/1739203338763-a" tvg-logo="https://pbs.twimg.com/media/G7vaGYkaMAIIECs.jpg",Hot✨-Hindi (Only 4k)
 https://m3u.kingsiptv7.fun/IPL/live.m3u8?id=68439
 #EXTINF:-1 tvg-id="1106" group-title="IPL 2026"  group-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/8763/1739203338763-a" tvg-logo="https://pbs.twimg.com/media/G7vaGYkaMAIIECs.jpg",Hot✨-Gujrati (Only 4k)
-https://m3u.kingsiptv7.fun/IPL/live.m3u8?id=71481
-#EXTINF:-1 tvg-id="1106" group-title="IPL 2026"  group-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/8763/1739203338763-a" tvg-logo="https://pbs.twimg.com/media/G7vaGYkaMAIIECs.jpg",Hot✨-Kannada (Only 4k)
 https://m3u.kingsiptv7.fun/IPL/live.m3u8?id=71479
+#EXTINF:-1 tvg-id="1106" group-title="IPL 2026"  group-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/8763/1739203338763-a" tvg-logo="https://pbs.twimg.com/media/G7vaGYkaMAIIECs.jpg",Hot✨-Kannada (Only 4k)
+https://m3u.kingsiptv7.fun/IPL/live.m3u8?id=71481
 #EXTINF:-1 tvg-id="1106" group-title="IPL 2026"  group-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/8763/1739203338763-a" tvg-logo="https://pbs.twimg.com/media/G7vaGYkaMAIIECs.jpg",Hot✨-Punjabi  (Only 4k)
 https://m3u.kingsiptv7.fun/IPL/live.m3u8?id=68441
 
@@ -9741,23 +9741,23 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 # ===== SonyLiv Events =====
 
 #EXTM3U
-#DATE:- 04-04-2026 19:40
+#DATE:- 04-04-2026 20:20
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
 #EXTINF:-1 tvg-id="1090492547" tvg-name="Indian Idol" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016899/1775307249850824_Indian_Idol_Golden_Jubilee_Simulcast_landscape_thumb.jpg" tvg-language="Hindi" group-title="SonyLiv EVENT | Reality, Music",HIN | Indian Idol
-https://sonymtmnew-akamaized.pages.dev/hls/live/2094590/DAI25ME-II/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=61f5a96b208917dee8fa0d52ed43cad9-1775311800119
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094590/DAI25ME-II/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=629adf0f85e3146aab8b16211707552d-1775314200149
 #EXTINF:-1 tvg-id="1090509680" tvg-name="Bundesliga 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016629/1774505859291346_BLIGA_26_MD28_sc-Freiburg-vs-Bayern_landscape_thumb.jpg" tvg-language="English" group-title="SonyLiv EVENT | Football",ENG | Freiburg vs Bayern Munich - MD 28 - 4 Apr 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/20000299/Bundesli0404/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=61f5a96b208917dee8fa0d52ed43cad9-1775311800119
+https://sonymtmnew-akamaized.pages.dev/hls/live/20000299/Bundesli0404/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=629adf0f85e3146aab8b16211707552d-1775314200149
 #EXTINF:-1 tvg-id="1090509679" tvg-name="Bundesliga 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016629/1774504746163346_BLIGA_26_MD28_Bayer-Leverkusen-vs-Wolfsburg_landscape_thumb.jpg" tvg-language="English" group-title="SonyLiv EVENT | Football",ENG | Bayer Leverkusen vs Wolfsburg - MD 28 - 4 Apr 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/20000292/Bundesli0404/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=61f5a96b208917dee8fa0d52ed43cad9-1775311800119
+https://sonymtmnew-akamaized.pages.dev/hls/live/20000292/Bundesli0404/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=629adf0f85e3146aab8b16211707552d-1775314200149
 #EXTINF:-1 tvg-id="1090509681" tvg-name="Bundesliga 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016629/1774506083029346_BLIGA_26_MD28_Werder-Bremen-vs-RB-Leipzig_landscape_thumb.jpg" tvg-language="English" group-title="SonyLiv EVENT | Football",ENG | Werder Bremen vs RB Leipzig - MD 28 - 4 Apr 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2018457/Bundesli0404/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=61f5a96b208917dee8fa0d52ed43cad9-1775311800119
+https://sonymtmnew-akamaized.pages.dev/hls/live/2018457/Bundesli0404/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=629adf0f85e3146aab8b16211707552d-1775314200149
 #EXTINF:-1 tvg-id="1090509682" tvg-name="Bundesliga 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016629/1774506910935346_BLIGA_26_MD28_Borussia-Mgladbach-vs-Heidenheim_landscape_thumb.jpg" tvg-language="English" group-title="SonyLiv EVENT | Football",ENG | Borussia Mönchengladbach vs Heidenheim - MD 28 - 4 Apr 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/Bundesli0404/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=61f5a96b208917dee8fa0d52ed43cad9-1775311800119
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/Bundesli0404/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=629adf0f85e3146aab8b16211707552d-1775314200149
 #EXTINF:-1 tvg-id="1090509684" tvg-name="Bundesliga 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016629/1774526182318346_BLIGA_26_MD28_Hamburger-vs-Augsburg_landscape_thumb.jpg" tvg-language="English" group-title="SonyLiv EVENT | Football",ENG | Hamburger SV vs Augsburg - MD 28 - 4 Apr 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/20000293/Bundesli0404/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=61f5a96b208917dee8fa0d52ed43cad9-1775311800119
+https://sonymtmnew-akamaized.pages.dev/hls/live/20000293/Bundesli0404/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=629adf0f85e3146aab8b16211707552d-1775314200149
 #EXTINF:-1 tvg-id="1090509683" tvg-name="Bundesliga 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016629/1774525570195346_BLIGA_26_MD28_Hoffenheim-vs-Mainz_landscape_thumb.jpg" tvg-language="English" group-title="SonyLiv EVENT | Football",ENG | Hoffenheim vs Mainz - MD 28 - 4 Apr 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/20000302/Bundesli0404/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=61f5a96b208917dee8fa0d52ed43cad9-1775311800119
+https://sonymtmnew-akamaized.pages.dev/hls/live/20000302/Bundesli0404/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=629adf0f85e3146aab8b16211707552d-1775314200149
 
 
 # ===== Sony Channels =====

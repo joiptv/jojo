@@ -26,7 +26,7 @@ https://game.denver69.fun/Series/Jhs.php?id=hin
 #EXTHTTP:{"Cookie":"hdntl=exp=1775411192~acl=%2f*~id=85f6fe27337727902505e39747ca68c3~data=hdntl~hmac=388c8fb3607a21df5cc9a39fed7e5cf981166f7981f5c7ec3b661ec9c63debdb","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 #https://jcevents.hotstar.com/bpk-tv/e03bbf7688f4b14faa3782e78851c3d9_CTV/Fallback/index2.m3u8
 #https://live12p.hotstar.com/cmaf/live/2024711/inallow-ipl-2026/hin/1540065694/15mindvrm01d54b3139c78043869e1582e6ceec105c01april2026/master_a_stereo.m3u8
-#https://jcevents.hotstar.com/bpk-tv/e03bbf7688f4b14faa3782e78851c3d9_CTV/Fallback/index2.m3u8
+https://jcevents.hotstar.com/bpk-tv/e03bbf7688f4b14faa3782e78851c3d9_CTV/Fallback/index2.m3u8
 #EXTINF:-1 tvg-id="1106" group-title="IPL 2026"  group-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/8763/1739203338763-a" tvg-logo="https://pbs.twimg.com/media/G7vaGYkaMAIIECs.jpg",ADfree Hot✨-Hindi 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0
 #EXTHTTP:{"Cookie":"hdntl=exp=1774733408~acl=%2f*~id=2cda5fef548d9a445c3c6908253c265b~data=hdntl~hmac=84bfbbaff8eb79a7337337c67eafdaec04e1cfb3fe6d726c59ab5ed111697fcc","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
@@ -34,7 +34,7 @@ https://game.denver69.fun/Series/Jhs.php?id=hin
 
 #EXTINF:-1 tvg-id="1106" group-title="IPL 2026"  group-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/8763/1739203338763-a" tvg-logo="https://pbs.twimg.com/media/G7vaGYkaMAIIECs.jpg",Hot✨-Hindi FHD
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@watch_clarity","Creator":"@watch_clarity"}
-#https://dillzy-stream.sayanwork-studioo.workers.dev/live/abc123.m3u8
+https://dillzy-streamm.americanhorrordream.workers.dev/live/abc123.m3u8
 
 #EXTINF:-1 tvg-id="1106" group-title="IPL 2026"  group-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/8763/1739203338763-a" tvg-logo="https://pbs.twimg.com/media/G7vaGYkaMAIIECs.jpg",Hot✨-Tamil
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@watch_clarity","Creator":"@watch_clarity"}
@@ -2640,14 +2640,14 @@ https://jiotvioslive.cdn.jio.com/bpk-tv/PMC_Telugu_BTS/output/index.mpd?__hdnea_
 #KODIPROP:inputstream.adaptive.license_key=bd1ea6a1c1fb5dcdb709434e0826bbc0:f57f22cba32739ce7beb1fab3f3d060b
 #EXTVLCOPT:http-user-agent=@watch_clarity
 #EXTHTTP:{"Cookie":"__hdnea__=st=1775385703~exp=1775472103~acl=/*~hmac=c2995a854b54ff84d95a09f3b7eb6b77423a6b6e5bcd141ff3bf6633199e010b"}
-https://jiotvioslive.cdn.jio.com//bpk-tv/Sports18_1_HD_BTS/output/index.mpd?__hdnea__=st=1775385703~exp=1775472103~acl=/*~hmac=c2995a854b54ff84d95a09f3b7eb6b77423a6b6e5bcd141ff3bf6633199e010b
+https://jiotvioslive.cdn.jio.com//bpk-tv/StarSportsHD2Hin_BTS/output/index.mpd?__hdnea__=st=1775385703~exp=1775472103~acl=/*~hmac=c2995a854b54ff84d95a09f3b7eb6b77423a6b6e5bcd141ff3bf6633199e010b
 
 #EXTINF:-1 tvg-id="1985" tvg-language="English" group-title=" JIOTV+ | Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_SD.png" group-logo="https://clarity1-tv.vercel.app/IMG/Jio.png",Star Sports 2 Hindi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a3ed8dc0e0cb5d238da80ee0a85bd2e1:67a96992e6406606f3480ab58d7f540c
 #EXTVLCOPT:http-user-agent=@watch_clarity
 #EXTHTTP:{"Cookie":"__hdnea__=st=1775385703~exp=1775472103~acl=/*~hmac=c2995a854b54ff84d95a09f3b7eb6b77423a6b6e5bcd141ff3bf6633199e010b"}
-https://jiotvioslive.cdn.jio.com//bpk-tv/Sports18_1_SD_BTS/output/index.mpd?__hdnea__=st=1775385703~exp=1775472103~acl=/*~hmac=c2995a854b54ff84d95a09f3b7eb6b77423a6b6e5bcd141ff3bf6633199e010b
+https://jiotvioslive.cdn.jio.com/bpk-tv/StarSports2Hin_BTS/output/index.mpd?__hdnea__=st=1775385703~exp=1775472103~acl=/*~hmac=c2995a854b54ff84d95a09f3b7eb6b77423a6b6e5bcd141ff3bf6633199e010b
 
 #EXTINF:-1 tvg-id="1998" tvg-language="Hindi" group-title=" JIOTV+ | Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_Khel.png" group-logo="https://clarity1-tv.vercel.app/IMG/Jio.png",Star Sports Khel
 #KODIPROP:inputstream.adaptive.license_type=clearkey

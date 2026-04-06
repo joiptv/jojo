@@ -9758,18 +9758,7 @@ https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009279&uid=8004188626
 
 # ===== FanCode =====
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131126_5427_GIR_VIL_FC-Web.png" group-title="Clarity TV | FanCode",Girona FC vs Villarreal CF
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.fancode.com/
-https://dai-partner.fancode.com/primary/131126_english_hls_428f293dbc6852_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141436_5489_HUL_CVC_fc-web.jpg" group-title="Clarity TV | FanCode",Hull City vs Coventry City F.C.
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.fancode.com/
-https://in-mc-fblive.fancode.com/mumbai/141436_english_hls_11d40c4b5151659_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1774680543089/141686_CASACARDS_APP.png" group-title="Clarity TV | FanCode",Sporting de Gijón vs Real Sociedad B
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.fancode.com/
-https://in-mc-fblive.fancode.com/mumbai/141686_english_hls_8c01d425f347038_1ta-di_h264/index.m3u8
+
 
 # ===== SunNxt =====
 

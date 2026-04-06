@@ -79,9 +79,11 @@ https://livetv.hotstar.com/mp2/gec-india-1540065785/a00717b1324f45eb814eec9e48a1
 
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7435/567435-h" group-title="  Clarity TV | JioHotStar⭐" group-logo="https://clarity1-tv.vercel.app/IMG/JioStar.png",Star Sports Select HD1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
+#KODIPROP:inputstream.adaptive.license_key=1f64a24b3950468497390155c4880000:68f788aced6c4ecb89108f22fe9ee087
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#https://livetv-push.hotstar.com/dash/live/2002470-b/ssselecthd1wv/master.mpd
+#EXTHTTP:{"Cookie":"hdntl=exp=1775565471~acl=%2f*~id=1ecee9e475d608b5b1b01b9ffc0c7f0c~data=hdntl~hmac=3a62de1018bf596bc838d34ed6b2180a19f551a65acd58cf9f82a4df93a5bd54","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://livetv.hotstar.com/mp2/gec-india-1540065791/8bb5cd7a8e274186977473a6771d9352/index.mpd
+
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7437/567437-h" group-title="  Clarity TV | JioHotStar⭐" group-logo="https://clarity1-tv.vercel.app/IMG/JioStar.png",Star Sports Select HD2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
@@ -9756,22 +9758,26 @@ https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009279&uid=8004188626
 
 # ===== FanCode =====
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141435_5489_SWA_MIDD_fc-web.jpg" group-title="Clarity TV | FanCode",Swansea City A.F.C. vs Middlesbrough F.C.
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131126_5427_GIR_VIL_FC-Web.png" group-title="Clarity TV | FanCode",Girona FC vs Villarreal CF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.fancode.com/
-https://in-mc-fblive.fancode.com/mumbai/141435_english_hls_4d9023333e37089_1ta-di_h264/index.m3u8
+https://dai-partner.fancode.com/primary/131126_english_hls_428f293dbc6852_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1774680543089/141686_CASACARDS_APP.png" group-title="Clarity TV | FanCode",Sporting de Gijón vs Real Sociedad B
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.fancode.com/
+https://in-mc-fblive.fancode.com/mumbai/141686_english_hls_8c01d425f347038_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="Clarity TV | FanCode",World Feed
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.fancode.com/
 https://in-mc-fblive.fancode.com/mumbai/141662_english_hls_00e886947174254_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="Clarity TV | FanCode",Court Ranier III
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.fancode.com/
-https://in-mc-fblive.fancode.com/mumbai/141661_english_hls_a456d2b02856271_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="Clarity TV | FanCode",Court des Princes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.fancode.com/
 https://in-mc-fblive.fancode.com/mumbai/141660_english_hls_3c81fe297244494_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141435_5489_SWA_MIDD_fc-web.jpg" group-title="Clarity TV | FanCode",Swansea City A.F.C. vs Middlesbrough F.C.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.fancode.com/
+https://in-mc-fblive.fancode.com/mumbai/141435_english_hls_4d9023333e37089_1ta-di_h264/index.m3u8
 
 # ===== SunNxt =====
 

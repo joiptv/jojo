@@ -9746,11 +9746,11 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 # ===== SonyLiv Events =====
 
 #EXTM3U
-#DATE:- 06-04-2026 20:40
+#DATE:- 06-04-2026 22:20
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
 #EXTINF:-1 tvg-id="1090500468" tvg-name="Wheel Of Fortune" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016744/1774877224201375_WOF_simulcast_landscape_thumb.jpg" tvg-language="Hindi" group-title="SonyLiv EVENT | Game show",HIN | Wheel Of Fortune
-https://sonymtmnew-akamaized.pages.dev/hls/live/2022321/DAI17ME-WOF/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9b4274eabd1c2a55c3fa7e1420833be4-1775488200125
+https://sonymtmnew-akamaized.pages.dev/hls/live/2022321/DAI17ME-WOF/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=7db577dcd9b024da3af87553ba61ef90-1775494202973
 
 
 # ===== Sony Channels =====
@@ -9926,14 +9926,10 @@ https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009279&uid=8004188626
 
 # ===== FanCode =====
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141433_5489_WAT_CHL_fc-web.jpg" group-title="Clarity TV | FanCode",Watford F.C. vs Charlton Athletic F.C
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141435_5489_SWA_MIDD_fc-web.jpg" group-title="Clarity TV | FanCode",Swansea City A.F.C. vs Middlesbrough F.C.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.fancode.com/
-https://in-mc-fblive.fancode.com/mumbai/141433_english_hls_384aab723575848_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141434_5489_IPT_BIR_fc-web.jpg" group-title="Clarity TV | FanCode",Ipswich Town F.C. vs Birmingham City F.C.
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.fancode.com/
-https://in-mc-fblive.fancode.com/mumbai/141434_english_hls_363bb4798d14430_1ta-di_h264/index.m3u8
+https://in-mc-fblive.fancode.com/mumbai/141435_english_hls_4d9023333e37089_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="Clarity TV | FanCode",World Feed
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.fancode.com/
@@ -9946,10 +9942,6 @@ https://in-mc-fblive.fancode.com/mumbai/141661_english_hls_a456d2b02856271_1ta-d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.fancode.com/
 https://in-mc-fblive.fancode.com/mumbai/141660_english_hls_3c81fe297244494_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="Clarity TV | FanCode", Court EA de Massy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.fancode.com/
-https://in-mc-fblive.fancode.com/mumbai/141659_english_hls_3b2d481bea96020_1ta-di_h264/index.m3u8
 
 # ===== SunNxt =====
 

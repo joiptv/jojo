@@ -9579,11 +9579,11 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 # ===== SonyLiv Events =====
 
 #EXTM3U
-#DATE:- 06-04-2026 16:00
+#DATE:- 06-04-2026 17:00
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
 #EXTINF:-1 tvg-id="1090517006" tvg-name="Indian Football League 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016579/1774439983097819_IFC_Namdhari_FC_vs_Diamond_Harbour_FC_landscape_thumb.jpg" tvg-language="English" group-title="SonyLiv EVENT | Football",ENG | Namdhari FC vs Diamond Harbour FC - 6 Apr 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/20000296/Namdhari0604/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=64f87180e81228b0e0ede0a9b1b21eaa-1775471400162
+https://sonymtmnew-akamaized.pages.dev/hls/live/20000296/Namdhari0604/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e52ac9c8166a6d8857645ef6ac29e576-1775475000104
 
 
 # ===== Sony Channels =====
@@ -9759,7 +9759,30 @@ https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009279&uid=8004188626
 
 # ===== FanCode =====
 
-
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141648_6025_NAM_SCO_fc-Web.jpg" group-title="Clarity TV | FanCode",Namibia vs Scotland
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.fancode.com/
+https://in-mc-fblive.fancode.com/mumbai/141648_english_hls_264ef4d01589624_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141432_5489_PRM_OU_fc-web.jpg" group-title="Clarity TV | FanCode",Portsmouth F.C. vs Oxford United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.fancode.com/
+https://in-mc-fblive.fancode.com/mumbai/141432_english_hls_bb7e134f9b19791_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="Clarity TV | FanCode",World Feed
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.fancode.com/
+https://in-mc-fblive.fancode.com/mumbai/141662_english_hls_00e886947174254_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="Clarity TV | FanCode",Court Ranier III
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.fancode.com/
+https://in-mc-fblive.fancode.com/mumbai/141661_english_hls_a456d2b02856271_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="Clarity TV | FanCode",Court des Princes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.fancode.com/
+https://in-mc-fblive.fancode.com/mumbai/141660_english_hls_3c81fe297244494_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="Clarity TV | FanCode", Court EA de Massy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.fancode.com/
+https://in-mc-fblive.fancode.com/mumbai/141659_english_hls_3b2d481bea96020_1ta-di_h264/index.m3u8
 
 # ===== SunNxt =====
 

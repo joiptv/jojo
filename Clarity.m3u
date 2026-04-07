@@ -9581,8 +9581,11 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 # ===== SonyLiv Events =====
 
 #EXTM3U
-#DATE:- 06-04-2026 22:40
+#DATE:- 07-04-2026 16:00
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
+# Join us on Telegram: https://t.me/jitendraunatti_github
+#EXTINF:-1 tvg-id="1090521056" tvg-name="Indian Football League 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016586/1774440804721616_IFC_Rajasthan_United_FC_vs_Gokulam_Kerala_FC_landscape_thumb.jpg" tvg-language="English" group-title="SonyLiv EVENT | Football",ENG | Rajasthan United FC vs Gokulam Kerala FC - 7 Apr 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/20000291/Rajastha0704/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e52d1539d458fe31383df4abd9f1b10a-1775557800138
 
 
 # ===== Sony Channels =====
@@ -9758,10 +9761,6 @@ https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009279&uid=8004188626
 
 # ===== FanCode =====
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd_1775545196262.png" group-title="Clarity TV | FanCode",Brazil Women vs Malawi Women
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.fancode.com/
-https://in-mc-fblive.fancode.com/mumbai/141892_english_hls_c8629d77dd74846_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd_1775545196262.png" group-title="Clarity TV | FanCode",Botswana Women vs Mozambique Women
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.fancode.com/
@@ -9786,6 +9785,10 @@ https://in-mc-fblive.fancode.com/mumbai/141664_english_hls_a9d5d3ee6611392_1ta-d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.fancode.com/
 https://in-mc-fblive.fancode.com/mumbai/141663_english_hls_9c78378c4a4071_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="Clarity TV | FanCode",Court 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.fancode.com/
+https://in-mc-fblive.fancode.com/mumbai/141946_english_hls_eb943eb8de6727_1ta-di_h264/index.m3u8
 
 # ===== SunNxt =====
 

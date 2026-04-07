@@ -75,7 +75,7 @@ https://livevideos.cricbuzz.com/hls/live/2123398/WCB-CA/9241/149743/master.m3u8?
 #EXTINF:-1 group-title="IPL 2026" group-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/8763/1739203338763-a" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png",Willow Hindi HD 2 (AD FREE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0%20(X11;%20Linux%20x86_64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/124.0.0.0%20Safari/537.36&X-Forwarded-For=100.42.240.25
 #EXTHTTP:{"Cookie":"hdntl=exp=1775655518~acl=/*~id=7db46d2f-e8c2-4a01-8d73-54ba3fffc8e2~data=hdntl~hmac=9b319410f7a5a9f06d3260fbed602dc230c503cf9348d8c1c935fd2577065ecd"}
-https://livevideos.cricbuzz.com/hls/live/2123516/WCB-US-HINDI/9241/149743/master.m3u8|Cookie=hdntl=exp=1775655518~acl=/*~id=7db46d2f-e8c2-4a01-8d73-54ba3fffc8e2~data=hdntl~hmac=9b319410f7a5a9f06d3260fbed602dc230c503cf9348d8c1c935fd2577065ecd
+https://livevideos.cricbuzz.com/hls/live/2123516/WCB-US-HINDI/9241/149743/master.m3u8?|user-agent=Cricbuzz/7.00.01%20(Linux;Android%2013)%20AndroidXMedia3/1.5.1&X-Forwarded-For=100.42.240.25&cookie=hdntl=exp=1775655518~acl=%2f*~id=7db46d2f-e8c2-4a01-8d73-54ba3fffc8e2~data=hdntl,flavour%3aCB,matchId%3a149743,debug4xx%3afalse,country%3aAE~hmac=9b319410f7a5a9f06d3260fbed602dc230c503cf9348d8c1c935fd2577065ecd
 
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/8763/1739203338763-a" group-title="IPL 2026"  group-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/8763/1739203338763-a",PRIME HIN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -9749,11 +9749,11 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 # ===== SonyLiv Events =====
 
 #EXTM3U
-#DATE:- 07-04-2026 21:00
+#DATE:- 07-04-2026 22:00
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
 #EXTINF:-1 tvg-id="1090500468" tvg-name="Wheel Of Fortune" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016744/1774877224201375_WOF_simulcast_landscape_thumb.jpg" tvg-language="Hindi" group-title="SonyLiv EVENT | Game show",HIN | Wheel Of Fortune
-https://sonymtmnew-akamaized.pages.dev/hls/live/2022321/DAI17ME-WOF/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=09dc3d88ea0ed6d1e955706dc397a408-1775575800156
+https://sonymtmnew-akamaized.pages.dev/hls/live/2022321/DAI17ME-WOF/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c956a90b88754acf403db247f870a48b-1775579400162
 
 
 # ===== Sony Channels =====
@@ -9929,18 +9929,6 @@ https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009279&uid=8004188626
 
 # ===== FanCode =====
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140478_5956_CFC_KSHI_FC-Web_1772460695978.jpg" group-title="Clarity TV | FanCode",Chennaiyin FC vs Inter Kashi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.fancode.com/
-https://dai-partner.fancode.com/primary/140478_english_hls_ae356cf4fe38136_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141805_5973_CFC_KSHI_fc-web.jpg" group-title="Clarity TV | FanCode",Chennaiyin FC vs Inter Kashi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.fancode.com/
-https://dai-partner.fancode.com/primary/141805_tamil_hls_d5280afba171364_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="Clarity TV | FanCode",Court Ranier III
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.fancode.com/
-https://in-mc-fblive.fancode.com/mumbai/141665_english_hls_65fb54441630767_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="Clarity TV | FanCode",World Feed
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.fancode.com/

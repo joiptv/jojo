@@ -5,6 +5,9 @@
 # ===== Clarity TV Playlist =====
 # Join Telegram: @watch_clarity
 
+#EXTINF:-1 tvg-id="1" group-logo="https://clarity1-tv.vercel.app/IMG/logo.jpg" group-title="JOIN TELEGRAM @watch_clarity" tvg-logo="https://clarity1-tv.vercel.app/IMG/logo.jpg",Clarity TV 🚀 📺
+https://clarity1-tv.vercel.app/IMG/logo.m3u8
+
 
 # ===== JIO =====
 
@@ -9488,18 +9491,6 @@ https://in-mc-fblive.fancode.com/mumbai/141799_english_hls_62e20d2f7c4005_1ta-di
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.fancode.com/
 https://in-mc-fblive.fancode.com/mumbai/141649_english_hls_c92f0ee7b791285_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141744_6028_SYK_BNA_FC-WEB.jpg" group-title="FanCode | Cricket" group-logo="https://spoo.me/FANCODE",Sydney Kangaroos vs Brisbane Napoleans
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.fancode.com/
-https://in-mc-fblive.fancode.com/mumbai/141744_english_hls_74bb2a100a65247_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141626_6021_CT-U20_IND-U20_FC-Web.png" group-title="FanCode | Football" group-logo="https://spoo.me/FANCODE",Chinese Taipei U20 vs India U20
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.fancode.com/
-https://in-mc-fblive.fancode.com/mumbai/141626_english_hls_95a26ef25294285_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141625_6021_JP-U20_AUS-U20_FC-Web.png" group-title="FanCode | Football" group-logo="https://spoo.me/FANCODE",Japan U20 vs Australia U20
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.fancode.com/
-https://in-mc-fblive.fancode.com/mumbai/141625_english_hls_5bb12f4bd765686_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140871_5648_OSK_BU_FC-WEB.jpg" group-title="FanCode | Football" group-logo="https://spoo.me/FANCODE",Gamba Osaka vs Bangkok United
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.fancode.com/

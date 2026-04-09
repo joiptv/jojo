@@ -9483,7 +9483,10 @@ https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009279&uid=8004188626
 
 # ===== FanCode =====
 
-
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141882_5954_TIG_SS_FC-Web.png" group-title="FanCode | Football" group-logo="https://spoo.me/FANCODE",Tigres vs Seattle Sounders FC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.fancode.com/
+https://in-mc-fblive.fancode.com/mumbai/141882_english_hls_eac66c3f0d48305_1ta-di_h264/index.m3u8
 
 # ===== SunNxt =====
 

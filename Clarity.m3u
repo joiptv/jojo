@@ -7100,8 +7100,11 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeemarathi/default/manifest.mpd
 # ===== SonyLiv Events =====
 
 #EXTM3U
-#DATE:- 09-04-2026 03:00
+#DATE:- 09-04-2026 21:20
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
+# Join us on Telegram: https://t.me/jitendraunatti_github
+#EXTINF:-1 tvg-id="1090500468" tvg-name="Wheel Of Fortune" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016744/1774877224201375_WOF_simulcast_landscape_thumb.jpg" tvg-language="Hindi" group-title="SonyLiv EVENT | Game show",HIN | Wheel Of Fortune
+https://sonymtmnew-akamaized.pages.dev/hls/live/2022321/DAI17ME-WOF/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=60e832c95a95691753910da389ba2e5c-1775749800097
 
 
 # ===== Sony Channels =====
@@ -7219,22 +7222,18 @@ https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009279&uid=8004188626
 
 # ===== FanCode =====
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png" group-title="FanCode | Cricket" group-logo="https://spoo.me/FANCODE",Malawi Women vs Zambia Women
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.fancode.com/
-https://in-mc-fblive.fancode.com/mumbai/141902_english_hls_1a68816a1550239_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140479_5956_JFC_MCFC_FC-Web_1772460771796.jpg" group-title="FanCode | Football" group-logo="https://spoo.me/FANCODE",Jamshedpur FC vs Mumbai City FC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.fancode.com/
 https://dai-partner.fancode.com/primary/140479_english_hls_502eb3759347250_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140727_5655_DAM_ALQ_fc-web.jpg" group-title="FanCode | Football" group-logo="https://spoo.me/FANCODE",Damac vs Al-Qadsiah FC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.fancode.com/
+https://in-mc-fblive.fancode.com/mumbai/140727_english_hls_800bbd490090277_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="FanCode | Tennis" group-logo="https://spoo.me/FANCODE",Court des Princes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.fancode.com/
 https://in-mc-fblive.fancode.com/mumbai/141914_english_hls_9d6e9a100662092_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo=" https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="FanCode | Tennis" group-logo="https://spoo.me/FANCODE",Court EA de Massy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.fancode.com/
-https://in-mc-fblive.fancode.com/mumbai/141913_english_hls_1c9425c52880359_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo=" https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="FanCode | Tennis" group-logo="https://spoo.me/FANCODE",Court Ranier III
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.fancode.com/

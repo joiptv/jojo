@@ -6928,11 +6928,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeemarathi/default/manifest.mpd
 # ===== SonyLiv Events =====
 
 #EXTM3U
-#DATE:- 09-04-2026 22:40
+#DATE:- 10-04-2026 09:20
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-# Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="1090525220" tvg-name="UEFA Conference League 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016853/1775150815349363_UECL26_QF_leg1_Rayo_Vallecano_vs_AEK_Athens_2apr_landscape_thumb.jpg" tvg-language="English" group-title="SonyLiv EVENT | Football",ENG | Rayo Vallecano vs AEK Athens - Quarter-Final - Leg 1 - 9 Apr 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/RayoVall0904/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ceef1dcc04264f757374ef04e42f9b26-1775754600117
 
 
 # ===== Sony Channels =====
@@ -7050,7 +7047,10 @@ https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009279&uid=8004188626
 
 # ===== FanCode =====
 
-
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141751_6028_GER_PUW_FC-WEB.jpg" group-title="FanCode | Cricket" group-logo="https://spoo.me/FANCODE",Genid Royals vs Perth United Warriors
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.fancode.com/
+https://in-mc-fblive.fancode.com/mumbai/141751_english_hls_7c6eca693787275_1ta-di_h264/index.m3u8
 
 # ===== SunNxt =====
 

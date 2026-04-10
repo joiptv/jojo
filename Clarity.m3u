@@ -501,11 +501,11 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeemarathi/default/manifest.mpd
 # ===== SonyLiv Events =====
 
 #EXTM3U
-#DATE:- 11-04-2026 00:00
+#DATE:- 11-04-2026 00:40
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
 #EXTINF:-1 tvg-id="1090526600" tvg-name="Bundesliga 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016905/1774527805629658_BLIGA_26_MD29_Augsburg-vs-Hoffenheim__landscape_thumb.jpg" tvg-language="English" group-title="SonyLiv EVENT | Football",ENG | Augsburg vs Hoffenheim - MD 29 - 10 Apr 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2018458/Bundesli1004/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=51e9cb0a83f2e28e4a3da6d8b9115618-1775845800266
+https://sonymtmnew-akamaized.pages.dev/hls/live/2018458/Bundesli1004/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=81e6e47b6af3a1c69e77ea79806a8afe-1775848200115
 
 
 # ===== Sony Channels =====
@@ -623,6 +623,14 @@ https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009279&uid=8004188626
 
 # ===== FanCode =====
 
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131131_5427_RM_GIR_FC-Web.png" group-title="FanCode | Football" group-logo="https://spoo.me/FANCODE",Real Madrid vs Girona FC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.fancode.com/
+https://dai-partner.fancode.com/primary/131131_english_hls_91561b107916133_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141437_5489_WBA_MLW_fc-web-v2.jpg" group-title="FanCode | Football" group-logo="https://spoo.me/FANCODE",West Bromwich Albion F.C. vs Millwall F.C.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.fancode.com/
+https://in-mc-fblive.fancode.com/mumbai/141437_english_hls_6c04199f6116421_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Masters-Augusta-old-card-.jpg" group-title="FanCode | Golf" group-logo="https://spoo.me/FANCODE",Day 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.fancode.com/

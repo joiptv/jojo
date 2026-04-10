@@ -6928,11 +6928,11 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeemarathi/default/manifest.mpd
 # ===== SonyLiv Events =====
 
 #EXTM3U
-#DATE:- 10-04-2026 15:40
+#DATE:- 10-04-2026 16:40
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
 #EXTINF:-1 tvg-id="1090525483" tvg-name="Indian Football League 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016586/1774442040682617_IFC_Namdhari_FC_vs_Shillong_Lajong_FC_landscape_thumb.jpg" tvg-language="English" group-title="SonyLiv EVENT | Football",ENG | Namdhari FC vs Shillong Lajong FC - 10 Apr 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2022319/IFL_Namd1004/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=b2b11b2b1de3ce75c3f9d2802c9a79b9-1775815800117
+https://sonymtmnew-akamaized.pages.dev/hls/live/2022319/IFL_Namd1004/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=d9116e6242c4f0c56359f064a290470f-1775819400107
 
 
 # ===== Sony Channels =====
@@ -7054,14 +7054,14 @@ https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009279&uid=8004188626
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.fancode.com/
 https://in-mc-fblive.fancode.com/mumbai/141650_english_hls_f2fe6bcb1964793_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png" group-title="FanCode | Cricket" group-logo="https://spoo.me/FANCODE",Malawi Women vs Lesotho Women
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.fancode.com/
-https://in-mc-fblive.fancode.com/mumbai/141905_english_hls_f455fe507e61920_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141752_6028_ISK_BRS_FC-WEB.jpg" group-title="FanCode | Cricket" group-logo="https://spoo.me/FANCODE",Iconic Super Knights vs Brisbane Stars
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.fancode.com/
 https://in-mc-fblive.fancode.com/mumbai/141752_english_hls_8f6e60e8ee78292_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140480_5956_NEUFC_SCD_FC-Web_1772964305694.jpg" group-title="FanCode | Football" group-logo="https://spoo.me/FANCODE",NorthEast United FC vs Sporting Club Delhi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.fancode.com/
+https://dai-partner.fancode.com/primary/140480_english_hls_d5a5d32ccc11400_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140929_5802_CCM_BRB_fc-web.jpg" group-title="FanCode | Football" group-logo="https://spoo.me/FANCODE",Central Coast Mariners vs Brisbane Roar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.fancode.com/

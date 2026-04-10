@@ -7063,6 +7063,18 @@ https://in-mc-fblive.fancode.com/mumbai/141752_english_hls_8f6e60e8ee78292_1ta-d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.fancode.com/
 https://in-mc-fblive.fancode.com/mumbai/141904_english_hls_e19aea77ce44302_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="FanCode | Tennis" group-logo="https://spoo.me/FANCODE",Court Ranier III
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.fancode.com/
+https://in-mc-fblive.fancode.com/mumbai/141917_english_hls_3963999d2134788_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="FanCode | Tennis" group-logo="https://spoo.me/FANCODE",Court des Princes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.fancode.com/
+https://in-mc-fblive.fancode.com/mumbai/141916_english_hls_a1805a07a473338_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Alexander-Zverev-vs-Joao-Fonseca_web.jpg" group-title="FanCode | Tennis" group-logo="https://spoo.me/FANCODE",Zverev vs Fonseca
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.fancode.com/
+https://in-mc-fblive.fancode.com/mumbai/141915_english_hls_f65ff8816626522_1ta-di_h264/index.m3u8
 
 # ===== SunNxt =====
 

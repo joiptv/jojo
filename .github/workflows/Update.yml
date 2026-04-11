@@ -23,7 +23,7 @@ jobs:
         uses: actions/checkout@v4.2.2
 
       - name: Download Updated File
-        run: curl -L "https://clarity-tv.vercel.app/api/playlist/?id=ALLINONE" -o Clarity.m3u
+        run: curl -L "https://local.07live.workers.dev/playlist.m3u?user=gana-sunega&pass=krish-ka" -o Clarity.m3u
 
       - name: Commit and Push Changes
         run: |

@@ -628,6 +628,10 @@ https://in-mc-fblive.fancode.com/mumbai/141800_english_hls_3ff8d8df5f63436_1ta-d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.fancode.com/
 https://in-mc-fblive.fancode.com/mumbai/141903_english_hls_66f955913e1829_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141754_6028_ISK_MET_FC-WEB.jpg" group-title="FanCode | Cricket" group-logo="https://spoo.me/FANCODE",Iconic Super Knights vs Melbourne Tuskers
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.fancode.com/
+https://in-mc-fblive.fancode.com/mumbai/141754_english_hls_803573390390171_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png" group-title="FanCode | Cricket" group-logo="https://spoo.me/FANCODE",Zambia Women vs Lesotho Women
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.fancode.com/

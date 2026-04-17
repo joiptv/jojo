@@ -1,4 +1,4 @@
-name: Sync kx
+name: Sync Ser
 
 # Global environment setting to suppress and force Node 24
 env:

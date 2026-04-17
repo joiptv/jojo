@@ -9,3 +9,11 @@ https://zee5.cr7x.workers.dev/live/gana-sunega/krish-ka/0-9-129/master.m3u8|User
 https://jiotvmblive.cdn.jio.com/bpk-tv/Flower_TV_MOB/WDVLive/index.mpd|cookie=__hdnea__=st=1776434433~exp=1776456033~acl=/*~hmac=811b743b8406a3b4747766d1e86ca9297fb7a3122329e4d630a08af884654868
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jiocdn.07in.workers.dev/626/gana-sunega/krish-ka/key.json
+
+
+#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7424/567424-h" group-title="𝐉𝐢𝐨𝐇𝐨𝐭𝐬𝐭𝐚𝐫 | Entertainment" group-logo="https://variety.com/wp-content/uploads/2017/12/hotstar.jpg",Asianet Plus
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5f1a41f1f8c04e209dfcdfff2fdc0000:e0a5f3aa6afe414b902d6b729dd9b11b
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
+#EXTHTTP:{"Cookie":"hdntl=exp=1776512754~acl=%2f*~id=7c16a4b3070813900b97887295940281~data=hdntl~hmac=2b5ef93053ca76cecc761c6e9ce630acd6052135c0c507b64ec98024fbc8ee09","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://livetv.hotstar.com/mp1/gec-india-1540057042/65edc0359d4b49f7a42d06d4dfe8457b/index.mpd

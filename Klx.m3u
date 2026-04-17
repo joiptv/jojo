@@ -17,3 +17,20 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Flower_TV_MOB/WDVLive/index.mpd|cookie=__
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
 #EXTHTTP:{"Cookie":"hdntl=exp=1776512754~acl=%2f*~id=7c16a4b3070813900b97887295940281~data=hdntl~hmac=2b5ef93053ca76cecc761c6e9ce630acd6052135c0c507b64ec98024fbc8ee09","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 https://livetv.hotstar.com/mp1/gec-india-1540057042/65edc0359d4b49f7a42d06d4dfe8457b/index.mpd
+
+#EXTINF:-1 tvg-id="1153" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Movies.png" tvg-language="Hindi" group-logo="https://www.smartprix.com/bytes/wp-content/uploads/2017/12/jio-tv.jpg" group-title="JioTv | Entertainment",Asianet Movies
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.7
+#EXTVLCOPT:http-cookie=__hdnea__=st=1776434433~exp=1776456033~acl=/*~hmac=811b743b8406a3b4747766d1e86ca9297fb7a3122329e4d630a08af884654868
+#EXTHTTP:{"cookie":"__hdnea__=st=1776434433~exp=1776456033~acl=/*~hmac=811b743b8406a3b4747766d1e86ca9297fb7a3122329e4d630a08af884654868"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Asianet_Movies_BTS/output/index.mpd|cookie=__hdnea__=st=1776434433~exp=1776456033~acl=/*~hmac=811b743b8406a3b4747766d1e86ca9297fb7a3122329e4d630a08af884654868
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jiocdn.07in.workers.dev/3076/gana-sunega/krish-ka/key.json
+
+
+
+#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7400/567400-h" group-title="𝐉𝐢𝐨𝐇𝐨𝐭𝐬𝐭𝐚𝐫 | Entertainment" group-logo="https://variety.com/wp-content/uploads/2017/12/hotstar.jpg",Asianet Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=53e552bf422a4feeb017e38ba43e0000:9cf91549836b4ce98e9d8137591dd38e
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
+#EXTHTTP:{"Cookie":"hdntl=exp=1776512754~acl=%2f*~id=7c16a4b3070813900b97887295940281~data=hdntl~hmac=2b5ef93053ca76cecc761c6e9ce630acd6052135c0c507b64ec98024fbc8ee09","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://livetv.hotstar.com/mp1/gec-india-1540057039/96454b89b9cd49df822108b6975a1a60/index.mpd

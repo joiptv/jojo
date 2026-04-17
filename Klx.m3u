@@ -1,2 +1,11 @@
 #EXTINF:-1 tvg-id="0-9-129" tvg-country="IN" tvg-chno="023" tvg-language="ml" tvg-name="Zee Keralam HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-129/list/1920x1080list18c8c56d87da4f43ac13a1990c44a2e5.jpg" group-logo="https://www.medianews4u.com/wp-content/uploads/2025/06/Zee-5.jpg" group-title="Zee5 | Entertainment", Zee Keralam HD
 https://zee5.cr7x.workers.dev/live/gana-sunega/krish-ka/0-9-129/master.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15
+
+
+#EXTINF:-1 tvg-id="634" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Flower_TV.png" tvg-language="Malayalam" group-logo="https://www.smartprix.com/bytes/wp-content/uploads/2017/12/jio-tv.jpg" group-title="JioTv | Entertainment",Flower TV
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.7
+#EXTVLCOPT:http-cookie=__hdnea__=st=1776434433~exp=1776456033~acl=/*~hmac=811b743b8406a3b4747766d1e86ca9297fb7a3122329e4d630a08af884654868
+#EXTHTTP:{"cookie":"__hdnea__=st=1776434433~exp=1776456033~acl=/*~hmac=811b743b8406a3b4747766d1e86ca9297fb7a3122329e4d630a08af884654868"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Flower_TV_MOB/WDVLive/index.mpd|cookie=__hdnea__=st=1776434433~exp=1776456033~acl=/*~hmac=811b743b8406a3b4747766d1e86ca9297fb7a3122329e4d630a08af884654868
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jiocdn.07in.workers.dev/626/gana-sunega/krish-ka/key.json

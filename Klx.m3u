@@ -34,3 +34,12 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Asianet_Movies_BTS/output/index.mpd|cooki
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
 #EXTHTTP:{"Cookie":"hdntl=exp=1776512754~acl=%2f*~id=7c16a4b3070813900b97887295940281~data=hdntl~hmac=2b5ef93053ca76cecc761c6e9ce630acd6052135c0c507b64ec98024fbc8ee09","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 https://livetv.hotstar.com/mp1/gec-india-1540057039/96454b89b9cd49df822108b6975a1a60/index.mpd
+
+
+
+#EXTINF:-1 tvg-id="1139" tvg-name="Asianet Plus" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asianet_Plus.png" tvg-language="Malayalam" tvg-type="Entertainment" group-title="Entertainment", Asianet Plus
+#EXTVLCOPT:http-referrer=https://tulnit.com
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://tulnit.com"
+#KODIPROP:mimetype=application/dash+xml
+https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianet_live_https/index.m3u8

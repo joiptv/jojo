@@ -1406,7 +1406,7 @@ https://mumt04.tangotv.in/ARYANTVNATIONAL/index.m3u8
 #EXTINF:-1 tvg-id="1762" tvg-name="Channel Vision" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Channel_Vision.png" tvg-language="Bengali" tvg-type="Entertainment" group-title="Entertainment", Channel Vision
 https://channelvision.livebox.co.in/channelvisionhls/live.m3u8
 #EXTINF:-1 tvg-id="1763" tvg-name="Colors Cineplex Bollywood" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ColorsCineplexBollywood.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex Bollywood
-http://103.154.3.101:5001/live/1763.m3u8
+http://103.213.31.109:90/CineplxBollywood/playlist.m3u8
 #EXTINF:-1 tvg-id="1764" tvg-name="Dada Bhagwan Foundation" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dadabhagwan.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Dada Bhagwan Foundation
 http://103.154.3.101:5001/live/1764.m3u8
 #EXTINF:-1 tvg-id="1771" tvg-name="Express News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Express_News.png" tvg-language="Bengali" tvg-type="News" group-title="News", Express News

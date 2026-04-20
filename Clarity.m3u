@@ -489,7 +489,7 @@ https://mumt05.tangotv.in/DDBANGLA/index.m3u8
 https://cdn-3.pishow.tv/live/437/master.m3u8
 #EXTINF:-1 tvg-id="693" tvg-name="news18 Bihar Jharkhand" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News18BiharJK.png" tvg-language="Bhojpuri" tvg-type="News" group-title="News", news18 Bihar Jharkhand
 https://n18syndication.akamaized.net/bpk-tv/News18_Bihar_Jharkhand_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 tvg-id="694" tvg-name="News18 JKLH" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News18JKLH.png" tvg-language="Urdu" tvg-type="News" group-title="News", News18 JKLH
+#EXTINF:-1 tvg-id="694" tvg-name="News18 Delhi NCR JK" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News18JKLH.png" tvg-language="Hindi" tvg-type="News" group-title="News", News18 Delhi NCR JK
 https://n18syndication.akamaized.net/bpk-tv/News18_JKLH_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="695" tvg-name="DD Sahayadri" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Sahayadri.png" tvg-language="Marathi" tvg-type="Entertainment" group-title="Entertainment", DD Sahayadri
 https://mumt01.tangotv.in/DDSAHYADRI/index.m3u8

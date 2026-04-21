@@ -1,0 +1,26 @@
+name: Update Playlist
+
+on:
+  push:
+    branches: [ main ] # 'main' ബ്രാഞ്ചിൽ പുഷ് വരുമ്പോൾ ഇത് റൺ ആകും
+  workflow_dispatch: # മാനുവൽ ആയി റൺ ചെയ്യാനും
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Download M3U file
+        run: |
+          curl -o playlist.m3u "https://local.07live.workers.dev/playlist.m3u?user=gana-sunega&pass=krish-ka"
+          # ഈ കമാൻഡ് ഫയൽ ഡൗൺലോഡ് ചെയ്ത് 'playlist.m3u' എന്ന് സേവ് ചെയ്യും
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add playlist.m3u
+          git commit -m "Update playlist from URL"
+          git push

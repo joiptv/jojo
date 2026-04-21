@@ -1,26 +1,34 @@
-name: Update Playlist
+name: Sync M3U Playlist
 
 on:
-  push:
-    branches: [ main ] # 'main' ബ്രാഞ്ചിൽ പുഷ് വരുമ്പോൾ ഇത് റൺ ആകും
+  schedule:
+    - cron: '0 */6 * * *' # ഓരോ 6 മണിക്കൂറിലും റൺ ആകും
   workflow_dispatch: # മാനുവൽ ആയി റൺ ചെയ്യാനും
 
 jobs:
-  update:
+  sync:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Download M3U file
+      - name: Fetch Playlist
         run: |
-          curl -o playlist.m3u "https://local.07live.workers.dev/playlist.m3u?user=gana-sunega&pass=krish-ka"
-          # ഈ കമാൻഡ് ഫയൽ ഡൗൺലോഡ് ചെയ്ത് 'playlist.m3u' എന്ന് സേവ് ചെയ്യും
+          # 'User-Agent' നൽകുന്നത് വഴി സെർവർ ബ്ലോക്ക് ചെയ്യുന്നത് ഒഴിവാക്കാം
+          curl -L -A "Mozilla/5.0" "https://local.07live.workers.dev/playlist.m3u?user=gana-sunega&pass=krish-ka" -o playlist.m3u
 
-      - name: Commit and push changes
+      - name: Check if file is empty
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -s playlist.m3u ]; then
+            echo "File downloaded successfully."
+          else
+            echo "File is empty! Check URL or credentials."
+            exit 1
+          fi
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
           git add playlist.m3u
-          git commit -m "Update playlist from URL"
-          git push
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update playlist: $(date)" && git push)

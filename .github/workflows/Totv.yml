@@ -1,9 +1,9 @@
-name:Pocket Playlist
+name: Pocket Playlist
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # ഓരോ 6 മണിക്കൂറിലും റൺ ആകും
-  workflow_dispatch: # മാനുവൽ ആയി റൺ ചെയ്യാനും
+    - cron: '0 */6 * * *'  # runs every 6 hours
+  workflow_dispatch:      # allows manual run
 
 jobs:
   sync:
@@ -14,7 +14,6 @@ jobs:
 
       - name: Fetch Pocket
         run: |
-          # 'User-Agent' നൽകുന്നത് വഴി സെർവർ ബ്ലോക്ക് ചെയ്യുന്നത് ഒഴിവാക്കാം
           curl -L -A "Mozilla/5.0" "https://tiny.cc/Pocket-TV" -o pocket.m3u
 
       - name: Check if file is empty
@@ -30,6 +29,5 @@ jobs:
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git add playlist.m3u
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update pocket: $(date)" && git push)
-
+          git add pocket.m3u
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update playlist" && git push)

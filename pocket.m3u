@@ -271,9 +271,10 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Jaya_Plus_MOB/WDVLive/index.mpd?__hdnea__
 https://jiotv.freelivtv.xyz/live/1515.m3u8
 
 #EXTINF:-1 tvg-id="78" group-title="Sports" tvg-logo="https://tatalogo.pages.dev/78.png",Star Sports 1 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/oiIOO0iLlOlliiL1lOlloi/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=1106&token=Wy41rb
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=1106&token=Wy41rb
 
 #EXTINF:-1 tvg-id="235" group-title="Sports" tvg-logo="https://tatalogo.pages.dev/235.png",Star Sports 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -286,9 +287,10 @@ https://alex4528.site/jplus/O1i1OI0ioiOLiiL1lOll0i/manifest.mpd
 https://alex4528.site/jplus/O1LLOOOiO1i1ii0IO1ll0i/manifest.mpd
 
 #EXTINF:-1 tvg-id="ts1067" group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SS1TAMHD_Thumbnail-v1/SS1TAMHD_Thumbnail.png",Star Sports 1 Tamil HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/lOOLilo1oOOLlOI0LI0I00/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitebeam.shop/Jtv/keys.php?id=3277&token=Wy41rb
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://elitebeam.shop/Jtv/mpd.php?id=3277&token=Wy41rb
 
 #EXTINF:-1 tvg-id="ts1495" group-title="Sports" tvg-logo="https://i.ibb.co/B26cyzHQ/Picsart-25-09-02-15-54-57-364.png",Star Sports 2 Tamil HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -615,7 +617,7 @@ https://game.denver69.fun/Series/Jhs.php?id=eng
 http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427803.ts?channelId=89820&uid=4710&deviceMac=00:1A:79:83:6F:C5
 
 #EXTINF:-1 tvg-id="ts1187" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Tamil_Thumbnail_62ccb7be-f9e6-49c0-8382-7ee6a812fe50.png" group-title="Sports", Star Sports 2 Tamil
-http://tv.tamilwebcast.com/live/admin/a11db501-7fd3-43a0-8d20-5adebd1c68ac/443297.ts?channelId=132885&uid=4710&deviceMac=00:1A:79:83:6F:C5
+http://07live.wasmer.app/live.php?id=379753&e=.ts
 
 #EXTINF:-1 tvg-id="78" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/16-by-xfireflix.png" group-title="Sports",Star Sports 1 HD
 http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/276730.ts
@@ -2293,11 +2295,11 @@ https://thamilaaramtv24-hls.secdn.net/thamilaaramtv24-channel/play/ThamilaaramTV
 
 
 #EXTINF:-1 tvg-id="TBS.HD.us2" tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/32239.png" group-title="USA Channels" , TBS
-http://cord-cutter.net:8080/23aEYt/109375/20867
+http://xxip9.top:8080/live/E15y6J/110726/20867.ts
 #EXTINF:-1 tvg-id="truTV.HD.us2" tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/838090.png" group-title="USA Channels" , TRU
 http://23.237.104.106:8080/USA_TRUTV/index.m3u8
 #EXTINF:-1 tvg-id="TV.Land.HD.us2" tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/32271.png" group-title="USA Channels" , TV LAND
-http://cord-cutter.net:8080/23aEYt/109375/46696
+http://xxip9.top:8080/live/E15y6J/110726/46696.ts
 #EXTINF:-1 tvg-id="Fuse.HD.us2" tvg-logo="https://p-img.movetv.com/1280x720/8f57243d7b1a32dde244b7934a0f0081.jpeg" group-title="USA Channels" , FUSE
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
 #EXTINF:-1 tvg-id="FXX.HD.us2" tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/327234.png" group-title="USA Channels" , FXX
@@ -2319,7 +2321,7 @@ http://23.237.104.106:8080/USA_HBO/index.m3u8
 #EXTINF:-1 tvg-id="HBO2.HD.us2" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="USA Channels",HBO 2
 http://23.237.104.106:8080/USA_HBO2/index.m3u8
 #EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/407201.png" group-title="USA Channels" tvg-id="TNT.HD.us2", TNT
-http://cord-cutter.net:8080/23aEYt/109375/10455
+http://xxip9.top:8080/live/E15y6J/110726/10455.ts
 
 #EXTINF:-1 tvg-id="moviesphere-ptv1" tvg-logo="https://db6iftd8li11q.cloudfront.net/Moviesphere/MovieSphere_LG_White_800x200.png" group-title="Extras", MovieSphere by Lionsgate
 https://amg00353-lionsgatestudios-amg00353c2-tclideo-na-2304.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-moviesphere-tclideona/playlist.m3u8

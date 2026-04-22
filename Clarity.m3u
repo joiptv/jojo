@@ -822,9 +822,9 @@ https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413
 #EXTINF:-1 tvg-id="950" tvg-name="R Plus" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/RPLUS.png" tvg-language="Bengali" tvg-type="News" group-title="News", R Plus
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 #EXTINF:-1 tvg-id="951" tvg-name="Live Samachar Bharat" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/livesamacharbharat.png" tvg-language="Hindi" tvg-type="News" group-title="News", Live Samachar Bharat
-https://jiotvmblive.cdn.jio.com/bpk-tv/livesamacharbharat/HLSPartner/index.m3u8
+https://jiotvmblive.cdn.jio.com/bpk-tv/livesamacharbharat/HLSPartner/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="952" tvg-name="Garv Punjabi Gurbani" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/garvgurbani.png" tvg-language="Punjabi" tvg-type="Devotional" group-title="Devotional", Garv Punjabi Gurbani
-http://103.72.101.252:8080/live/952.m3u8
+https://jiotvmblive.cdn.jio.com/bpk-tv/garvgurbani/HLSPartner/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="953" tvg-name="Propex TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Propex_TV.png" tvg-language="Malayalam" tvg-type="Lifestyle" group-title="Lifestyle", Propex TV
 http://103.72.101.252:8080/live/953.m3u8
 #EXTINF:-1 tvg-id="955" tvg-name="Hindu Dharmam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Hindu_Dharmam.png" tvg-language="Telugu" tvg-type="Devotional" group-title="Devotional", Hindu Dharmam
@@ -1080,7 +1080,7 @@ http://103.72.101.252:8080/live/1243.m3u8
 #EXTINF:-1 tvg-id="1244" tvg-name="Nick Kannada" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Kannada.png" tvg-language="Kannada" tvg-type="Kids" group-title="Kids", Nick Kannada
 http://103.72.101.252:8080/live/1244.m3u8
 #EXTINF:-1 tvg-id="1246" tvg-name="Headlines Tripura" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Headlines_Tripura.png" tvg-language="Bengali" tvg-type="News" group-title="News", Headlines Tripura
-http://103.72.101.252:8080/live/1246.m3u8
+https://jiotvmblive.cdn.jio.com/bpk-tv/headlinestripura/HLSPartner/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="1250" tvg-name="Twenty Four News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TWENTY_FOUR_NEWS.png" tvg-language="Malayalam" tvg-type="News" group-title="News", Twenty Four News
 https://mumt02.tangotv.in/TWENTYFOURNEWS/index.m3u8
 #EXTINF:-1 tvg-id="1251" tvg-name="TV9 Bharatvarsh" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV9_Bharatvarsh.png" tvg-language="Hindi" tvg-type="News" group-title="News", TV9 Bharatvarsh
@@ -1296,9 +1296,9 @@ http://103.72.101.252:8080/live/1551.m3u8
 #EXTINF:-1 tvg-id="1552" tvg-name="Malanadu TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Malnadu_TV.png" tvg-language="Malayalam" tvg-type="Infotainment" group-title="Infotainment", Malanadu TV
 http://103.72.101.252:8080/live/1552.m3u8
 #EXTINF:-1 tvg-id="1553" tvg-name="AB Star News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/abstarnews.png" tvg-language="Hindi" tvg-type="News" group-title="News", AB Star News
-http://103.72.101.252:8080/live/1553.m3u8
+https://jiotvmblive.cdn.jio.com/bpk-tv/abstarnews/HLSPartner/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="1554" tvg-name="Sanatan TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/sanatan.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Sanatan TV
-https://jiotvmblive.cdn.jio.com/bpk-tv/sanatan/HLSPartner/index.m3u8
+https://jiotvmblive.cdn.jio.com/bpk-tv/sanatan/HLSPartner/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="1555" tvg-name="News First" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_First.png" tvg-language="Kannada" tvg-type="News" group-title="News", News First
 https://mumt03.tangotv.in/NEWS1STKANNADA/index.m3u8
 #EXTINF:-1 tvg-id="1560" tvg-name="35mm" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/35mm.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", 35mm
@@ -1848,7 +1848,7 @@ https://mumbai-edge.smartplaytv.in/SaiTV/index.m3u8
 #EXTINF:-1 tvg-id="3088" tvg-name="Sun Neo HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SUN_Neo.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sun Neo HD
 http://103.72.101.252:8080/live/3088.m3u8
 #EXTINF:-1 tvg-id="3090" tvg-name="KBC News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/kbcnews.png" tvg-language="Hindi" tvg-type="News" group-title="News", KBC News
-https://jiotvmblive.cdn.jio.com/bpk-tv/kbcnews/HLSPartner/index.m3u8
+https://jiotvmblive.cdn.jio.com/bpk-tv/kbcnews/HLSPartner/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="3095" tvg-name="NDTV Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_Marathi.png" tvg-language="Marathi" tvg-type="News" group-title="News", NDTV Marathi
 https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/master_1.m3u8
 #EXTINF:-1 tvg-id="3096" tvg-name="Star Gold 2 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_2_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Star Gold 2 HD
@@ -2286,7 +2286,7 @@ http://103.72.101.252:8080/live/3435.m3u8
 #EXTINF:-1 tvg-id="3436" tvg-name="Cartoon Network HD+ Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNHDHindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Cartoon Network HD+ Hindi
 http://103.72.101.252:8080/live/3436.m3u8
 #EXTINF:-1 tvg-id="3438" tvg-name="Nation News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/nationnews.png" tvg-language="Hindi" tvg-type="News" group-title="News", Nation News
-https://jiotvmblive.cdn.jio.com/bpk-tv/nationnews/HLSPartner/index.m3u8
+https://jiotvmblive.cdn.jio.com/bpk-tv/nationnews/HLSPartner/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="3439" tvg-name="Akhon kolkata" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ekhonkolkata.png" tvg-language="Bengali" tvg-type="News" group-title="News", Akhon kolkata
 https://jiotvmblive.cdn.jio.com/bpk-tv/ekhonkolkata/HLSPartner/index.m3u8
 #EXTINF:-1 tvg-id="3440" tvg-name="TOI Global" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/npnhm84gz9.png" tvg-language="English" tvg-type="News" group-title="News", TOI Global
@@ -2322,7 +2322,7 @@ http://103.72.101.252:8080/live/3457.m3u8
 #EXTINF:-1 tvg-id="3458" tvg-name="TLC HD Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TLCHDHindi.png" tvg-language="Hindi" tvg-type="Lifestyle" group-title="Lifestyle", TLC HD Hindi
 http://103.72.101.252:8080/live/3458.m3u8
 #EXTINF:-1 tvg-id="3459" tvg-name="Swastik TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/swastiktv.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Swastik TV
-https://jiotvmblive.cdn.jio.com/bpk-tv/swastiktv/HLSPartner/index.m3u8
+https://jiotvmblive.cdn.jio.com/bpk-tv/swastiktv/HLSPartner/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="3460" tvg-name="G94 News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/G94News.png" tvg-language="Hindi" tvg-type="News" group-title="News", G94 News
 http://103.72.101.252:8080/live/3460.m3u8
 #EXTINF:-1 tvg-id="3461" tvg-name="Karnataka News Beat" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/KarnatakaNewsBeat.png" tvg-language="Kannada" tvg-type="News" group-title="News", Karnataka News Beat
@@ -2374,7 +2374,7 @@ https://n18syndication.akamaized.net/bpk-tv/Kadak_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="3503" tvg-name="Manas Bhakti" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ManasBhakti.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Manas Bhakti
 http://103.72.101.252:8080/live/3503.m3u8
 #EXTINF:-1 tvg-id="3504" tvg-name="R Maxx Kannada" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/rmaxx.png" tvg-language="Kannada" tvg-type="News" group-title="News", R Maxx Kannada
-https://jiotvmblive.cdn.jio.com//bpk-tv/rmaxx/HLSPartner/index.m3u8
+https://jiotvmblive.cdn.jio.com/bpk-tv/rmaxx/HLSPartner/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="3505" tvg-name="The Voice TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/thevoicetv.png" tvg-language="Hindi" tvg-type="News" group-title="News", The Voice TV
 https://legitpro.co.in/thevoicetv/thevoicetv/index.m3u8
 #EXTINF:-1 tvg-id="3508" tvg-name="Valam TV Dayro" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ValamTVDayro.png" tvg-language="Gujarati" tvg-type="Devotional" group-title="Devotional", Valam TV Dayro

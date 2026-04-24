@@ -2225,8 +2225,8 @@ https://stream2.livebox.co.in/pradesh24hls/live.m3u8
 https://mumt02.tangotv.in/BRIOTV/index.m3u8
 #EXTINF:-1 tvg-id="3382" tvg-name="EPIC TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/EPIC_TV.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", EPIC TV
 https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8
-#EXTINF:-1 tvg-id="3383" tvg-name="Nazara" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nazara.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Nazara
-https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8
+#EXTINF:-1 tvg-id="3383" tvg-name="EPIC Bharat" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nazara.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", EPIC Bharat
+http://103.72.101.252:8080/live/3383.m3u8
 #EXTINF:-1 tvg-id="3384" tvg-name="EPIC Bhojpuri" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Filamchi_Bhojpuri.png" tvg-language="Bhojpuri" tvg-type="Movies" group-title="Movies", EPIC Bhojpuri
 http://103.72.101.252:8080/live/3384.m3u8
 #EXTINF:-1 tvg-id="3385" tvg-name="Gubbare" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gubbare.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Gubbare

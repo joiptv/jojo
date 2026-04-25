@@ -2,25 +2,38 @@ name: Update Gig Playlist
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs daily at midnight
-  workflow_dispatch:      # Allows manual trigger
+    - cron: '0 */3 * * *' # Runs every 3 hours to keep tokens fresh
+  workflow_dispatch:      # Allows you to click "Run workflow" manually
 
 jobs:
-  update-list:
+  build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
-      - name: Checkout Code
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Download Gig Playlist
+      - name: Fetch M3U Playlist
         run: |
-          # Replace the URL below with your specific worker or Gig script source
-          curl -L "https://local.07live.workers.dev/playlist.m3u?user=999&pass=999" -o gig.m3u
+          # The -A header imitates a real browser to bypass "Join Telegram" landing pages
+          curl -sL -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" \
+          "https://local.07live.workers.dev/playlist.m3u?user=999&pass=999" -o gig.m3u
 
-      - name: Push to Repo
+      - name: Validate File
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          # Check if the first line starts with #EXTM3U. If not, the download failed.
+          if grep -q "#EXTM3U" gig.m3u; then
+            echo "Successfully downloaded M3U file."
+          else
+            echo "Error: Downloaded file is not a valid M3U (it might be HTML)."
+            exit 1
+          fi
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git add gig.m3u
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update Gig playlist" && git push)
-
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update Gig: $(date)" && git push)

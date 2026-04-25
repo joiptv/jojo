@@ -1,0 +1,26 @@
+name: Update Gig Playlist
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight
+  workflow_dispatch:      # Allows manual trigger
+
+jobs:
+  update-list:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Download Gig Playlist
+        run: |
+          # Replace the URL below with your specific worker or Gig script source
+          curl -L "https://local.07live.workers.dev/playlist.m3u?user=999&pass=999" -o gig.m3u
+
+      - name: Push to Repo
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add gig.m3u
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update Gig playlist" && git push)
+

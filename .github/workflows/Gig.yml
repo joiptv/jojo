@@ -2,33 +2,38 @@ name: Update Gig Playlist
 
 on:
   schedule:
-    - cron: '0 */3 * * *' # Runs every 3 hours to keep tokens fresh
-  workflow_dispatch:      # Allows you to click "Run workflow" manually
+    - cron: '0 */3 * * *' # Updates every 3 hours
+  workflow_dispatch:      # Manual run button
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Fetch M3U Playlist
+      - name: Fetch and Bypass Landing Page
         run: |
-          # The -A header imitates a real browser to bypass "Join Telegram" landing pages
-          curl -sL -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" \
+          # We use the TiviMate User-Agent which usually bypasses the Telegram preview
+          curl -sL -A "TiviMate/5.1.0 (Linux; Android 11)" \
           "https://local.07live.workers.dev/playlist.m3u?user=999&pass=999" -o gig.m3u
 
-      - name: Validate File
+      - name: Verify Content
         run: |
-          # Check if the first line starts with #EXTM3U. If not, the download failed.
-          if grep -q "#EXTM3U" gig.m3u; then
-            echo "Successfully downloaded M3U file."
+          # Check the first line of the file
+          FIRST_LINE=$(head -n 1 gig.m3u)
+          echo "First line of file is: $FIRST_LINE"
+          
+          if [[ "$FIRST_LINE" == *"#EXTM3U"* ]]; then
+            echo "Success: File is a valid M3U."
           else
-            echo "Error: Downloaded file is not a valid M3U (it might be HTML)."
-            exit 1
+            echo "Error: Still getting HTML/Telegram page. Trying alternative URL..."
+            # Try the 'raw' variant as a backup
+            curl -sL -A "TiviMate/5.1.0" "https://local.07live.workers.dev/all.m3u?user=999&pass=999" -o gig.m3u
+            if ! grep -q "#EXTM3U" gig.m3u; then
+              echo "Both attempts failed to fetch raw M3U data."
+              exit 1
+            fi
           fi
 
       - name: Commit and Push
@@ -36,4 +41,4 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add gig.m3u
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update Gig: $(date)" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Updated Gig Playlist $(date +'%Y-%m-%d %H:%M')" && git push)

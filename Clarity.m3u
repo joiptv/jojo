@@ -762,7 +762,7 @@ http://103.49.70.113:5001/live/894.m3u8
 #EXTINF:-1 tvg-id="895" tvg-name="Sun Music HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Music_HD.png" tvg-language="Tamil" tvg-type="Music" group-title="Music", Sun Music HD
 http://103.49.70.113:5001/live/895.m3u8
 #EXTINF:-1 tvg-id="896" tvg-name="Sun TV HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_TV_HD.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="Entertainment", Sun TV HD
-http://103.49.70.113:5001/live/896.m3u8
+https://d2px1d6ssc60fw.cloudfront.net/SunTV/SunTV-HDR10-IN-index.m3u8
 #EXTINF:-1 tvg-id="897" tvg-name="Sun Gemini HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_TV_HD.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment", Sun Gemini HD
 https://mumbai-edge.smartplaytv.in/GeminiTVHD/index.m3u8
 #EXTINF:-1 tvg-id="898" tvg-name="Sun Gemini Music HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Music_HD.png" tvg-language="Telugu" tvg-type="Music" group-title="Music", Sun Gemini Music HD
@@ -770,7 +770,7 @@ https://mumbai-edge.smartplaytv.in/GeminiMusicHD/index.m3u8
 #EXTINF:-1 tvg-id="899" tvg-name="Sun Gemini Movies HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Movies_HD.png" tvg-language="Telugu" tvg-type="Movies" group-title="Movies", Sun Gemini Movies HD
 https://mumbai-edge.smartplaytv.in/GeminiMoviesHD/index.m3u8
 #EXTINF:-1 tvg-id="900" tvg-name="Sun Surya HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_HD.png" tvg-language="Malayalam" tvg-type="Entertainment" group-title="Entertainment", Sun Surya HD
-http://103.49.70.113:5001/live/900.m3u8
+https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8?tk=testing
 #EXTINF:-1 tvg-id="901" tvg-name="Sun Udaya HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Udaya_HD.png" tvg-language="Kannada" tvg-type="Entertainment" group-title="Entertainment", Sun Udaya HD
 http://103.49.70.113:5001/live/901.m3u8
 #EXTINF:-1 tvg-id="903" tvg-name="Only Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Only_Music.png" tvg-language="Punjabi" tvg-type="Music" group-title="Music", Only Music

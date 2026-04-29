@@ -2393,3 +2393,11 @@ http://103.49.70.113:5001/live/3528.m3u8
 https://stream.ottlive.co.in/4sidestv/index.m3u8
 #EXTINF:-1 tvg-id="3530" tvg-name="UIPM Pentathlon World Cup" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/UIPMPentathlonWC.png" tvg-language="English" tvg-type="Sports" group-title="Sports", UIPM Pentathlon World Cup
 http://103.49.70.113:5001/live/3530.m3u8
+#EXTINF:-1 tvg-id="3532" tvg-name="ITN National" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ITNNational.png" tvg-language="Hindi" tvg-type="News" group-title="News", ITN National
+http://103.49.70.113:5001/live/3532.m3u8
+#EXTINF:-1 tvg-id="3533" tvg-name="Dice Media" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/dicmed.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Dice Media
+http://103.49.70.113:5001/live/3533.m3u8
+#EXTINF:-1 tvg-id="3534" tvg-name="FilterCopy" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/fltrcopy.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", FilterCopy
+http://103.49.70.113:5001/live/3534.m3u8
+#EXTINF:-1 tvg-id="3535" tvg-name="Mr. Bean" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MrBean.png" tvg-language="English" tvg-type="Entertainment" group-title="Entertainment", Mr. Bean
+http://103.49.70.113:5001/live/3535.m3u8

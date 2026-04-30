@@ -23,7 +23,7 @@ jobs:
         uses: actions/checkout@v4.2.2
 
       - name: Download Updated File
-        run: curl -L "https://voot.vodep39240327.workers.dev?voot.m3u" -o Asi.m3u
+        run: curl -L "https://noisy-truth-6766.streamstar18.workers.dev" -o Asi.m3u
 
       - name: Commit and Push Changes
         run: |

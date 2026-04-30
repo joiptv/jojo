@@ -2401,3 +2401,9 @@ http://103.49.70.113:5001/live/3533.m3u8
 http://103.49.70.113:5001/live/3534.m3u8
 #EXTINF:-1 tvg-id="3535" tvg-name="Mr. Bean" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MrBean.png" tvg-language="English" tvg-type="Entertainment" group-title="Entertainment", Mr. Bean
 http://103.49.70.113:5001/live/3535.m3u8
+#EXTINF:-1 tvg-id="3540" tvg-name="TV5 Voyage" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/tvfvo.png" tvg-language="French" tvg-type="Lifestyle" group-title="Lifestyle", TV5 Voyage
+http://103.49.70.113:5001/live/3540.m3u8
+#EXTINF:-1 tvg-id="3541" tvg-name="TV5 Info" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/tvfm.png" tvg-language="French" tvg-type="News" group-title="News", TV5 Info
+http://103.49.70.113:5001/live/3541.m3u8
+#EXTINF:-1 tvg-id="3542" tvg-name="TV5 Chefs" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/tv5ch.png" tvg-language="French" tvg-type="Lifestyle" group-title="Lifestyle", TV5 Chefs
+http://103.49.70.113:5001/live/3542.m3u8

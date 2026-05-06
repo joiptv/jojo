@@ -2251,7 +2251,7 @@ https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 http://103.159.180.34:5001/live/3383.m3u8
 #EXTINF:-1 tvg-id="3384" tvg-name="EPIC Bhojpuri" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Filamchi_Bhojpuri.png" tvg-language="Bhojpuri" tvg-type="Movies" group-title="Movies", EPIC Bhojpuri
 http://103.159.180.34:5001/live/3384.m3u8
-#EXTINF:-1 tvg-id="3385" tvg-name="Gubbare" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gubbare.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Gubbare
+#EXTINF:-1 tvg-id="3385" tvg-name="EPIC Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gubbare.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", EPIC Kids
 http://103.159.180.34:5001/live/3385.m3u8
 #EXTINF:-1 tvg-id="3386" tvg-name="P18 News " tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/p18news.png" tvg-language="Hindi" tvg-type="News" group-title="News", P18 News 
 https://server.thelegitpro.in/p18news/index.m3u8

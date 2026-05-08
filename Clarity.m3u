@@ -1050,7 +1050,7 @@ https://mumt03.tangotv.in/SWADESHNEWS/index.m3u8
 #EXTINF:-1 tvg-id="1186" tvg-name="Kartavya TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kartavya_Tv.png" tvg-language="Gujarati" tvg-type="Devotional" group-title="Devotional", Kartavya TV
 http://103.159.180.34:5001/live/1186.m3u8
 #EXTINF:-1 tvg-id="1187" tvg-name="Valam TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Valambhakti.png" tvg-language="Gujarati" tvg-type="Devotional" group-title="Devotional", Valam TV
-http://103.159.180.34:5001/live/1187.m3u8
+http://cabletv.valamtv.in/hls/stream0.m3u8
 #EXTINF:-1 tvg-id="1189" tvg-name="PTC Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PTC_Music.png" tvg-language="Punjabi" tvg-type="Music" group-title="Music", PTC Music
 https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
 #EXTINF:-1 tvg-id="1190" tvg-name="PTC Punjabi Gold " tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PTC_Punjabi_Gold.png" tvg-language="Punjabi" tvg-type="Movies" group-title="Movies", PTC Punjabi Gold 

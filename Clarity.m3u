@@ -226,7 +226,7 @@ https://livehub-voidnet.onrender.com/cluster/streamcore/in/INDIATODAY_StreamOrch
 #EXTINF:-1 tvg-id="494" tvg-name="AL Jazeera" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AL_Jazeera.png" tvg-language="English" group-title="News", AL Jazeera
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="495" tvg-name="News X" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_X.png" tvg-language="English" group-title="News", News X
-http://103.159.180.34:5001/live/495.m3u8
+https://mumt01.tangotv.in/NEWSX/index.m3u8
 #EXTINF:-1 tvg-id="496" tvg-name="dw" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/dw.png" tvg-language="English" group-title="News", dw
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 #EXTINF:-1 tvg-id="498" tvg-name="India news" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_news.png" tvg-language="Hindi" group-title="News", India news

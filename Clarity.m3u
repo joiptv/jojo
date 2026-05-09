@@ -678,7 +678,7 @@ https://mumt02.tangotv.in/MATHRUBHUMINEWS/index.m3u8
 #EXTINF:-1 tvg-id="781" tvg-name="Kalinga TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kalinga_TV.png" tvg-language="Odia" group-title="News", Kalinga TV
 https://server.thelegitpro.in/kalingatv/kalingatv/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="782" tvg-name="Sandesh News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sandesh_News.png" tvg-language="Gujarati" group-title="News", Sandesh News
-https://mumt01.tangotv.in/SANDESHNEWS/index.m3u8
+https://stream.ottlive.co.in/sandeshnews/index.m3u8
 #EXTINF:-1 tvg-id="783" tvg-name="K News India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/K_News_India.png" tvg-language="Hindi" group-title="News", K News India
 https://legitpro.co.in/knews/index.m3u8
 #EXTINF:-1 tvg-id="784" tvg-name="CVR News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CVR_News.png" tvg-language="Telugu" group-title="News", CVR News
@@ -758,7 +758,7 @@ https://mmtv-vglivessai.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f
 #EXTINF:-1 tvg-id="846" tvg-name="MKN News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MK_News.png" tvg-language="Hindi" group-title="News", MKN News
 https://5dd3981940faa.streamlock.net/mknnews/mknnews/playlist.m3u8
 #EXTINF:-1 tvg-id="850" tvg-name="News India 24x7" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_India_24_X_7.png" tvg-language="Hindi" group-title="News", News India 24x7
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-india-24x7/index.m3u8?ads.vf=4diMqEgh9hm
+https://stream.ottlive.co.in/newsindia/index.m3u8
 #EXTINF:-1 tvg-id="851" tvg-name="SMBC TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SMBC_TV.png" tvg-language="Hindi" group-title="News", SMBC TV
 https://mumt04.tangotv.in/SWARAJEXPRESS/index.m3u8
 #EXTINF:-1 tvg-id="855" tvg-name="Total TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Total_TV.png" tvg-language="Hindi" group-title="News", Total TV
@@ -2134,7 +2134,7 @@ http://103.159.180.34:5001/live/3219.m3u8
 #EXTINF:-1 tvg-id="3220" tvg-name="Prime Bharat News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Prime_Bharat_News.png" tvg-language="Hindi" group-title="News", Prime Bharat News
 http://103.159.180.34:5001/live/3220.m3u8
 #EXTINF:-1 tvg-id="3221" tvg-name="Sri Naga Sai Mandir" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sri_Naga_Sai_Mandir.png" tvg-language="Tamil" group-title="Devotional", Sri Naga Sai Mandir
-http://103.159.180.34:5001/live/3221.m3u8
+https://singamcloud.in/saibaba/livekovai/index.m3u8
 #EXTINF:-1 tvg-id="3223" tvg-name="Shark Tank India S5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SharkTankIndia.png" tvg-language="Hindi" group-title="Entertainment", Shark Tank India S5
 http://103.159.180.34:5001/live/3223.m3u8
 #EXTINF:-1 tvg-id="3226" tvg-name="R Hindustan Tv News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rhindustan_TV.png" tvg-language="Hindi" group-title="News", R Hindustan Tv News
@@ -2382,7 +2382,7 @@ https://ott.livelegitpro.in:9899/metrotv/index.m3u8
 #EXTINF:-1 tvg-id="3409" tvg-name="Roja TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/rojatv.png" tvg-language="Tamil" group-title="Entertainment", Roja TV
 https://hls.rojatv.cloud/rojatv/rojatv/index.m3u8
 #EXTINF:-1 tvg-id="3417" tvg-name="Roja Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/rojamovies.png" tvg-language="Tamil" group-title="Movies", Roja Movies
-https://hls.rojatv.cloud/rojatv/rojatv/index.m3u8
+https://hls.rojatv.cloud/rojamovies/rojamovies/index.m3u8
 #EXTINF:-1 tvg-id="3424" tvg-name="Sony Yay Bengali" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyYAYBen.png" tvg-language="Bengali" group-title="Kids", Sony Yay Bengali
 https://ottbanglaplatform.com/tv/toffee/live.php?id=sonyyay&e=.m3u8
 #EXTINF:-1 tvg-id="3425" tvg-name="Discovery Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DiscoveryMal.png" tvg-language="Malayalam" group-title="Infotainment", Discovery Malayalam
@@ -2444,7 +2444,7 @@ http://103.159.180.34:5001/live/3457.m3u8
 #EXTINF:-1 tvg-id="3458" tvg-name="TLC HD Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TLCHDHindi.png" tvg-language="Hindi" group-title="Lifestyle", TLC HD Hindi
 http://103.159.180.34:5001/live/3458.m3u8
 #EXTINF:-1 tvg-id="3459" tvg-name="Swastik TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/swastiktv.png" tvg-language="Hindi" group-title="Devotional", Swastik TV
-http://103.159.180.34:5001/live/3459.m3u8
+https://server.playontv.in/swastiktv/index.m3u8
 #EXTINF:-1 tvg-id="3460" tvg-name="G94 News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/G94News.png" tvg-language="Hindi" group-title="News", G94 News
 http://103.159.180.34:5001/live/3460.m3u8
 #EXTINF:-1 tvg-id="3461" tvg-name="Karnataka News Beat" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/KarnatakaNewsBeat.png" tvg-language="Kannada" group-title="News", Karnataka News Beat

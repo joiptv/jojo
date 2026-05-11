@@ -2535,3 +2535,5 @@ https://d161b1o6wfc5a3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d17g2p9a7he1mu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-b4dzadk8a25ad/tv5ch.m3u8
 #EXTINF:-1 tvg-id="3546" tvg-name="FIA TCR World Tour" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/FIATCRWorldTour.png" tvg-language="English" group-title="Sports", FIA TCR World Tour
 http://103.159.180.34:5001/live/3546.m3u8
+#EXTINF:-1 tvg-id="3548" tvg-name="NKR TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NKRTV.png" tvg-language="Kannada group-title="Entertainment", NKR TV
+https://stream.ottlive.co.in/nkrtv/index.m3u8

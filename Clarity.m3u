@@ -142,11 +142,11 @@ http://103.159.180.34:5001/live/413.m3u8
 #EXTINF:-1 tvg-id="414" tvg-name="Zee Yuva" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeYuva.png" tvg-language="Marathi" group-title="Entertainment", Zee Yuva
 http://103.159.180.34:5001/live/414.m3u8
 #EXTINF:-1 tvg-id="415" tvg-name="Zee Anmol Cinema" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeAnmolCinema.png" tvg-language="Hindi" group-title="Movies", Zee Anmol Cinema
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15"
+#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
 #KODIPROP:mimetype=application/dash+xml
-https://zee5.cr7x.workers.dev/live/999/999/0-9-zeeanmolcinema/master.m3u8
+http://103.175.73.12:8080/live/271/271_0.m3u8
 #EXTINF:-1 tvg-id="417" tvg-name="J Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/J_Movies.png" tvg-language="Tamil" group-title="Movies", J Movies
 http://103.159.180.34:5001/live/417.m3u8
 #EXTINF:-1 tvg-id="418" tvg-name="Jaya Plus" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_Plus.png" tvg-language="Tamil" group-title="News", Jaya Plus
@@ -1474,11 +1474,11 @@ http://103.159.180.34:5001/live/1742.m3u8
 #EXTINF:-1 tvg-id="1743" tvg-name="Hornbill TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Hornbill_TV.png" tvg-language="English" group-title="News", Hornbill TV
 https://mumt01.tangotv.in/HORNBILLTV/index.m3u8
 #EXTINF:-1 tvg-id="1745" tvg-name="Zee Biskope" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeBiskope.png" tvg-language="Bhojpuri" group-title="Movies", Zee Biskope
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15"
+#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
 #KODIPROP:mimetype=application/dash+xml
-https://zee5.cr7x.workers.dev/live/999/999/0-9-216/master.m3u8
+http://103.175.73.12:8080/live/347/347_0.m3u8
 #EXTINF:-1 tvg-id="1746" tvg-name="Zee Power HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeePowerHD.png" tvg-language="Kannada" group-title="Movies", Zee Power HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1635,6 +1635,8 @@ https://mumbai-edge.smartplaytv.in/PMC/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15"
 #KODIPROP:mimetype=application/dash+xml
 https://zee5.cr7x.workers.dev/live/999/999/0-9-zeebangla/master.m3u8
+#EXTINF:-1 tvg-id="1998" tvg-name="Star Sports Khel" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_Khel.png" tvg-language="Hindi" group-title="Sports", Star Sports Khel
+
 #EXTINF:-1 tvg-id="1999" tvg-name="Raftaar Media" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raftaar_Media.png" tvg-language="Hindi" group-title="News", Raftaar Media
 https://mumt04.tangotv.in/RAFTAARMEDIA/index.m3u8
 #EXTINF:-1 tvg-id="2002" tvg-name="Aadinath TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aadinath_TV.png" tvg-language="Gujarati" group-title="Devotional", Aadinath TV
@@ -1770,11 +1772,11 @@ http://103.159.180.34:5001/live/2757.m3u8
 #EXTINF:-1 tvg-id="2759" tvg-name="DD North East" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_North_East.png" tvg-language="Assamese" group-title="Entertainment", DD North East
 https://mumt05.tangotv.in/DDASSAM/index.m3u8
 #EXTINF:-1 tvg-id="2761" tvg-name="Zee Anmol Cinema 2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeAnmolCinema2.png" tvg-language="Hindi" group-title="Movies", Zee Anmol Cinema 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15"
+#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
 #KODIPROP:mimetype=application/dash+xml
-https://zee5.cr7x.workers.dev/live/999/999/0-9-bigganga/master.m3u8
+http://103.175.73.12:8080/live/257/257_0.m3u8
 #EXTINF:-1 tvg-id="2764" tvg-name="News State Bihar Jharkhand" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NewsState_Bihar_JH.png" tvg-language="Hindi" group-title="News", News State Bihar Jharkhand
 http://103.159.180.34:5001/live/2764.m3u8
 #EXTINF:-1 tvg-id="2765" tvg-name="BSTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/BSTV.png" tvg-language="Hindi" group-title="News", BSTV
@@ -2533,6 +2535,10 @@ https://d1qvkge2x4ev90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d161b1o6wfc5a3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u7sgewc3l8ri/tvfm.m3u8
 #EXTINF:-1 tvg-id="3542" tvg-name="TV5 Chefs" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/tv5ch.png" tvg-language="French" group-title="Lifestyle", TV5 Chefs
 https://d17g2p9a7he1mu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-b4dzadk8a25ad/tv5ch.m3u8
+#EXTINF:-1 tvg-id="3543" tvg-name="Eros Universe Bollywood Cinema" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/blywcm.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Eros Universe Bollywood Cinema
+http://103.159.180.34:5001/live/3543.m3u8
+#EXTINF:-1 tvg-id="3544" tvg-name="Eros Universe Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/ersent.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Eros Universe Entertainment
+http://103.159.180.34:5001/live/3544.m3u8
 #EXTINF:-1 tvg-id="3546" tvg-name="FIA TCR World Tour" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/FIATCRWorldTour.png" tvg-language="English" group-title="Sports", FIA TCR World Tour
 http://103.159.180.34:5001/live/3546.m3u8
 #EXTINF:-1 tvg-id="3548" tvg-name="NKR TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NKRTV.png" tvg-language="Kannada group-title="Entertainment", NKR TV

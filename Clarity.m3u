@@ -23,7 +23,7 @@ http://103.159.180.34:5001/live/156.m3u8
 https://sonyliv.07in.workers.dev/live/999/999/sony-sports-ten-1-hd.m3u8
 #EXTINF:-1 tvg-id="164" tvg-name="Travelxp HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Travel_XP_HD.png" tvg-language="English" group-title="Lifestyle", Travelxp HD
 http://103.159.180.34:5001/live/164.m3u8
-#EXTINF:-1 tvg-id="165" tvg-name="Zee Cinema HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeCinemaHD.png" tvg-language="Hindi" group-title="Movies", Zee Cinemsa HD
+#EXTINF:-1 tvg-id="165" tvg-name="Zee Cinema HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeCinemaHD.png" tvg-language="Hindi" group-title="Movies", Zee Cinema HD
 http://103.159.180.34:5001/live/165.m3u8
 #EXTINF:-1 tvg-id="166" tvg-name="Cartoon Network Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNTelugu.png" tvg-language="Telugu" group-title="Kids", Cartoon Network Telugu
 http://103.159.180.34:5001/live/166.m3u8
@@ -1600,7 +1600,7 @@ https://mumt01.tangotv.in/MHONEDILSE/index.m3u8
 #EXTINF:-1 tvg-id="1954" tvg-name="News Tamil 24x7" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_Tamil_24x7.png" tvg-language="Tamil" group-title="News", News Tamil 24x7
 https://d18a8tqmogafg2.cloudfront.net/newstamil/index.m3u8
 #EXTINF:-1 tvg-id="1955" tvg-name="Foodxp" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Food_XP.png" tvg-language="Hindi" group-title="Lifestyle", Foodxp
-http://103.159.180.34:5001/live/1955.m3u8
+https://amg00416-amg00416c10-samsung-in-4883.playouts.now.amagi.tv/playlist/amg00416-travelxp-foodxp-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="1956" tvg-name="Sidharth TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sidharth_TV.png" tvg-language="Odia" group-title="Entertainment", Sidharth TV
 https://mumbai-edge.smartplaytv.in/sidharthtv/index.m3u8
 #EXTINF:-1 tvg-id="1957" tvg-name="Sidharth Gold" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sidharth_Gold.png" tvg-language="Odia" group-title="Movies", Sidharth Gold
@@ -2504,7 +2504,7 @@ https://legitpro.co.in/thevoicetv/thevoicetv/index.m3u8
 #EXTINF:-1 tvg-id="3508" tvg-name="Valam TV Dayro" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ValamTVDayro.png" tvg-language="Gujarati" group-title="Devotional", Valam TV Dayro
 https://dayro.valamtv.in/hls/shree/bhattji.m3u8
 #EXTINF:-1 tvg-id="3518" tvg-name="Cine Jomjomat" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Cine_Jomjomat.png" tvg-language="Bengali" group-title="Entertainment", Cine Jomjomat
-https://jmp2.uk/stvp-IN2100007QM
+https://amg13779-amg13779c1-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13779-amg13779c1-amgplt0016/playlist.m3u8
 #EXTINF:-1 tvg-id="3519" tvg-name="Shree Salangpur Dham" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ShreeSalangpurDham.png" tvg-language="Hindi" group-title="Devotional", Shree Salangpur Dham
 http://103.159.180.34:5001/live/3519.m3u8
 #EXTINF:-1 tvg-id="3524" tvg-name="Journy" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/amg02159c11.png" tvg-language="English" group-title="Lifestyle", Journy
@@ -2541,5 +2541,5 @@ http://103.159.180.34:5001/live/3543.m3u8
 http://103.159.180.34:5001/live/3544.m3u8
 #EXTINF:-1 tvg-id="3546" tvg-name="FIA TCR World Tour" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/FIATCRWorldTour.png" tvg-language="English" group-title="Sports", FIA TCR World Tour
 http://103.159.180.34:5001/live/3546.m3u8
-#EXTINF:-1 tvg-id="3548" tvg-name="NKR TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NKRTV.png" tvg-language="Kannada group-title="Entertainment", NKR TV
+#EXTINF:-1 tvg-id="3548" tvg-name="NKR TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NKRTV.png" tvg-language="Kannada" group-title="Entertainment", NKR TV
 https://stream.ottlive.co.in/nkrtv/index.m3u8

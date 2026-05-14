@@ -3,9 +3,9 @@
 https://raw.githubusercontent.com/Jatin-0-7/intro/main/intro_playlist0.ts
 #EXTINF:-1 tvg-id="-1" tvg-name="Expiry" tvg-logo="https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678116-calendar-512.png" group-title="Playlist | Info" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFEMgw7JnyebuCOdv0RjD5YX49LUGzOSpVuw&s", Expiry: 2026-05-30
 https://raw.githubusercontent.com/Jatin-0-7/intro/main/intro_playlist0.ts
-#EXTINF:-1 tvg-id="-2" tvg-name="IP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkBoNwmrb6Xxy1n4636PHJDiYxBa8NSrB8Hw&s" group-title="Playlist | Info" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFEMgw7JnyebuCOdv0RjD5YX49LUGzOSpVuw&s", IP: 145.132.102.242 (Koninklijke KPN N.V)
+#EXTINF:-1 tvg-id="-2" tvg-name="IP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkBoNwmrb6Xxy1n4636PHJDiYxBa8NSrB8Hw&s" group-title="Playlist | Info" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFEMgw7JnyebuCOdv0RjD5YX49LUGzOSpVuw&s", IP: 52.154.132.178 (Microsoft Corporation)
 https://raw.githubusercontent.com/Jatin-0-7/intro/main/intro_playlist0.ts
-#EXTINF:-1 tvg-id="-3" tvg-name="LOCATION" tvg-logo="https://cdn.creativefabrica.com/2023/06/19/Map-with-geo-pin-Location-icon-Destina-Graphics-72467669-1-1-580x387.png" group-title="Playlist | Info" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFEMgw7JnyebuCOdv0RjD5YX49LUGzOSpVuw&s", LOCATION: Boydton, Virginia, United States
+#EXTINF:-1 tvg-id="-3" tvg-name="LOCATION" tvg-logo="https://cdn.creativefabrica.com/2023/06/19/Map-with-geo-pin-Location-icon-Destina-Graphics-72467669-1-1-580x387.png" group-title="Playlist | Info" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFEMgw7JnyebuCOdv0RjD5YX49LUGzOSpVuw&s", LOCATION: Des Moines, Iowa, United States
 https://raw.githubusercontent.com/Jatin-0-7/intro/main/intro_playlist0.ts
 #EXTINF:-1 tvg-id="-4" tvg-name="app" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoHEXIIXZQniuYScqZRQ6_GgzV2viMZJFroQ&s" group-title="Playlist | Info" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFEMgw7JnyebuCOdv0RjD5YX49LUGzOSpVuw&s", APP: TiviMate | DEVICE: Android
 https://raw.githubusercontent.com/Jatin-0-7/intro/main/intro_playlist0.ts
@@ -5568,11 +5568,14 @@ https://sliv-events.cr7x.workers.dev/upcoming/1090529564/LIV/index.mpd
 #EXTINF:-1 tvg-name="ICC CWC League 2 Nepal, 2026" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC_web.png" tvg-description="Scotland Vs Usa" tvg-language="ENGLISH" group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png" group-title="𝐅𝐚𝐧𝐜𝐨𝐝𝐞 | Live",Scotland Vs Usa (ENGLISH)
 https://fancode.cr7x.workers.dev/live/Api/142290/1.m3u8
 
-#EXTINF:-1 tvg-name="AFC U17 Women's Asian Cup China 2026" tvg-logo="https://images.fancode.com/aig/match/v1778730864517/142254_CASACARDS_APP.png" tvg-description="Japan Women Vs Australia Women" tvg-language="ENGLISH" group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png" group-title="𝐅𝐚𝐧𝐜𝐨𝐝𝐞 | Live",Japan Women Vs Australia Women (ENGLISH)
-https://fancode.cr7x.workers.dev/live/Api/142254/1.m3u8
+#EXTINF:-1 tvg-name="Young Star Kabaddi League 2026" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg" tvg-description="Goat Warriors Vs Raging Bulls" tvg-language="ENGLISH" group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png" group-title="𝐅𝐚𝐧𝐜𝐨𝐝𝐞 | Live",Goat Warriors Vs Raging Bulls (ENGLISH)
+https://fancode.cr7x.workers.dev/live/Api/142484/1.m3u8
 
-#EXTINF:-1 tvg-name="Young Star Kabaddi League 2026" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg" tvg-description="Roaring Rhinos Vs Jungle Panthers" tvg-language="ENGLISH" group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png" group-title="𝐅𝐚𝐧𝐜𝐨𝐝𝐞 | Live",Roaring Rhinos Vs Jungle Panthers (ENGLISH)
-https://fancode.cr7x.workers.dev/live/Api/142482/1.m3u8
+#EXTINF:-1 tvg-name="Dream Sports Championship Football 2026" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777753488859.png" tvg-description="Minerva Academy Fc Vs Punjab Fc Junior" tvg-language="ENGLISH" group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png" group-title="𝐅𝐚𝐧𝐜𝐨𝐝𝐞 | Live",Minerva Academy Fc Vs Punjab Fc Junior (ENGLISH)
+https://fancode.cr7x.workers.dev/live/Api/142374/1.m3u8
+
+#EXTINF:-1 tvg-name="ATP Masters Internazionali BNL d'Italia 2026" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Jannik-Sinner-vs-Andrey-Rublev_fc_web.jpg" tvg-description="Qf: J. Sinner Vs A. Rublev" tvg-language="ENGLISH" group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png" group-title="𝐅𝐚𝐧𝐜𝐨𝐝𝐞 | Live",Qf: J. Sinner Vs A. Rublev (ENGLISH)
+https://fancode.cr7x.workers.dev/live/Api/142236/1.m3u8
 
 
 
@@ -10376,49 +10379,49 @@ https://jiooo.cr7x.workers.dev/live/999/999/301246/index.mpd|plaYtv/7.1.5 (Linux
 # ===== series =====
 #EXTM3U
 #EXTINF:-1 tvg-id="DEFAULT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiYDcLUg9lV2zmGlVIXe-ItzBFdFwyENoHDg&s" group-title="𝐀𝐌𝐀𝐙𝐎𝐍 | 𝐒𝐄𝐑𝐈𝐄𝐒" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj2BuLs-XC7WP-qbn0KI65NRYzStO8VoCoNg&s", OTT | PRIME SERIES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Realme RMX3085) AppleWebKit/537.36 Chrome/119.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Redmi Note 10) AppleWebKit/537.36 Chrome/121.0 Mobile Safari/537.36
 https://purple.07live.workers.dev/28272.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiYDcLUg9lV2zmGlVIXe-ItzBFdFwyENoHDg&s" group-title="𝐀𝐌𝐀𝐙𝐎𝐍 | 𝐒𝐄𝐑𝐈𝐄𝐒" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj2BuLs-XC7WP-qbn0KI65NRYzStO8VoCoNg&s", AMAZON HINDI SERIES 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A505F) AppleWebKit/537.36 Chrome/120.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Redmi Note 10) AppleWebKit/537.36 Chrome/121.0 Mobile Safari/537.36
 https://purple.07live.workers.dev/67236.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiYDcLUg9lV2zmGlVIXe-ItzBFdFwyENoHDg&s" group-title="𝐀𝐌𝐀𝐙𝐎𝐍 | 𝐒𝐄𝐑𝐈𝐄𝐒" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj2BuLs-XC7WP-qbn0KI65NRYzStO8VoCoNg&s", AMAZON HINDI SERIES 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Realme RMX3085) AppleWebKit/537.36 Chrome/119.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Redmi Note 10) AppleWebKit/537.36 Chrome/121.0 Mobile Safari/537.36
 https://purple.07live.workers.dev/67237.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiYDcLUg9lV2zmGlVIXe-ItzBFdFwyENoHDg&s" group-title="𝐀𝐌𝐀𝐙𝐎𝐍 | 𝐒𝐄𝐑𝐈𝐄𝐒" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj2BuLs-XC7WP-qbn0KI65NRYzStO8VoCoNg&s", AMAZON HINDI SERIES 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A505F) AppleWebKit/537.36 Chrome/120.0 Mobile Safari/537.36
 https://purple.07live.workers.dev/67238.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiYDcLUg9lV2zmGlVIXe-ItzBFdFwyENoHDg&s" group-title="𝐀𝐌𝐀𝐙𝐎𝐍 | 𝐒𝐄𝐑𝐈𝐄𝐒" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj2BuLs-XC7WP-qbn0KI65NRYzStO8VoCoNg&s", AMAZON HINDI SERIES 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Realme RMX3085) AppleWebKit/537.36 Chrome/119.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Redmi Note 10) AppleWebKit/537.36 Chrome/121.0 Mobile Safari/537.36
 https://purple.07live.workers.dev/67239.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiYDcLUg9lV2zmGlVIXe-ItzBFdFwyENoHDg&s" group-title="𝐀𝐌𝐀𝐙𝐎𝐍 | 𝐒𝐄𝐑𝐈𝐄𝐒" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj2BuLs-XC7WP-qbn0KI65NRYzStO8VoCoNg&s", AMAZON HINDI SERIES 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Realme RMX3085) AppleWebKit/537.36 Chrome/119.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Redmi Note 10) AppleWebKit/537.36 Chrome/121.0 Mobile Safari/537.36
 https://purple.07live.workers.dev/67240.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiYDcLUg9lV2zmGlVIXe-ItzBFdFwyENoHDg&s" group-title="𝐀𝐌𝐀𝐙𝐎𝐍 | 𝐒𝐄𝐑𝐈𝐄𝐒" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj2BuLs-XC7WP-qbn0KI65NRYzStO8VoCoNg&s", AMAZON HINDI SERIES 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Realme RMX3085) AppleWebKit/537.36 Chrome/119.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Redmi Note 10) AppleWebKit/537.36 Chrome/121.0 Mobile Safari/537.36
 https://purple.07live.workers.dev/67241.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiYDcLUg9lV2zmGlVIXe-ItzBFdFwyENoHDg&s" group-title="𝐀𝐌𝐀𝐙𝐎𝐍 | 𝐒𝐄𝐑𝐈𝐄𝐒" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj2BuLs-XC7WP-qbn0KI65NRYzStO8VoCoNg&s", AMAZON HINDI SERIES 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Realme RMX3085) AppleWebKit/537.36 Chrome/119.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Redmi Note 10) AppleWebKit/537.36 Chrome/121.0 Mobile Safari/537.36
 https://purple.07live.workers.dev/67242.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiYDcLUg9lV2zmGlVIXe-ItzBFdFwyENoHDg&s" group-title="𝐀𝐌𝐀𝐙𝐎𝐍 | 𝐒𝐄𝐑𝐈𝐄𝐒" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj2BuLs-XC7WP-qbn0KI65NRYzStO8VoCoNg&s", AMAZON HINDI SERIES 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Realme RMX3085) AppleWebKit/537.36 Chrome/119.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Redmi Note 10) AppleWebKit/537.36 Chrome/121.0 Mobile Safari/537.36
 https://purple.07live.workers.dev/67243.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiYDcLUg9lV2zmGlVIXe-ItzBFdFwyENoHDg&s" group-title="𝐀𝐌𝐀𝐙𝐎𝐍 | 𝐒𝐄𝐑𝐈𝐄𝐒" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj2BuLs-XC7WP-qbn0KI65NRYzStO8VoCoNg&s", AMAZON HINDI SERIES 9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Redmi Note 10) AppleWebKit/537.36 Chrome/121.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Realme RMX3085) AppleWebKit/537.36 Chrome/119.0 Mobile Safari/537.36
 https://purple.07live.workers.dev/67244.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiYDcLUg9lV2zmGlVIXe-ItzBFdFwyENoHDg&s" group-title="𝐀𝐌𝐀𝐙𝐎𝐍 | 𝐒𝐄𝐑𝐈𝐄𝐒" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj2BuLs-XC7WP-qbn0KI65NRYzStO8VoCoNg&s", AMAZON HINDI SERIES 10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A505F) AppleWebKit/537.36 Chrome/120.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Redmi Note 10) AppleWebKit/537.36 Chrome/121.0 Mobile Safari/537.36
 https://purple.07live.workers.dev/67245.m3u8
 #EXTINF:-1 tvg-id="DEFAULT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReYlOEduwtdhoh-21DRHtrPkJC8KwnL96Zig&s" group-title="𝐕𝐎𝐎𝐓 | 𝐒𝐄𝐑𝐈𝐄𝐒" group-logo="https://exchange4media.gumlet.io/news-photo/108441-vootlogo.jpg", OTT | VOOT SERIES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Realme RMX3085) AppleWebKit/537.36 Chrome/119.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A505F) AppleWebKit/537.36 Chrome/120.0 Mobile Safari/537.36
 https://purple.07live.workers.dev/24481.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReYlOEduwtdhoh-21DRHtrPkJC8KwnL96Zig&s" group-title="𝐕𝐎𝐎𝐓 | 𝐒𝐄𝐑𝐈𝐄𝐒" group-logo="https://exchange4media.gumlet.io/news-photo/108441-vootlogo.jpg", VOOT HINDI SERIES 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A505F) AppleWebKit/537.36 Chrome/120.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Redmi Note 10) AppleWebKit/537.36 Chrome/121.0 Mobile Safari/537.36
 https://purple.07live.workers.dev/69443.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReYlOEduwtdhoh-21DRHtrPkJC8KwnL96Zig&s" group-title="𝐕𝐎𝐎𝐓 | 𝐒𝐄𝐑𝐈𝐄𝐒" group-logo="https://exchange4media.gumlet.io/news-photo/108441-vootlogo.jpg", VOOT HINDI SERIES 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Redmi Note 10) AppleWebKit/537.36 Chrome/121.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A505F) AppleWebKit/537.36 Chrome/120.0 Mobile Safari/537.36
 https://purple.07live.workers.dev/69444.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReYlOEduwtdhoh-21DRHtrPkJC8KwnL96Zig&s" group-title="𝐕𝐎𝐎𝐓 | 𝐒𝐄𝐑𝐈𝐄𝐒" group-logo="https://exchange4media.gumlet.io/news-photo/108441-vootlogo.jpg", VOOT HINDI SERIES 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Redmi Note 10) AppleWebKit/537.36 Chrome/121.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Realme RMX3085) AppleWebKit/537.36 Chrome/119.0 Mobile Safari/537.36
 https://purple.07live.workers.dev/69445.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReYlOEduwtdhoh-21DRHtrPkJC8KwnL96Zig&s" group-title="𝐕𝐎𝐎𝐓 | 𝐒𝐄𝐑𝐈𝐄𝐒" group-logo="https://exchange4media.gumlet.io/news-photo/108441-vootlogo.jpg", VOOT HINDI SERIES 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A505F) AppleWebKit/537.36 Chrome/120.0 Mobile Safari/537.36
@@ -10460,16 +10463,16 @@ https://purple.07live.workers.dev/67276.m3u8
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.11.24.0.4237 (Android/13)
 https://purple.07live.workers.dev/67277.m3u8
 #EXTINF:-1 tvg-id="DEFAULT" tvg-logo="https://www.livemint.com/lm-img/img/2023/10/04/1600x900/SonyLIV-announces-foray-into-Africa-and-the-Caribb_1696401120283.jpg" group-title="𝐒𝐎𝐍𝐘 𝐋𝐈𝐕 | 𝐒𝐄𝐑𝐈𝐄𝐒" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9YTCLSc-R6s27adcP-KrkqzhPyvGkBrYf8Q&s", OTT | SONY LIV SERIES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A505F) AppleWebKit/537.36 Chrome/120.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Redmi Note 10) AppleWebKit/537.36 Chrome/121.0 Mobile Safari/537.36
 https://purple.07live.workers.dev/28256.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.livemint.com/lm-img/img/2023/10/04/1600x900/SonyLIV-announces-foray-into-Africa-and-the-Caribb_1696401120283.jpg" group-title="𝐒𝐎𝐍𝐘 𝐋𝐈𝐕 | 𝐒𝐄𝐑𝐈𝐄𝐒" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9YTCLSc-R6s27adcP-KrkqzhPyvGkBrYf8Q&s", SONY LIV HINDI SERIES 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Redmi Note 10) AppleWebKit/537.36 Chrome/121.0 Mobile Safari/537.36
 https://purple.07live.workers.dev/67279.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.livemint.com/lm-img/img/2023/10/04/1600x900/SonyLIV-announces-foray-into-Africa-and-the-Caribb_1696401120283.jpg" group-title="𝐒𝐎𝐍𝐘 𝐋𝐈𝐕 | 𝐒𝐄𝐑𝐈𝐄𝐒" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9YTCLSc-R6s27adcP-KrkqzhPyvGkBrYf8Q&s", SONY LIV HINDI SERIES 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A505F) AppleWebKit/537.36 Chrome/120.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Realme RMX3085) AppleWebKit/537.36 Chrome/119.0 Mobile Safari/537.36
 https://purple.07live.workers.dev/67280.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.livemint.com/lm-img/img/2023/10/04/1600x900/SonyLIV-announces-foray-into-Africa-and-the-Caribb_1696401120283.jpg" group-title="𝐒𝐎𝐍𝐘 𝐋𝐈𝐕 | 𝐒𝐄𝐑𝐈𝐄𝐒" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9YTCLSc-R6s27adcP-KrkqzhPyvGkBrYf8Q&s", SONY LIV HINDI SERIES 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Realme RMX3085) AppleWebKit/537.36 Chrome/119.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A505F) AppleWebKit/537.36 Chrome/120.0 Mobile Safari/537.36
 https://purple.07live.workers.dev/67281.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.livemint.com/lm-img/img/2023/10/04/1600x900/SonyLIV-announces-foray-into-Africa-and-the-Caribb_1696401120283.jpg" group-title="𝐒𝐎𝐍𝐘 𝐋𝐈𝐕 | 𝐒𝐄𝐑𝐈𝐄𝐒" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9YTCLSc-R6s27adcP-KrkqzhPyvGkBrYf8Q&s", SONY LIV HINDI SERIES 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A505F) AppleWebKit/537.36 Chrome/120.0 Mobile Safari/537.36
@@ -10478,22 +10481,22 @@ https://purple.07live.workers.dev/67282.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Redmi Note 10) AppleWebKit/537.36 Chrome/121.0 Mobile Safari/537.36
 https://purple.07live.workers.dev/67283.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.livemint.com/lm-img/img/2023/10/04/1600x900/SonyLIV-announces-foray-into-Africa-and-the-Caribb_1696401120283.jpg" group-title="𝐒𝐎𝐍𝐘 𝐋𝐈𝐕 | 𝐒𝐄𝐑𝐈𝐄𝐒" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9YTCLSc-R6s27adcP-KrkqzhPyvGkBrYf8Q&s", SONY LIV HINDI SERIES 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Realme RMX3085) AppleWebKit/537.36 Chrome/119.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A505F) AppleWebKit/537.36 Chrome/120.0 Mobile Safari/537.36
 https://purple.07live.workers.dev/67284.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.livemint.com/lm-img/img/2023/10/04/1600x900/SonyLIV-announces-foray-into-Africa-and-the-Caribb_1696401120283.jpg" group-title="𝐒𝐎𝐍𝐘 𝐋𝐈𝐕 | 𝐒𝐄𝐑𝐈𝐄𝐒" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9YTCLSc-R6s27adcP-KrkqzhPyvGkBrYf8Q&s", SONY LIV HINDI SERIES 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Redmi Note 10) AppleWebKit/537.36 Chrome/121.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Realme RMX3085) AppleWebKit/537.36 Chrome/119.0 Mobile Safari/537.36
 https://purple.07live.workers.dev/67285.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.livemint.com/lm-img/img/2023/10/04/1600x900/SonyLIV-announces-foray-into-Africa-and-the-Caribb_1696401120283.jpg" group-title="𝐒𝐎𝐍𝐘 𝐋𝐈𝐕 | 𝐒𝐄𝐑𝐈𝐄𝐒" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9YTCLSc-R6s27adcP-KrkqzhPyvGkBrYf8Q&s", SONY LIV HINDI SERIES 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Redmi Note 10) AppleWebKit/537.36 Chrome/121.0 Mobile Safari/537.36
 https://purple.07live.workers.dev/67286.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.livemint.com/lm-img/img/2023/10/04/1600x900/SonyLIV-announces-foray-into-Africa-and-the-Caribb_1696401120283.jpg" group-title="𝐒𝐎𝐍𝐘 𝐋𝐈𝐕 | 𝐒𝐄𝐑𝐈𝐄𝐒" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9YTCLSc-R6s27adcP-KrkqzhPyvGkBrYf8Q&s", SONY LIV HINDI SERIES 9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A505F) AppleWebKit/537.36 Chrome/120.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Realme RMX3085) AppleWebKit/537.36 Chrome/119.0 Mobile Safari/537.36
 https://purple.07live.workers.dev/67287.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.livemint.com/lm-img/img/2023/10/04/1600x900/SonyLIV-announces-foray-into-Africa-and-the-Caribb_1696401120283.jpg" group-title="𝐒𝐎𝐍𝐘 𝐋𝐈𝐕 | 𝐒𝐄𝐑𝐈𝐄𝐒" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9YTCLSc-R6s27adcP-KrkqzhPyvGkBrYf8Q&s", SONY LIV HINDI SERIES 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Redmi Note 10) AppleWebKit/537.36 Chrome/121.0 Mobile Safari/537.36
 https://purple.07live.workers.dev/67288.m3u8
 #EXTINF:-1 tvg-id="DEFAULT" tvg-logo="https://images.financialexpressdigital.com/2025/06/Zee.PR_-4.jpeg?w=1200" group-title="𝐙𝐄𝐄 5 | 𝐒𝐄𝐑𝐈𝐄𝐒" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhXg_YeyUDbH4o2l1QJXqPEGalxIMO_KZJqw&s", OTT | ZEE 5 SERIES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Realme RMX3085) AppleWebKit/537.36 Chrome/119.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A505F) AppleWebKit/537.36 Chrome/120.0 Mobile Safari/537.36
 https://purple.07live.workers.dev/28260.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.financialexpressdigital.com/2025/06/Zee.PR_-4.jpeg?w=1200" group-title="𝐙𝐄𝐄 5 | 𝐒𝐄𝐑𝐈𝐄𝐒" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhXg_YeyUDbH4o2l1QJXqPEGalxIMO_KZJqw&s", ZEE 5 HINDI SERIES 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Realme RMX3085) AppleWebKit/537.36 Chrome/119.0 Mobile Safari/537.36
@@ -10502,22 +10505,22 @@ https://purple.07live.workers.dev/67291.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Realme RMX3085) AppleWebKit/537.36 Chrome/119.0 Mobile Safari/537.36
 https://purple.07live.workers.dev/67292.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.financialexpressdigital.com/2025/06/Zee.PR_-4.jpeg?w=1200" group-title="𝐙𝐄𝐄 5 | 𝐒𝐄𝐑𝐈𝐄𝐒" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhXg_YeyUDbH4o2l1QJXqPEGalxIMO_KZJqw&s", ZEE 5 HINDI SERIES 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A505F) AppleWebKit/537.36 Chrome/120.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Realme RMX3085) AppleWebKit/537.36 Chrome/119.0 Mobile Safari/537.36
 https://purple.07live.workers.dev/67293.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.financialexpressdigital.com/2025/06/Zee.PR_-4.jpeg?w=1200" group-title="𝐙𝐄𝐄 5 | 𝐒𝐄𝐑𝐈𝐄𝐒" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhXg_YeyUDbH4o2l1QJXqPEGalxIMO_KZJqw&s", ZEE 5 HINDI SERIES 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Redmi Note 10) AppleWebKit/537.36 Chrome/121.0 Mobile Safari/537.36
 https://purple.07live.workers.dev/67294.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.financialexpressdigital.com/2025/06/Zee.PR_-4.jpeg?w=1200" group-title="𝐙𝐄𝐄 5 | 𝐒𝐄𝐑𝐈𝐄𝐒" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhXg_YeyUDbH4o2l1QJXqPEGalxIMO_KZJqw&s", ZEE 5 HINDI SERIES 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Realme RMX3085) AppleWebKit/537.36 Chrome/119.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A505F) AppleWebKit/537.36 Chrome/120.0 Mobile Safari/537.36
 https://purple.07live.workers.dev/67295.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.financialexpressdigital.com/2025/06/Zee.PR_-4.jpeg?w=1200" group-title="𝐙𝐄𝐄 5 | 𝐒𝐄𝐑𝐈𝐄𝐒" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhXg_YeyUDbH4o2l1QJXqPEGalxIMO_KZJqw&s", ZEE 5 HINDI SERIES 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A505F) AppleWebKit/537.36 Chrome/120.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Realme RMX3085) AppleWebKit/537.36 Chrome/119.0 Mobile Safari/537.36
 https://purple.07live.workers.dev/67296.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.financialexpressdigital.com/2025/06/Zee.PR_-4.jpeg?w=1200" group-title="𝐙𝐄𝐄 5 | 𝐒𝐄𝐑𝐈𝐄𝐒" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhXg_YeyUDbH4o2l1QJXqPEGalxIMO_KZJqw&s", ZEE 5 HINDI SERIES 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Realme RMX3085) AppleWebKit/537.36 Chrome/119.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Redmi Note 10) AppleWebKit/537.36 Chrome/121.0 Mobile Safari/537.36
 https://purple.07live.workers.dev/67297.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.financialexpressdigital.com/2025/06/Zee.PR_-4.jpeg?w=1200" group-title="𝐙𝐄𝐄 5 | 𝐒𝐄𝐑𝐈𝐄𝐒" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhXg_YeyUDbH4o2l1QJXqPEGalxIMO_KZJqw&s", ZEE 5 HINDI SERIES 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Realme RMX3085) AppleWebKit/537.36 Chrome/119.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Redmi Note 10) AppleWebKit/537.36 Chrome/121.0 Mobile Safari/537.36
 https://purple.07live.workers.dev/67298.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.financialexpressdigital.com/2025/06/Zee.PR_-4.jpeg?w=1200" group-title="𝐙𝐄𝐄 5 | 𝐒𝐄𝐑𝐈𝐄𝐒" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhXg_YeyUDbH4o2l1QJXqPEGalxIMO_KZJqw&s", ZEE 5 HINDI SERIES 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Redmi Note 10) AppleWebKit/537.36 Chrome/121.0 Mobile Safari/537.36
@@ -10556,14 +10559,17 @@ https://purple.07live.workers.dev/67311.m3u8
 # ===== YUPPTV =====
 #EXTM3U
 
-#EXTINF:-1 tvg-id="wow-kidz-hindi" tvg-name="Wow Kidz Hindi" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/wow-kidz-new-hindi-black.png" group-title="𝐘𝐔𝐏𝐏𝐓𝐕 | Premium" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGrJSG9vNzlppDzaNtmNzDoZtAyac0622HmQ&s",Wow Kidz Hindi
-https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1778746678~exp=1778747278~acl=!*/181224/smil:wowkidzhindi.smil/*!yuppTVCom_5_-1_f82a3acfed294ff8_US_128.24.161.197/payload/yuppTVCom_5_-1_f82a3acfed294ff8_US_128.24.161.197/*~hmac=b180b79300e2045a615b91afd3562fa60adaef4e15d3e78059f507c36d2e35e3&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=HIN&ads.content_genre=Kids&ads.channel=4002&ads.channel_name=WOWKidz-Hindi&ads.network_name=yupptv&ads.user=0
+#EXTINF:-1 tvg-id="wow-kidz-tamil" tvg-name="Wow Kidz Tamil" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/wow-kidz-new-hindi-black.png" group-title="𝐘𝐔𝐏𝐏𝐓𝐕 | Premium" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGrJSG9vNzlppDzaNtmNzDoZtAyac0622HmQ&s",Wow Kidz Tamil
+https://yuppparoriglin.akamaized.net/181224/smil:wowkidztam.smil/playlist.m3u8?hdnts=st=1778755368~exp=1778755968~acl=!*/181224/smil:wowkidztam.smil/*!yuppTVCom_5_-1_f65760a457ef4036_US_52.233.87.87/payload/yuppTVCom_5_-1_f65760a457ef4036_US_52.233.87.87/*~hmac=82e69878b95fc35250afd8b42ee50696facf3a184e628895e79729e1465ddb62&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=TAM&ads.content_genre=Kids&ads.channel=4004&ads.channel_name=WOWKidz-Tamil&ads.network_name=yupptv&ads.user=0
 
 #EXTINF:-1 tvg-id="wow-kidz-telugu" tvg-name="Wow Kidz Telugu" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/wow-kidz-new-hindi-black.png" group-title="𝐘𝐔𝐏𝐏𝐓𝐕 | Premium" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGrJSG9vNzlppDzaNtmNzDoZtAyac0622HmQ&s",Wow Kidz Telugu
-https://yuppparoriglin.akamaized.net/181224/smil:wowkidztelgu.smil/playlist.m3u8?hdnts=st=1778746684~exp=1778747284~acl=!*/181224/smil:wowkidztelgu.smil/*!yuppTVCom_5_-1_177218a9b6664fce_US_128.24.161.197/payload/yuppTVCom_5_-1_177218a9b6664fce_US_128.24.161.197/*~hmac=fae83ecc6ab7ccb3898839ab70908fc0507b852bc8772c53d3ef2d7e05a7599d&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=TEL&ads.content_genre=Kids&ads.channel=4003&ads.channel_name=WOWKidz-Telugu&ads.network_name=yupptv&ads.user=0
+https://yuppparoriglin.akamaized.net/181224/smil:wowkidztelgu.smil/playlist.m3u8?hdnts=st=1778755368~exp=1778755968~acl=!*/181224/smil:wowkidztelgu.smil/*!yuppTVCom_5_-1_61122062869f49e3_US_52.233.87.87/payload/yuppTVCom_5_-1_61122062869f49e3_US_52.233.87.87/*~hmac=38fd1cd850c1492351766b22f556047cb147c22569c5a5f725da12de88cdcda3&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=TEL&ads.content_genre=Kids&ads.channel=4003&ads.channel_name=WOWKidz-Telugu&ads.network_name=yupptv&ads.user=0
+
+#EXTINF:-1 tvg-id="colors-bangla" tvg-name="Colors Bangla" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Colors_Bangla_HD_TV_white.png" group-title="𝐘𝐔𝐏𝐏𝐓𝐕 | Premium" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGrJSG9vNzlppDzaNtmNzDoZtAyac0622HmQ&s",Colors Bangla
+https://catchup.yuppcdn.net/amazonv2/38/preview/colorsbanglaus/master/chunklist.m3u8?hdnts=st=1778755369~exp=1778755969~acl=!*/38/preview/colorsbanglaus/*!yuppTVCom_5_-1_a99ff25fc857478b_US_52.233.87.87/payload/yuppTVCom_5_-1_a99ff25fc857478b_US_52.233.87.87/*~hmac=6126b14cfdefcdcf389daaf00f6989429001c97ecc945b38daaf7260ac9be946&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=BEN&ads.content_genre=ENT&ads.channel=6887&ads.channel_name=ColorsBanglaUS&ads.network_name=yupptv&ads.user=0
 
 #EXTINF:-1 tvg-id="rupashi-bangla" tvg-name="Rupashi Bangla" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/rupashi-bangla-black.png" group-title="𝐘𝐔𝐏𝐏𝐓𝐕 | Premium" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGrJSG9vNzlppDzaNtmNzDoZtAyac0622HmQ&s",Rupashi Bangla
-https://livegeoroueu.akamaized.net/28072023/smil:rupashibangla.smil/playlist.m3u8?hdnts=st=1778746692~exp=1778747292~acl=!*/28072023/smil:rupashibangla.smil/*!yuppTVCom_5_-1_92fc21fbc8ab4782_US_128.24.161.197/payload/yuppTVCom_5_-1_92fc21fbc8ab4782_US_128.24.161.197/*~hmac=bca0570db3933784d7148f348f7ed23c318ff4656eb73001ea68f48a3027a495&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=BEN&ads.content_genre=ENT&ads.channel=238&ads.channel_name=RupashiBangla&ads.network_name=yupptv&ads.user=0
+https://livegeoroueu.akamaized.net/28072023/smil:rupashibangla.smil/playlist.m3u8?hdnts=st=1778755370~exp=1778755970~acl=!*/28072023/smil:rupashibangla.smil/*!yuppTVCom_5_-1_5be8e11130304b0e_US_52.233.87.87/payload/yuppTVCom_5_-1_5be8e11130304b0e_US_52.233.87.87/*~hmac=0166dc6cfa319d64c1c79663db3e8f909f0283ffa104efec313f6465f36f33db&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=BEN&ads.content_genre=ENT&ads.channel=238&ads.channel_name=RupashiBangla&ads.network_name=yupptv&ads.user=0
 
 #EXTINF:-1 tvg-name="Promo" group-title="𝐘𝐔𝐏𝐏𝐓𝐕 | PROMO" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGrJSG9vNzlppDzaNtmNzDoZtAyac0622HmQ&s" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyniKyW9pUz1OKx5bgzLASwGVSuP0e7hX9FxVMTJMHxhu8X0tpucgSplBZgM8pCYrJJH0P2_dTC1-wzp4mMUU4sKnOzghGPCwWdbYOOa4jTyhpr7ydNj-UK-bc56IMsk2H3WZJ-SzSZIk0dTpyABCFR2_zjC2_c86W1pv7odFBT_Y-hyJs62g-3zCJkPGd/s1024/1000398131.png",PlayZ TV
 https://playztv.pages.dev/promo/master.m3u8

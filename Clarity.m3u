@@ -2016,7 +2016,7 @@ http://103.159.180.34:5001/live/3111.m3u8
 #EXTINF:-1 tvg-id="3113" tvg-name="Jk Samachar News 24x7" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jk_Samachar_24x7.png" tvg-language="Hindi" group-title="News", Jk Samachar News 24x7
 http://103.159.180.34:5001/live/3113.m3u8
 #EXTINF:-1 tvg-id="3115" tvg-name="Jay Jagannath" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jay_Jagannath.png" tvg-language="Odia" group-title="Devotional", Jay Jagannath
-http://103.159.180.34:5001/live/3115.m3u8
+https://mumbai-edge.smartplaytv.in/jayjagannath/index.m3u8
 #EXTINF:-1 tvg-id="3117" tvg-name="Rajya 24 News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rajya_24_News.png" tvg-language="Hindi" group-title="News", Rajya 24 News
 https://transcoding29.livebox.co.in/rajya24hls/rajya.m3u8
 #EXTINF:-1 tvg-id="3118" tvg-name="DD Swayam Prabha 23" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_SWAYAM_PRABHA_23.png" tvg-language="English" group-title="Educational", DD Swayam Prabha 23

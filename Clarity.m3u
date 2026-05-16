@@ -1464,7 +1464,7 @@ http://103.159.180.34:5001/live/1690.m3u8
 #EXTINF:-1 tvg-id="1691" tvg-name="Zee Classic" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeClassic.png" tvg-language="Hindi" group-title="Movies", Zee Classic
 http://103.159.180.34:5001/live/1691.m3u8
 #EXTINF:-1 tvg-id="1692" tvg-name="Badakhabar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Badakhabar.png" tvg-language="Odia" group-title="News", Badakhabar
-http://103.159.180.34:5001/live/1692.m3u8
+https://mumbai-edge.smartplaytv.in/BADAKHABAR/index.m3u8
 #EXTINF:-1 tvg-id="1694" tvg-name="Haryana Beats" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Haryana_Beats.png" tvg-language="Hindi" group-title="Music", Haryana Beats
 https://legitpro.co.in/haryanabeat/haryanabeat/index.m3u8
 #EXTINF:-1 tvg-id="1695" tvg-name="Prime TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Prime_TV.png" tvg-language="Hindi" group-title="News", Prime TV

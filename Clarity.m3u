@@ -14,7 +14,7 @@ http://149.71.34.166:8002/play/a01b/index.m3u8
 #KODIPROP:mimetype=application/dash+xml
 https://zee5.cr7x.workers.dev/live/999/999/0-9-9z5383489/master.m3u8
 #EXTINF:-1 tvg-id="154" tvg-name="Sony SAB" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png" tvg-language="Hindi" group-title="Entertainment", Sony SAB
-https://ottbanglaplatform.com/tv/toffee/live.php?id=sonysab_hd&e=.m3u8
+#https://ottbanglaplatform.com/tv/toffee/live.php?id=sonysab_hd&e=.m3u8
 #EXTINF:-1 tvg-id="155" tvg-name="Sony Ten 5 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" tvg-language="English" group-title="Sports", Sony Ten 5 HD
 https://sonyliv.07in.workers.dev/live/999/999/sony-sports-ten-5-hd.m3u8
 #EXTINF:-1 tvg-id="156" tvg-name="Star Gold HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_HD.png" tvg-language="Hindi" group-title="Movies", Star Gold HD
@@ -84,7 +84,7 @@ http://103.159.180.34:5001/live/286.m3u8
 #EXTINF:-1 tvg-id="288" tvg-name="Sanskar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sanskar.png" tvg-language="Hindi" group-title="Devotional", Sanskar
 https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
 #EXTINF:-1 tvg-id="289" tvg-name="Sony Max SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png" tvg-language="Hindi" group-title="Movies", Sony Max SD
-https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_max_hd&e=.m3u8
+https://sonyliv.07in.workers.dev/live/999/999/sony-max.m3u8
 #EXTINF:-1 tvg-id="290" tvg-name="sonic Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/sonic_Tamil.png" tvg-language="Tamil" group-title="Kids", sonic Tamil
 http://103.159.180.34:5001/live/290.m3u8
 #EXTINF:-1 tvg-id="291" tvg-name="SET HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" tvg-language="Hindi" group-title="Entertainment", SET HD
@@ -174,7 +174,7 @@ http://103.159.180.34:5001/live/445.m3u8
 #EXTINF:-1 tvg-id="457" tvg-name="Jalsha Movies HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" tvg-language="Bengali" group-title="Movies", Jalsha Movies HD
 #http://103.159.180.34:5001/live/457.m3u8
 #EXTINF:-1 tvg-id="459" tvg-name="Asianet Movies HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asianet_Movies_HD.png" tvg-language="Malayalam" group-title="Movies", Asianet Movies HD
-http://103.159.180.34:5001/live/459.m3u8
+http://149.71.34.166:8000/play/a06e/index.m3u8
 #EXTINF:-1 tvg-id="460" tvg-name="Star Sports Select 1 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_1.png" tvg-language="English" group-title="Sports", Star Sports Select 1 HD
 http://103.122.249.134:8000/play/a039
 #EXTINF:-1 tvg-id="461" tvg-name="Star Sports Select 2 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_2.png" tvg-language="English" group-title="Sports", Star Sports Select 2 HD
@@ -192,7 +192,11 @@ https://sonyliv.07in.workers.dev/live/999/999/sony-sab-hd.m3u8
 #EXTINF:-1 tvg-id="472" tvg-name="And TV HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AndTVHD.png" tvg-language="Hindi" group-title="Entertainment", And TV HD
 http://103.159.180.34:5001/live/472.m3u8
 #EXTINF:-1 tvg-id="473" tvg-name="Anmol TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeAnmol.png" tvg-language="Hindi" group-title="Entertainment", Anmol TV
-https://ottbanglaplatform.com/tv/toffee/live.php?id=zee_anmol&e=.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+#KODIPROP:mimetype=application/dash+xml
+http://103.175.73.12:8080/live/256/256_0.m3u8
 #EXTINF:-1 tvg-id="474" tvg-name="Sony Pal" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyPAL.png" tvg-language="Hindi" group-title="Entertainment", Sony Pal
 https://sonyliv.07in.workers.dev/live/999/999/sony-pal.m3u8
 #EXTINF:-1 tvg-id="476" tvg-name="Sony Max HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyMAX.png" tvg-language="Hindi" group-title="Movies", Sony Max HD
@@ -204,7 +208,7 @@ http://103.159.180.34:5001/live/479.m3u8
 #EXTINF:-1 tvg-id="482" tvg-name="Colors Cineplex" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex.png" tvg-language="Hindi" group-title="Movies", Colors Cineplex
 http://103.159.180.34:5001/live/482.m3u8
 #EXTINF:-1 tvg-id="483" tvg-name="Sony MAX2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyMAX2.png" tvg-language="Hindi" group-title="Movies", Sony MAX2
-https://ottbanglaplatform.com/tv/toffee/live.php?id=sonymax_2&e=.m3u8
+https://sonyliv.07in.workers.dev/live/999/999/sony-max-2.m3u8
 #EXTINF:-1 tvg-id="484" tvg-name="Zee Cinema" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeCinema.png" tvg-language="Hindi" group-title="Movies", Zee Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15
 #KODIPROP:inputstream=inputstream.adaptive
@@ -214,7 +218,11 @@ https://zee5.cr7x.workers.dev/live/999/999/0-9-zeecinema/master.m3u8
 #EXTINF:-1 tvg-id="487" tvg-name="Zee Bollywood" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeBollywood.png" tvg-language="Hindi" group-title="Movies", Zee Bollywood
 http://149.71.34.166:8000/play/a01q/index.m3u8
 #EXTINF:-1 tvg-id="488" tvg-name="Zee Action" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeAction.png" tvg-language="Hindi" group-title="Movies", Zee Action
-https://ottbanglaplatform.com/tv/toffee/live.php?id=zee_action&e=.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+#KODIPROP:mimetype=application/dash+xml
+http://103.175.73.12:8080/live/270/270_0.m3u8
 #EXTINF:-1 tvg-id="489" tvg-name="CNBC TV18" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNBCTV18.png" tvg-language="English" group-title="Business", CNBC TV18
 https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-id="490" tvg-name="CNBC Bajar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNBCBajar.png" tvg-language="Gujarati" group-title="Business", CNBC Bajar
@@ -252,7 +260,7 @@ https://mumt03.tangotv.in/INDIANEWSUP/index.m3u8
 #EXTINF:-1 tvg-id="513" tvg-name="India News Rajasthan" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_News_Rajasthan.png" tvg-language="Hindi" group-title="News", India News Rajasthan
 http://103.159.180.34:5001/live/513.m3u8
 #EXTINF:-1 tvg-id="514" tvg-name="Sony Ten 1" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_1.png" tvg-language="English" group-title="Sports", Sony Ten 1
-https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_1_hd&e=.m3u8
+https://sonyliv.07in.workers.dev/live/999/999/sony-sports-ten-1.m3u8
 #EXTINF:-1 tvg-id="515" tvg-name="India News MP" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_News_MP.png" tvg-language="Hindi" group-title="News", India News MP
 https://mumt03.tangotv.in/INDIANEWSMPCG/index.m3u8
 #EXTINF:-1 tvg-id="516" tvg-name="India News Haryana" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_News_Haryana.png" tvg-language="Hindi" group-title="News", India News Haryana
@@ -268,11 +276,11 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/in
 #EXTINF:-1 tvg-id="522" tvg-name="Sansad TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Loksabha_TV.png" tvg-language="Hindi" group-title="News", Sansad TV
 https://hls.media.nic.in/hls/live/lstv/lstv.m3u8
 #EXTINF:-1 tvg-id="523" tvg-name="Ten 2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_2.png" tvg-language="English" group-title="Sports", Ten 2
-https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_2_hd&e=.m3u8
+https://sonyliv.07in.workers.dev/live/999/999/sony-sports-ten-2.m3u8
 #EXTINF:-1 tvg-id="524" tvg-name="Sony Ten 3 Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_3.png" tvg-language="Hindi" group-title="Sports", Sony Ten 3 Hindi
-https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_3_hd&e=.m3u8
+https://sonyliv.07in.workers.dev/live/999/999/sony-sports-ten-3.m3u8
 #EXTINF:-1 tvg-id="525" tvg-name="Sony Ten 5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Six_SD.png" tvg-language="English" group-title="Sports", Sony Ten 5
-https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_5_hd&e=.m3u8
+https://sonyliv.07in.workers.dev/live/999/999/sony-sports-ten-5.m3u8
 #EXTINF:-1 tvg-id="527" tvg-name="Investigation Discovery Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/IDHindi.png" tvg-language="Hindi" group-title="Entertainment", Investigation Discovery Hindi
 http://103.159.180.34:5001/live/527.m3u8
 #EXTINF:-1 tvg-id="528" tvg-name="DD India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_India.png" tvg-language="Hindi" group-title="Entertainment", DD India
@@ -546,7 +554,7 @@ https://mumt01.tangotv.in/DDSAHYADRI/index.m3u8
 #EXTINF:-1 tvg-id="696" tvg-name="News18 Odia" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News18odia.png" tvg-language="Odia" group-title="News", News18 Odia
 https://n18syndication.akamaized.net/bpk-tv/News18_Odia_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="697" tvg-name="Sony aath" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyAATH.png" tvg-language="Bengali" group-title="Entertainment", Sony aath
-https://ottbanglaplatform.com/tv/toffee/live.php?id=sonyaath&e=.m3u8
+https://sonyliv.07in.workers.dev/live/999/999/sony-aath.m3u8
 #EXTINF:-1 tvg-id="698" tvg-name="Aakash Aath" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aakaash_bangla.png" tvg-language="Bengali" group-title="Entertainment", Aakash Aath
 https://mumt03.tangotv.in/AAKASHAATH/index.m3u8
 #EXTINF:-1 tvg-id="699" tvg-name="DD Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Malayalam.png" tvg-language="Malayalam" group-title="Entertainment", DD Malayalam
@@ -1278,7 +1286,7 @@ https://sonyliv.07in.workers.dev/live/999/999/sony-wah.m3u8
 #EXTINF:-1 tvg-id="1394" tvg-name="Jai Maharashtra" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jai_Maharashtra.png" tvg-language="Marathi" group-title="News", Jai Maharashtra
 https://mumt03.tangotv.in/JAIMAHARASHTRA/index.m3u8
 #EXTINF:-1 tvg-id="1396" tvg-name="Set SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SD.png" tvg-language="Hindi" group-title="Entertainment", Set SD
-https://ottbanglaplatform.com/tv/toffee/live.php?id=sonyentertainmnt_hd&e=.m3u8
+#https://ottbanglaplatform.com/tv/toffee/live.php?id=sonyentertainmnt_hd&e=.m3u8
 #EXTINF:-1 tvg-id="1401" tvg-name="Romedy Now" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Romedy_Now_HD.png" tvg-language="English" group-title="Movies", Romedy Now
 http://103.159.180.34:5001/live/1401.m3u8
 #EXTINF:-1 tvg-id="1403" tvg-name="Republic Bharat" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Republic_Bharat.png" tvg-language="Hindi" group-title="News", Republic Bharat
@@ -2412,7 +2420,7 @@ https://hls.rojatv.cloud/rojatv/rojatv/index.m3u8
 #EXTINF:-1 tvg-id="3417" tvg-name="Roja Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/rojamovies.png" tvg-language="Tamil" group-title="Movies", Roja Movies
 https://hls.rojatv.cloud/rojamovies/rojamovies/index.m3u8
 #EXTINF:-1 tvg-id="3424" tvg-name="Sony Yay Bengali" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyYAYBen.png" tvg-language="Bengali" group-title="Kids", Sony Yay Bengali
-https://ottbanglaplatform.com/tv/toffee/live.php?id=sonyyay&e=.m3u8
+#https://ottbanglaplatform.com/tv/toffee/live.php?id=sonyyay&e=.m3u8
 #EXTINF:-1 tvg-id="3425" tvg-name="Discovery Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DiscoveryMal.png" tvg-language="Malayalam" group-title="Infotainment", Discovery Malayalam
 http://103.159.180.34:5001/live/3425.m3u8
 #EXTINF:-1 tvg-id="3427" tvg-name="Sansad TV 1 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SansadTV1HD.png" tvg-language="Hindi" group-title="News", Sansad TV 1 HD
@@ -2569,3 +2577,5 @@ http://103.159.180.34:5001/live/3544.m3u8
 http://103.159.180.34:5001/live/3546.m3u8
 #EXTINF:-1 tvg-id="3548" tvg-name="NKR TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NKRTV.png" tvg-language="Kannada" group-title="Entertainment", NKR TV
 https://stream.ottlive.co.in/nkrtv/index.m3u8
+#EXTINF:-1 tvg-id="3549" tvg-name="Yug Abhiyan Times" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YugAbhiyanTimes.jpg" tvg-language="Hindi" tvg-type="News" group-title="News", Yug Abhiyan Times
+http://103.159.180.34:5001/live/3549.m3u8

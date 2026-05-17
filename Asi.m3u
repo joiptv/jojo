@@ -1,19 +1,5 @@
 [
   {
-    "id": "1",
-    "name": "CloudPlay",
-    "group": "General",
-    "logo": "https://i.postimg.cc/2Sn2JdvP/cloudplay2.png",
-    "user_agent": "https://t.me/cloudply || @cloudplay",
-    "type": "hls",
-    "m3u8_url": "https://cloudplay-sonyliv.pages.dev/intro/intro.ts",
-    "headers": {
-      "cookie": "",
-      "Origin": "https://t.me/cloudply || @cloudplay",
-      "Referer": "https://t.me/cloudply || @cloudplay"
-    }
-  },
-  {
     "id": "100",
     "name": "Polimer News",
     "group": "General",

@@ -529,7 +529,7 @@ http://103.159.180.34:5001/live/678.m3u8
 #EXTINF:-1 tvg-id="682" tvg-name="Sun Life" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Life.png" tvg-language="Tamil" group-title="Movies", Sun Life
 http://103.159.180.34:5001/live/682.m3u8
 #EXTINF:-1 tvg-id="683" tvg-name="Raj Digital Plus" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Digital_Plus.png" tvg-language="Tamil" group-title="Movies", Raj Digital Plus
-https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8
+http://103.159.180.34:5001/live/683.m3u8
 #EXTINF:-1 tvg-id="684" tvg-name="Sun Gemini Life" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Life.png" tvg-language="Telugu" group-title="Movies", Sun Gemini Life
 https://mumbai-edge.smartplaytv.in/GeminiLife/index.m3u8
 #EXTINF:-1 tvg-id="686" tvg-name="Alankar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Alankar_TV.png" tvg-language="Odia" group-title="Movies", Alankar
@@ -639,7 +639,7 @@ http://103.159.180.34:5001/live/744.m3u8
 #EXTINF:-1 tvg-id="747" tvg-name="Sun Surya Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Music.png" tvg-language="Malayalam" group-title="Music", Sun Surya Music
 http://103.159.180.34:5001/live/747.m3u8
 #EXTINF:-1 tvg-id="748" tvg-name="Raj Musix" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Musix.png" tvg-language="Tamil" group-title="Music", Raj Musix
-https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8
+http://103.159.180.34:5001/live/748.m3u8
 #EXTINF:-1 tvg-id="751" tvg-name="Tarang Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Tarang_Music.png" tvg-language="Odia" group-title="Music", Tarang Music
 https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8
 #EXTINF:-1 tvg-id="755" tvg-name="Colors Marathi HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" tvg-language="Marathi" group-title="Entertainment", Colors Marathi HD
@@ -828,7 +828,7 @@ https://d2px1d6ssc60fw.cloudfront.net/SunTV/SunTV-HDR10-IN-index.m3u8
 #EXTINF:-1 tvg-id="897" tvg-name="Sun Gemini HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_TV_HD.png" tvg-language="Telugu" group-title="Entertainment", Sun Gemini HD
 http://103.159.180.34:5001/live/897.m3u8
 #EXTINF:-1 tvg-id="898" tvg-name="Sun Gemini Music HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Music_HD.png" tvg-language="Telugu" group-title="Music", Sun Gemini Music HD
-http://103.159.180.34:5001/live/898.m3u8
+https://mumbai-edge.smartplaytv.in/GeminiMusicHD/index.m3u8
 #EXTINF:-1 tvg-id="899" tvg-name="Sun Gemini Movies HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Movies_HD.png" tvg-language="Telugu" group-title="Movies", Sun Gemini Movies HD
 https://mumbai-edge.smartplaytv.in/GeminiMoviesHD/index.m3u8
 #EXTINF:-1 tvg-id="900" tvg-name="Sun Surya HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_HD.png" tvg-language="Malayalam" group-title="Entertainment", Sun Surya HD

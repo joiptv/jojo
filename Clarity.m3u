@@ -331,7 +331,7 @@ http://103.159.180.34:5001/live/556.m3u8
 #EXTINF:-1 tvg-id="557" tvg-name="Chutti TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Chutti_TV.png" tvg-language="Tamil" group-title="Kids", Chutti TV
 http://103.159.180.34:5001/live/557.m3u8
 #EXTINF:-1 tvg-id="558" tvg-name="Kushi TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kushi_TV.png" tvg-language="Telugu" group-title="Kids", Kushi TV
-https://mumbai-edge.smartplaytv.in/KushiTV/index.m3u8
+http://103.159.180.34:5001/live/558.m3u8
 #EXTINF:-1 tvg-id="559" tvg-name="Pogo Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Hindi.png" tvg-language="Hindi" group-title="Kids", Pogo Hindi
 http://103.159.180.34:5001/live/559.m3u8
 #EXTINF:-1 tvg-id="560" tvg-name="GOOD TiMES" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_Good_Times.png" tvg-language="English" group-title="Lifestyle", GOOD TiMES

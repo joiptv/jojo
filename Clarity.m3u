@@ -1891,7 +1891,7 @@ https://desitashantv.livebox.co.in/oyemusichls/oyemusic.m3u8
 https://desitashantv.livebox.co.in/updateindiahls/updateindia.m3u8
 #EXTINF:-1 tvg-id="2945" tvg-name="Tar TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Tar_TV.png" tvg-language="Hindi" group-title="News", Tar TV
 http://103.159.180.34:5001/live/2945.m3u8
-#EXTINF:-1 tvg-id="2946" tvg-name="National News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/National_News.png" tvg-language="Hindi" group-title="News", National News
+#EXTINF:-1 tvg-id="2946" tvg-name="Rashtra Live Prime" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/National_News.png" tvg-language="Hindi" group-title="News", Rashtra Live Prime
 http://103.159.180.34:5001/live/2946.m3u8
 #EXTINF:-1 tvg-id="2947" tvg-name="Jeewan Bhakti" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jeewan_Bhakti.png" tvg-language="Hindi" group-title="Devotional", Jeewan Bhakti
 http://103.159.180.34:5001/live/2947.m3u8

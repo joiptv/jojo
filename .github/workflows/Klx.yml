@@ -21,6 +21,8 @@ jobs:
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v4.2.2
+        with:
+          fetch-depth: 0 # Fetches all history so rebase can execute smoothly
 
       - name: Download Updated File
         run: |
@@ -37,10 +39,17 @@ jobs:
           if ! git diff --cached --quiet; then
             git commit -m "chore: update Klx.m3u from external source"
             
-            # Fetch latest changes and apply local commit on top to avoid conflicts
+            # Fetch explicitly before pulling to align the local reference pointers
+            git fetch origin main
             git pull --rebase origin main
             
-            git push origin main
+            # Attempt to push; if it fails due to a rapid race condition, retry once safely
+            git push origin main || {
+              echo "Push failed, retrying with an emergency rebase..."
+              git fetch origin main
+              git pull --rebase origin main
+              git push origin main
+            }
           else
             echo "No updates to sync."
           fi

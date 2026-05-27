@@ -24,7 +24,7 @@ jobs:
 
       - name: Download Updated File
         run: |
-          curl -L "https://jiotvplus.dr-strange.workers.dev/api/jiotvplus.m3u" -o Klx.m3u
+          curl -L "https://jio.infinitytv.indevs.in?playlist" -o Klx.m3u
 
       - name: Commit and Push Changes
         run: |

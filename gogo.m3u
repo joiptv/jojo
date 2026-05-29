@@ -1,5 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="telegram.stream4khub" tvg-name="📢 JOIN: @stream4khub" tvg-logo="https://cdn4.telegram-cdn.org/file/stream4khub.jpg" group-title="📢 INFO",📢 JOIN Telegram: @stream4khub
+https://t.me/stream4khub
 
+#EXTM3U x-tvg-url="" logo="https://i.ibb.co/JjH9NzHb/Screenshot-2026-05-17-07-30-30-458-com-google-android-googlequicksearchbox-edit.jpg"
+#EXTREM: Join our Telegram: https://t.me/your_telegram_link
+#EXTINF:-1 tvg-id="tg" tvg-name="Join Telegram" tvg-logo="https://i.ibb.co/JjH9NzHb/Screenshot-2026-05-17-07-30-30-458-com-google-android-googlequicksearchbox-edit.jpg" group-title="JioTV SUPPORT",Join Telegram for Updates
+https://servertvhub.site/jiotv+/video.mp4
 
 #EXTINF:-1 tvg-id="143" tvg-name="CNBC TV18 Prime" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBCTV18Prime.png" group-title="JioTv+ ENGLISH",CNBC TV18 Prime
 #KODIPROP:inputstream.adaptive.manifest_type=mpd

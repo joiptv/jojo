@@ -3,28 +3,47 @@ name: M3U പ്ലേലിസ്റ്റ് അപ്ഡേറ്റ്
 on:
   schedule:
     - cron: '*/30 * * * *'
+  workflow_dispatch: # മാനുവലായി റൺ ചെയ്യാനും ഇത് സഹായിക്കും
+
+# ഒരേ സമയം ഒന്നിൽ കൂടുതൽ വർക്ക്ഫ്ലോ റൺ ചെയ്ത് ലോക്ക് ആകാതിരിക്കാൻ ഇത് ചേർക്കുക
+concurrency:
+  group: playlist-update
+  cancel-in-progress: true
 
 jobs:
   update-playlist:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # മുഴുവൻ ഹിസ്റ്ററിയും ഫെച്ച് ചെയ്യാൻ
 
-      - name: M3U ഫയൽ ഡൗൺലോഡ് ചെയ്യുക
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Download and Process M3U Links
         run: |
           curl -L "http://gojojtv.gojosare123.workers.dev" -o gogo.m3u
 
-      - name: ലിങ്കുകൾ വേർതിരിച്ച് അപ്ഡേറ്റ് ചെയ്യുക
-        run: |
-          # The URLs in an M3U file usually appear on lines not starting with #
-          grep -v '^#' playlist.m3u > links.txt
-          # Add your custom logic here to process links.txt and commit it to the repository
-
-      - name: മാറ്റങ്ങൾ കമ്മിറ്റ് ചെയ്യുക
+      - name: Commit and Push Changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add playlist.m3u links.txt
-          git commit -m "അപ്ഡേറ്റ് ചെയ്ത M3U പ്ലേലിസ്റ്റും ലിങ്കുകളും"
-          git push
-
+          
+          # മാറ്റങ്ങൾ ഉണ്ടെങ്കിൽ മാത്രം സ്റ്റേജ് ചെയ്യുക
+          git add Zoh.m3u
+          
+          # എന്തെങ്കിലും മാറ്റമുണ്ടോ എന്ന് ചെക്ക് ചെയ്യുക
+          if git diff --staged --quiet; then
+            echo "മാറ്റങ്ങൾ ഒന്നും തന്നെയില്ല."
+          else
+            git commit -m "chore: update Zoh.m3u from external source"
+            
+            # പുഷ് ചെയ്യുന്നതിന് മുൻപ് സെർവറിലെ മാറ്റങ്ങൾ പുൾ ചെയ്ത് റീബേസ് ചെയ്യുക (ലോക്ക് ഒഴിവാക്കാൻ)
+            git pull --rebase origin main
+            
+            # നോർമൽ പുഷ് ചെയ്യുക (ഫ്രോഴ്സ് പുഷ് ഒഴിവാക്കുന്നതാണ് നല്ലത്)
+            git push origin main
+          fi

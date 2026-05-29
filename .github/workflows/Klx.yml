@@ -1,55 +1,44 @@
-name: Sync kx
-
-# Global environment setting to suppress and force Node 24
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+name: klx
 
 on:
   schedule:
     - cron: '*/30 * * * *'
   workflow_dispatch:
-  push:
-    branches:
-      - main
+
+concurrency:
+  group: playlist-update
+  cancel-in-progress: true
 
 jobs:
-  update_jojo:
+  update-playlist:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
     steps:
-      - name: Checkout Repo
-        uses: actions/checkout@v4.2.2
+      - uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Fetches all history so rebase can execute smoothly
+          fetch-depth: 0
 
-      - name: Download Updated File
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Download and Process M3U Links
         run: |
+          # പുതിയ URL-ൽ നിന്ന് Klx.m3u എന്ന പേരിലേക്ക് പ്ലേലിസ്റ്റ് ഡൗൺലോഡ് ചെയ്യുന്നു
           curl -L "https://jio.infinitytv.indevs.in?playlist" -o Klx.m3u
 
       - name: Commit and Push Changes
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           
+          # Klx.m3u ഫയൽ സ്റ്റേജ് ചെയ്യുന്നു
           git add Klx.m3u
           
-          # Only proceed if changes are detected
-          if ! git diff --cached --quiet; then
-            git commit -m "chore: update Klx.m3u from external source"
-            
-            # Fetch explicitly before pulling to align the local reference pointers
-            git fetch origin main
-            git pull --rebase origin main
-            
-            # Attempt to push; if it fails due to a rapid race condition, retry once safely
-            git push origin main || {
-              echo "Push failed, retrying with an emergency rebase..."
-              git fetch origin main
-              git pull --rebase origin main
-              git push origin main
-            }
+          if git diff --staged --quiet; then
+            echo "പ്ലേലിസ്റ്റിൽ പുതിയ മാറ്റങ്ങൾ ഒന്നും തന്നെയില്ല."
           else
-            echo "No updates to sync."
+            git commit -m "chore: update Klx.m3u from external source"
+            git pull --rebase origin main
+            git push origin main
           fi

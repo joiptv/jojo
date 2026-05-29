@@ -1,0 +1,30 @@
+name: M3U പ്ലേലിസ്റ്റ് അപ്ഡേറ്റ്
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: M3U ഫയൽ ഡൗൺലോഡ് ചെയ്യുക
+        run: |
+          curl -L "http://gojojtv.gojosare123.workers.dev" -o playlist.m3u
+
+      - name: ലിങ്കുകൾ വേർതിരിച്ച് അപ്ഡേറ്റ് ചെയ്യുക
+        run: |
+          # The URLs in an M3U file usually appear on lines not starting with #
+          grep -v '^#' playlist.m3u > links.txt
+          # Add your custom logic here to process links.txt and commit it to the repository
+
+      - name: മാറ്റങ്ങൾ കമ്മിറ്റ് ചെയ്യുക
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add playlist.m3u links.txt
+          git commit -m "അപ്ഡേറ്റ് ചെയ്ത M3U പ്ലേലിസ്റ്റും ലിങ്കുകളും"
+          git push
+

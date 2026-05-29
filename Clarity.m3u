@@ -2591,3 +2591,5 @@ http://103.159.180.34:5001/live/3546.m3u8
 https://stream.ottlive.co.in/nkrtv/index.m3u8
 #EXTINF:-1 tvg-id="3549" tvg-name="Yug Abhiyan Times" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YugAbhiyanTimes.jpg" tvg-language="Hindi" tvg-type="News" group-title="News", Yug Abhiyan Times
 http://103.159.180.34:5001/live/3549.m3u8
+#EXTINF:-1 tvg-id="3550" tvg-name="Nijam TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/nijamtv.png" tvg-language="Tamil" tvg-type="Devotional" group-title="Devotional", Nijam TV
+https://stream.galaxyott.live/live/nijamtv/index.m3u8

@@ -12,7 +12,7 @@ jobs:
 
       - name: M3U ഫയൽ ഡൗൺലോഡ് ചെയ്യുക
         run: |
-          curl -L "http://gojojtv.gojosare123.workers.dev" -o playlist.m3u
+          curl -L "http://gojojtv.gojosare123.workers.dev" -o gogo.m3u
 
       - name: ലിങ്കുകൾ വേർതിരിച്ച് അപ്ഡേറ്റ് ചെയ്യുക
         run: |

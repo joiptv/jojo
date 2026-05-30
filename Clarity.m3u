@@ -2593,3 +2593,7 @@ https://stream.ottlive.co.in/nkrtv/index.m3u8
 http://103.159.180.34:5001/live/3549.m3u8
 #EXTINF:-1 tvg-id="3550" tvg-name="Nijam TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/nijamtv.png" tvg-language="Tamil" tvg-type="Devotional" group-title="Devotional", Nijam TV
 https://stream.galaxyott.live/live/nijamtv/index.m3u8
+#EXTINF:-1 tvg-id="3551" tvg-name="BBC Gujarati" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/BBC_Gujarati.png" tvg-language="Gujarati" tvg-type="News" group-title="News", BBC Gujarati
+http://103.159.180.34:5001/live/3551.m3u8
+#EXTINF:-1 tvg-id="3552" tvg-name="BBC Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/BBC_Marathi.png" tvg-language="Marathi" tvg-type="News" group-title="News", BBC Marathi
+http://103.159.180.34:5001/live/3552.m3u8

@@ -2597,3 +2597,9 @@ https://stream.galaxyott.live/live/nijamtv/index.m3u8
 http://103.159.180.34:5001/live/3551.m3u8
 #EXTINF:-1 tvg-id="3552" tvg-name="BBC Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/BBC_Marathi.png" tvg-language="Marathi" tvg-type="News" group-title="News", BBC Marathi
 http://103.159.180.34:5001/live/3552.m3u8
+#EXTINF:-1 tvg-id="3553" tvg-name="Padel Time TV " tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PadeltimeTV.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Padel Time TV 
+http://103.159.180.34:5001/live/3553.m3u8
+#EXTINF:-1 tvg-id="3555" tvg-name="Knock TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/KnockTV.png" tvg-language="Punjabi" tvg-type="Entertainment" group-title="Entertainment", Knock TV
+http://103.159.180.34:5001/live/3555.m3u8
+#EXTINF:-1 tvg-id="3556" tvg-name="Knock News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/KnockNews.png" tvg-language="Punjabi" tvg-type="News" group-title="News", Knock News
+http://103.159.180.34:5001/live/3556.m3u8

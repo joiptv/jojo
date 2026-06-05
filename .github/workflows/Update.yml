@@ -1,41 +1,77 @@
-name: Sync Clarity File from External Link
-
-# Global environment setting to suppress and force Node 24
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-
-on:
-  schedule:
-    - cron: '*/30 * * * *'
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  update_jojo:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
-    steps:
-      - name: Checkout Repo
-        uses: actions/checkout@v4.2.2
-
-      - name: Download Updated File
-        run: curl -L "https://raw.githubusercontent.com/amazeyourself/m3u/refs/heads/main/jtv.m3u" -o Clarity.m3u
-
-      - name: Commit and Push Changes
+      - name: Extract Links and Create New Playlist
+        shell: python
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          
-          git add Clarity.m3u
-          
-          # Only proceed if changes are detected
-          if ! git diff --cached --quiet; then
-            git commit -m "chore: update Clarity.m3u from external source"
-            git push origin main
-          else
-            echo "No updates to sync."
-          fi
+          import re
+          from urllib.parse import urlparse, urlunparse
+
+          input_file = "Ser.m3u"
+          output_file = "New_Codes.m3u"
+
+          # Define your NEW codes/credentials here
+          NEW_USER = "your_new_username"
+          NEW_PASS = "your_new_password"
+          NEW_TOKEN = "your_new_token_if_needed"
+
+          try:
+              with open(input_file, "r", encoding="utf-8") as f:
+                  lines = f.readlines()
+          except FileNotFoundError:
+              print(f"Error: {input_file} not found.")
+              exit(1)
+
+          new_playlist = ["#EXTM3U\n"]
+          current_info = ""
+
+          for line in lines:
+              line = line.strip()
+              if not line:
+                  continue
+              
+              if line.startswith("#EXTINF"):
+                  current_info = line
+              elif line.startswith("http://") or line.startswith("https://"):
+                  original_link = line
+                  
+                  # 1. Parse the URL to strip old parameters
+                  parsed_url = urlparse(original_link)
+                  
+                  # 2. Extract base link without old queries/tokens
+                  # (Removes everything after the '?' character)
+                  base_url = urlunparse((
+                      parsed_url.scheme,
+                      parsed_url.netloc,
+                      parsed_url.path,
+                      '', # clear params
+                      '', # clear query
+                      ''  # clear fragment
+                  ))
+                  
+                  # 3. Create your new code format
+                  # Choose the format that matches your provider:
+                  
+                  # Format A: If they use user/pass query parameters
+                  custom_code_link = f"{base_url}?user={NEW_USER}&pass={NEW_PASS}"
+                  
+                  # Format B: If they use a single authentication token (Uncomment if needed)
+                  # custom_code_link = f"{base_url}?token={NEW_TOKEN}"
+                  
+                  # Format C: If it's an Xtream Codes structure (host/live/user/pass/stream.ts)
+                  # match = re.search(r'(https?://[^/]+)/live/[^/]+/[^/]+/(.+\.(ts|m3u8))', original_link)
+                  # if match:
+                  #     host, stream_file = match.group(1), match.group(2)
+                  #     custom_code_link = f"{host}/live/{NEW_USER}/{NEW_PASS}/{stream_file}"
+
+                  if current_info:
+                      new_playlist.append(f"{current_info}\n")
+                  new_playlist.append(f"{custom_code_link}\n")
+                  current_info = "" 
+
+              elif line.startswith("#EXTM3U"):
+                  continue
+              else:
+                  if current_info:
+                      new_playlist.append(f"{line}\n")
+
+          with open(output_file, "w", encoding="utf-8") as f:
+              f.writelines(new_playlist)
+          print(f"Successfully generated {output_file} with modified authentication codes.")

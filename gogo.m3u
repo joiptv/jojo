@@ -18,7 +18,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=143
 #EXTINF:-1 tvg-id="144" tvg-name="Colors HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsHD.png" group-title="JioTv+ ENTERTAINMENT",Colors HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9025bf5bbe6502cab58edaa0b50750b:91b5ca6ebefe3a977cb6fcae31868664
+#KODIPROP:inputstream.adaptive.license_key=5360e12d4bb2519a9148d1089a55908d:7e8f500cef51595f3d43acafab1a8fb4
 #EXT-X-DRM-ID: 144
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=144
 https://servertvhub.site/jiotv+/mpd.php?id=144
@@ -50,7 +50,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=153
 #EXTINF:-1 tvg-id="156" tvg-name="Star Gold HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="JioTv+ MOVIES",Star Gold HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec7ad3786d9e5efa9e0c4aeb3e58c7b7:907509ccae7e68b30ae75b5d09fe60ef
+#KODIPROP:inputstream.adaptive.license_key=39b5c756c18355d9978fe6c6311b4891:3aaa7efc64f9b81b91512d1af2c56e3c
 #EXT-X-DRM-ID: 156
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=156
 https://servertvhub.site/jiotv+/mpd.php?id=156
@@ -152,7 +152,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=193
 #EXTINF:-1 tvg-id="196" tvg-name="Colors Gujarati" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsGujarati.png" group-title="JioTv+ GUJARATI",Colors Gujarati
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6e27c4a5f43e504fa5f9d39e880687d1:0baa1de589cf31b80cac8391466d7ad6
+#KODIPROP:inputstream.adaptive.license_key=f9e4ab5df6f959b1aa467724d09d73ef:33cf9c6300a52b4ce4cafb6946860537
 #EXT-X-DRM-ID: 196
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=196
 https://servertvhub.site/jiotv+/mpd.php?id=196
@@ -192,7 +192,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=212
 #EXTINF:-1 tvg-id="231" tvg-name="News 18 India" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" group-title="JioTv+ NEWS",News 18 India
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e0d451b9b99153e8a69bdf8c5230ab8f:0380f97460459a2aeea5f21a2cc363b3
+#KODIPROP:inputstream.adaptive.license_key=null:null
 #EXT-X-DRM-ID: 231
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=231
 https://servertvhub.site/jiotv+/mpd.php?id=231
@@ -224,7 +224,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=242
 #EXTINF:-1 tvg-id="248" tvg-name="MTV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png" group-title="JioTv+ MUSIC",MTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3af9106a677854a1b9f043eed3124e02:1e042abd297460e5031f50ddb6116d0f
+#KODIPROP:inputstream.adaptive.license_key=c84c1d16aec75d83922576012f677b02:cfb4f09bf78760c9caf7afcc2c74b6e7
 #EXT-X-DRM-ID: 248
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=248
 https://servertvhub.site/jiotv+/mpd.php?id=248
@@ -264,7 +264,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=259
 #EXTINF:-1 tvg-id="279" tvg-name="Colors Rishtey" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsRishtey.png" group-title="JioTv+ ENTERTAINMENT",Colors Rishtey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=190829c4e2b05b8ca547d2cd30ab3bba:a28225e91492ce2d6601874c701bf9bd
+#KODIPROP:inputstream.adaptive.license_key=baf92e22e64d5de39d46ddb024cb589b:b19a35807713524b7698bf55cc47dee6
 #EXT-X-DRM-ID: 279
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=279
 https://servertvhub.site/jiotv+/mpd.php?id=279
@@ -304,7 +304,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=291
 #EXTINF:-1 tvg-id="317" tvg-name="Star Jalsha HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha_HD.png" group-title="JioTv+ BENGALI",Star Jalsha HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7810c0264da15a62b200a3254d041aed:cb1e3bcfcdb1281b85625b12dae6de43
+#KODIPROP:inputstream.adaptive.license_key=4b35e987730e55528cf07a0ef12b10e1:3fcc6d95fc399ff2814024d337cfa116
 #EXT-X-DRM-ID: 317
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=317
 https://servertvhub.site/jiotv+/mpd.php?id=317
@@ -312,7 +312,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=317
 #EXTINF:-1 tvg-id="336" tvg-name="Star Pravah HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah_HD.png" group-title="JioTv+ MARATHI",Star Pravah HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ac5fe0f7b01659a9aba3475523f71ae1:b2e3f3af283a309e24eabe6b8681282e
+#KODIPROP:inputstream.adaptive.license_key=fb288091038b58b8839d202640bfe46f:99bad05f52b77e9c2460545f631140dd
 #EXT-X-DRM-ID: 336
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=336
 https://servertvhub.site/jiotv+/mpd.php?id=336
@@ -320,7 +320,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=336
 #EXTINF:-1 tvg-id="368" tvg-name="Star Vijay HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Vijay_HD.png" group-title="JioTv+ TAMIL",Star Vijay HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=849d6b062b645abea937ec7f2b6b1686:1f65503420b88d11a16d4a4eacd95f0f
+#KODIPROP:inputstream.adaptive.license_key=25dd000e5523540cbd82ae7957fef7d7:f1d145d84b648242ef0b3ad2cac7eeb8
 #EXT-X-DRM-ID: 368
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=368
 https://servertvhub.site/jiotv+/mpd.php?id=368
@@ -328,7 +328,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=368
 #EXTINF:-1 tvg-id="370" tvg-name="Suvarna HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna_HD.png" group-title="JioTv+ KANNADA",Suvarna HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9065757e265f5f53a8f06a9c9c931d02:6fd7b25773ad2f9641ab5f65a1b18e42
+#KODIPROP:inputstream.adaptive.license_key=06e62512072d5c2e97011b257bb07a53:ab485023ecc56687ad10862c6006d0da
 #EXT-X-DRM-ID: 370
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=370
 https://servertvhub.site/jiotv+/mpd.php?id=370
@@ -464,7 +464,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=414
 #EXTINF:-1 tvg-id="415" tvg-name="Zee Anmol Cinema" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeAnmolCinema.png" group-title="JioTv+ MOVIES",Zee Anmol Cinema
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab0674eba3f5adf96a9b65a6e82d208:476f813d8651987fc1b4074693676fd8
+#KODIPROP:inputstream.adaptive.license_key=d5f46c3bb170561ab93db79c032825b5:a834101c520ab2af65add91e5e9a2b61
 #EXT-X-DRM-ID: 415
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=415
 https://servertvhub.site/jiotv+/mpd.php?id=415
@@ -504,7 +504,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=420
 #EXTINF:-1 tvg-id="429" tvg-name="Colors Tamil HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsTamilHD.png" group-title="JioTv+ TAMIL",Colors Tamil HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=94d31d976768554b892f7037db09e0c9:08c5154b6cdcb6e0fc99d9d4e6298cb3
+#KODIPROP:inputstream.adaptive.license_key=baef1ec2689b57478d44a4138c0deeb7:e264b8d2dd6661ca6ca8540bffc44638
 #EXT-X-DRM-ID: 429
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=429
 https://servertvhub.site/jiotv+/mpd.php?id=429
@@ -622,7 +622,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=473
 #EXTINF:-1 tvg-id="474" tvg-name="Sony Pal" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyPAL.png" group-title="JioTv+ ENTERTAINMENT",Sony Pal
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5b5b4b88f3005b0489034d25478292eb:a401861fb99d6e41c9d9e309ca9837b3
+#KODIPROP:inputstream.adaptive.license_key=null:null
 #EXT-X-DRM-ID: 474
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=474
 https://servertvhub.site/jiotv+/mpd.php?id=474
@@ -654,7 +654,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=479
 #EXTINF:-1 tvg-id="482" tvg-name="Colors Cineplex" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="JioTv+ MOVIES",Colors Cineplex
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c7cda772f66f5ac3acc5ae38445d80ff:b54ed17e8f2fafeddcf587bf8a5506b1
+#KODIPROP:inputstream.adaptive.license_key=null:null
 #EXT-X-DRM-ID: 482
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=482
 https://servertvhub.site/jiotv+/mpd.php?id=482
@@ -798,7 +798,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=503
 #EXTINF:-1 tvg-id="504" tvg-name="Zee News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png" group-title="JioTv+ NEWS",Zee News
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=643816b8692553f7af08ed5dbe9585bb:e2136ac8b8b57f625140e586fc8224c8
+#KODIPROP:inputstream.adaptive.license_key=null:null
 #EXT-X-DRM-ID: 504
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=504
 https://servertvhub.site/jiotv+/mpd.php?id=504
@@ -2252,7 +2252,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=751
 #EXTINF:-1 tvg-id="755" tvg-name="Colors Marathi HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" group-title="JioTv+ MARATHI",Colors Marathi HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2038491f84f6547986f8ff80e696f8b2:3316fed01103f3241733629cc6b5469f
+#KODIPROP:inputstream.adaptive.license_key=10f25f26738a531a82501d1edb967ad2:6a8ba1c4a88563b359f95f2f69afa74e
 #EXT-X-DRM-ID: 755
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=755
 https://servertvhub.site/jiotv+/mpd.php?id=755
@@ -2268,7 +2268,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=756
 #EXTINF:-1 tvg-id="757" tvg-name="Colors Kannada HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_HD.png" group-title="JioTv+ KANNADA",Colors Kannada HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d3d8a2fdcf85fa0bf624860f796c809:8959641efbd66352a19a5f930f3dbc26
+#KODIPROP:inputstream.adaptive.license_key=5e63b6c6d14f5f8ea37596b8328d4147:37fc834beaadeb1d3d4e30a2a1b0a1ec
 #EXT-X-DRM-ID: 757
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=757
 https://servertvhub.site/jiotv+/mpd.php?id=757
@@ -2276,7 +2276,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=757
 #EXTINF:-1 tvg-id="760" tvg-name="Maa Movies HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies_HD.png" group-title="JioTv+ TELUGU",Maa Movies HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6dff9a2c741754c1b75312c53bc83d92:b75a65f46065ee70de75a88fed692846
+#KODIPROP:inputstream.adaptive.license_key=a78f7295d78453c69f9849d40095be2d:a9d4d809e74edc7625c4fe7ffc9e4647
 #EXT-X-DRM-ID: 760
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=760
 https://servertvhub.site/jiotv+/mpd.php?id=760
@@ -2444,7 +2444,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=784
 #EXTINF:-1 tvg-id="785" tvg-name="Colors Super" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsSuper.png" group-title="JioTv+ KANNADA",Colors Super
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b0acd54e4fca554fba081512eaf93384:4cb9416e3f7d5e78a7cc48e255d44441
+#KODIPROP:inputstream.adaptive.license_key=b97b1f6cd79d57fe9f22985836c54ff4:a0a4a61162e973471e59e05c9ebab1ca
 #EXT-X-DRM-ID: 785
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=785
 https://servertvhub.site/jiotv+/mpd.php?id=785
@@ -3103,7 +3103,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=929
 #EXTINF:-1 tvg-id="931" tvg-name="Star Bharat HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat_HD.png" group-title="JioTv+ ENTERTAINMENT",Star Bharat HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=701524f373c55b2785ac49aab0bdc4a6:9de42eedb40f6c243848eb8aa8103e32
+#KODIPROP:inputstream.adaptive.license_key=ad6f73e2f7f15ed9b095576e43fe405f:38d5d669d5ee96f18dc890636753da3b
 #EXT-X-DRM-ID: 931
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=931
 https://servertvhub.site/jiotv+/mpd.php?id=931
@@ -3661,7 +3661,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=1094
 #EXTINF:-1 tvg-id="1104" tvg-name="Star Movies HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png" group-title="JioTv+ ENGLISH",Star Movies HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ac6943751e558b181da32727f03dff7:f36e5cd48252bcd0fcda2bfe21f5b365
+#KODIPROP:inputstream.adaptive.license_key=5fb29e5825b4554090de8d60674e4bd1:4234d56f45d2dc89f80e6d4d30b765be
 #EXT-X-DRM-ID: 1104
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1104
 https://servertvhub.site/jiotv+/mpd.php?id=1104
@@ -3669,7 +3669,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=1104
 #EXTINF:-1 tvg-id="1110" tvg-name="Star Movies Select HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png" group-title="JioTv+ ENGLISH",Star Movies Select HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b55393cd147a54debaf2b0f2d82b5d9f:6b168db49241a78c1b423ab9a29409ef
+#KODIPROP:inputstream.adaptive.license_key=ee96dad500c4537390df63f0f2c8de60:f6bee36ddb86f9c24def2a4a8df19e8e
 #EXT-X-DRM-ID: 1110
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1110
 https://servertvhub.site/jiotv+/mpd.php?id=1110
@@ -3677,7 +3677,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=1110
 #EXTINF:-1 tvg-id="1111" tvg-name="Maa Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies.png" group-title="JioTv+ TELUGU",Maa Movies
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f4c022053f355b4b9dca0093463d7ba0:9f06388c48bfb94cff9797e25847d1d1
+#KODIPROP:inputstream.adaptive.license_key=null:null
 #EXT-X-DRM-ID: 1111
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1111
 https://servertvhub.site/jiotv+/mpd.php?id=1111
@@ -3685,7 +3685,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=1111
 #EXTINF:-1 tvg-id="1112" tvg-name="Maa HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_HD.png" group-title="JioTv+ TELUGU",Maa HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6c4b78251e865fc2a23a000374c8e725:983ecd2ffe60cdcf2e5e76ae229a5cb8
+#KODIPROP:inputstream.adaptive.license_key=c94a85da7e44563f8f3a687b5bef641c:445450834250887830adbde7c75caa2b
 #EXT-X-DRM-ID: 1112
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1112
 https://servertvhub.site/jiotv+/mpd.php?id=1112
@@ -3693,7 +3693,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=1112
 #EXTINF:-1 tvg-id="1113" tvg-name="Star Gold Select HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png" group-title="JioTv+ MOVIES",Star Gold Select HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2cb38dd5e6235bd9936ad7a29bc7ffd8:281d7b329be4e22d4e0e3e1d508ba2a4
+#KODIPROP:inputstream.adaptive.license_key=8620bd6e911d5c6e88e3bcf4b4ad1f35:7a8178e013c9af468cc4e2171b6f9857
 #EXT-X-DRM-ID: 1113
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1113
 https://servertvhub.site/jiotv+/mpd.php?id=1113
@@ -3701,7 +3701,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=1113
 #EXTINF:-1 tvg-id="1115" tvg-name="Star Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies.png" group-title="JioTv+ ENGLISH",Star Movies
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e705c9330a935a119021d97c7677ce62:dd306a57de1715b0e1256d5c1737f485
+#KODIPROP:inputstream.adaptive.license_key=null:null
 #EXT-X-DRM-ID: 1115
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1115
 https://servertvhub.site/jiotv+/mpd.php?id=1115
@@ -3709,7 +3709,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=1115
 #EXTINF:-1 tvg-id="1117" tvg-name="Suvarna" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna.png" group-title="JioTv+ KANNADA",Suvarna
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fc71d871cbf45818a5b3eb3652d75387:added6a0df4d0eab8758b0ed9f54ecf2
+#KODIPROP:inputstream.adaptive.license_key=null:null
 #EXT-X-DRM-ID: 1117
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1117
 https://servertvhub.site/jiotv+/mpd.php?id=1117
@@ -3717,7 +3717,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=1117
 #EXTINF:-1 tvg-id="1119" tvg-name="Star Gold Select" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select.png" group-title="JioTv+ MOVIES",Star Gold Select
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=09706397be655eb6a26c6ba99b65e6d5:acb1ebe04e2a29fe098d532d7a506846
+#KODIPROP:inputstream.adaptive.license_key=null:null
 #EXT-X-DRM-ID: 1119
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1119
 https://servertvhub.site/jiotv+/mpd.php?id=1119
@@ -3733,7 +3733,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=1120
 #EXTINF:-1 tvg-id="1129" tvg-name="Maa Music" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png" group-title="JioTv+ TELUGU",Maa Music
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=80cfb1a6a4b251dd9b9ae92782a35917:b4cd88f5d71fe94993dd3476cdd63f33
+#KODIPROP:inputstream.adaptive.license_key=d66e0a9cac2853119c87b37d5dd7d25d:4449938d983c27cc7e154ba51260aa24
 #EXT-X-DRM-ID: 1129
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1129
 https://servertvhub.site/jiotv+/mpd.php?id=1129
@@ -3749,7 +3749,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=1131
 #EXTINF:-1 tvg-id="1132" tvg-name="Star Plus HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png" group-title="JioTv+ ENTERTAINMENT",Star Plus HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6f7b7241b2935a909d389fe318e5baaa:65783311644973348f359dc154bb41db
+#KODIPROP:inputstream.adaptive.license_key=c6255706bca250079aeaf1fc4474d1b9:eab6217aac6f1feec103120e6218eb43
 #EXT-X-DRM-ID: 1132
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1132
 https://servertvhub.site/jiotv+/mpd.php?id=1132
@@ -3757,7 +3757,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=1132
 #EXTINF:-1 tvg-id="1136" tvg-name="Star Utsav Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav_Movies.png" group-title="JioTv+ TAMIL",Star Utsav Movies
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1faf9c42dfe45669a70c470359886145:5a229a5f6f270c880b24014bf3cd6ee7
+#KODIPROP:inputstream.adaptive.license_key=5c4f38f647fa590f9904947fd5d1afb9:80c7058468bfea90d7ba55f550792ec3
 #EXT-X-DRM-ID: 1136
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1136
 https://servertvhub.site/jiotv+/mpd.php?id=1136
@@ -3765,7 +3765,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=1136
 #EXTINF:-1 tvg-id="1137" tvg-name="Maa Gold" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Gold.png" group-title="JioTv+ TELUGU",Maa Gold
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=516d26778a21587484208637d89ff773:77599313595e70e5903151b0592ffa15
+#KODIPROP:inputstream.adaptive.license_key=59060fae4daf542b9b0dd6a361b62b95:4f4c689aaeb72b0f31e531215a139726
 #EXT-X-DRM-ID: 1137
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1137
 https://servertvhub.site/jiotv+/mpd.php?id=1137
@@ -3773,7 +3773,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=1137
 #EXTINF:-1 tvg-id="1138" tvg-name="Star Maa" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Maa.png" group-title="JioTv+ TELUGU",Star Maa
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6744a252854352acbfe40413a14fca0f:1de605f98df36a7417eff631e1a0966a
+#KODIPROP:inputstream.adaptive.license_key=null:null
 #EXT-X-DRM-ID: 1138
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1138
 https://servertvhub.site/jiotv+/mpd.php?id=1138
@@ -3789,7 +3789,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=1139
 #EXTINF:-1 tvg-id="1140" tvg-name="Suvarna Plus" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna_Plus.png" group-title="JioTv+ KANNADA",Suvarna Plus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=843e1658f5915fdda0a5ecc5bd3dd726:88f0fd96990a66b1307094eaf4998119
+#KODIPROP:inputstream.adaptive.license_key=0ae4033bf5cb57d2a5b5ef72c5dab0ea:7376df32ffb262044743208aa3224f10
 #EXT-X-DRM-ID: 1140
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1140
 https://servertvhub.site/jiotv+/mpd.php?id=1140
@@ -3797,7 +3797,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=1140
 #EXTINF:-1 tvg-id="1143" tvg-name="Star Utsav" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav.png" group-title="JioTv+ ENTERTAINMENT",Star Utsav
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=63456f11b1bf599a93a6a4b9a76db2bf:b47756e4d8fb938dcbcb72d6d877fbc3
+#KODIPROP:inputstream.adaptive.license_key=7fbcce6b77855b8e9eaeebfc0a2ebc4f:1efb331b48f2993c74ec852475e7637f
 #EXT-X-DRM-ID: 1143
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1143
 https://servertvhub.site/jiotv+/mpd.php?id=1143
@@ -3829,7 +3829,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=1153
 #EXTINF:-1 tvg-id="1158" tvg-name="Colors Infinity HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="JioTv+ ENGLISH",Colors Infinity HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=509216860f8e594aaf7e921296f53851:536df1e35e2bb055be0117b51db8139c
+#KODIPROP:inputstream.adaptive.license_key=e30e813ab8935734a197205da8a5fd80:462b1cd9a1e74b6af3132e04fc307094
 #EXT-X-DRM-ID: 1158
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1158
 https://servertvhub.site/jiotv+/mpd.php?id=1158
@@ -4238,7 +4238,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=1322
 #EXTINF:-1 tvg-id="1324" tvg-name="Colors Gujarati Cinema" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati_Cinema.png" group-title="JioTv+ GUJARATI",Colors Gujarati Cinema
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cd976004d8345aa0be2034488fc8356f:55de685c871df127cfb17f25b1259421
+#KODIPROP:inputstream.adaptive.license_key=871719a98c24533aa0fbf9be69f9e577:4c9dcb1cdfcd8795f29291047b6e8808
 #EXT-X-DRM-ID: 1324
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1324
 https://servertvhub.site/jiotv+/mpd.php?id=1324
@@ -4446,7 +4446,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=1371
 #EXTINF:-1 tvg-id="1373" tvg-name="Disney Channel" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="JioTv+ KIDS",Disney Channel
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5181d3e6698055578cedc5bfc86b3e56:3dca7917d8cf9bb7095dc72b48bdcd3c
+#KODIPROP:inputstream.adaptive.license_key=400d0f354dca5d44a540cd80db766f4c:22da170bb5ae36ef5cab42b3842658d8
 #EXT-X-DRM-ID: 1373
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1373
 https://servertvhub.site/jiotv+/mpd.php?id=1373
@@ -4454,7 +4454,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=1373
 #EXTINF:-1 tvg-id="1374" tvg-name="Disney Junior" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Junior.png" group-title="JioTv+ KIDS",Disney Junior
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1b1f9702f7d853c1b198495f64924311:40e11e60a12dd6c154dfea0ffbd5bda8
+#KODIPROP:inputstream.adaptive.license_key=a92e184d07a75cb6817cee9f0a677b47:d9b68fa62fb2ae68a044d36f6306569f
 #EXT-X-DRM-ID: 1374
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1374
 https://servertvhub.site/jiotv+/mpd.php?id=1374
@@ -4462,7 +4462,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=1374
 #EXTINF:-1 tvg-id="1375" tvg-name="Disney International HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_International_HD.png" group-title="JioTv+ KIDS",Disney International HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d0e021aa91c65e68a7028c2a6a762eca:d50822403365e360d12840251cecee84
+#KODIPROP:inputstream.adaptive.license_key=2504a914062c5bdeb186269abab353ad:0074716c4730c473be85070b2ba46cc9
 #EXT-X-DRM-ID: 1375
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1375
 https://servertvhub.site/jiotv+/mpd.php?id=1375
@@ -4478,7 +4478,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=1388
 #EXTINF:-1 tvg-id="1391" tvg-name="Hungama" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hungama.png" group-title="JioTv+ KIDS",Hungama
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=454f8353caac500d95d641e0c7cfe048:0aaca46ea0f5096335598781fbe590e4
+#KODIPROP:inputstream.adaptive.license_key=a24c34e396d75a18bce46aa471f1e164:b2b0db9965848d72fc3c13bf09724e83
 #EXT-X-DRM-ID: 1391
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1391
 https://servertvhub.site/jiotv+/mpd.php?id=1391
@@ -4486,7 +4486,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=1391
 #EXTINF:-1 tvg-id="1392" tvg-name="Super Hungama" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Super_Hungama.png" group-title="JioTv+ KIDS",Super Hungama
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7a450f0820c4589690eb336c29f18da6:820e84119563b56d6e6f0bf514cbdc3c
+#KODIPROP:inputstream.adaptive.license_key=688db477181f50fd981c94efda31d6b8:9572ab827846677bc7e84fbc53ccc226
 #EXT-X-DRM-ID: 1392
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1392
 https://servertvhub.site/jiotv+/mpd.php?id=1392
@@ -4689,7 +4689,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=1476
 #EXTINF:-1 tvg-id="1477" tvg-name="Colors Cineplex HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexHD.png" group-title="JioTv+ MOVIES",Colors Cineplex HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bc74a4c7b66856f19ce77fffecd18590:5532bd5f660547d3b82992f1ef471d6a
+#KODIPROP:inputstream.adaptive.license_key=7a0d94be007c539e8a13b0e173f867e9:280f0d8523e9ee2d96a3eb009f8a127f
 #EXT-X-DRM-ID: 1477
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1477
 https://servertvhub.site/jiotv+/mpd.php?id=1477
@@ -4976,7 +4976,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=1618
 #EXTINF:-1 tvg-id="1632" tvg-name="Colors Kannada Cinema" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsKannadaCinema.png" group-title="JioTv+ KANNADA",Colors Kannada Cinema
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad215e8ef7dc50ad8f055e14479efdda:4ea964fa3ee177f2e1659cbc87fb9390
+#KODIPROP:inputstream.adaptive.license_key=40defb4eb58653caacbd8636b7b64001:957e866f6d14e0b976f2a569eff65a1e
 #EXT-X-DRM-ID: 1632
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1632
 https://servertvhub.site/jiotv+/mpd.php?id=1632
@@ -5048,7 +5048,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=1655
 #EXTINF:-1 tvg-id="1657" tvg-name="Colors Bangla Cinema" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="JioTv+ BENGALI",Colors Bangla Cinema
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6f7b7241b2935a909d389fe318e5baaa:65783311644973348f359dc154bb41db
+#KODIPROP:inputstream.adaptive.license_key=c94ad2cee7bb5e53afa47065d7a84cae:bb1abc5594beb61f5096ef8723c127aa
 #EXT-X-DRM-ID: 1657
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1657
 https://servertvhub.site/jiotv+/mpd.php?id=1657
@@ -5270,7 +5270,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=1761
 #EXTINF:-1 tvg-id="1763" tvg-name="Colors Cineplex Bollywood" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexBollywood.png" group-title="JioTv+ MOVIES",Colors Cineplex Bollywood
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=061b3f55b6695e978b208f5117e609ee:9a6da304db8cfb545805d3152a5d66ed
+#KODIPROP:inputstream.adaptive.license_key=ad4dfcf1265153978f8d62e9bc6f8482:9f711591ae7d1a5e3e93f27e509a47f5
 #EXT-X-DRM-ID: 1763
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1763
 https://servertvhub.site/jiotv+/mpd.php?id=1763
@@ -5804,7 +5804,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=3273
 #EXTINF:-1 tvg-id="2853" tvg-name="Star Sports 2 Tamil" tvg-logo="https://img.media.jio.com/tvpimages/74/92/301561_1749664725619_l_medium.jpg" group-title="JioTv+ SPORTS",Star Sports 2 Tamil
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3c1b335c4bb858a7a6ac5a883d898a09:6eeff4302a7d19befd43c6b7b5fac268
+#KODIPROP:inputstream.adaptive.license_key=3979aae1ca51561c9e8074cd618b3864:ae12e0e147d3e76cfa62bfb99bc07109
 #EXT-X-DRM-ID: 2853
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=2853
 https://servertvhub.site/jiotv+/mpd.php?id=2853
@@ -5820,7 +5820,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=3274
 #EXTINF:-1 tvg-id="2852" tvg-name="Star Sports 2 Telugu" tvg-logo="https://img.media.jio.com/tvpimages/41/94/301562_1749665043898_l_medium.jpg" group-title="JioTv+ SPORTS",Star Sports 2 Telugu
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6576a2664bc1563db2abd4fc192152b2:452e28454297a4193dbdf8f5cebc70b0
+#KODIPROP:inputstream.adaptive.license_key=e38f46718d9d5c40af83095f176ba41e:8836ee0f7377d71c156a139361a45be5
 #EXT-X-DRM-ID: 2852
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=2852
 https://servertvhub.site/jiotv+/mpd.php?id=2852
@@ -7022,7 +7022,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=3095
 #EXTINF:-1 tvg-id="3096" tvg-name="Star Gold 2 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_2_HD.png" group-title="JioTv+ MOVIES",Star Gold 2 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e6afa4754bc15dd28ab6806f417d319d:6a74ef2884813547109ee96098610387
+#KODIPROP:inputstream.adaptive.license_key=69d36c78eb11569493ce7ac00d9d6e87:5121c719b63f0442e423db860b8c517f
 #EXT-X-DRM-ID: 3096
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=3096
 https://servertvhub.site/jiotv+/mpd.php?id=3096
@@ -7030,7 +7030,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=3096
 #EXTINF:-1 tvg-id="3097" tvg-name="Star Gold Romance" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Romance.png" group-title="JioTv+ MOVIES",Star Gold Romance
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ee6e9f18a6c155e3855700b34fa8436f:b670c81b0e4f7f19f1fbeac0eaa7fba8
+#KODIPROP:inputstream.adaptive.license_key=cfdc17b8d45d5e199db366e26e931119:bb42ae3bb74b9172e79e986b59d40085
 #EXT-X-DRM-ID: 3097
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=3097
 https://servertvhub.site/jiotv+/mpd.php?id=3097
@@ -7038,7 +7038,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=3097
 #EXTINF:-1 tvg-id="3098" tvg-name="Star Gold Thrills" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Thrills.png" group-title="JioTv+ MOVIES",Star Gold Thrills
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=189ccd629ff25ec1adc2e34d49b186eb:fd102ddbd3844b55b70c6aa23dbd212b
+#KODIPROP:inputstream.adaptive.license_key=f71f5d0858e65f2286bf1eef368735d3:38ded0350222f3de77f107aee4b757d9
 #EXT-X-DRM-ID: 3098
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=3098
 https://servertvhub.site/jiotv+/mpd.php?id=3098
@@ -7046,7 +7046,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=3098
 #EXTINF:-1 tvg-id="3099" tvg-name="Star Pravah Picture" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah_Picture.png" group-title="JioTv+ MARATHI",Star Pravah Picture
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d1644aff68865ecdb884c36a634c008f:794529e9d938c592514a1eb9eb706da9
+#KODIPROP:inputstream.adaptive.license_key=null:null
 #EXT-X-DRM-ID: 3099
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=3099
 https://servertvhub.site/jiotv+/mpd.php?id=3099
@@ -7054,7 +7054,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=3099
 #EXTINF:-1 tvg-id="3100" tvg-name="Star Pravah Picture HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah_Picture_HD.png" group-title="JioTv+ MARATHI",Star Pravah Picture HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=71f9041eea4954e6acf66f0c50d5ebf9:98148dde17f872774f443297745df456
+#KODIPROP:inputstream.adaptive.license_key=0cb8027f563f5f32b27900a4a15c065f:b29afa97e86a3df924dec4ba47bd84eb
 #EXT-X-DRM-ID: 3100
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=3100
 https://servertvhub.site/jiotv+/mpd.php?id=3100
@@ -7835,7 +7835,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=3266
 #EXTINF:-1 tvg-id="3267" tvg-name="Star Kiran" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Kiran.png" group-title="JioTv+ ODIA",Star Kiran
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e705c9330a935a119021d97c7677ce62:dd306a57de1715b0e1256d5c1737f485
+#KODIPROP:inputstream.adaptive.license_key=b0d9b350a9ef5ed9b97cfb6896565df3:aa6794d8a49f39eccb6a4fe45bf1eadc
 #EXT-X-DRM-ID: 3267
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=3267
 https://servertvhub.site/jiotv+/mpd.php?id=3267
@@ -7859,7 +7859,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=3269
 #EXTINF:-1 tvg-id="3276" tvg-name="Star Movies Select" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select.png" group-title="JioTv+ ENGLISH",Star Movies Select
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4b7d579e28d45041ba78c3a92f0acc92:fbf33acfca489b1354955cbfb09570b5
+#KODIPROP:inputstream.adaptive.license_key=null:null
 #EXT-X-DRM-ID: 3276
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=3276
 https://servertvhub.site/jiotv+/mpd.php?id=3276

@@ -23,7 +23,7 @@ jobs:
         uses: actions/checkout@v4.2.2
 
       - name: Download Updated File
-        run: curl -L "https://xtreamup.hakunamata.workers.dev/live.m3u8" -o Ser.m3u
+        run: curl -L "https://activation-07live.pages.dev/playlist?user=test&pass=test" -o Ser.m3u
 
       - name: Commit and Push Changes
         run: |

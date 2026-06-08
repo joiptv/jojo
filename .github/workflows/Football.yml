@@ -32,7 +32,7 @@ jobs:
           import os
 
           FILE_NAME = "Football.m3u"
-          SOURCE_URL = ""
+          SOURCE_URL = "https://raw.githubusercontent.com/joiptv/jojo/refs/heads/main/pocket.m3u"
           HEADERS = {"User-Agent": "Mozilla/5.0"}
 
           def get_all_blocks(content):

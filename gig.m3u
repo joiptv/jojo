@@ -5,9 +5,9 @@ https://activation-07live.pages.dev/activate.m3u8
 https://activation-07live.pages.dev/activate.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="Expiry" tvg-logo="https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678116-calendar-512.png" group-title="Playlist | Info" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFEMgw7JnyebuCOdv0RjD5YX49LUGzOSpVuw&s", Expiry: 2026-06-30
 https://activation-07live.pages.dev/activate.m3u8
-#EXTINF:-1 tvg-id="-2" tvg-name="IP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkBoNwmrb6Xxy1n4636PHJDiYxBa8NSrB8Hw&s" group-title="Playlist | Info" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFEMgw7JnyebuCOdv0RjD5YX49LUGzOSpVuw&s", IP: 52.161.208.113 (Microsoft Corporation)
+#EXTINF:-1 tvg-id="-2" tvg-name="IP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkBoNwmrb6Xxy1n4636PHJDiYxBa8NSrB8Hw&s" group-title="Playlist | Info" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFEMgw7JnyebuCOdv0RjD5YX49LUGzOSpVuw&s", IP: 20.106.231.71 (Microsoft Corporation)
 https://activation-07live.pages.dev/activate.m3u8
-#EXTINF:-1 tvg-id="-3" tvg-name="LOCATION" tvg-logo="https://cdn.creativefabrica.com/2023/06/19/Map-with-geo-pin-Location-icon-Destina-Graphics-72467669-1-1-580x387.png" group-title="Playlist | Info" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFEMgw7JnyebuCOdv0RjD5YX49LUGzOSpVuw&s", LOCATION: Cheyenne, Wyoming, United States
+#EXTINF:-1 tvg-id="-3" tvg-name="LOCATION" tvg-logo="https://cdn.creativefabrica.com/2023/06/19/Map-with-geo-pin-Location-icon-Destina-Graphics-72467669-1-1-580x387.png" group-title="Playlist | Info" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFEMgw7JnyebuCOdv0RjD5YX49LUGzOSpVuw&s", LOCATION: Boydton, Virginia, United States
 https://activation-07live.pages.dev/activate.m3u8
 #EXTINF:-1 tvg-id="-4" tvg-name="app" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoHEXIIXZQniuYScqZRQ6_GgzV2viMZJFroQ&s" group-title="Playlist | Info" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFEMgw7JnyebuCOdv0RjD5YX49LUGzOSpVuw&s", APP: TiviMate | DEVICE: Android
 https://activation-07live.pages.dev/activate.m3u8
@@ -13999,9 +13999,21 @@ https://vg-tv9live.akamaized.net/v1/vglive-sk-791223/main.m3u8?ads.partner=sunne
 # ===== Event =====
 #EXTM3U
 
+#EXTINF:-1 group-logo="https://www.bizasialive.com/wp-content/uploads/2020/05/899ec721-sonylivnew001.jpg" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2020/05/899ec721-sonylivnew001.jpg" group-title="➥ SonyLiv⚔️Live",Raigarh Lions vs Bastar Bisons - 10 Jun 2026 [HIN]
+#EXTVLCOPT:http-user-agent=sonyliv/6.22.4 (Android 11; en_GB; AI PONT; Build/RTM1.210824.048)
+https://sliv-events.07in.workers.dev/suluv-1.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019418/178086335846385_CCPL26_Raigarh_Lions_vs_Bastar_Bisons_landscape_thumb.jpg" group-logo="https://www.bizasialive.com/wp-content/uploads/2020/05/899ec721-sonylivnew001.jpg" group-title="➥ SonyLiv⚔️Live",🔥 Chhattisgarh Cricket Premier League 2026
+#EXTVLCOPT:http-user-agent=sonyliv/6.22.4 (Android 11; en_GB; AI PONT; Build/RTM1.210824.048)
+https://sliv-events.07in.workers.dev/1090534521/Sony_Sports_Ten_3/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019469/1781008810856701_Tri_Series26_Promo_landscape_thumb_dated.jpg" group-logo="https://www.bizasialive.com/wp-content/uploads/2020/05/899ec721-sonylivnew001.jpg" group-title="➥ SonyLiv⚔️UPCOMING",⏳ Upcoming - India A vs Afghanistan A - Talent TV Cup
 #EXTVLCOPT:http-user-agent=sonyliv/6.22.4 (Android 11; en_GB; AI PONT; Build/RTM1.210824.048)
 https://sliv-events.07in.workers.dev/upcoming/1090534439/Sony_Sports_Ten_5/index.mpd
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019485/1781021857526833_UFC_freedom_250_dated_landscape_thumb.jpg" group-logo="https://www.bizasialive.com/wp-content/uploads/2020/05/899ec721-sonylivnew001.jpg" group-title="➥ SonyLiv⚔️UPCOMING",⏳ Upcoming - UFC Freedom 250 - Topuria vs Gaethje
+#EXTVLCOPT:http-user-agent=sonyliv/6.22.4 (Android 11; en_GB; AI PONT; Build/RTM1.210824.048)
+https://sliv-events.07in.workers.dev/upcoming/1090534520/Sony_Sports_Ten_5/index.mpd
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019449/1780938526929787_tri_series_promo_landscape_thumb.jpg" group-logo="https://www.bizasialive.com/wp-content/uploads/2020/05/899ec721-sonylivnew001.jpg" group-title="➥ SonyLiv⚔️UPCOMING",⏳ Upcoming - Talent TV Cup - Team 'A' ODI Tri Series
 #EXTVLCOPT:http-user-agent=sonyliv/6.22.4 (Android 11; en_GB; AI PONT; Build/RTM1.210824.048)
@@ -14014,10 +14026,6 @@ https://sliv-events.07in.workers.dev/upcoming/1090533556/Sony_Sports_Ten_5/index
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015275/1771252715417113_New_Zealand_Blockbuster_Promo_Thumbs_landscape_thumb.jpg" group-logo="https://www.bizasialive.com/wp-content/uploads/2020/05/899ec721-sonylivnew001.jpg" group-title="➥ SonyLiv⚔️UPCOMING",⏳ Upcoming - New Zealand's Blockbuster Home Season
 #EXTVLCOPT:http-user-agent=sonyliv/6.22.4 (Android 11; en_GB; AI PONT; Build/RTM1.210824.048)
 https://sliv-events.07in.workers.dev/upcoming/1090504215/Sony_Sports_Ten_5/index.mpd
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019485/1781021857526833_UFC_freedom_250_dated_landscape_thumb.jpg" group-logo="https://www.bizasialive.com/wp-content/uploads/2020/05/899ec721-sonylivnew001.jpg" group-title="➥ SonyLiv⚔️UPCOMING",⏳ Upcoming - UFC Freedom 250 - Topuria vs Gaethje
-#EXTVLCOPT:http-user-agent=sonyliv/6.22.4 (Android 11; en_GB; AI PONT; Build/RTM1.210824.048)
-https://sliv-events.07in.workers.dev/upcoming/1090534520/Sony_Sports_Ten_5/index.mpd
 
 # ===== Samsung =====
 #EXTM3U
@@ -14580,8 +14588,26 @@ https://terminal-sumsung.07in.workers.dev/live/test/test/IN30009003.m3u8
 #EXTM3U
 #EXTGEAR: group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png"
 
-#EXTINF:-1 tvg-name="Madhya Pradesh League T20 Women's 2026" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Madhya-Pradesh-League-T20-Women's_fc-web.jpg" tvg-description="Gwalior Shernis Vs Royal Nimar Eagles Women" tvg-language="ENGLISH" group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png" group-title="𝐅𝐚𝐧𝐜𝐨𝐝𝐞 | Live",Gwalior Shernis Vs Royal Nimar Eagles Women (ENGLISH)
-https://fancode.cr7x.workers.dev/live/Api/143026/1.m3u8
+#EXTINF:-1 tvg-name="Big Cricket League Season 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142995_6094_MM_MPT_FC-WEB_1780318028370.jpg" tvg-description="Mumbai Marines Vs Mp Tigers" tvg-language="ENGLISH" group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png" group-title="𝐅𝐚𝐧𝐜𝐨𝐝𝐞 | Live",Mumbai Marines Vs Mp Tigers (ENGLISH)
+https://fancode.cr7x.workers.dev/live/Api/142995/1.m3u8
+
+#EXTINF:-1 tvg-name="Big Cricket League Season 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142995_6094_MM_MPT_FC-WEB_1780318028370.jpg" tvg-description="Mumbai Marines Vs Mp Tigers" tvg-language="HINDI" group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png" group-title="𝐅𝐚𝐧𝐜𝐨𝐝𝐞 | Live",Mumbai Marines Vs Mp Tigers (HINDI)
+https://fancode.cr7x.workers.dev/live/Api/142995/1.m3u8
+
+#EXTINF:-1 tvg-name="Madhya Pradesh League T20, 2026" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143071_6102_IPP_RW_FC-WEB.jpg" tvg-description="Indore Pink Panthers Vs Rewa Jaguars" tvg-language="ENGLISH" group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png" group-title="𝐅𝐚𝐧𝐜𝐨𝐝𝐞 | Live",Indore Pink Panthers Vs Rewa Jaguars (ENGLISH)
+https://fancode.cr7x.workers.dev/live/Api/143071/1.m3u8
+
+#EXTINF:-1 tvg-name="Madhya Pradesh League T20, 2026" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143072_6102_BL_UJF_FC-WEB.jpg" tvg-description="Bhopal Leopards Vs Ujjain Falcons" tvg-language="ENGLISH" group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png" group-title="𝐅𝐚𝐧𝐜𝐨𝐝𝐞 | Live",Bhopal Leopards Vs Ujjain Falcons (ENGLISH)
+https://fancode.cr7x.workers.dev/live/Api/143072/1.m3u8
+
+#EXTINF:-1 tvg-name="ATP 250 - BOSS OPEN 2026" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Boss_Web-match-card.png" tvg-description="Day 3   Centre Court" tvg-language="ENGLISH" group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png" group-title="𝐅𝐚𝐧𝐜𝐨𝐝𝐞 | Live",Day 3   Centre Court (ENGLISH)
+https://fancode.cr7x.workers.dev/live/Api/143120/1.m3u8
+
+#EXTINF:-1 tvg-name="ATP 250 - Libema Open" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png" tvg-description="Day 3   Court 1" tvg-language="ENGLISH" group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png" group-title="𝐅𝐚𝐧𝐜𝐨𝐝𝐞 | Live",Day 3   Court 1 (ENGLISH)
+https://fancode.cr7x.workers.dev/live/Api/143387/1.m3u8
+
+#EXTINF:-1 tvg-name="EUT20 Belgium, 2026" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143158_6108_AA_LRL_FC-Web.png" tvg-description="Antwerp Anchors Vs Liege Red Lions" tvg-language="ENGLISH" group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png" group-title="𝐅𝐚𝐧𝐜𝐨𝐝𝐞 | Live",Antwerp Anchors Vs Liege Red Lions (ENGLISH)
+https://fancode.cr7x.workers.dev/live/Api/143158/1.m3u8
 
 # ===== toffee =====
 #EXTM3U
@@ -15399,8 +15425,8 @@ https://activation-07live.pages.dev/stb/live?id=LIVETV_LIVETVCHANNEL_STAR_MOVIES
 
 # ===== SLOT_16 =====
 #EXTM3U
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | fancode",Argentina vs Iceland (International Friendlies 2026)
-http://index-off.cr7x.workers.dev/live/test/test/argentinavsicelandinternationalfriendlies2026fancode.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | fancode",Gwalior Shernis vs Royal Nimar Eagles Women (Madhya Pradesh League T20 Women's 2026)
+http://index-off.cr7x.workers.dev/live/test/test/gwaliorshernisvsroyalnimareagleswomenmadhyapradeshleaguet20womens2026fancode.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Toffee",
 http://index-off.cr7x.workers.dev/live/test/test/toffee.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Toffee",EPL channel 1
@@ -16001,8 +16027,6 @@ http://index-off.cr7x.workers.dev/live/test/test/nflnetworkroarzone.m3u8
 http://index-off.cr7x.workers.dev/live/test/test/talksportroarzone.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",NBC SPORTS
 http://index-off.cr7x.workers.dev/live/test/test/nbcsportsroarzone.m3u8
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",OMAN SPORTS TV
-http://index-off.cr7x.workers.dev/live/test/test/omansportstvroarzone.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",SPORTS FISHING TV
 http://index-off.cr7x.workers.dev/live/test/test/sportsfishingtvroarzone.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",GOAL TV
@@ -16063,6 +16087,8 @@ http://index-off.cr7x.workers.dev/live/test/test/hindikhabarroarzone.m3u8
 http://index-off.cr7x.workers.dev/live/test/test/moviesphereroarzone.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",HINDI MOVIE CLASSIC 24
 http://index-off.cr7x.workers.dev/live/test/test/hindimovieclassic24roarzone.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",NEWS NATION
+http://index-off.cr7x.workers.dev/live/test/test/newsnationroarzone.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",STAR NEWS
 http://index-off.cr7x.workers.dev/live/test/test/starnewsroarzone.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",SOMOY NEWS TV
@@ -16071,6 +16097,8 @@ http://index-off.cr7x.workers.dev/live/test/test/somoynewstvroarzone.m3u8
 http://index-off.cr7x.workers.dev/live/test/test/btvworldroarzone.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",ASIAN TV
 http://index-off.cr7x.workers.dev/live/test/test/asiantvroarzone.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",BANGLA TV
+http://index-off.cr7x.workers.dev/live/test/test/banglatvroarzone.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",ANANDA TV
 http://index-off.cr7x.workers.dev/live/test/test/anandatvroarzone.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",CHANNEL 24
@@ -16113,14 +16141,12 @@ http://index-off.cr7x.workers.dev/live/test/test/globaltvroarzone.m3u8
 http://index-off.cr7x.workers.dev/live/test/test/channelsroarzone.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",ISLAMIC TV
 http://index-off.cr7x.workers.dev/live/test/test/islamictvroarzone.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",RAJDHANI TV
+http://index-off.cr7x.workers.dev/live/test/test/rajdhanitvroarzone.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",EKHON TV
 http://index-off.cr7x.workers.dev/live/test/test/ekhontvroarzone.m3u8
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",TOFFEE DRAMAS
-http://index-off.cr7x.workers.dev/live/test/test/toffeedramasroarzone.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",TOFFEE MOVIES
 http://index-off.cr7x.workers.dev/live/test/test/toffeemoviesroarzone.m3u8
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",MAASRANGA TV
-http://index-off.cr7x.workers.dev/live/test/test/maasrangatvroarzone.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",BIJOY TV
 http://index-off.cr7x.workers.dev/live/test/test/bijoytvroarzone.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",KOLKATA TV
@@ -16153,10 +16179,10 @@ http://index-off.cr7x.workers.dev/live/test/test/taazatvroarzone.m3u8
 http://index-off.cr7x.workers.dev/live/test/test/anbnewsroarzone.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",MANORANJAN TV
 http://index-off.cr7x.workers.dev/live/test/test/manoranjantvroarzone.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",DD BANGLA
+http://index-off.cr7x.workers.dev/live/test/test/ddbanglaroarzone.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",REPUBLIC BANGLA
 http://index-off.cr7x.workers.dev/live/test/test/republicbanglaroarzone.m3u8
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",WEATHER SPY
-http://index-off.cr7x.workers.dev/live/test/test/weatherspyroarzone.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",DISCOVER PIKSTAN
 http://index-off.cr7x.workers.dev/live/test/test/discoverpikstanroarzone.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",WORLD WAR TV
@@ -16175,20 +16201,22 @@ http://index-off.cr7x.workers.dev/live/test/test/adventureearthroarzone.m3u8
 http://index-off.cr7x.workers.dev/live/test/test/courttvroarzone.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",SAUDIA RADIO
 http://index-off.cr7x.workers.dev/live/test/test/saudiaradioroarzone.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",AWAAZ INDIA
+http://index-off.cr7x.workers.dev/live/test/test/awaazindiaroarzone.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",IRAN PRESS
 http://index-off.cr7x.workers.dev/live/test/test/iranpressroarzone.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",BTV NEWS
 http://index-off.cr7x.workers.dev/live/test/test/btvnewsroarzone.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",RONGEEN TV
 http://index-off.cr7x.workers.dev/live/test/test/rongeentvroarzone.m3u8
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",GREEN TV HD
-http://index-off.cr7x.workers.dev/live/test/test/greentvhdroarzone.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",SONY ATTH
 http://index-off.cr7x.workers.dev/live/test/test/sonyatthroarzone.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",ACCUWEATHER
 http://index-off.cr7x.workers.dev/live/test/test/accuweatherroarzone.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",CARTOON NETWORK HD
 http://index-off.cr7x.workers.dev/live/test/test/cartoonnetworkhdroarzone.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",NICK
+http://index-off.cr7x.workers.dev/live/test/test/nickroarzone.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",POGO
 http://index-off.cr7x.workers.dev/live/test/test/pogoroarzone.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",DISCOVERY KIDS
@@ -16211,14 +16239,14 @@ http://index-off.cr7x.workers.dev/live/test/test/disneyxdroarzone.m3u8
 http://index-off.cr7x.workers.dev/live/test/test/disneychannelroarzone.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",KIDS PANG TV
 http://index-off.cr7x.workers.dev/live/test/test/kidspangtvroarzone.m3u8
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",YTV
-http://index-off.cr7x.workers.dev/live/test/test/ytvroarzone.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",TEEN NICK
 http://index-off.cr7x.workers.dev/live/test/test/teennickroarzone.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",DIOS TE VE KIDS
 http://index-off.cr7x.workers.dev/live/test/test/diostevekidsroarzone.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",MOONBUG KIDS
 http://index-off.cr7x.workers.dev/live/test/test/moonbugkidsroarzone.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",TVCARIB KIDS & TEENS
+http://index-off.cr7x.workers.dev/live/test/test/tvcaribkidsteensroarzone.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",PBS KIDS
 http://index-off.cr7x.workers.dev/live/test/test/pbskidsroarzone.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",DISCOVERY HD
@@ -16239,6 +16267,8 @@ http://index-off.cr7x.workers.dev/live/test/test/discoveryfamilyroarzone.m3u8
 http://index-off.cr7x.workers.dev/live/test/test/animalplanethdroarzone.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",COOKING TV
 http://index-off.cr7x.workers.dev/live/test/test/cookingtvroarzone.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",TLC HD
+http://index-off.cr7x.workers.dev/live/test/test/tlchdroarzone.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",WILD TV
 http://index-off.cr7x.workers.dev/live/test/test/wildtvroarzone.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",NAT GEO TV
@@ -16307,6 +16337,8 @@ http://index-off.cr7x.workers.dev/live/test/test/pix11roarzone.m3u8
 http://index-off.cr7x.workers.dev/live/test/test/usatvroarzone.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",FOX BUSINESS
 http://index-off.cr7x.workers.dev/live/test/test/foxbusinessroarzone.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",CP 24
+http://index-off.cr7x.workers.dev/live/test/test/cp24roarzone.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",AMC TV
 http://index-off.cr7x.workers.dev/live/test/test/amctvroarzone.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",CHANNEL WIN
@@ -16341,10 +16373,12 @@ http://index-off.cr7x.workers.dev/live/test/test/tbsroarzone.m3u8
 http://index-off.cr7x.workers.dev/live/test/test/epixtvroarzone.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",SKY NEWS
 http://index-off.cr7x.workers.dev/live/test/test/skynewsroarzone.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",WOF 1
+http://index-off.cr7x.workers.dev/live/test/test/wof1roarzone.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",FOX WEATHER
 http://index-off.cr7x.workers.dev/live/test/test/foxweatherroarzone.m3u8
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",ACTION HOLLYWOOD MOVIES
-http://index-off.cr7x.workers.dev/live/test/test/actionhollywoodmoviesroarzone.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",SKY NEWS WEATHER
+http://index-off.cr7x.workers.dev/live/test/test/skynewsweatherroarzone.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",COWBOY MOVIE CHANNEL
 http://index-off.cr7x.workers.dev/live/test/test/cowboymoviechannelroarzone.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Roarzone",INDIA TODAY
@@ -16925,126 +16959,124 @@ http://index-off.cr7x.workers.dev/live/test/test/tsatnipunayupptv.m3u8
 http://index-off.cr7x.workers.dev/live/test/test/tsatvidyayupptv.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | YuppTV",space-series
 http://index-off.cr7x.workers.dev/live/test/test/spaceseriesyupptv.m3u8
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
-http://index-off.cr7x.workers.dev/live/test/test/vitalityt20blastvst20blast2025skysmecrichd.m3u8
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-http://index-off.cr7x.workers.dev/live/test/test/vitalityt20blastvst20blast2025skyscriccrichd.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
 http://index-off.cr7x.workers.dev/live/test/test/vitalityt20blastvst20blast2025skysarecrichd.m3u8
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",India vs Afghanistan (WILLOWUSA)
-http://index-off.cr7x.workers.dev/live/test/test/indiavsafghanistanwillowusacrichd.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
+http://index-off.cr7x.workers.dev/live/test/test/vitalityt20blastvst20blast2025skyscriccrichd.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
+http://index-off.cr7x.workers.dev/live/test/test/vitalityt20blastvst20blast2025skysmecrichd.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",India vs Afghanistan (BBTSP1)
 http://index-off.cr7x.workers.dev/live/test/test/indiavsafghanistanbbtsp1crichd.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",India vs Afghanistan (WILLOWUSA)
+http://index-off.cr7x.workers.dev/live/test/test/indiavsafghanistanwillowusacrichd.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Sky Sports Cricket
+http://index-off.cr7x.workers.dev/live/test/test/skysportscricketcrichd.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Sky Sports Tennis
 http://index-off.cr7x.workers.dev/live/test/test/skysportstenniscrichd.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Sky Sports F1
 http://index-off.cr7x.workers.dev/live/test/test/skysportsf1crichd.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Sky Sports News
 http://index-off.cr7x.workers.dev/live/test/test/skysportsnewscrichd.m3u8
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Sky Sports Premier League
-http://index-off.cr7x.workers.dev/live/test/test/skysportspremierleaguecrichd.m3u8
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Sky Sports Action
-http://index-off.cr7x.workers.dev/live/test/test/skysportsactioncrichd.m3u8
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Sky Sports Main Event
-http://index-off.cr7x.workers.dev/live/test/test/skysportsmaineventcrichd.m3u8
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Sky Sports Mix
-http://index-off.cr7x.workers.dev/live/test/test/skysportsmixcrichd.m3u8
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Sky Sports Cricket
-http://index-off.cr7x.workers.dev/live/test/test/skysportscricketcrichd.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Sky Sports Football
 http://index-off.cr7x.workers.dev/live/test/test/skysportsfootballcrichd.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Sky Sports Premier League
+http://index-off.cr7x.workers.dev/live/test/test/skysportspremierleaguecrichd.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Sky Sports Main Event
+http://index-off.cr7x.workers.dev/live/test/test/skysportsmaineventcrichd.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Sky Sports Golf
 http://index-off.cr7x.workers.dev/live/test/test/skysportsgolfcrichd.m3u8
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",TNT Sports 1
-http://index-off.cr7x.workers.dev/live/test/test/tntsports1crichd.m3u8
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",TNT Sports 4
-http://index-off.cr7x.workers.dev/live/test/test/tntsports4crichd.m3u8
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Star Sports 1
-http://index-off.cr7x.workers.dev/live/test/test/starsports1crichd.m3u8
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Viaplay Sports 1 UK
-http://index-off.cr7x.workers.dev/live/test/test/viaplaysports1ukcrichd.m3u8
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",TNT Sports 3
-http://index-off.cr7x.workers.dev/live/test/test/tntsports3crichd.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Sky Sports Mix
+http://index-off.cr7x.workers.dev/live/test/test/skysportsmixcrichd.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Sky Sports Action
+http://index-off.cr7x.workers.dev/live/test/test/skysportsactioncrichd.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",LaLiga TV UK
 http://index-off.cr7x.workers.dev/live/test/test/laligatvukcrichd.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",TNT Sports 1
+http://index-off.cr7x.workers.dev/live/test/test/tntsports1crichd.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Viaplay Sports 1 UK
+http://index-off.cr7x.workers.dev/live/test/test/viaplaysports1ukcrichd.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",TNT Sports 4
+http://index-off.cr7x.workers.dev/live/test/test/tntsports4crichd.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",TNT Sports 2
 http://index-off.cr7x.workers.dev/live/test/test/tntsports2crichd.m3u8
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",PTV Sports
-http://index-off.cr7x.workers.dev/live/test/test/ptvsportscrichd.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",TNT Sports 3
+http://index-off.cr7x.workers.dev/live/test/test/tntsports3crichd.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Star Sports 1
+http://index-off.cr7x.workers.dev/live/test/test/starsports1crichd.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Viaplay Sports 2 UK
 http://index-off.cr7x.workers.dev/live/test/test/viaplaysports2ukcrichd.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",PTV Sports
+http://index-off.cr7x.workers.dev/live/test/test/ptvsportscrichd.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Willow Cricket
 http://index-off.cr7x.workers.dev/live/test/test/willowcricketcrichd.m3u8
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Ten Sports
-http://index-off.cr7x.workers.dev/live/test/test/tensportscrichd.m3u8
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Sky Sport 1 NZ
-http://index-off.cr7x.workers.dev/live/test/test/skysport1nzcrichd.m3u8
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",ESPN 2 US
-http://index-off.cr7x.workers.dev/live/test/test/espn2uscrichd.m3u8
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Star Sports 1 Hindi
-http://index-off.cr7x.workers.dev/live/test/test/starsports1hindicrichd.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",ESPN US
 http://index-off.cr7x.workers.dev/live/test/test/espnuscrichd.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Willow Cricket Extra
 http://index-off.cr7x.workers.dev/live/test/test/willowcricketextracrichd.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Ten Sports
+http://index-off.cr7x.workers.dev/live/test/test/tensportscrichd.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Star Sports 1 Hindi
+http://index-off.cr7x.workers.dev/live/test/test/starsports1hindicrichd.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",A Sports HD
 http://index-off.cr7x.workers.dev/live/test/test/asportshdcrichd.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",ESPN 2 US
+http://index-off.cr7x.workers.dev/live/test/test/espn2uscrichd.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Sky Sport 1 NZ
+http://index-off.cr7x.workers.dev/live/test/test/skysport1nzcrichd.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Sky Sport 2 NZ
 http://index-off.cr7x.workers.dev/live/test/test/skysport2nzcrichd.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Sky Sport 3 NZ
 http://index-off.cr7x.workers.dev/live/test/test/skysport3nzcrichd.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Sky Sport 4 NZ
 http://index-off.cr7x.workers.dev/live/test/test/skysport4nzcrichd.m3u8
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Sky Sport 9 NZ
-http://index-off.cr7x.workers.dev/live/test/test/skysport9nzcrichd.m3u8
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",BeIn Sports USA
-http://index-off.cr7x.workers.dev/live/test/test/beinsportsusacrichd.m3u8
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Fox Deportes
-http://index-off.cr7x.workers.dev/live/test/test/foxdeportescrichd.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Sky Sport 6 NZ
 http://index-off.cr7x.workers.dev/live/test/test/skysport6nzcrichd.m3u8
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Telemundo
-http://index-off.cr7x.workers.dev/live/test/test/telemundocrichd.m3u8
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Sky Sport 7 NZ
-http://index-off.cr7x.workers.dev/live/test/test/skysport7nzcrichd.m3u8
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Sky Sport 8 NZ
-http://index-off.cr7x.workers.dev/live/test/test/skysport8nzcrichd.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Sky Sport 5 NZ
 http://index-off.cr7x.workers.dev/live/test/test/skysport5nzcrichd.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Sky Sport 8 NZ
+http://index-off.cr7x.workers.dev/live/test/test/skysport8nzcrichd.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Fox Deportes
+http://index-off.cr7x.workers.dev/live/test/test/foxdeportescrichd.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Sky Sport 9 NZ
+http://index-off.cr7x.workers.dev/live/test/test/skysport9nzcrichd.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Sky Sport 7 NZ
+http://index-off.cr7x.workers.dev/live/test/test/skysport7nzcrichd.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Fox Sports 1 US
+http://index-off.cr7x.workers.dev/live/test/test/foxsports1uscrichd.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",NBC
 http://index-off.cr7x.workers.dev/live/test/test/nbccrichd.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Fox Sports 2 US
 http://index-off.cr7x.workers.dev/live/test/test/foxsports2uscrichd.m3u8
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Fox Sports 1 US
-http://index-off.cr7x.workers.dev/live/test/test/foxsports1uscrichd.m3u8
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Movistar #Vamos
-http://index-off.cr7x.workers.dev/live/test/test/movistarvamoscrichd.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",TUDN USA
 http://index-off.cr7x.workers.dev/live/test/test/tudnusacrichd.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Telemundo
+http://index-off.cr7x.workers.dev/live/test/test/telemundocrichd.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Movistar #Vamos
+http://index-off.cr7x.workers.dev/live/test/test/movistarvamoscrichd.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",DAZN 1 Spain
 http://index-off.cr7x.workers.dev/live/test/test/dazn1spaincrichd.m3u8
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",DAZN 3 Spain
-http://index-off.cr7x.workers.dev/live/test/test/dazn3spaincrichd.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",DAZN 2 Spain
 http://index-off.cr7x.workers.dev/live/test/test/dazn2spaincrichd.m3u8
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",DAZN 4 Spain
-http://index-off.cr7x.workers.dev/live/test/test/dazn4spaincrichd.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Movistar Deportes
 http://index-off.cr7x.workers.dev/live/test/test/movistardeportescrichd.m3u8
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",LaLiga TV Hypermotion 2
-http://index-off.cr7x.workers.dev/live/test/test/laligatvhypermotion2crichd.m3u8
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",LaLiga TV Hypermotion
-http://index-off.cr7x.workers.dev/live/test/test/laligatvhypermotioncrichd.m3u8
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",BBC One
-http://index-off.cr7x.workers.dev/live/test/test/bbconecrichd.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",ITV4
 http://index-off.cr7x.workers.dev/live/test/test/itv4crichd.m3u8
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Fox Soccer Plus
-http://index-off.cr7x.workers.dev/live/test/test/foxsoccerpluscrichd.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",DAZN 4 Spain
+http://index-off.cr7x.workers.dev/live/test/test/dazn4spaincrichd.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",LaLiga TV Hypermotion
+http://index-off.cr7x.workers.dev/live/test/test/laligatvhypermotioncrichd.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",LaLiga TV Hypermotion 2
+http://index-off.cr7x.workers.dev/live/test/test/laligatvhypermotion2crichd.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",DAZN 3 Spain
+http://index-off.cr7x.workers.dev/live/test/test/dazn3spaincrichd.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",BBC One
+http://index-off.cr7x.workers.dev/live/test/test/bbconecrichd.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",ITV 1
 http://index-off.cr7x.workers.dev/live/test/test/itv1crichd.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",BBC Two
 http://index-off.cr7x.workers.dev/live/test/test/bbctwocrichd.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",Fox Soccer Plus
+http://index-off.cr7x.workers.dev/live/test/test/foxsoccerpluscrichd.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | CricHD",ESPN Deportes
 http://index-off.cr7x.workers.dev/live/test/test/espndeportescrichd.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Akash",Sony Sports TEN 2
@@ -17159,3 +17191,5 @@ http://index-off.cr7x.workers.dev/live/test/test/btvakash.m3u8
 http://index-off.cr7x.workers.dev/live/test/test/sportsrangeakash.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Akash",AKASH GO Sports 1
 http://index-off.cr7x.workers.dev/live/test/test/akashgosports1akash.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/favico.png" tvg-logo="https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/logos/ALL.png" group-title="⚜️[𝟬𝟳_𝗖𝗢𝗥𝗘] ➔ | Live-ICC",English | WT20 Warm-Ups: England v India
+http://index-off.cr7x.workers.dev/live/test/test/englishwt20warmupsenglandvindialiveicc.m3u8

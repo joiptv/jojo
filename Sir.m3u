@@ -5,9 +5,9 @@ https://activation-07live.pages.dev/activate.m3u8
 https://activation-07live.pages.dev/activate.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="Expiry" tvg-logo="https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678116-calendar-512.png" group-title="Playlist | Info" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFEMgw7JnyebuCOdv0RjD5YX49LUGzOSpVuw&s", Expiry: 2026-06-30
 https://activation-07live.pages.dev/activate.m3u8
-#EXTINF:-1 tvg-id="-2" tvg-name="IP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkBoNwmrb6Xxy1n4636PHJDiYxBa8NSrB8Hw&s" group-title="Playlist | Info" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFEMgw7JnyebuCOdv0RjD5YX49LUGzOSpVuw&s", IP: 64.236.142.225 (Microsoft Corporation)
+#EXTINF:-1 tvg-id="-2" tvg-name="IP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkBoNwmrb6Xxy1n4636PHJDiYxBa8NSrB8Hw&s" group-title="Playlist | Info" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFEMgw7JnyebuCOdv0RjD5YX49LUGzOSpVuw&s", IP: 172.182.211.25 (Microsoft)
 https://activation-07live.pages.dev/activate.m3u8
-#EXTINF:-1 tvg-id="-3" tvg-name="LOCATION" tvg-logo="https://cdn.creativefabrica.com/2023/06/19/Map-with-geo-pin-Location-icon-Destina-Graphics-72467669-1-1-580x387.png" group-title="Playlist | Info" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFEMgw7JnyebuCOdv0RjD5YX49LUGzOSpVuw&s", LOCATION: Chicago, Illinois, United States
+#EXTINF:-1 tvg-id="-3" tvg-name="LOCATION" tvg-logo="https://cdn.creativefabrica.com/2023/06/19/Map-with-geo-pin-Location-icon-Destina-Graphics-72467669-1-1-580x387.png" group-title="Playlist | Info" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFEMgw7JnyebuCOdv0RjD5YX49LUGzOSpVuw&s", LOCATION: Phoenix, Arizona, United States
 https://activation-07live.pages.dev/activate.m3u8
 #EXTINF:-1 tvg-id="-4" tvg-name="app" tvg-logo="https://cdn-icons-png.flaticon.com/512/564/564429.png" group-title="Playlist | Info" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFEMgw7JnyebuCOdv0RjD5YX49LUGzOSpVuw&s", APP: External Player | DEVICE: Android
 https://activation-07live.pages.dev/activate.m3u8
@@ -13996,6 +13996,33 @@ https://vg-tv9live.akamaized.net/v1/vglive-sk-301666/main.m3u8?ads.partner=sunne
 #EXTINF:-1 tvg-id="207724" tvg-name="News9" tvg-logo="https://sund-images.sunnxt.com/207724/News9_207724_a97a9fc1-3f1d-4b33-b0ec-83aaedfdb178.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGE4Im-xgH-aV0l3S2wFkP_MuIokR3rnD6sw&s" tvg-language="english" group-title="🔶𝗦𝗨𝗡𝗡𝗫𝗧 | News",News9
 https://vg-tv9live.akamaized.net/v1/vglive-sk-791223/main.m3u8?ads.partner=sunnetwork
 
+# ===== Event =====
+#EXTM3U
+
+#EXTINF:-1 group-logo="https://www.bizasialive.com/wp-content/uploads/2020/05/899ec721-sonylivnew001.jpg" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2020/05/899ec721-sonylivnew001.jpg" group-title="➥ SonyLiv⚔️Live",India A vs Afghanistan A - 11 Jun 2026 [ENG]
+#EXTVLCOPT:http-user-agent=sonyliv/6.22.4 (Android 11; en_GB; AI PONT; Build/RTM1.210824.048)
+https://sliv-events.07in.workers.dev/suluv-1.m3u8
+
+#EXTINF:-1 group-logo="https://www.bizasialive.com/wp-content/uploads/2020/05/899ec721-sonylivnew001.jpg" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2020/05/899ec721-sonylivnew001.jpg" group-title="➥ SonyLiv⚔️Live",India A vs Afghanistan A - 11 Jun 2026 [HIN]
+#EXTVLCOPT:http-user-agent=sonyliv/6.22.4 (Android 11; en_GB; AI PONT; Build/RTM1.210824.048)
+https://sliv-events.07in.workers.dev/suluv-2.m3u8
+
+#EXTINF:-1 group-logo="https://www.bizasialive.com/wp-content/uploads/2020/05/899ec721-sonylivnew001.jpg" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2020/05/899ec721-sonylivnew001.jpg" group-title="➥ SonyLiv⚔️Live",India A vs Afghanistan A - 11 Jun 2026 [TAM]
+#EXTVLCOPT:http-user-agent=sonyliv/6.22.4 (Android 11; en_GB; AI PONT; Build/RTM1.210824.048)
+https://sliv-events.07in.workers.dev/suluv-3.m3u8
+
+#EXTINF:-1 group-logo="https://www.bizasialive.com/wp-content/uploads/2020/05/899ec721-sonylivnew001.jpg" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2020/05/899ec721-sonylivnew001.jpg" group-title="➥ SonyLiv⚔️Live",India A vs Afghanistan A - 11 Jun 2026 [TEL]
+#EXTVLCOPT:http-user-agent=sonyliv/6.22.4 (Android 11; en_GB; AI PONT; Build/RTM1.210824.048)
+https://sliv-events.07in.workers.dev/suluv-4.m3u8
+
+#EXTINF:-1 group-logo="https://www.bizasialive.com/wp-content/uploads/2020/05/899ec721-sonylivnew001.jpg" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2020/05/899ec721-sonylivnew001.jpg" group-title="➥ SonyLiv⚔️Live",India A vs Afghanistan A - 11 Jun 2026 [KAN]
+#EXTVLCOPT:http-user-agent=sonyliv/6.22.4 (Android 11; en_GB; AI PONT; Build/RTM1.210824.048)
+https://sliv-events.07in.workers.dev/suluv-5.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019494/1781082943073523_Tri_Series26_IND_A_vs_AFG_A_landscape_thumb.jpg" group-logo="https://www.bizasialive.com/wp-content/uploads/2020/05/899ec721-sonylivnew001.jpg" group-title="➥ SonyLiv⚔️Live",🔥 Talent TV Cup
+#EXTVLCOPT:http-user-agent=sonyliv/6.22.4 (Android 11; en_GB; AI PONT; Build/RTM1.210824.048)
+https://sliv-events.07in.workers.dev/1090534542/Sony_Sports_Ten_1/master.m3u8
+
 # ===== Samsung =====
 #EXTM3U
 #EXTINF:-1 tvg-id="IN38000072R" tvg-name="The Movie Club" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20260513T005540SQUARE.png" group-logo="https://os-wordpress-media.s3.ap-south-1.amazonaws.com/blog/wp-content/uploads/2022/08/31171422/Untitled-design-2022-08-31T171330.780.jpg" group-title="🔹𝗦𝗮𝗺𝘀𝘂𝗻𝗴 𝗧𝗩 | Movies",The Movie Club
@@ -14557,8 +14584,41 @@ https://terminal-sumsung.07in.workers.dev/live/test/test/IN30009003.m3u8
 #EXTM3U
 #EXTGEAR: group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png"
 
-#EXTINF:-1 tvg-name="Australia tour of Bangladesh, 2026" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Aus-vs-Ban_Web-match-card_1780908762762.png" tvg-description="Bangladesh Vs Australia" tvg-language="ENGLISH" group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png" group-title="𝐅𝐚𝐧𝐜𝐨𝐝𝐞 | Live",Bangladesh Vs Australia (ENGLISH)
+#EXTINF:-1 tvg-name="Australia tour of Bangladesh, 2026" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Aus-vs-Ban_Web-match-card_1780908762762.png" tvg-description="Australia Vs Bangladesh" tvg-language="ENGLISH" group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png" group-title="𝐅𝐚𝐧𝐜𝐨𝐝𝐞 | Live",Australia Vs Bangladesh (ENGLISH)
 https://fancode.cr7x.workers.dev/live/Api/142966/1.m3u8
+
+#EXTINF:-1 tvg-name="Big Cricket League Season 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142997_6094_MM_SS_FC-WEB_1780318029115.jpg" tvg-description="Mumbai Marines Vs Southern Spartans" tvg-language="ENGLISH" group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png" group-title="𝐅𝐚𝐧𝐜𝐨𝐝𝐞 | Live",Mumbai Marines Vs Southern Spartans (ENGLISH)
+https://fancode.cr7x.workers.dev/live/Api/142997/1.m3u8
+
+#EXTINF:-1 tvg-name="EUT20 Belgium, 2026" tvg-logo="https://images.fancode.com/aig/match/v1781153194943/143160_CASACARDS_APP.png" tvg-description="Akcel United Brussels Vs Antwerp Anchors" tvg-language="ENGLISH" group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png" group-title="𝐅𝐚𝐧𝐜𝐨𝐝𝐞 | Live",Akcel United Brussels Vs Antwerp Anchors (ENGLISH)
+https://fancode.cr7x.workers.dev/live/Api/143160/1.m3u8
+
+#EXTINF:-1 tvg-name="Madhya Pradesh League T20, 2026" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143074_6102_UJF_JRL_FC-WEB.jpg" tvg-description="Ujjain Falcons Vs Jabalpur Royal Lions" tvg-language="ENGLISH" group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png" group-title="𝐅𝐚𝐧𝐜𝐨𝐝𝐞 | Live",Ujjain Falcons Vs Jabalpur Royal Lions (ENGLISH)
+https://fancode.cr7x.workers.dev/live/Api/143074/1.m3u8
+
+#EXTINF:-1 tvg-name="Madhya Pradesh League T20, 2026" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143075_6102_RNG_MWS_FC-WEB.jpg" tvg-description="Royal Nimar Eagles Vs Malwa Stallions" tvg-language="ENGLISH" group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png" group-title="𝐅𝐚𝐧𝐜𝐨𝐝𝐞 | Live",Royal Nimar Eagles Vs Malwa Stallions (ENGLISH)
+https://fancode.cr7x.workers.dev/live/Api/143075/1.m3u8
+
+#EXTINF:-1 tvg-name="ATP 250 - BOSS OPEN 2026" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Boss_Web-match-card.png" tvg-description="Day 4   Center Court" tvg-language="ENGLISH" group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png" group-title="𝐅𝐚𝐧𝐜𝐨𝐝𝐞 | Live",Day 4   Center Court (ENGLISH)
+https://fancode.cr7x.workers.dev/live/Api/143121/1.m3u8
+
+#EXTINF:-1 tvg-name="ATP 250 - Libema Open" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png" tvg-description="Day 4   Court 1" tvg-language="ENGLISH" group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png" group-title="𝐅𝐚𝐧𝐜𝐨𝐝𝐞 | Live",Day 4   Court 1 (ENGLISH)
+https://fancode.cr7x.workers.dev/live/Api/143394/1.m3u8
+
+#EXTINF:-1 tvg-name="ATP 250 - Libema Open" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png" tvg-description="Day 4   Center Court" tvg-language="ENGLISH" group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png" group-title="𝐅𝐚𝐧𝐜𝐨𝐝𝐞 | Live",Day 4   Center Court (ENGLISH)
+https://fancode.cr7x.workers.dev/live/Api/143128/1.m3u8
+
+#EXTINF:-1 tvg-name="RBC Canadian Open 2026" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png" tvg-description="Day 1   Main Feed" tvg-language="ENGLISH" group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png" group-title="𝐅𝐚𝐧𝐜𝐨𝐝𝐞 | Live",Day 1   Main Feed (ENGLISH)
+https://fancode.cr7x.workers.dev/live/Api/143202/1.m3u8
+
+#EXTINF:-1 tvg-name="RBC Canadian Open 2026" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png" tvg-description="Day 1   Featured Holes" tvg-language="ENGLISH" group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png" group-title="𝐅𝐚𝐧𝐜𝐨𝐝𝐞 | Live",Day 1   Featured Holes (ENGLISH)
+https://fancode.cr7x.workers.dev/live/Api/143204/1.m3u8
+
+#EXTINF:-1 tvg-name="RBC Canadian Open 2026" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png" tvg-description="Day 1   Featured Groups" tvg-language="ENGLISH" group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png" group-title="𝐅𝐚𝐧𝐜𝐨𝐝𝐞 | Live",Day 1   Featured Groups (ENGLISH)
+https://fancode.cr7x.workers.dev/live/Api/143205/1.m3u8
+
+#EXTINF:-1 tvg-name="RBC Canadian Open 2026" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png" tvg-description="Day 1   Marquee Group" tvg-language="ENGLISH" group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png" group-title="𝐅𝐚𝐧𝐜𝐨𝐝𝐞 | Live",Day 1   Marquee Group (ENGLISH)
+https://fancode.cr7x.workers.dev/live/Api/143203/1.m3u8
 
 # ===== toffee =====
 #EXTM3U
@@ -15374,5 +15434,343 @@ https://activation-07live.pages.dev/stb/live?id=LIVETV_LIVETVCHANNEL_ANIMAL_PLAN
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_STAR_MOVIES_HD" tvg-name="STAR MOVIES HD" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYwYlS-e4srI2PsM2qdAnK_MTfIAQ-zIGqmw&s" group-title="『STB』⛩️ | MOVIES",STAR MOVIES HD
 https://activation-07live.pages.dev/stb/live?id=LIVETV_LIVETVCHANNEL_STAR_MOVIES_HD&uid=test&pass=test
 
-# ===== SLOT_16 =====
+# ===== ektv =====
 #EXTM3U
+#EXTINF:-1 tvg-id="B0H17GTBTP" tvg-name="Tri Nation A Series in Sri Lanka 2026 - 2nd Match - India A vs Afghanistan A" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a4afcf57-237c-495c-b043-5e332554c096/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-logo="https://lh5.googleusercontent.com/proxy/llgd0Pi2DmMqsfDpq3Ut_LxYQKjPIe4CccguV0GNzC7DjM5oje2Na-r1g6XTy8xpaIoO3xHL8i3_oeZnGejcpOiIGmaAXd_unuiEZHNZ" group-title="🌟 ❮ 𝗟𝗜𝗩𝗘 | 𝗘𝗩𝗘𝗡𝗧 ❯",Tri Nation A Series in Sri Lanka 2026 - 2nd Match - India A vs Afghanistan A
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5be21df3f18ef64aaaaa30cbdaf128ed:7fac12f58b756a1a52d3150c7d3b0304
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ehfibbt64r/out/v1/242699d5a0484c3b8868d40d763d75cd/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0GXRWWRY1" tvg-name="Australia tour of Bangladesh 2026 - 2nd ODI - Bangladesh vs Australia" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1991c3cc-82e2-4b36-8a89-287bbb78abb2/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-logo="https://lh5.googleusercontent.com/proxy/llgd0Pi2DmMqsfDpq3Ut_LxYQKjPIe4CccguV0GNzC7DjM5oje2Na-r1g6XTy8xpaIoO3xHL8i3_oeZnGejcpOiIGmaAXd_unuiEZHNZ" group-title="🌟 ❮ 𝗟𝗜𝗩𝗘 | 𝗘𝗩𝗘𝗡𝗧 ❯",Australia tour of Bangladesh 2026 - 2nd ODI - Bangladesh vs Australia
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2b04e262f023cf59a2226dff375b3be:5455b5b5f804c34e2324a1bed24f9da0
+https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/jpt6zpxrd8/out/v1/2a70f9d752d245849a8492ad81a8bf3c/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0H4H6SGTC" tvg-name="EUT20 Belgium 2026 - 12th Match - Akcel United Brussels vs Antwerp Anchors" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8f4ca9fd-84de-4bb6-8de8-f2dc2c7da8d7/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-logo="https://lh5.googleusercontent.com/proxy/llgd0Pi2DmMqsfDpq3Ut_LxYQKjPIe4CccguV0GNzC7DjM5oje2Na-r1g6XTy8xpaIoO3xHL8i3_oeZnGejcpOiIGmaAXd_unuiEZHNZ" group-title="🌟 ❮ 𝗟𝗜𝗩𝗘 | 𝗘𝗩𝗘𝗡𝗧 ❯",EUT20 Belgium 2026 - 12th Match - Akcel United Brussels vs Antwerp Anchors
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=10f1ae233d0c71e9e2399260d2e399b6:4f8c997d1458ccb090e37f09e602afb6
+https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dkdh5uuwob/out/v1/091d8c89f37642aaa7b6105c8fa04721/cenc.mpd
+
+# ===== jhs =====
+#EXTM3U
+#EXTINF:-1 group-title="💎 ⟦ 𝙲𝚁𝙸𝙲𝙺𝙴𝚃 𝙻𝙸𝚅𝙴 ⟧" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiIrcFsiBrac-jeMMbaTyqjlq7bkqFWt9B3w&s"  ,  Willow Adsfree
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c0ee5909de5872620bf9f1d2d2ef7f5:1f7ebf7dbeb6cde6e216175f90e5f161
+#EXTHTTP:{"Cookie":"","Origin":"","Referer":""}
+https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wxpivt6h8l/out/v1/720d60ec6a3b4b1ab2631bbd4712d350/cenc.mpd
+#EXTINF:-1 group-title="💎 ⟦ 𝙲𝚁𝙸𝙲𝙺𝙴𝚃 𝙻𝙸𝚅𝙴 ⟧" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiIrcFsiBrac-jeMMbaTyqjlq7bkqFWt9B3w&s"  , Star Sports 1 Hindi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=81872faa1d6b45fa9045cdeb2e310000:9b88168e61274587a471962c46b94675
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)
+#EXTHTTP:{"Cookie":"hdntl=exp=1780316477~acl=/*~id=7a071e2a2a4a3aa2f3c4082dd5a53328~data=hdntl~hmac=8c7b6c063cbbfcb052a255b92ab2e9fd35f6b7d1eaee424cd2ed68f7ed13dd14","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://livetv.hotstar.com/mp1/gec-india-1540065788/fa6a4f0005ef4f90ab24484d165b0aaf/index.mpd
+#EXTINF:-1 group-title="💎 ⟦ 𝙲𝚁𝙸𝙲𝙺𝙴𝚃 𝙻𝙸𝚅𝙴 ⟧" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiIrcFsiBrac-jeMMbaTyqjlq7bkqFWt9B3w&s"  , Kayo Hindi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bf05c8617fb5d258b65b7f0df80a608:89e1b8c1e39a48c6c1616360ffbfb612
+#EXTHTTP:{"Cookie":"","Origin":"","Referer":""}
+https://dck1-fs-live.dtcdn.dazn.com/out/v1/761f422bb93edb7b/8385ebd5ee5f436abdb3696037819414/index.mpd
+#EXTINF:-1 group-title="💎 ⟦ 𝙲𝚁𝙸𝙲𝙺𝙴𝚃 𝙻𝙸𝚅𝙴 ⟧" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiIrcFsiBrac-jeMMbaTyqjlq7bkqFWt9B3w&s"  , Star Sports 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b7cdde012ce04e90a08b90622e020000:13603245acab444faef6cab5198de55f
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)
+#EXTHTTP:{"Cookie":"hdntl=exp=1780316477~acl=/*~id=7a071e2a2a4a3aa2f3c4082dd5a53328~data=hdntl~hmac=8c7b6c063cbbfcb052a255b92ab2e9fd35f6b7d1eaee424cd2ed68f7ed13dd14","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://livetv.hotstar.com/mp1/gec-india-1540065782/fce958099ca84fc3b980e651a4a668a8/index.mpd
+#EXTINF:-1 group-title="💎 ⟦ 𝙲𝚁𝙸𝙲𝙺𝙴𝚃 𝙻𝙸𝚅𝙴 ⟧" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiIrcFsiBrac-jeMMbaTyqjlq7bkqFWt9B3w&s"  , IPL TV
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)
+#EXTHTTP:{"Cookie":"hdntl=exp=1780316477~acl=/*~id=7a071e2a2a4a3aa2f3c4082dd5a53328~data=hdntl~hmac=8c7b6c063cbbfcb052a255b92ab2e9fd35f6b7d1eaee424cd2ed68f7ed13dd14","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://jcevents.hotstar.com/bpk-tv/e03bbf7688f4b14faa3782e78851c3d9_CTV/Fallback/e03bbf7688f4b14faa3782e78851c3d9.m3u8
+#EXTINF:-1 group-title="💎 ⟦ 𝙲𝚁𝙸𝙲𝙺𝙴𝚃 𝙻𝙸𝚅𝙴 ⟧" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiIrcFsiBrac-jeMMbaTyqjlq7bkqFWt9B3w&s"  , Star Sports Tamil
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)
+#EXTHTTP:{"Cookie":"hdntl=exp=1780316477~acl=/*~id=7a071e2a2a4a3aa2f3c4082dd5a53328~data=hdntl~hmac=8c7b6c063cbbfcb052a255b92ab2e9fd35f6b7d1eaee424cd2ed68f7ed13dd14","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://jcevents.hotstar.com/bpk-tv/4db6f833701e78ae4443cb268020f03b/Fallback/4db6f833701e78ae4443cb268020f03b.m3u8
+#EXTINF:-1 group-title="💎 ⟦ 𝙲𝚁𝙸𝙲𝙺𝙴𝚃 𝙻𝙸𝚅𝙴 ⟧" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiIrcFsiBrac-jeMMbaTyqjlq7bkqFWt9B3w&s"  , Star Sports Telugu
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)
+#EXTHTTP:{"Cookie":"hdntl=exp=1780316477~acl=/*~id=7a071e2a2a4a3aa2f3c4082dd5a53328~data=hdntl~hmac=8c7b6c063cbbfcb052a255b92ab2e9fd35f6b7d1eaee424cd2ed68f7ed13dd14","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://jcevents.hotstar.com/bpk-tv/034d1fb94cae87294a06f4dc266084b9/Fallback/034d1fb94cae87294a06f4dc266084b9.m3u8
+#EXTINF:-1 group-title="💎 ⟦ 𝙲𝚁𝙸𝙲𝙺𝙴𝚃 𝙻𝙸𝚅𝙴 ⟧" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiIrcFsiBrac-jeMMbaTyqjlq7bkqFWt9B3w&s"  , FOX HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=01c9bbf8137e58378a5ead514998a7b4:fb01e61809e80e5e93a889cd31daab22
+#EXTHTTP:{"Cookie":"","Origin":"","Referer":""}
+https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/d65feac5647949e6b45b2674d4715398/index.mpd
+
+# ===== jh =====
+#EXTM3U
+
+# ===== jhs =====
+#EXTM3U
+# Playlist generated by Hotstar Extractor
+# Title: INDIA VS AFGHANISTAN ONLY TEST DAY 3
+# Type: LIVE TV
+# Generated: 2026-06-08 18:00:50
+
+#EXTINF:-1 tvg-id="8975982097" tvg-name="ENGLISH" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6190/1780828856190-b" group-title="👑JH | INDIA VS AFGHANISTAN ONLY TEST DAY 3" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGzh7f-rSYGiNM2csqt4-zXSL5H5GRyLusjQ&s", ENGLISH HDR
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1780907170~acl=/cmaf/live/2108386/inallow-indvsafg-2026/eng/1540071489/15mindvrm01ae41bbe432f74570bae06d0d481bb5a308june2026/master_a*~data=ip=RxYivkfuCZ5XrUICvXtM5u-userid=NirmAPfloGKRUXn7Sx0ootuiCikBcQ8Hr1LnDOslXSun-did=Ic794RehXS417CFs7Mn24YEtGKhvIczbPc6mZecXyqad-cc=in-de=5-pl=androidtv-ap=26.03.06.0-ut=paid-ttl=1800-type=paid-raf=1780905970-~hmac=fbd982671f271235987e31fa724d48432bb204893395ee6b93d9debc3ea38ee2"}
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://live11p.hotstar.com/cmaf/live/2108386/inallow-indvsafg-2026/eng/1540071489/15mindvrm01ae41bbe432f74570bae06d0d481bb5a308june2026/master_a.m3u8?a=s&asn_id=tffsz&content_id=1540071489&language=english&layer=master&media_codec=codec%3Dh265%3Adr%3Dhdr10&playback_host=live11p-pristine-akt.cdn.hotstar.com&playback_proto=http&random=inallow-indvsafg-2026&si_match_id=722860&hdnea=exp=1780907170~acl=/cmaf/live/2108386/inallow-indvsafg-2026/eng/1540071489/15mindvrm01ae41bbe432f74570bae06d0d481bb5a308june2026/master_a*~data=ip=RxYivkfuCZ5XrUICvXtM5u-userid=NirmAPfloGKRUXn7Sx0ootuiCikBcQ8Hr1LnDOslXSun-did=Ic794RehXS417CFs7Mn24YEtGKhvIczbPc6mZecXyqad-cc=in-de=5-pl=androidtv-ap=26.03.06.0-ut=paid-ttl=1800-type=paid-raf=1780905970-~hmac=fbd982671f271235987e31fa724d48432bb204893395ee6b93d9debc3ea38ee2
+#EXTINF:-1 tvg-id="528702044" tvg-name="HINDI" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6190/1780828856190-b" group-title="👑JH | INDIA VS AFGHANISTAN ONLY TEST DAY 3" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGzh7f-rSYGiNM2csqt4-zXSL5H5GRyLusjQ&s", HINDI HDR
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1780907171~acl=/cmaf/live/2108403/inallow-indvsafg-2026/hin/1540071489/15mindvrm01ae41bbe432f74570bae06d0d481bb5a308june2026/master_a*~data=ip=RxYivkfuCZ5XrUICvXtM5u-userid=NirmAPfloGKRUXn7Sx0ootuiCikBcQ8Hr1LnDOslXSun-did=Ic794RehXS417CFs7Mn24YEtGKhvIczbPc6mZecXyqad-cc=in-de=5-pl=androidtv-ap=26.03.06.0-ut=paid-ttl=1800-type=paid-raf=1780905971-~hmac=d52fea8c06db606a5381ff17117ffa34a883d286580b2c60a2ec80884d553f49"}
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://live12p.hotstar.com/cmaf/live/2108403/inallow-indvsafg-2026/hin/1540071489/15mindvrm01ae41bbe432f74570bae06d0d481bb5a308june2026/master_a.m3u8?a=s&asn_id=tffsz&content_id=1540071489&language=hindi&layer=master&media_codec=codec%3Dh265%3Adr%3Dhdr10&playback_host=live12p-pristine-akt.cdn.hotstar.com&playback_proto=http&random=inallow-indvsafg-2026&si_match_id=722860&hdnea=exp=1780907171~acl=/cmaf/live/2108403/inallow-indvsafg-2026/hin/1540071489/15mindvrm01ae41bbe432f74570bae06d0d481bb5a308june2026/master_a*~data=ip=RxYivkfuCZ5XrUICvXtM5u-userid=NirmAPfloGKRUXn7Sx0ootuiCikBcQ8Hr1LnDOslXSun-did=Ic794RehXS417CFs7Mn24YEtGKhvIczbPc6mZecXyqad-cc=in-de=5-pl=androidtv-ap=26.03.06.0-ut=paid-ttl=1800-type=paid-raf=1780905971-~hmac=d52fea8c06db606a5381ff17117ffa34a883d286580b2c60a2ec80884d553f49
+#EXTINF:-1 tvg-id="3249549669" tvg-name="BHOJPURI" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6190/1780828856190-b" group-title="👑JH | INDIA VS AFGHANISTAN ONLY TEST DAY 3" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGzh7f-rSYGiNM2csqt4-zXSL5H5GRyLusjQ&s", BHOJPURI
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1780908842~acl=/cmaf/live/2117794/inallow-indvsafg-2026/bih/1540071489/15mindvrm01ae41bbe432f74570bae06d0d481bb5a308june2026/master_a*~data=ip=RxYivkfuCZ5XrUICvXtM5u-userid=NirmAPfloGKRUXn7Sx0ootuiCikBcQ8Hr1LnDOslXSun-did=Ic794RehXS417CFs7Mn24YEtGKhvIczbPc6mZecXyqad-cc=in-de=5-pl=androidtv-ap=26.03.06.0-ut=paid-ttl=1800-type=paid-raf=1780905971-magic-raf=1780907342-~hmac=61e86f0884a9cc1ce4e26a6b81239bfa4ff4c124def6059142cb7e658ff51f0c"}
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://live14p.hotstar.com/cmaf/live/2117794/inallow-indvsafg-2026/bih/1540071489/15mindvrm01ae41bbe432f74570bae06d0d481bb5a308june2026/master_a.m3u8?a=s&asn_id=tffsz&content_id=1540071489&language=bhojpuri&layer=master&media_codec=codec%3Dh265%3Adr%3Dsdr&playback_host=live14p-pristine-akt.cdn.hotstar.com&playback_proto=http&random=inallow-indvsafg-2026&si_match_id=722860&hdnea=exp=1780908842~acl=/cmaf/live/2117794/inallow-indvsafg-2026/bih/1540071489/15mindvrm01ae41bbe432f74570bae06d0d481bb5a308june2026/master_a*~data=ip=RxYivkfuCZ5XrUICvXtM5u-userid=NirmAPfloGKRUXn7Sx0ootuiCikBcQ8Hr1LnDOslXSun-did=Ic794RehXS417CFs7Mn24YEtGKhvIczbPc6mZecXyqad-cc=in-de=5-pl=androidtv-ap=26.03.06.0-ut=paid-ttl=1800-type=paid-raf=1780905971-magic-raf=1780907342-~hmac=61e86f0884a9cc1ce4e26a6b81239bfa4ff4c124def6059142cb7e658ff51f0c
+#EXTINF:-1 tvg-id="768334691" tvg-name="HARYANVI" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6190/1780828856190-b" group-title="👑JH | INDIA VS AFGHANISTAN ONLY TEST DAY 3" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGzh7f-rSYGiNM2csqt4-zXSL5H5GRyLusjQ&s", HARYANVI
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1780907171~acl=/cmaf/live/2024717/inallow-indvsafg-2026/har/1540071489/15mindvrm01ae41bbe432f74570bae06d0d481bb5a308june2026/master_a*~data=ip=RxYivkfuCZ5XrUICvXtM5u-userid=NirmAPfloGKRUXn7Sx0ootuiCikBcQ8Hr1LnDOslXSun-did=Ic794RehXS417CFs7Mn24YEtGKhvIczbPc6mZecXyqad-cc=in-de=5-pl=androidtv-ap=26.03.06.0-ut=paid-ttl=1800-type=paid-raf=1780905971-~hmac=80e586444bafa26e646a37d8aa0a9c1d73b0109f1e8141fad62d38a651516c87"}
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://live14p.hotstar.com/cmaf/live/2024717/inallow-indvsafg-2026/har/1540071489/15mindvrm01ae41bbe432f74570bae06d0d481bb5a308june2026/master_a.m3u8?a=s&asn_id=tffsz&content_id=1540071489&language=haryanvi&layer=master&media_codec=codec%3Dh265%3Adr%3Dsdr&playback_host=live14p-pristine-akt.cdn.hotstar.com&playback_proto=http&random=inallow-indvsafg-2026&si_match_id=722860&hdnea=exp=1780907171~acl=/cmaf/live/2024717/inallow-indvsafg-2026/har/1540071489/15mindvrm01ae41bbe432f74570bae06d0d481bb5a308june2026/master_a*~data=ip=RxYivkfuCZ5XrUICvXtM5u-userid=NirmAPfloGKRUXn7Sx0ootuiCikBcQ8Hr1LnDOslXSun-did=Ic794RehXS417CFs7Mn24YEtGKhvIczbPc6mZecXyqad-cc=in-de=5-pl=androidtv-ap=26.03.06.0-ut=paid-ttl=1800-type=paid-raf=1780905971-~hmac=80e586444bafa26e646a37d8aa0a9c1d73b0109f1e8141fad62d38a651516c87
+#EXTINF:-1 tvg-id="471468796" tvg-name="TAMIL" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6190/1780828856190-b" group-title="👑JH | INDIA VS AFGHANISTAN ONLY TEST DAY 3" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGzh7f-rSYGiNM2csqt4-zXSL5H5GRyLusjQ&s", TAMIL
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1780907171~acl=/cmaf/live/2024712/inallow-indvsafg-2026/tam/1540071489/15mindvrm01ae41bbe432f74570bae06d0d481bb5a308june2026/master_a*~data=ip=RxYivkfuCZ5XrUICvXtM5u-userid=NirmAPfloGKRUXn7Sx0ootuiCikBcQ8Hr1LnDOslXSun-did=Ic794RehXS417CFs7Mn24YEtGKhvIczbPc6mZecXyqad-cc=in-de=5-pl=androidtv-ap=26.03.06.0-ut=paid-ttl=1800-type=paid-raf=1780905971-~hmac=21007bce5547c021b2a2bc9d14fede4e65c774cca025099bd08c2e2b5e69ff4c"}
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://live13p.hotstar.com/cmaf/live/2024712/inallow-indvsafg-2026/tam/1540071489/15mindvrm01ae41bbe432f74570bae06d0d481bb5a308june2026/master_a.m3u8?a=s&asn_id=tffsz&content_id=1540071489&language=tamil&layer=master&media_codec=codec%3Dh265%3Adr%3Dsdr&playback_host=live13p-pristine-akt.cdn.hotstar.com&playback_proto=http&random=inallow-indvsafg-2026&si_match_id=722860&hdnea=exp=1780907171~acl=/cmaf/live/2024712/inallow-indvsafg-2026/tam/1540071489/15mindvrm01ae41bbe432f74570bae06d0d481bb5a308june2026/master_a*~data=ip=RxYivkfuCZ5XrUICvXtM5u-userid=NirmAPfloGKRUXn7Sx0ootuiCikBcQ8Hr1LnDOslXSun-did=Ic794RehXS417CFs7Mn24YEtGKhvIczbPc6mZecXyqad-cc=in-de=5-pl=androidtv-ap=26.03.06.0-ut=paid-ttl=1800-type=paid-raf=1780905971-~hmac=21007bce5547c021b2a2bc9d14fede4e65c774cca025099bd08c2e2b5e69ff4c
+#EXTINF:-1 tvg-id="6226222853" tvg-name="TELUGU" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6190/1780828856190-b" group-title="👑JH | INDIA VS AFGHANISTAN ONLY TEST DAY 3" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGzh7f-rSYGiNM2csqt4-zXSL5H5GRyLusjQ&s", TELUGU
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1780907172~acl=/cmaf/live/2024716/inallow-indvsafg-2026/tel/1540071489/15mindvrm01ae41bbe432f74570bae06d0d481bb5a308june2026/master_a*~data=ip=RxYivkfuCZ5XrUICvXtM5u-userid=NirmAPfloGKRUXn7Sx0ootuiCikBcQ8Hr1LnDOslXSun-did=Ic794RehXS417CFs7Mn24YEtGKhvIczbPc6mZecXyqad-cc=in-de=5-pl=androidtv-ap=26.03.06.0-ut=paid-ttl=1800-type=paid-raf=1780905972-~hmac=83f18b7c65246be4f2aa214844d08f7e7b5cb3327fb831446034e14e94d19642"}
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://live14p.hotstar.com/cmaf/live/2024716/inallow-indvsafg-2026/tel/1540071489/15mindvrm01ae41bbe432f74570bae06d0d481bb5a308june2026/master_a.m3u8?a=s&asn_id=tffsz&content_id=1540071489&language=telugu&layer=master&media_codec=codec%3Dh265%3Adr%3Dsdr&playback_host=live14p-pristine-akt.cdn.hotstar.com&playback_proto=http&random=inallow-indvsafg-2026&si_match_id=722860&hdnea=exp=1780907172~acl=/cmaf/live/2024716/inallow-indvsafg-2026/tel/1540071489/15mindvrm01ae41bbe432f74570bae06d0d481bb5a308june2026/master_a*~data=ip=RxYivkfuCZ5XrUICvXtM5u-userid=NirmAPfloGKRUXn7Sx0ootuiCikBcQ8Hr1LnDOslXSun-did=Ic794RehXS417CFs7Mn24YEtGKhvIczbPc6mZecXyqad-cc=in-de=5-pl=androidtv-ap=26.03.06.0-ut=paid-ttl=1800-type=paid-raf=1780905972-~hmac=83f18b7c65246be4f2aa214844d08f7e7b5cb3327fb831446034e14e94d19642
+#EXTINF:-1 tvg-id="8116954995" tvg-name="KANNADA" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6190/1780828856190-b" group-title="👑JH | INDIA VS AFGHANISTAN ONLY TEST DAY 3" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGzh7f-rSYGiNM2csqt4-zXSL5H5GRyLusjQ&s", KANNADA
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1780907172~acl=/cmaf/live/2024718/inallow-indvsafg-2026/kan/1540071489/15mindvrm01ae41bbe432f74570bae06d0d481bb5a308june2026/master_a*~data=ip=RxYivkfuCZ5XrUICvXtM5u-userid=NirmAPfloGKRUXn7Sx0ootuiCikBcQ8Hr1LnDOslXSun-did=Ic794RehXS417CFs7Mn24YEtGKhvIczbPc6mZecXyqad-cc=in-de=5-pl=androidtv-ap=26.03.06.0-ut=paid-ttl=1800-type=paid-raf=1780905972-~hmac=05ee1685da5f57dc86457a90e90e0f2572595d1fa203f989289ef9fdfd19474a"}
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://live15p.hotstar.com/cmaf/live/2024718/inallow-indvsafg-2026/kan/1540071489/15mindvrm01ae41bbe432f74570bae06d0d481bb5a308june2026/master_a.m3u8?a=s&asn_id=tffsz&content_id=1540071489&language=kannada&layer=master&media_codec=codec%3Dh265%3Adr%3Dsdr&playback_host=live15p-pristine-akt.cdn.hotstar.com&playback_proto=http&random=inallow-indvsafg-2026&si_match_id=722860&hdnea=exp=1780907172~acl=/cmaf/live/2024718/inallow-indvsafg-2026/kan/1540071489/15mindvrm01ae41bbe432f74570bae06d0d481bb5a308june2026/master_a*~data=ip=RxYivkfuCZ5XrUICvXtM5u-userid=NirmAPfloGKRUXn7Sx0ootuiCikBcQ8Hr1LnDOslXSun-did=Ic794RehXS417CFs7Mn24YEtGKhvIczbPc6mZecXyqad-cc=in-de=5-pl=androidtv-ap=26.03.06.0-ut=paid-ttl=1800-type=paid-raf=1780905972-~hmac=05ee1685da5f57dc86457a90e90e0f2572595d1fa203f989289ef9fdfd19474a
+#EXTINF:-1 tvg-id="4205698455" tvg-name="BENGALI" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6190/1780828856190-b" group-title="👑JH | INDIA VS AFGHANISTAN ONLY TEST DAY 3" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGzh7f-rSYGiNM2csqt4-zXSL5H5GRyLusjQ&s", BENGALI
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1780907172~acl=/cmaf/live/2024715/inallow-indvsafg-2026/ben/1540071489/15mindvrm01ae41bbe432f74570bae06d0d481bb5a308june2026/master_a*~data=ip=RxYivkfuCZ5XrUICvXtM5u-userid=NirmAPfloGKRUXn7Sx0ootuiCikBcQ8Hr1LnDOslXSun-did=Ic794RehXS417CFs7Mn24YEtGKhvIczbPc6mZecXyqad-cc=in-de=5-pl=androidtv-ap=26.03.06.0-ut=paid-ttl=1800-type=paid-raf=1780905972-~hmac=41e9de90d51421230385c1ff1e58d0ee0b4fd51f75a352326e1f3d09e1cb5c25"}
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://live13p.hotstar.com/cmaf/live/2024715/inallow-indvsafg-2026/ben/1540071489/15mindvrm01ae41bbe432f74570bae06d0d481bb5a308june2026/master_a.m3u8?a=s&asn_id=tffsz&content_id=1540071489&language=bengali&layer=master&media_codec=codec%3Dh265%3Adr%3Dsdr&playback_host=live13p-pristine-akt.cdn.hotstar.com&playback_proto=http&random=inallow-indvsafg-2026&si_match_id=722860&hdnea=exp=1780907172~acl=/cmaf/live/2024715/inallow-indvsafg-2026/ben/1540071489/15mindvrm01ae41bbe432f74570bae06d0d481bb5a308june2026/master_a*~data=ip=RxYivkfuCZ5XrUICvXtM5u-userid=NirmAPfloGKRUXn7Sx0ootuiCikBcQ8Hr1LnDOslXSun-did=Ic794RehXS417CFs7Mn24YEtGKhvIczbPc6mZecXyqad-cc=in-de=5-pl=androidtv-ap=26.03.06.0-ut=paid-ttl=1800-type=paid-raf=1780905972-~hmac=41e9de90d51421230385c1ff1e58d0ee0b4fd51f75a352326e1f3d09e1cb5c25
+#EXTINF:-1 tvg-id="2460477364" tvg-name="ENGLISH SDR" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6190/1780828856190-b" group-title="👑JH | INDIA VS AFGHANISTAN ONLY TEST DAY 3" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGzh7f-rSYGiNM2csqt4-zXSL5H5GRyLusjQ&s", ENGLISH SDR
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1780907172~acl=/cmaf/live/2108387/inallow-indvsafg-2026/eng/1540071489/15mindvrm01ae41bbe432f74570bae06d0d481bb5a308june2026/master_a*~data=ip=RxYivkfuCZ5XrUICvXtM5u-userid=NirmAPfloGKRUXn7Sx0ootuiCikBcQ8Hr1LnDOslXSun-did=Ic794RehXS417CFs7Mn24YEtGKhvIczbPc6mZecXyqad-cc=in-de=5-pl=androidtv-ap=26.03.06.0-ut=paid-ttl=1800-type=paid-raf=1780905972-~hmac=b2c0770811c9e22b06cf021484c748677134f17408ea91e8c3284f5e1f84b203"}
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://live11p.hotstar.com/cmaf/live/2108387/inallow-indvsafg-2026/eng/1540071489/15mindvrm01ae41bbe432f74570bae06d0d481bb5a308june2026/master_a.m3u8?a=s&asn_id=tffsz&content_id=1540071489&language=english&layer=master&media_codec=codec%3Dh265%3Adr%3Dsdr&playback_host=live11p-pristine-akt.cdn.hotstar.com&playback_proto=http&random=inallow-indvsafg-2026&si_match_id=722860&hdnea=exp=1780907172~acl=/cmaf/live/2108387/inallow-indvsafg-2026/eng/1540071489/15mindvrm01ae41bbe432f74570bae06d0d481bb5a308june2026/master_a*~data=ip=RxYivkfuCZ5XrUICvXtM5u-userid=NirmAPfloGKRUXn7Sx0ootuiCikBcQ8Hr1LnDOslXSun-did=Ic794RehXS417CFs7Mn24YEtGKhvIczbPc6mZecXyqad-cc=in-de=5-pl=androidtv-ap=26.03.06.0-ut=paid-ttl=1800-type=paid-raf=1780905972-~hmac=b2c0770811c9e22b06cf021484c748677134f17408ea91e8c3284f5e1f84b203
+#EXTINF:-1 tvg-id="3329677453" tvg-name="HINDI SDR" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6190/1780828856190-b" group-title="👑JH | INDIA VS AFGHANISTAN ONLY TEST DAY 3" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGzh7f-rSYGiNM2csqt4-zXSL5H5GRyLusjQ&s", HINDI SDR
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1780907173~acl=/cmaf/live/2108404/inallow-indvsafg-2026/hin/1540071489/15mindvrm01ae41bbe432f74570bae06d0d481bb5a308june2026/master_a*~data=ip=RxYivkfuCZ5XrUICvXtM5u-userid=NirmAPfloGKRUXn7Sx0ootuiCikBcQ8Hr1LnDOslXSun-did=Ic794RehXS417CFs7Mn24YEtGKhvIczbPc6mZecXyqad-cc=in-de=5-pl=androidtv-ap=26.03.06.0-ut=paid-ttl=1800-type=paid-raf=1780905973-~hmac=39084efe35b81ce9754d4df5d8183f04e59b3855c0ba5fffd0c3f511fc9e010b"}
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://live12p.hotstar.com/cmaf/live/2108404/inallow-indvsafg-2026/hin/1540071489/15mindvrm01ae41bbe432f74570bae06d0d481bb5a308june2026/master_a.m3u8?a=s&asn_id=tffsz&content_id=1540071489&language=hindi&layer=master&media_codec=codec%3Dh265%3Adr%3Dsdr&playback_host=live12p-pristine-akt.cdn.hotstar.com&playback_proto=http&random=inallow-indvsafg-2026&si_match_id=722860&hdnea=exp=1780907173~acl=/cmaf/live/2108404/inallow-indvsafg-2026/hin/1540071489/15mindvrm01ae41bbe432f74570bae06d0d481bb5a308june2026/master_a*~data=ip=RxYivkfuCZ5XrUICvXtM5u-userid=NirmAPfloGKRUXn7Sx0ootuiCikBcQ8Hr1LnDOslXSun-did=Ic794RehXS417CFs7Mn24YEtGKhvIczbPc6mZecXyqad-cc=in-de=5-pl=androidtv-ap=26.03.06.0-ut=paid-ttl=1800-type=paid-raf=1780905973-~hmac=39084efe35b81ce9754d4df5d8183f04e59b3855c0ba5fffd0c3f511fc9e010b
+
+# ===== akash =====
+#EXTM3U
+
+#EXTINF:-1 tvg-id="117" tvg-name="Sony Sports TEN 2" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1762850019257.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | Sports",Sony Sports TEN 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://a.cr7x.workers.dev/117/keys
+https://owrcovcrpy.gpcdn.net/bpk-tv/1726/output/index.mpd
+
+#EXTINF:-1 tvg-id="118" tvg-name="Sony Sports TEN 1" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1762853147045.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | Sports",Sony Sports TEN 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://a.cr7x.workers.dev/118/keys
+https://owrcovcrpy.gpcdn.net/bpk-tv/1719/output/index.mpd
+
+#EXTINF:-1 tvg-id="116" tvg-name="Sony Sports TEN 5" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739906861365.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | Sports",Sony Sports TEN 5
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://a.cr7x.workers.dev/116/keys
+https://owrcovcrpy.gpcdn.net/bpk-tv/1717/output/index.mpd
+
+#EXTINF:-1 tvg-id="165" tvg-name="CNN" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770610404979.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | News",CNN
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://a.cr7x.workers.dev/165/keys
+https://owrcovcrpy.gpcdn.net/bpk-tv/1707/output/index.mpd
+
+#EXTINF:-1 tvg-id="153" tvg-name="Ten Cricket" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1745304841482.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | Sports",Ten Cricket
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://a.cr7x.workers.dev/153/keys
+https://owrcovcrpy.gpcdn.net/bpk-tv/1727/output/index.mpd
+
+#EXTINF:-1 tvg-id="142" tvg-name="Sony AATH" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739906659479.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | Entertainment",Sony AATH
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://a.cr7x.workers.dev/142/keys
+https://owrcovcrpy.gpcdn.net/bpk-tv/1732/output/index.mpd
+
+#EXTINF:-1 tvg-id="124" tvg-name="Sony Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740380280065.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | Entertainment",Sony Entertainment
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://a.cr7x.workers.dev/124/keys
+https://owrcovcrpy.gpcdn.net/bpk-tv/1718/output/index.mpd
+
+#EXTINF:-1 tvg-id="143" tvg-name="ZEE BANGLA" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1756017182009.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | Entertainment",ZEE BANGLA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://a.cr7x.workers.dev/143/keys
+https://owrcovcrpy.gpcdn.net/bpk-tv/1714/output/index.mpd
+
+#EXTINF:-1 tvg-id="90" tvg-name="Euro Sports HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1765256371720.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | Sports",Euro Sports HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://a.cr7x.workers.dev/90/keys
+https://owrcovcrpy.gpcdn.net/bpk-tv/1712/output/index.mpd
+
+#EXTINF:-1 tvg-id="289" tvg-name="Sony Max" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1780310920616.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | Movies",Sony Max
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://a.cr7x.workers.dev/289/keys
+https://owrcovcrpy.gpcdn.net/bpk-tv/1730/output/index.mpd
+
+#EXTINF:-1 tvg-id="290" tvg-name="Sony Pix" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1780311807965.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | Movies",Sony Pix
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://a.cr7x.workers.dev/290/keys
+https://owrcovcrpy.gpcdn.net/bpk-tv/1731/output/index.mpd
+
+#EXTINF:-1 tvg-id="98" tvg-name="Somoy TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | News",Somoy TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+
+#EXTINF:-1 tvg-id="97" tvg-name="Jamuna TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | News",Jamuna TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+
+#EXTINF:-1 tvg-id="185" tvg-name="DBC News HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186306600.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | News",DBC News HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
+
+#EXTINF:-1 tvg-id="229" tvg-name="Maasranga TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1773680325498.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | Entertainment",Maasranga TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+
+#EXTINF:-1 tvg-id="102" tvg-name="Ekattor HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | News",Ekattor HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+
+#EXTINF:-1 tvg-id="94" tvg-name="Channel 24 HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | News",Channel 24 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+
+#EXTINF:-1 tvg-id="93" tvg-name="ATN News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | News",ATN News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+
+#EXTINF:-1 tvg-id="186" tvg-name="News 24 HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186895850.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | News",News 24 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
+
+#EXTINF:-1 tvg-id="191" tvg-name="Star News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189826301.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | News",Star News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
+
+#EXTINF:-1 tvg-id="134" tvg-name="Deepto TV HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | Entertainment",Deepto TV HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+
+#EXTINF:-1 tvg-id="188" tvg-name="Channel 9 HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770188008067.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | Entertainment",Channel 9 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
+
+#EXTINF:-1 tvg-id="132" tvg-name="Channel I HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | Entertainment",Channel I HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+
+#EXTINF:-1 tvg-id="197" tvg-name="Cineedge HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347851305.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | Movies",Cineedge HD
+https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8
+
+#EXTINF:-1 tvg-id="196" tvg-name="Uniques HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347327658.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | Movies",Uniques HD
+https://nomawnoijl.gpcdn.net/akash/uniques/playlist.m3u8
+
+#EXTINF:-1 tvg-id="198" tvg-name="Superrix HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770348388925.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | Movies",Superrix HD
+https://nomawnoijl.gpcdn.net/akash/superrix/playlist.m3u8
+
+#EXTINF:-1 tvg-id="100" tvg-name="Bangla Vision" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | Entertainment",Bangla Vision
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+
+#EXTINF:-1 tvg-id="99" tvg-name="NTV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560841094.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | Entertainment",NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+
+#EXTINF:-1 tvg-id="192" tvg-name="Screem" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770312098339.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | Movies",Screem
+https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8
+
+#EXTINF:-1 tvg-id="206" tvg-name="Flash Guys HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378074527.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | Sports",Flash Guys HD
+https://nomawnoijl.gpcdn.net/akash/flashguys/playlist.m3u8
+
+#EXTINF:-1 tvg-id="212" tvg-name="BuddyStar HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770379038530.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | Kids",BuddyStar HD
+https://nomawnoijl.gpcdn.net/akash/buddystar/playlist.m3u8
+
+#EXTINF:-1 tvg-id="209" tvg-name="Luxel HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378560772.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | Infotainment",Luxel HD
+https://nomawnoijl.gpcdn.net/akash/luxell/playlist.m3u8
+
+#EXTINF:-1 tvg-id="211" tvg-name="Joy" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378874717.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | Kids",Joy
+https://nomawnoijl.gpcdn.net/akash/joy/playlist.m3u8
+
+#EXTINF:-1 tvg-id="213" tvg-name="Funny Junior HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770379573329.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | Kids",Funny Junior HD
+https://nomawnoijl.gpcdn.net/akash/funnyjunior/playlist.m3u8
+
+#EXTINF:-1 tvg-id="214" tvg-name="Crimes" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380126540.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | Movies",Crimes
+https://nomawnoijl.gpcdn.net/akash/crimes/playlist.m3u8
+
+#EXTINF:-1 tvg-id="215" tvg-name="True Stories" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380306806.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | Movies",True Stories
+https://nomawnoijl.gpcdn.net/akash/truestories/playlist.m3u8
+
+#EXTINF:-1 tvg-id="216" tvg-name="Intelligence" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380460488.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | Movies",Intelligence
+https://nomawnoijl.gpcdn.net/akash/intelligence/playlist.m3u8
+
+#EXTINF:-1 tvg-id="218" tvg-name="Thunder Er" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380791303.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | Sports",Thunder Er
+https://nomawnoijl.gpcdn.net/akash/thunder/playlist.m3u8
+
+#EXTINF:-1 tvg-id="219" tvg-name="Fighters" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380942670.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | Sports",Fighters
+https://nomawnoijl.gpcdn.net/akash/fighter/playlist.m3u8
+
+#EXTINF:-1 tvg-id="220" tvg-name="Smarty" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381107924.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | Kids",Smarty
+https://nomawnoijl.gpcdn.net/akash/smarty/playlist.m3u8
+
+#EXTINF:-1 tvg-id="221" tvg-name="Lucky Family" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381248531.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | Kids",Lucky Family
+https://nomawnoijl.gpcdn.net/akash/luckyfamily/playlist.m3u8
+
+#EXTINF:-1 tvg-id="222" tvg-name="Kids Stars" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381398090.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | Kids",Kids Stars
+https://nomawnoijl.gpcdn.net/akash/kidsstars/playlist.m3u8
+
+#EXTINF:-1 tvg-id="172" tvg-name="SRK TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1779607122445.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | Entertainment",SRK TV
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="239" tvg-name="Sports Legends" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1779609962271.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | Sports",Sports Legends
+https://nomawnoijl.gpcdn.net/akash/sportslegends/playlist.m3u8
+
+#EXTINF:-1 tvg-id="169" tvg-name="Al Jazeera" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1777454219313.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | News",Al Jazeera
+https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+
+#EXTINF:-1 tvg-id="241" tvg-name="Party Universe" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778083145889.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | Music",Party Universe
+https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8
+
+#EXTINF:-1 tvg-id="245" tvg-name="Al Quran" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778086065071.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | Infotainment",Al Quran
+https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
+
+#EXTINF:-1 tvg-id="247" tvg-name="Independent TV " tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778087037971.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | News",Independent TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+
+#EXTINF:-1 tvg-id="242" tvg-name="Nikki" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778083459294.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | Kids",Nikki
+https://nomawnoijl.gpcdn.net/akash/nikky/playlist.m3u8
+
+#EXTINF:-1 tvg-id="243" tvg-name="Originals" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778085327477.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | Movies",Originals
+https://nomawnoijl.gpcdn.net/akash/originals/playlist.m3u8
+
+#EXTINF:-1 tvg-id="244" tvg-name="Crazy Ex" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778085745609.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | Sports",Crazy Ex
+https://nomawnoijl.gpcdn.net/akash/crazy_ex/playlist.m3u8
+
+#EXTINF:-1 tvg-id="246" tvg-name="Delicious" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778086478755.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | Infotainment",Delicious
+https://nomawnoijl.gpcdn.net/akash/delicious/playlist.m3u8
+
+#EXTINF:-1 tvg-id="248" tvg-name="Program Promo" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778087459461.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | Infotainment",Program Promo
+https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
+
+#EXTINF:-1 tvg-id="122" tvg-name="BTV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561595482.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | Entertainment",BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+
+#EXTINF:-1 tvg-id="267" tvg-name="Sports Range" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1779610478709.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | Sports",Sports Range
+https://nomawnoijl.gpcdn.net/akash/sportrange/playlist.m3u8
+
+#EXTINF:-1 tvg-id="250" tvg-name="AKASH GO Sports 1" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1780554094519.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZz8D2zf-dc3cWZncawsBbhymgIFGc2IA5w&s" group-title="🔺𝗔𝗞𝗔𝗦𝗛 𝗚𝗢 | Sports",AKASH GO Sports 1
+https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8

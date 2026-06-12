@@ -1,27 +1,11 @@
 #EXTM3U
-#EXTM3U
-
-
-#EXTINF:-1 tvg-id="502" group-title="Sports" tvg-logo="https://i.ibb.co/h1gBmjbj/Unite8-1.png",Unite8 1HD AIRTEL
-https://streamflexsmm.in/stream.php?id=Unite8-Sports1-Hindi-HD&ts=1781236127&token=503804e6e87b5ece1e558283ee8fdaf1&Powered-by-StreamFlex=1d3ff8a94d736da63522a85dcaa034c3
-
-#EXTINF:-1 tvg-id="506" group-title="Sports" tvg-logo="https://i.ibb.co/d4JpmFN9/Unite8-2.png",Unite8 2HD AIRTEL
-https://streamflexsmm.in/stream.php?id=Unite8-Sports2-HD&ts=1781236127&token=503804e6e87b5ece1e558283ee8fdaf1&Powered-by-StreamFlex=1d3ff8a94d736da63522a85dcaa034c3
-
-
-#EXTINF:-1 tvg-id="742611" tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" tvg-name="DE | Fusball TV 2 " group-title="FIFA World Cup 2026",DE | Fusball TV 2 World Cup 2026 [HD]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d4JpmFN9/Unite8-2.png" group-title="FIFA World Cup 2026",Unite2HD
+http://fastshare1.com:8080/live/718752353/759802280/98841.ts?RKDYIPTV&token=rkdyiptv
+#EXTINF:-1 tvg-id="742611" tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" tvg-name="DE | Fusball TV 2 World Cup 2026 [HD] " group-title="FIFA World Cup 2026",DE | Fusball TV 2 World Cup 2026 [HD]
 http://fastshare1.com:8080/live/718752353/759802280/742611.ts?RKDYIPTV&token=rkdyiptv
 #EXTINF:-1 tvg-id="741566" tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" tvg-name="SUPER SPORTS FIFA" group-title="FIFA World Cup 2026",SUPER SPORTS FIFA
 http://fastshare1.com:8080/live/718752353/759802280/741566.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 tvg-id="742610" tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" tvg-name="DE | Fusball TV 1 " group-title="FIFA World Cup 2026",DE | Fusball TV 1 World Cup 2026 [HD]
-http://fastshare1.com:8080/live/718752353/759802280/742610.ts?RKDYIPTV&token=rkdyiptv
-
-
-#EXTINF:-1 tvg-id="323" group-title="Sports" tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png",BLUE SPOT
-https://bluesport.fun/live/blue_sport_1/index.m3u8
-
-#EXTINF:-1 tvg-id="741567" tvg-logo="https://i.ibb.co/h1gBmjbj/Unite8-1.png" tvg-name="Unite8 1HD TATA" group-title="FIFA World Cup 2026",Unite8 1HD TATA
+#EXTINF:-1 tvg-id="741567" tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" tvg-name="Unite8 Sports 1 HD" group-title="FIFA World Cup 2026",Unite8 Sports 1 HD
 http://fastshare1.com:8080/live/718752353/759802280/741567.ts?RKDYIPTV&token=rkdyiptv
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d4JpmFN9/Unite8-2.png" group-title="FIFA World Cup 2026",Unite2HD TATA
-http://fastshare1.com:8080/live/718752353/759802280/98841.ts?RKDYIPTV&token=rkdyiptv
+#EXTINF:-1 tvg-id="742610" tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" tvg-name="DE | Fusball TV 1 World Cup 2026 [HD]" group-title="FIFA World Cup 2026",DE | Fusball TV 1 World Cup 2026 [HD]
+http://fastshare1.com:8080/live/718752353/759802280/742610.ts?RKDYIPTV&token=rkdyiptv

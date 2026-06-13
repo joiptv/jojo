@@ -5,9 +5,9 @@ https://activation-07live.pages.dev/activate.m3u8
 https://activation-07live.pages.dev/activate.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="Expiry" tvg-logo="https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678116-calendar-512.png" group-title="Playlist | Info" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFEMgw7JnyebuCOdv0RjD5YX49LUGzOSpVuw&s", Expiry: 2026-06-30
 https://activation-07live.pages.dev/activate.m3u8
-#EXTINF:-1 tvg-id="-2" tvg-name="IP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkBoNwmrb6Xxy1n4636PHJDiYxBa8NSrB8Hw&s" group-title="Playlist | Info" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFEMgw7JnyebuCOdv0RjD5YX49LUGzOSpVuw&s", IP: 74.235.151.2 (Microsoft Corporation)
+#EXTINF:-1 tvg-id="-2" tvg-name="IP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkBoNwmrb6Xxy1n4636PHJDiYxBa8NSrB8Hw&s" group-title="Playlist | Info" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFEMgw7JnyebuCOdv0RjD5YX49LUGzOSpVuw&s", IP: 57.151.137.131 (Microsoft Corporation)
 https://activation-07live.pages.dev/activate.m3u8
-#EXTINF:-1 tvg-id="-3" tvg-name="LOCATION" tvg-logo="https://cdn.creativefabrica.com/2023/06/19/Map-with-geo-pin-Location-icon-Destina-Graphics-72467669-1-1-580x387.png" group-title="Playlist | Info" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFEMgw7JnyebuCOdv0RjD5YX49LUGzOSpVuw&s", LOCATION: Boydton, Virginia, United States
+#EXTINF:-1 tvg-id="-3" tvg-name="LOCATION" tvg-logo="https://cdn.creativefabrica.com/2023/06/19/Map-with-geo-pin-Location-icon-Destina-Graphics-72467669-1-1-580x387.png" group-title="Playlist | Info" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFEMgw7JnyebuCOdv0RjD5YX49LUGzOSpVuw&s", LOCATION: Cheyenne, Wyoming, United States
 https://activation-07live.pages.dev/activate.m3u8
 #EXTINF:-1 tvg-id="-4" tvg-name="app" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoHEXIIXZQniuYScqZRQ6_GgzV2viMZJFroQ&s" group-title="Playlist | Info" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFEMgw7JnyebuCOdv0RjD5YX49LUGzOSpVuw&s", APP: TiviMate | DEVICE: Android
 https://activation-07live.pages.dev/activate.m3u8
@@ -13999,13 +13999,13 @@ https://vg-tv9live.akamaized.net/v1/vglive-sk-791223/main.m3u8?ads.partner=sunne
 # ===== Event =====
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019557/1781248936715615_Tri_Series26_SL_A_vs_AFG_A_landscape_thumb.jpg" group-logo="https://www.bizasialive.com/wp-content/uploads/2020/05/899ec721-sonylivnew001.jpg" group-title="➥ SonyLiv⚔️Live",🔥 Talent TV Cup
+#EXTINF:-1 group-logo="https://www.bizasialive.com/wp-content/uploads/2020/05/899ec721-sonylivnew001.jpg" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2020/05/899ec721-sonylivnew001.jpg" group-title="➥ SonyLiv⚔️Live",International Series Morocco - Day 3 - 13 Jun 2026 [ENG]
 #EXTVLCOPT:http-user-agent=sonyliv/6.22.4 (Android 11; en_GB; AI PONT; Build/RTM1.210824.048)
-https://sliv-events.07in.workers.dev/1090534675/Sony_Sports_Ten_1/master.m3u8
+https://sliv-events.07in.workers.dev/suluv-1.m3u8
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019550/1781198664097129_ArcheryWC26_Antalya_Turkiye_compound_Team_finals_landscape_thumb.jpg" group-logo="https://www.bizasialive.com/wp-content/uploads/2020/05/899ec721-sonylivnew001.jpg" group-title="➥ SonyLiv⚔️Live",🔥 Hyundai Archery World Cup Stage 3 - Antalya, Turkiye
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019332/178071039727662_ASIAN_TOUR_GOLF_2026_International_Series_Morocco_day3_6jun_landscape_thumb.jpg" group-logo="https://www.bizasialive.com/wp-content/uploads/2020/05/899ec721-sonylivnew001.jpg" group-title="➥ SonyLiv⚔️Live",🔥 Asian Tour 2026
 #EXTVLCOPT:http-user-agent=sonyliv/6.22.4 (Android 11; en_GB; AI PONT; Build/RTM1.210824.048)
-https://sliv-events.07in.workers.dev/1090534687/LIV/master.m3u8
+https://sliv-events.07in.workers.dev/1090534689/LIV/master.m3u8
 
 # ===== Samsung =====
 #EXTM3U
@@ -14568,14 +14568,35 @@ https://terminal-sumsung.07in.workers.dev/live/test/test/IN30009003.m3u8
 #EXTM3U
 #EXTGEAR: group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png"
 
-#EXTINF:-1 tvg-name="Madhya Pradesh League T20, 2026" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143081_6102_BBS_GC_FC-WEB.jpg" tvg-description="Bundelkhand Bulls Vs Gwalior Cheetahs" tvg-language="ENGLISH" group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png" group-title="𝐅𝐚𝐧𝐜𝐨𝐝𝐞 | Live",Bundelkhand Bulls Vs Gwalior Cheetahs (ENGLISH)
-https://fancode.cr7x.workers.dev/live/Api/143081/1.m3u8
+#EXTINF:-1 tvg-name="Big Cricket League Season 2" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg" tvg-description="Gujarat Diamonds Vs Up Brij Stars" tvg-language="ENGLISH" group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png" group-title="𝐅𝐚𝐧𝐜𝐨𝐝𝐞 | Live",Gujarat Diamonds Vs Up Brij Stars (ENGLISH)
+https://fancode.cr7x.workers.dev/live/Api/143001/1.m3u8
 
-#EXTINF:-1 tvg-name="Madhya Pradesh League T20, 2026" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143082_6102_UJF_RW_FC-WEB.jpg" tvg-description="Ujjain Falcons Vs Rewa Jaguars" tvg-language="ENGLISH" group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png" group-title="𝐅𝐚𝐧𝐜𝐨𝐝𝐞 | Live",Ujjain Falcons Vs Rewa Jaguars (ENGLISH)
-https://fancode.cr7x.workers.dev/live/Api/143082/1.m3u8
+#EXTINF:-1 tvg-name="Big Cricket League Season 2" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg" tvg-description="Gujarat Diamonds Vs Up Brij Stars" tvg-language="HINDI" group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png" group-title="𝐅𝐚𝐧𝐜𝐨𝐝𝐞 | Live",Gujarat Diamonds Vs Up Brij Stars (HINDI)
+https://fancode.cr7x.workers.dev/live/Api/143001/1.m3u8
 
-#EXTINF:-1 tvg-name="Porsche Mobil 1 Supercup 2026" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Spain_barcelona_FC-WEB.jpg" tvg-description="Porsche Mobil 1 Supercup" tvg-language="ENGLISH" group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png" group-title="𝐅𝐚𝐧𝐜𝐨𝐝𝐞 | Live",Porsche Mobil 1 Supercup (ENGLISH)
-https://fancode.cr7x.workers.dev/live/Api/143389/1.m3u8
+#EXTINF:-1 tvg-name="EUT20 Belgium, 2026" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg" tvg-description="Akcel United Brussels Vs Jb Bruges" tvg-language="ENGLISH" group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png" group-title="𝐅𝐚𝐧𝐜𝐨𝐝𝐞 | Live",Akcel United Brussels Vs Jb Bruges (ENGLISH)
+https://fancode.cr7x.workers.dev/live/Api/143165/1.m3u8
+
+#EXTINF:-1 tvg-name="Madhya Pradesh League T20 Women's 2026" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Madhya-Pradesh-League-T20-Women's_fc-web.jpg" tvg-description="Chambal Ghariyals Women Vs Gwalior Shernis" tvg-language="ENGLISH" group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png" group-title="𝐅𝐚𝐧𝐜𝐨𝐝𝐞 | Live",Chambal Ghariyals Women Vs Gwalior Shernis (ENGLISH)
+https://fancode.cr7x.workers.dev/live/Api/143029/1.m3u8
+
+#EXTINF:-1 tvg-name="ATP 250 - BOSS OPEN 2026" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Boss_Web-match-card.png" tvg-description="Day 6   Center Court" tvg-language="ENGLISH" group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png" group-title="𝐅𝐚𝐧𝐜𝐨𝐝𝐞 | Live",Day 6   Center Court (ENGLISH)
+https://fancode.cr7x.workers.dev/live/Api/143123/1.m3u8
+
+#EXTINF:-1 tvg-name="ATP 250 - Libema Open" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png" tvg-description="Day 6   Center Court" tvg-language="ENGLISH" group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png" group-title="𝐅𝐚𝐧𝐜𝐨𝐝𝐞 | Live",Day 6   Center Court (ENGLISH)
+https://fancode.cr7x.workers.dev/live/Api/143130/1.m3u8
+
+#EXTINF:-1 tvg-name="RBC Canadian Open 2026" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png" tvg-description="Day 3   Main Feed" tvg-language="ENGLISH" group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png" group-title="𝐅𝐚𝐧𝐜𝐨𝐝𝐞 | Live",Day 3   Main Feed (ENGLISH)
+https://fancode.cr7x.workers.dev/live/Api/143212/1.m3u8
+
+#EXTINF:-1 tvg-name="RBC Canadian Open 2026" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png" tvg-description="Day 3   Marquee Group" tvg-language="ENGLISH" group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png" group-title="𝐅𝐚𝐧𝐜𝐨𝐝𝐞 | Live",Day 3   Marquee Group (ENGLISH)
+https://fancode.cr7x.workers.dev/live/Api/143213/1.m3u8
+
+#EXTINF:-1 tvg-name="RBC Canadian Open 2026" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png" tvg-description="Day 3   Featured Groups" tvg-language="ENGLISH" group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png" group-title="𝐅𝐚𝐧𝐜𝐨𝐝𝐞 | Live",Day 3   Featured Groups (ENGLISH)
+https://fancode.cr7x.workers.dev/live/Api/143215/1.m3u8
+
+#EXTINF:-1 tvg-name="RBC Canadian Open 2026" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png" tvg-description="Day 3   Featured Holes" tvg-language="ENGLISH" group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png" group-title="𝐅𝐚𝐧𝐜𝐨𝐝𝐞 | Live",Day 3   Featured Holes (ENGLISH)
+https://fancode.cr7x.workers.dev/live/Api/143214/1.m3u8
 
 # ===== toffee =====
 #EXTM3U
@@ -15393,19 +15414,33 @@ https://activation-07live.pages.dev/stb/live?id=LIVETV_LIVETVCHANNEL_STAR_MOVIES
 
 # ===== ektv =====
 #EXTM3U
-#EXTINF:-1 tvg-id="B0H2S57423" tvg-name="Tri Nation A Series in Sri Lanka 2026 - 3rd Match - Sri Lanka A vs Afghanistan A" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f01c8f21-51a4-4130-99cf-edf1474dd549/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-logo="https://lh5.googleusercontent.com/proxy/llgd0Pi2DmMqsfDpq3Ut_LxYQKjPIe4CccguV0GNzC7DjM5oje2Na-r1g6XTy8xpaIoO3xHL8i3_oeZnGejcpOiIGmaAXd_unuiEZHNZ" group-title="🌟 ❮ 𝗟𝗜𝗩𝗘 | 𝗘𝗩𝗘𝗡𝗧 ❯",Tri Nation A Series in Sri Lanka 2026 - 3rd Match - Sri Lanka A vs Afghanistan A
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2b33d829f67673f2dd3115625e6e869b:3c0e0637938e507e20e98f5732ba3350
-https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/ayd2kslwx1/out/v1/e8bb1125e9cd4a9ab46878de33f326fa/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0GY5L479J" tvg-name="Afghanistan tour of India 2026 - 1st ODI - India vs Afghanistan" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ec2bca8b-04f5-42ef-b9c6-cdfcdffdd549/6/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-logo="https://lh5.googleusercontent.com/proxy/llgd0Pi2DmMqsfDpq3Ut_LxYQKjPIe4CccguV0GNzC7DjM5oje2Na-r1g6XTy8xpaIoO3xHL8i3_oeZnGejcpOiIGmaAXd_unuiEZHNZ" group-title="🌟 ❮ 𝗟𝗜𝗩𝗘 | 𝗘𝗩𝗘𝗡𝗧 ❯",Afghanistan tour of India 2026 - 1st ODI - India vs Afghanistan
+#EXTINF:-1 tvg-id="B0GY5L479J" tvg-name="Afghanistan tour of India 2026 - 1st ODI - India vs Afghanistan" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ec2bca8b-04f5-42ef-b9c6-cdfcdffdd549/7/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-logo="https://lh5.googleusercontent.com/proxy/llgd0Pi2DmMqsfDpq3Ut_LxYQKjPIe4CccguV0GNzC7DjM5oje2Na-r1g6XTy8xpaIoO3xHL8i3_oeZnGejcpOiIGmaAXd_unuiEZHNZ" group-title="🌟 ❮ 𝗟𝗜𝗩𝗘 | 𝗘𝗩𝗘𝗡𝗧 ❯",Afghanistan tour of India 2026 - 1st ODI - India vs Afghanistan
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e43190efc077a8e34d29efe88667f0d:bdc614e076190e536c7aca7f66ae3f88
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vfumc0t3cc/out/v1/f14dd22c77cb4138b316baf3c970304e/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0GD1M46WR" tvg-name="EUT20 Belgium 2026 - 16th Match - Antwerp Anchors vs Ghent Gladiators" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ee58a9e0-a523-41f0-944a-b26667c28fda/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-logo="https://lh5.googleusercontent.com/proxy/llgd0Pi2DmMqsfDpq3Ut_LxYQKjPIe4CccguV0GNzC7DjM5oje2Na-r1g6XTy8xpaIoO3xHL8i3_oeZnGejcpOiIGmaAXd_unuiEZHNZ" group-title="🌟 ❮ 𝗟𝗜𝗩𝗘 | 𝗘𝗩𝗘𝗡𝗧 ❯",EUT20 Belgium 2026 - 16th Match - Antwerp Anchors vs Ghent Gladiators
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3f446aa3045b78a67ad34256dd44d57:6ad5c13d969fd9286acbc16111321c45
+https://a57live-pv-ta-amazon.akamaized.net/pdx-nitro/live/clients/dash/enc/ek256oko2h/out/v1/1a4e80f9cf404cf7bdae61b56141070a/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0H2MWH8ZD" tvg-name="Australia vs. South Africa" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.229e3d91-4210-4712-aa15-7a9d9af4360b/3/BOXART-16X9/en-US._UR1920,1080_.jpg" group-logo="https://lh5.googleusercontent.com/proxy/llgd0Pi2DmMqsfDpq3Ut_LxYQKjPIe4CccguV0GNzC7DjM5oje2Na-r1g6XTy8xpaIoO3xHL8i3_oeZnGejcpOiIGmaAXd_unuiEZHNZ" group-title="🌟 ❮ 𝗟𝗜𝗩𝗘 | 𝗘𝗩𝗘𝗡𝗧 ❯",Australia vs. South Africa
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a66095f78e3bd3cfdf04354f9d0619fa:d7e8ea4cf8bcebf30757f251384e7a0c
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dzyb02igop/out/v1/b997f6ddb52f4af88c0db614580fa615/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0H4197X8W" tvg-name="EUT20 Belgium 2026 - 17th Match - Akcel United Brussels vs JB Bruges" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.37690ce7-3863-4bf7-b79b-910835a0b24b/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-logo="https://lh5.googleusercontent.com/proxy/llgd0Pi2DmMqsfDpq3Ut_LxYQKjPIe4CccguV0GNzC7DjM5oje2Na-r1g6XTy8xpaIoO3xHL8i3_oeZnGejcpOiIGmaAXd_unuiEZHNZ" group-title="🌟 ❮ 𝗟𝗜𝗩𝗘 | 𝗘𝗩𝗘𝗡𝗧 ❯",EUT20 Belgium 2026 - 17th Match - Akcel United Brussels vs JB Bruges
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=262ae113b3aa5d43bafb04f71bb87dd0:61d2c5dfb070e825adae56e07b7bc57c
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dnms7gm805/out/v1/b063a96f8f524015bf4c8670121900b5/cenc.mpd
 
 # ===== hotipie =====
 #EXTM3U
@@ -15925,7 +15960,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 # ===== hstar =====
 #EXTM3U
 # StreamFlex19 Playlist — Auto-Updated Cookies
-# Generated: 2026-06-13 09:28:13
+# Generated: 2026-06-13 14:18:41
 # Total Channels: 70
 
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/2214/1750777602214-h" group-title="🏆 Sports | JioHotstar",TATA IPL TV

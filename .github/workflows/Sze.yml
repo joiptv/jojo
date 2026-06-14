@@ -1,0 +1,100 @@
+name: stream
+
+# Global environment setting to suppress and force Node 24
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  update_jojo:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4.2.2
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Download Original Playlist
+        run: curl -L "http://spoo.me/cKuF8R" -o Sze.m3u
+
+      - name: Extract Links and Create New Playlist
+        shell: python
+        run: |
+          import re
+
+          input_file = "Sze.m3u"
+          output_file = "New_Codes.m3u"
+
+          try:
+              with open(input_file, "r", encoding="utf-8") as f:
+                  lines = f.readlines()
+          except FileNotFoundError:
+              print(f"Error: {input_file} not found.")
+              exit(0)
+
+          new_playlist = ["#EXTM3U\n"]
+          current_info = ""
+
+          for line in lines:
+              line = line.strip()
+              if not line:
+                  continue
+              
+              # Save the channel metadata line (#EXTINF)
+              if line.startswith("#EXTINF"):
+                  current_info = line
+              # If it's a URL, extract it and create your new format
+              elif line.startswith("http://") or line.startswith("https://"):
+                  original_link = line
+                  
+                  # --- CUSTOMIZE YOUR NEW CODE FORMAT HERE ---
+                  # Example: Adding custom URL parameters or changing the path
+                  # For now, this template just creates a clean fallback, 
+                  # but you can manipulate 'original_link' using python string methods.
+                  custom_code_link = f"{original_link}" 
+                  # ------------------------------------------
+
+                  if current_info:
+                      new_playlist.append(f"{current_info}\n")
+                  new_playlist.append(f"{custom_code_link}\n")
+                  current_info = "" # Reset for next channel
+
+              elif line.startswith("#EXTM3U"):
+                  continue
+              else:
+                  # Catch any other tags like #EXTGRP
+                  if current_info:
+                      new_playlist.append(f"{line}\n")
+
+          with open(output_file, "w", encoding="utf-8") as f:
+              f.writelines(new_playlist)
+          print(f"Successfully generated {output_file} with extracted links.")
+
+      - name: Commit and Push Changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # Add both the original and the newly generated playlist
+          git add Sze.m3u New_Codes.m3u
+          
+          # Only proceed if changes are detected
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update playlists and extract new codes"
+            git push origin main
+          else
+            echo "No updates to sync."
+          fi

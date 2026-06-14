@@ -5,7 +5,7 @@ https://activation-07live.pages.dev/activate.m3u8
 https://activation-07live.pages.dev/activate.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="Expiry" tvg-logo="https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678116-calendar-512.png" group-title="Playlist | Info" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFEMgw7JnyebuCOdv0RjD5YX49LUGzOSpVuw&s", Expiry: 2026-06-30
 https://activation-07live.pages.dev/activate.m3u8
-#EXTINF:-1 tvg-id="-2" tvg-name="IP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkBoNwmrb6Xxy1n4636PHJDiYxBa8NSrB8Hw&s" group-title="Playlist | Info" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFEMgw7JnyebuCOdv0RjD5YX49LUGzOSpVuw&s", IP: 135.232.232.32 (MICROSOFT)
+#EXTINF:-1 tvg-id="-2" tvg-name="IP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkBoNwmrb6Xxy1n4636PHJDiYxBa8NSrB8Hw&s" group-title="Playlist | Info" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFEMgw7JnyebuCOdv0RjD5YX49LUGzOSpVuw&s", IP: 135.232.200.35 (MICROSOFT)
 https://activation-07live.pages.dev/activate.m3u8
 #EXTINF:-1 tvg-id="-3" tvg-name="LOCATION" tvg-logo="https://cdn.creativefabrica.com/2023/06/19/Map-with-geo-pin-Location-icon-Destina-Graphics-72467669-1-1-580x387.png" group-title="Playlist | Info" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFEMgw7JnyebuCOdv0RjD5YX49LUGzOSpVuw&s", LOCATION: Chicago, Illinois, United States
 https://activation-07live.pages.dev/activate.m3u8
@@ -14003,17 +14003,9 @@ https://vg-tv9live.akamaized.net/v1/vglive-sk-791223/main.m3u8?ads.partner=sunne
 #EXTVLCOPT:http-user-agent=sonyliv/6.22.4 (Android 11; en_GB; AI PONT; Build/RTM1.210824.048)
 https://sliv-events.07in.workers.dev/suluv-1.m3u8
 
-#EXTINF:-1 group-logo="https://www.bizasialive.com/wp-content/uploads/2020/05/899ec721-sonylivnew001.jpg" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2020/05/899ec721-sonylivnew001.jpg" group-title="➥ SonyLiv⚔️Live",International Series Morocco - Day 4 - 14 Jun 2026 [ENG]
-#EXTVLCOPT:http-user-agent=sonyliv/6.22.4 (Android 11; en_GB; AI PONT; Build/RTM1.210824.048)
-https://sliv-events.07in.workers.dev/suluv-2.m3u8
-
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019576/1781286858303853_CCPL26_Final_Bilaspur_Bulls_vs_Raigarh_Lions_12jun_landscape_thumb.jpg" group-logo="https://www.bizasialive.com/wp-content/uploads/2020/05/899ec721-sonylivnew001.jpg" group-title="➥ SonyLiv⚔️Live",🔥 Chhattisgarh Cricket Premier League 2026
 #EXTVLCOPT:http-user-agent=sonyliv/6.22.4 (Android 11; en_GB; AI PONT; Build/RTM1.210824.048)
 https://sliv-events.07in.workers.dev/1090534739/Sony_Sports_Ten_3/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019332/178071038987762_ASIAN_TOUR_GOLF_2026_International_Series_Morocco_day4_6jun_landscape_thumb.jpg" group-logo="https://www.bizasialive.com/wp-content/uploads/2020/05/899ec721-sonylivnew001.jpg" group-title="➥ SonyLiv⚔️Live",🔥 Asian Tour 2026
-#EXTVLCOPT:http-user-agent=sonyliv/6.22.4 (Android 11; en_GB; AI PONT; Build/RTM1.210824.048)
-https://sliv-events.07in.workers.dev/1090534704/LIV/master.m3u8
 
 # ===== Samsung =====
 #EXTM3U
@@ -14582,9 +14574,6 @@ https://fancode.cr7x.workers.dev/live/Api/143166/1.m3u8
 #EXTINF:-1 tvg-name="ICC CWC League 2 Canada, 2026" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143199_6110_USA_NED_fc-web.jpg" tvg-description="Usa Vs Netherlands" tvg-language="ENGLISH" group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png" group-title="𝐅𝐚𝐧𝐜𝐨𝐝𝐞 | Live",Usa Vs Netherlands (ENGLISH)
 https://fancode.cr7x.workers.dev/live/Api/143199/1.m3u8
 
-#EXTINF:-1 tvg-name="ATP 250 - Libema Open" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png" tvg-description="Final   Center Court" tvg-language="ENGLISH" group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png" group-title="𝐅𝐚𝐧𝐜𝐨𝐝𝐞 | Live",Final   Center Court (ENGLISH)
-https://fancode.cr7x.workers.dev/live/Api/143131/1.m3u8
-
 #EXTINF:-1 tvg-name="RBC Canadian Open 2026" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png" tvg-description="Day 4   Featured Groups" tvg-language="ENGLISH" group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png" group-title="𝐅𝐚𝐧𝐜𝐨𝐝𝐞 | Live",Day 4   Featured Groups (ENGLISH)
 https://fancode.cr7x.workers.dev/live/Api/143220/1.m3u8
 
@@ -14593,6 +14582,12 @@ https://fancode.cr7x.workers.dev/live/Api/143217/1.m3u8
 
 #EXTINF:-1 tvg-name="RBC Canadian Open 2026" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png" tvg-description="Day 4   Featured Holes" tvg-language="ENGLISH" group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png" group-title="𝐅𝐚𝐧𝐜𝐨𝐝𝐞 | Live",Day 4   Featured Holes (ENGLISH)
 https://fancode.cr7x.workers.dev/live/Api/143219/1.m3u8
+
+#EXTINF:-1 tvg-name="RBC Canadian Open 2026" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png" tvg-description="Day 4   Marquee Group" tvg-language="ENGLISH" group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png" group-title="𝐅𝐚𝐧𝐜𝐨𝐝𝐞 | Live",Day 4   Marquee Group (ENGLISH)
+https://fancode.cr7x.workers.dev/live/Api/143218/1.m3u8
+
+#EXTINF:-1 tvg-name="RBC Canadian Open 2026" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png" tvg-description="Day 4   World Feed" tvg-language="ENGLISH" group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png" group-title="𝐅𝐚𝐧𝐜𝐨𝐝𝐞 | Live",Day 4   World Feed (ENGLISH)
+https://fancode.cr7x.workers.dev/live/Api/143216/1.m3u8
 
 # ===== toffee =====
 #EXTM3U

@@ -5,7 +5,7 @@ https://activation-07live.pages.dev/activate.m3u8
 https://activation-07live.pages.dev/activate.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="Expiry" tvg-logo="https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678116-calendar-512.png" group-title="Playlist | Info" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFEMgw7JnyebuCOdv0RjD5YX49LUGzOSpVuw&s", Expiry: 2026-06-30
 https://activation-07live.pages.dev/activate.m3u8
-#EXTINF:-1 tvg-id="-2" tvg-name="IP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkBoNwmrb6Xxy1n4636PHJDiYxBa8NSrB8Hw&s" group-title="Playlist | Info" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFEMgw7JnyebuCOdv0RjD5YX49LUGzOSpVuw&s", IP: 172.174.165.232 (Microsoft)
+#EXTINF:-1 tvg-id="-2" tvg-name="IP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkBoNwmrb6Xxy1n4636PHJDiYxBa8NSrB8Hw&s" group-title="Playlist | Info" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFEMgw7JnyebuCOdv0RjD5YX49LUGzOSpVuw&s", IP: 20.81.47.114 (Microsoft Corporation)
 https://activation-07live.pages.dev/activate.m3u8
 #EXTINF:-1 tvg-id="-3" tvg-name="LOCATION" tvg-logo="https://cdn.creativefabrica.com/2023/06/19/Map-with-geo-pin-Location-icon-Destina-Graphics-72467669-1-1-580x387.png" group-title="Playlist | Info" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFEMgw7JnyebuCOdv0RjD5YX49LUGzOSpVuw&s", LOCATION: Boydton, Virginia, United States
 https://activation-07live.pages.dev/activate.m3u8
@@ -14558,13 +14558,7 @@ https://terminal-sumsung.07in.workers.dev/live/test/test/IN30009003.m3u8
 
 # ===== FanCode =====
 #EXTM3U
-#EXTGEAR: group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png"
-
-#EXTINF:-1 tvg-name="Madhya Pradesh League T20, 2026" tvg-logo="https://images.fancode.com/aig/match/v1780469022419/143086_CASACARDS_SPORTY_APP.png" tvg-description="Bhopal Leopards Vs Jabalpur Royal Lions" tvg-language="ENGLISH" group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png" group-title="𝐅𝐚𝐧𝐜𝐨𝐝𝐞 | Live",Bhopal Leopards Vs Jabalpur Royal Lions (ENGLISH)
-https://fancode.cr7x.workers.dev/live/Api/143086/1.m3u8
-
-#EXTINF:-1 tvg-name="ATP 500 - HSBC Championship 2026" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/HSBC-Championships,-ATP-500,-Grass_fc-web.jpg" tvg-description="Day 1   World Feed" tvg-language="ENGLISH" group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png" group-title="𝐅𝐚𝐧𝐜𝐨𝐝𝐞 | Live",Day 1   World Feed (ENGLISH)
-https://fancode.cr7x.workers.dev/live/Api/143132/1.m3u8
+#EXTINF:-1, No live event
 
 # ===== toffee =====
 #EXTM3U

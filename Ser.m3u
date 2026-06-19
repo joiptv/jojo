@@ -5,9 +5,9 @@ https://activation-07live.pages.dev/activate.m3u8
 https://activation-07live.pages.dev/activate.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="Expiry" tvg-logo="https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678116-calendar-512.png" group-title="Playlist | Info" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFEMgw7JnyebuCOdv0RjD5YX49LUGzOSpVuw&s", Expiry: 2026-06-30
 https://activation-07live.pages.dev/activate.m3u8
-#EXTINF:-1 tvg-id="-2" tvg-name="IP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkBoNwmrb6Xxy1n4636PHJDiYxBa8NSrB8Hw&s" group-title="Playlist | Info" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFEMgw7JnyebuCOdv0RjD5YX49LUGzOSpVuw&s", IP: 13.83.160.128 (Microsoft Corporation)
+#EXTINF:-1 tvg-id="-2" tvg-name="IP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkBoNwmrb6Xxy1n4636PHJDiYxBa8NSrB8Hw&s" group-title="Playlist | Info" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFEMgw7JnyebuCOdv0RjD5YX49LUGzOSpVuw&s", IP: 57.151.137.179 (Microsoft Corporation)
 https://activation-07live.pages.dev/activate.m3u8
-#EXTINF:-1 tvg-id="-3" tvg-name="LOCATION" tvg-logo="https://cdn.creativefabrica.com/2023/06/19/Map-with-geo-pin-Location-icon-Destina-Graphics-72467669-1-1-580x387.png" group-title="Playlist | Info" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFEMgw7JnyebuCOdv0RjD5YX49LUGzOSpVuw&s", LOCATION: San Francisco, California, United States
+#EXTINF:-1 tvg-id="-3" tvg-name="LOCATION" tvg-logo="https://cdn.creativefabrica.com/2023/06/19/Map-with-geo-pin-Location-icon-Destina-Graphics-72467669-1-1-580x387.png" group-title="Playlist | Info" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFEMgw7JnyebuCOdv0RjD5YX49LUGzOSpVuw&s", LOCATION: Cheyenne, Wyoming, United States
 https://activation-07live.pages.dev/activate.m3u8
 #EXTINF:-1 tvg-id="-4" tvg-name="app" tvg-logo="https://cdn-icons-png.flaticon.com/512/564/564429.png" group-title="Playlist | Info" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFEMgw7JnyebuCOdv0RjD5YX49LUGzOSpVuw&s", APP: External Player | DEVICE: Android
 https://activation-07live.pages.dev/activate.m3u8
@@ -13999,6 +13999,30 @@ https://vg-tv9live.akamaized.net/v1/vglive-sk-791223/main.m3u8?ads.partner=sunne
 # ===== Event =====
 #EXTM3U
 
+#EXTINF:-1 group-logo="https://www.bizasialive.com/wp-content/uploads/2020/05/899ec721-sonylivnew001.jpg" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2020/05/899ec721-sonylivnew001.jpg" group-title="➥ SonyLiv⚔️Live",Sri Lanka A vs Afghanistan A - 19 Jun 2026 [ENG]
+#EXTVLCOPT:http-user-agent=sonyliv/6.22.4 (Android 11; en_GB; AI PONT; Build/RTM1.210824.048)
+https://sliv-events.07in.workers.dev/suluv-1.m3u8
+
+#EXTINF:-1 group-logo="https://www.bizasialive.com/wp-content/uploads/2020/05/899ec721-sonylivnew001.jpg" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2020/05/899ec721-sonylivnew001.jpg" group-title="➥ SonyLiv⚔️Live",Sri Lanka A vs Afghanistan A - 19 Jun 2026 [HIN]
+#EXTVLCOPT:http-user-agent=sonyliv/6.22.4 (Android 11; en_GB; AI PONT; Build/RTM1.210824.048)
+https://sliv-events.07in.workers.dev/suluv-2.m3u8
+
+#EXTINF:-1 group-logo="https://www.bizasialive.com/wp-content/uploads/2020/05/899ec721-sonylivnew001.jpg" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2020/05/899ec721-sonylivnew001.jpg" group-title="➥ SonyLiv⚔️Live",Sri Lanka A vs Afghanistan A - 19 Jun 2026 [TAM]
+#EXTVLCOPT:http-user-agent=sonyliv/6.22.4 (Android 11; en_GB; AI PONT; Build/RTM1.210824.048)
+https://sliv-events.07in.workers.dev/suluv-3.m3u8
+
+#EXTINF:-1 group-logo="https://www.bizasialive.com/wp-content/uploads/2020/05/899ec721-sonylivnew001.jpg" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2020/05/899ec721-sonylivnew001.jpg" group-title="➥ SonyLiv⚔️Live",Sri Lanka A vs Afghanistan A - 19 Jun 2026 [TEL]
+#EXTVLCOPT:http-user-agent=sonyliv/6.22.4 (Android 11; en_GB; AI PONT; Build/RTM1.210824.048)
+https://sliv-events.07in.workers.dev/suluv-4.m3u8
+
+#EXTINF:-1 group-logo="https://www.bizasialive.com/wp-content/uploads/2020/05/899ec721-sonylivnew001.jpg" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2020/05/899ec721-sonylivnew001.jpg" group-title="➥ SonyLiv⚔️Live",Sri Lanka A vs Afghanistan A - 19 Jun 2026 [KAN]
+#EXTVLCOPT:http-user-agent=sonyliv/6.22.4 (Android 11; en_GB; AI PONT; Build/RTM1.210824.048)
+https://sliv-events.07in.workers.dev/suluv-5.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019557/1781248936715615_Tri_Series26_SL_A_vs_AFG_A_landscape_thumb.jpg" group-logo="https://www.bizasialive.com/wp-content/uploads/2020/05/899ec721-sonylivnew001.jpg" group-title="➥ SonyLiv⚔️Live",🔥 Talent TV Cup
+#EXTVLCOPT:http-user-agent=sonyliv/6.22.4 (Android 11; en_GB; AI PONT; Build/RTM1.210824.048)
+https://sliv-events.07in.workers.dev/1090534984/Sony_Sports_Ten_1/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019473/1781011836672979_Tri_Series_2026_GOB_Landscape_Thumb_1.jpg" group-logo="https://www.bizasialive.com/wp-content/uploads/2020/05/899ec721-sonylivnew001.jpg" group-title="➥ SonyLiv⚔️UPCOMING",⏳ Upcoming - Talent TV Cup - Team 'A' ODI Tri Series
 #EXTVLCOPT:http-user-agent=sonyliv/6.22.4 (Android 11; en_GB; AI PONT; Build/RTM1.210824.048)
 https://sliv-events.07in.workers.dev/upcoming/1090534440/Sony_Sports_Ten_5/index.mpd
@@ -14574,7 +14598,16 @@ https://terminal-sumsung.07in.workers.dev/live/test/test/IN30009003.m3u8
 
 # ===== FanCode =====
 #EXTM3U
-#EXTINF:-1, No live event
+#EXTGEAR: group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png"
+
+#EXTINF:-1 tvg-name="Australia tour of Bangladesh, 2026" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BAN-x-AUS_fc-web_1781555242134.jpg" tvg-description="Bangladesh Vs Australia" tvg-language="ENGLISH" group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png" group-title="𝐅𝐚𝐧𝐜𝐨𝐝𝐞 | Live",Bangladesh Vs Australia (ENGLISH)
+https://fancode.cr7x.workers.dev/live/Api/142969/1.m3u8
+
+#EXTINF:-1 tvg-name="Nordic Smash T20 Cup, 2026" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143187_6109_VTU_HMU_FC-WEB.jpg" tvg-description="Stockholm United Vs Vasteras United" tvg-language="ENGLISH" group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png" group-title="𝐅𝐚𝐧𝐜𝐨𝐝𝐞 | Live",Stockholm United Vs Vasteras United (ENGLISH)
+https://fancode.cr7x.workers.dev/live/Api/143187/1.m3u8
+
+#EXTINF:-1 tvg-name="GRAND PRIX OF CZECHIA 2026" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card1.png" tvg-description="Czechia Gp" tvg-language="ENGLISH" group-logo="https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/main/fancode_images/fancode_banner.png" group-title="𝐅𝐚𝐧𝐜𝐨𝐝𝐞 | Live",Czechia Gp (ENGLISH)
+https://fancode.cr7x.workers.dev/live/Api/139951/1.m3u8
 
 # ===== toffee =====
 #EXTM3U
@@ -16070,128 +16103,128 @@ https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/otr7qd
 
 # ===== SLOT_20 =====
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
-https://cr7x.yowaimo.in/playlist/crichd/vitalityt20blastvst20blast2025skysare.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
 https://cr7x.yowaimo.in/playlist/crichd/vitalityt20blastvst20blast2025skyscric.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
 https://cr7x.yowaimo.in/playlist/crichd/vitalityt20blastvst20blast2025skysme.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",England vs New Zealand (SKYSCRIC)
-https://cr7x.yowaimo.in/playlist/crichd/englandvsnewzealandskyscric.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
+https://cr7x.yowaimo.in/playlist/crichd/vitalityt20blastvst20blast2025skysare.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",England vs New Zealand (WILLOWEXTRA)
 https://cr7x.yowaimo.in/playlist/crichd/englandvsnewzealandwillowextra.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",England vs New Zealand (SKYSCRIC)
+https://cr7x.yowaimo.in/playlist/crichd/englandvsnewzealandskyscric.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",England vs New Zealand (SKYSME)
 https://cr7x.yowaimo.in/playlist/crichd/englandvsnewzealandskysme.m3u8
-#EXTINF:-1 tvg-logo="https://play.crichd.tv/assets/uploads/channels/47.png" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",Sky Sports Football
-https://cr7x.yowaimo.in/playlist/crichd/skysportsfootball.m3u8
-#EXTINF:-1 tvg-logo="https://play.crichd.tv/assets/uploads/channels/1.jpg" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",Sky Sports Main Event
-https://cr7x.yowaimo.in/playlist/crichd/skysportsmainevent.m3u8
-#EXTINF:-1 tvg-logo="https://play.crichd.tv/assets/uploads/channels/9.png" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",Sky Sports News
-https://cr7x.yowaimo.in/playlist/crichd/skysportsnews.m3u8
-#EXTINF:-1 tvg-logo="https://play.crichd.tv/assets/uploads/channels/6.jpg" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",Sky Sports Premier League
-https://cr7x.yowaimo.in/playlist/crichd/skysportspremierleague.m3u8
 #EXTINF:-1 tvg-logo="https://play.crichd.tv/assets/uploads/channels/4.png" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",Sky Sports Action
 https://cr7x.yowaimo.in/playlist/crichd/skysportsaction.m3u8
-#EXTINF:-1 tvg-logo="https://play.crichd.tv/assets/uploads/channels/3.png" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",Sky Sports Cricket
-https://cr7x.yowaimo.in/playlist/crichd/skysportscricket.m3u8
+#EXTINF:-1 tvg-logo="https://play.crichd.tv/assets/uploads/channels/47.png" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",Sky Sports Football
+https://cr7x.yowaimo.in/playlist/crichd/skysportsfootball.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Sky_Sports_Tennis.svg/revision/latest/scale-to-width-down/340?cb=20230830104212" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",Sky Sports Tennis
+https://cr7x.yowaimo.in/playlist/crichd/skysportstennis.m3u8
+#EXTINF:-1 tvg-logo="https://play.crichd.tv/assets/uploads/channels/6.jpg" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",Sky Sports Premier League
+https://cr7x.yowaimo.in/playlist/crichd/skysportspremierleague.m3u8
 #EXTINF:-1 tvg-logo="https://play.crichd.tv/assets/uploads/channels/5.png" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",Sky Sports Golf
 https://cr7x.yowaimo.in/playlist/crichd/skysportsgolf.m3u8
 #EXTINF:-1 tvg-logo="https://play.crichd.tv/assets/uploads/channels/7.png" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",Sky Sports F1
 https://cr7x.yowaimo.in/playlist/crichd/skysportsf1.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Sky_Sports_Tennis.svg/revision/latest/scale-to-width-down/340?cb=20230830104212" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",Sky Sports Tennis
-https://cr7x.yowaimo.in/playlist/crichd/skysportstennis.m3u8
-#EXTINF:-1 tvg-logo="https://play.crichd.tv/assets/uploads/channels/18.png" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",PTV Sports
-https://cr7x.yowaimo.in/playlist/crichd/ptvsports.m3u8
-#EXTINF:-1 tvg-logo="https://play.crichd.tv/assets/uploads/channels/10.gif" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",TNT Sports 1
-https://cr7x.yowaimo.in/playlist/crichd/tntsports1.m3u8
-#EXTINF:-1 tvg-logo="https://play.crichd.tv/assets/uploads/channels/54.png" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",LaLiga TV UK
-https://cr7x.yowaimo.in/playlist/crichd/laligatvuk.m3u8
+#EXTINF:-1 tvg-logo="https://play.crichd.tv/assets/uploads/channels/3.png" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",Sky Sports Cricket
+https://cr7x.yowaimo.in/playlist/crichd/skysportscricket.m3u8
+#EXTINF:-1 tvg-logo="https://play.crichd.tv/assets/uploads/channels/9.png" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",Sky Sports News
+https://cr7x.yowaimo.in/playlist/crichd/skysportsnews.m3u8
+#EXTINF:-1 tvg-logo="https://play.crichd.tv/assets/uploads/channels/1.jpg" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",Sky Sports Main Event
+https://cr7x.yowaimo.in/playlist/crichd/skysportsmainevent.m3u8
+#EXTINF:-1 tvg-logo="https://play.crichd.tv/assets/uploads/channels/12.gif" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",TNT Sports 3
+https://cr7x.yowaimo.in/playlist/crichd/tntsports3.m3u8
 #EXTINF:-1 tvg-logo="https://play.crichd.tv/assets/uploads/channels/13.gif" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",TNT Sports 4
 https://cr7x.yowaimo.in/playlist/crichd/tntsports4.m3u8
 #EXTINF:-1 tvg-logo="https://play.crichd.tv/assets/uploads/channels/17.gif" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",Viaplay Sports 1 UK
 https://cr7x.yowaimo.in/playlist/crichd/viaplaysports1uk.m3u8
-#EXTINF:-1 tvg-logo="https://play.crichd.tv/assets/uploads/channels/28.gif" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",Viaplay Sports 2 UK
-https://cr7x.yowaimo.in/playlist/crichd/viaplaysports2uk.m3u8
+#EXTINF:-1 tvg-logo="https://play.crichd.tv/assets/uploads/channels/18.png" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",PTV Sports
+https://cr7x.yowaimo.in/playlist/crichd/ptvsports.m3u8
 #EXTINF:-1 tvg-logo="https://play.crichd.tv/assets/uploads/channels/11.gif" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",TNT Sports 2
 https://cr7x.yowaimo.in/playlist/crichd/tntsports2.m3u8
+#EXTINF:-1 tvg-logo="https://play.crichd.tv/assets/uploads/channels/10.gif" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",TNT Sports 1
+https://cr7x.yowaimo.in/playlist/crichd/tntsports1.m3u8
+#EXTINF:-1 tvg-logo="https://play.crichd.tv/assets/uploads/channels/28.gif" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",Viaplay Sports 2 UK
+https://cr7x.yowaimo.in/playlist/crichd/viaplaysports2uk.m3u8
+#EXTINF:-1 tvg-logo="https://play.crichd.tv/assets/uploads/channels/54.png" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",LaLiga TV UK
+https://cr7x.yowaimo.in/playlist/crichd/laligatvuk.m3u8
 #EXTINF:-1 tvg-logo="https://play.crichd.tv/assets/uploads/channels/19.png" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",Star Sports 1
 https://cr7x.yowaimo.in/playlist/crichd/starsports1.m3u8
-#EXTINF:-1 tvg-logo="https://play.crichd.tv/assets/uploads/channels/12.gif" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",TNT Sports 3
-https://cr7x.yowaimo.in/playlist/crichd/tntsports3.m3u8
 #EXTINF:-1 tvg-logo="https://play.crichd.tv/assets/uploads/channels/20.png" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",Willow Cricket
 https://cr7x.yowaimo.in/playlist/crichd/willowcricket.m3u8
-#EXTINF:-1 tvg-logo="https://play.crichd.tv/assets/uploads/channels/50.gif" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",Ten Sports
-https://cr7x.yowaimo.in/playlist/crichd/tensports.m3u8
 #EXTINF:-1 tvg-logo="https://play.crichd.tv/assets/uploads/channels/51.gif" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",Star Sports 1 Hindi
 https://cr7x.yowaimo.in/playlist/crichd/starsports1hindi.m3u8
+#EXTINF:-1 tvg-logo="https://play.crichd.tv/assets/uploads/channels/50.gif" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",Ten Sports
+https://cr7x.yowaimo.in/playlist/crichd/tensports.m3u8
 #EXTINF:-1 tvg-logo="https://play.crichd.tv/assets/uploads/channels/147.png" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",ESPN US
 https://cr7x.yowaimo.in/playlist/crichd/espnus.m3u8
+#EXTINF:-1 tvg-logo="https://play.crichd.tv/assets/uploads/channels/55.png" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",Willow Cricket Extra
+https://cr7x.yowaimo.in/playlist/crichd/willowcricketextra.m3u8
 #EXTINF:-1 tvg-logo="https://play.crichd.tv/assets/uploads/channels/56.png" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",A Sports HD
 https://cr7x.yowaimo.in/playlist/crichd/asportshd.m3u8
 #EXTINF:-1 tvg-logo="https://play.crichd.tv/assets/uploads/channels/148.png" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",ESPN 2 US
 https://cr7x.yowaimo.in/playlist/crichd/espn2us.m3u8
-#EXTINF:-1 tvg-logo="https://play.crichd.tv/assets/uploads/channels/55.png" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",Willow Cricket Extra
-https://cr7x.yowaimo.in/playlist/crichd/willowcricketextra.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",Sky Sport 1 NZ
 https://cr7x.yowaimo.in/playlist/crichd/skysport1nz.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",Sky Sport 5 NZ
-https://cr7x.yowaimo.in/playlist/crichd/skysport5nz.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",Sky Sport 2 NZ
 https://cr7x.yowaimo.in/playlist/crichd/skysport2nz.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",Sky Sport 6 NZ
-https://cr7x.yowaimo.in/playlist/crichd/skysport6nz.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",Sky Sport 4 NZ
 https://cr7x.yowaimo.in/playlist/crichd/skysport4nz.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",Sky Sport 3 NZ
 https://cr7x.yowaimo.in/playlist/crichd/skysport3nz.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",Sky Sport 8 NZ
-https://cr7x.yowaimo.in/playlist/crichd/skysport8nz.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",Sky Sport 9 NZ
-https://cr7x.yowaimo.in/playlist/crichd/skysport9nz.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Fox_Sports_2012.svg/revision/latest/scale-to-width-down/250?cb=20260204234819" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",Fox Deportes
-https://cr7x.yowaimo.in/playlist/crichd/foxdeportes.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",Sky Sport 7 NZ
 https://cr7x.yowaimo.in/playlist/crichd/skysport7nz.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",Sky Sport 9 NZ
+https://cr7x.yowaimo.in/playlist/crichd/skysport9nz.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",Sky Sport 5 NZ
+https://cr7x.yowaimo.in/playlist/crichd/skysport5nz.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",Sky Sport 6 NZ
+https://cr7x.yowaimo.in/playlist/crichd/skysport6nz.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",Sky Sport 8 NZ
+https://cr7x.yowaimo.in/playlist/crichd/skysport8nz.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Fox_Sports_2012.svg/revision/latest/scale-to-width-down/250?cb=20260204234819" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",Fox Deportes
+https://cr7x.yowaimo.in/playlist/crichd/foxdeportes.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/BeIN_Sports_2017_flat.svg/revision/latest/scale-to-width-down/300?cb=20230910182143" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",BeIn Sports USA
 https://cr7x.yowaimo.in/playlist/crichd/beinsportsusa.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/BeIN_Sports_2017_flat.svg/revision/latest/scale-to-width-down/300?cb=20230910182143" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",BeIn Sports HD 1 France
-https://cr7x.yowaimo.in/playlist/crichd/beinsportshd1france.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Fox_Sports_2012.svg/revision/latest/scale-to-width-down/250?cb=20260204234819" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",Fox Sports 1 US
-https://cr7x.yowaimo.in/playlist/crichd/foxsports1us.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Vamos_por_Movistar_Plus+_2023.svg/revision/latest/scale-to-width-down/315?cb=20230728170813" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",Movistar #Vamos
 https://cr7x.yowaimo.in/playlist/crichd/movistarvamos.m3u8
 #EXTINF:-1 tvg-logo="https://thumbnailer.mixcloud.com/unsafe/1200x628/profile/0/b/8/4/638c-6c4d-4572-b452-cc4468b2f1e2" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",Telemundo
 https://cr7x.yowaimo.in/playlist/crichd/telemundo.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Fox_Sports_2012.svg/revision/latest/scale-to-width-down/250?cb=20260204234819" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",Fox Sports 1 US
+https://cr7x.yowaimo.in/playlist/crichd/foxsports1us.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/BeIN_Sports_2017_flat.svg/revision/latest/scale-to-width-down/300?cb=20230910182143" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",BeIn Sports HD 1 France
+https://cr7x.yowaimo.in/playlist/crichd/beinsportshd1france.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Fox_Sports_2012.svg/revision/latest/scale-to-width-down/250?cb=20260204234819" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",Fox Sports 2 US
 https://cr7x.yowaimo.in/playlist/crichd/foxsports2us.m3u8
+#EXTINF:-1 tvg-logo="https://thumbnailer.mixcloud.com/unsafe/1200x628/profile/0/b/8/4/638c-6c4d-4572-b452-cc4468b2f1e2" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",NBC
+https://cr7x.yowaimo.in/playlist/crichd/nbc.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/TUDN.svg/revision/latest/scale-to-width-down/250?cb=20230127192854" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",TUDN USA
 https://cr7x.yowaimo.in/playlist/crichd/tudnusa.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Vamos_por_Movistar_Plus+_2023.svg/revision/latest/scale-to-width-down/315?cb=20230728170813" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",Movistar Deportes
 https://cr7x.yowaimo.in/playlist/crichd/movistardeportes.m3u8
-#EXTINF:-1 tvg-logo="https://thumbnailer.mixcloud.com/unsafe/1200x628/profile/0/b/8/4/638c-6c4d-4572-b452-cc4468b2f1e2" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",NBC
-https://cr7x.yowaimo.in/playlist/crichd/nbc.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/DAZN_2019_logo.svg/revision/latest/scale-to-width-down/200?cb=20210824002335" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",DAZN 2 Spain
-https://cr7x.yowaimo.in/playlist/crichd/dazn2spain.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/DAZN_2019_logo.svg/revision/latest/scale-to-width-down/200?cb=20210824002335" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",DAZN 1 Spain
 https://cr7x.yowaimo.in/playlist/crichd/dazn1spain.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/DAZN_2019_logo.svg/revision/latest/scale-to-width-down/200?cb=20210824002335" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",DAZN 2 Spain
+https://cr7x.yowaimo.in/playlist/crichd/dazn2spain.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/DAZN_2019_logo.svg/revision/latest/scale-to-width-down/200?cb=20210824002335" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",DAZN 4 Spain
+https://cr7x.yowaimo.in/playlist/crichd/dazn4spain.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/DAZN_2019_logo.svg/revision/latest/scale-to-width-down/200?cb=20210824002335" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",DAZN 3 Spain
 https://cr7x.yowaimo.in/playlist/crichd/dazn3spain.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/LaLiga_TV_Hypermotion.svg/revision/latest/scale-to-width-down/250?cb=20230704141115" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",LaLiga TV Hypermotion
+https://cr7x.yowaimo.in/playlist/crichd/laligatvhypermotion.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Fox_Sports_2012.svg/revision/latest/scale-to-width-down/250?cb=20260204234819" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",Fox Soccer Plus
+https://cr7x.yowaimo.in/playlist/crichd/foxsoccerplus.m3u8
 #EXTINF:-1 tvg-logo="https://thumbnailer.mixcloud.com/unsafe/1200x628/profile/0/b/8/4/638c-6c4d-4572-b452-cc4468b2f1e2" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",BBC One
 https://cr7x.yowaimo.in/playlist/crichd/bbcone.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Itv2024.svg/revision/latest/scale-to-width-down/250?cb=20250608152944" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",ITV 1
-https://cr7x.yowaimo.in/playlist/crichd/itv1.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/La_Liga_Hypermotion_2.svg/revision/latest/scale-to-width-down/250?cb=20240921151926" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",LaLiga TV Hypermotion 2
 https://cr7x.yowaimo.in/playlist/crichd/laligatvhypermotion2.m3u8
 #EXTINF:-1 tvg-logo="https://thumbnailer.mixcloud.com/unsafe/1200x628/profile/0/b/8/4/638c-6c4d-4572-b452-cc4468b2f1e2" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",BBC Two
 https://cr7x.yowaimo.in/playlist/crichd/bbctwo.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Itv2024.svg/revision/latest/scale-to-width-down/250?cb=20250608152944" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",ITV 1
+https://cr7x.yowaimo.in/playlist/crichd/itv1.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Itv2024.svg/revision/latest/scale-to-width-down/250?cb=20250608152944" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",ITV4
 https://cr7x.yowaimo.in/playlist/crichd/itv4.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/LaLiga_TV_Hypermotion.svg/revision/latest/scale-to-width-down/250?cb=20230704141115" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",LaLiga TV Hypermotion
-https://cr7x.yowaimo.in/playlist/crichd/laligatvhypermotion.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/DAZN_2019_logo.svg/revision/latest/scale-to-width-down/200?cb=20210824002335" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",DAZN 4 Spain
-https://cr7x.yowaimo.in/playlist/crichd/dazn4spain.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Fox_Sports_2012.svg/revision/latest/scale-to-width-down/250?cb=20260204234819" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",Fox Soccer Plus
-https://cr7x.yowaimo.in/playlist/crichd/foxsoccerplus.m3u8
 #EXTINF:-1 tvg-logo="https://thumbnailer.mixcloud.com/unsafe/1200x628/profile/0/b/8/4/638c-6c4d-4572-b452-cc4468b2f1e2" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",Disney+ SP
 https://cr7x.yowaimo.in/playlist/crichd/disneysp.m3u8
 #EXTINF:-1 tvg-logo="https://thumbnailer.mixcloud.com/unsafe/1200x628/profile/0/b/8/4/638c-6c4d-4572-b452-cc4468b2f1e2" group-title="🔴𝐂𝐫𝐢𝐜𝐇𝐃 | LIVE ",ESPN Deportes

@@ -6,11 +6,16 @@ env:
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: "*/30 * * * *"
   workflow_dispatch:
   push:
     branches:
       - main
+
+# Prevent concurrent runs from overlapping and causing push conflicts
+concurrency:
+  group: sync-jojo-file
+  cancel-in-progress: true
 
 jobs:
   update_jojo:
@@ -35,6 +40,10 @@ jobs:
           # Only proceed if changes are detected
           if ! git diff --cached --quiet; then
             git commit -m "chore: update Jojo.m3u from external source"
+            
+            # Fetch and rebase latest remote changes before pushing
+            git pull --rebase origin main
+            
             git push origin main
           else
             echo "No updates to sync."

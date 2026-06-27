@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://github.com/whythishome/epg/raw/refs/heads/master/guides/dishtv.in_en.xml.gz" x-billed-message="StreamX | Owner: Yash | Expires: Unlimited | @streamxyash"
 # JioTV+ channels — Owner: StreamX
 # Telegram: @streamxyash
-# Generated: 28 Jun 2026, 03:40:31
+# Generated: 28 Jun 2026, 04:40:42
 # Total Channels: 1173
 
 #EXTINF:-1 tvg-id="613" group-title="Assamese" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Newslive.png",Newslive
@@ -869,8 +869,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/CNBCTV18Prime_MOB/WDVLive/index.mpd?__hdn
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0172b8cd13ed59349a05aadc58ae11e0:e4ab7836617767a2a6e7aaae17fad2b6
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1782579329~exp=1782600929~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=2277644a279c8435eda8829a5330ec14e8302ed228251e8e5b6af17451315b85","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/History_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1782579329~exp=1782600929~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=2277644a279c8435eda8829a5330ec14e8302ed228251e8e5b6af17451315b85
+#EXTHTTP:{"cookie":"__hdnea__=st=1782601210~exp=1782622810~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=3846b5282e361045bb4bd8584f095a8337de045fc1712b0c766f1158d7f033a3","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/History_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1782601210~exp=1782622810~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=3846b5282e361045bb4bd8584f095a8337de045fc1712b0c766f1158d7f033a3
 
 #EXTINF:-1 tvg-id="151" group-title="English" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now_HD.png",Movies Now HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1387,8 +1387,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Movies_Select_HD_MOB/WDVLive/index.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e705c9330a935a119021d97c7677ce62:dd306a57de1715b0e1256d5c1737f485
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1782578774~exp=1782600374~acl=/bpk-tv/Star_Movies_BTS/WDVLive/*~hmac=68bc0dca807b60064abc71b9150a695234834c286fd0d32410973d438abeb8e5","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_BTS/WDVLive/index.mpd?__hdnea__=st=1782578774~exp=1782600374~acl=/bpk-tv/Star_Movies_BTS/WDVLive/*~hmac=68bc0dca807b60064abc71b9150a695234834c286fd0d32410973d438abeb8e5
+#EXTHTTP:{"cookie":"__hdnea__=st=1782600614~exp=1782622214~acl=/bpk-tv/Star_Movies_BTS/WDVLive/*~hmac=b0d1116df054060f3f1749a60a3949b7fc74c21d2b0c7da596a4c710d0a1b7c5","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_BTS/WDVLive/index.mpd?__hdnea__=st=1782600614~exp=1782622214~acl=/bpk-tv/Star_Movies_BTS/WDVLive/*~hmac=b0d1116df054060f3f1749a60a3949b7fc74c21d2b0c7da596a4c710d0a1b7c5
 
 #EXTINF:-1 tvg-id="1158" group-title="English" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png",Colors Infinity HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey

@@ -249,7 +249,7 @@ https://yowaimo.in/TUTASKY/HeheGandu/manifest.mpd?id=78
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9457eb90129456fa8ea95e10ba4ac51e:e620a970cea474c491ac78ae71a4d764
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd?__hdnea__=st=1783373298~exp=1783394898~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=b5250844b68eb928f615de401c67b27198fcf656d8c877f9d81399dfcd9998a4
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd?__hdnea__=st=1783412554~exp=1783434154~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=5d5724cd141fbfba045deae691a28543698823a1a656409407f76850422cc5d2
 
 #EXTINF:-1 tvg-id="STAR.SPORTS.3.in" group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31405-jm2isen4-v1/imageContent-31405-jm2isen4-m1.png",Star Sports 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1629,7 +1629,7 @@ https://ipcloud.live/rvtv/rvtvhd/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Local Channels", Harin TV
 https://ipcloud.live/harintv/harintvhd/index.m3u8
 #EXTINF:-1 tvg-id="jayam_tv" tvg-logo="https://play-lh.googleusercontent.com/3bd3JORuDwSzzHtaC_jwcL7WdAG3cYvHfrr8TyKzib4vXVcE5767ytVMy9br_ozStQ=w240-h480-rw" group-title="Local Channels",Jayam Tv
-https://ipcloud.live/jayamtv/jayamtvhd/index.m3u8\
+https://ipcloud.live/jayamtv/jayamtvhd/index.m3u8
 #EXTINF:-1 tvg-id="aadhavan_tv_1" tvg-name="AADHAVAN TV" tvg-logo="https://i.ibb.co/4nhfjpV9/Whats-App-Image-2025-034-at-9-29-23-PM.jpg" group-title="Local Channels",Aadhavan Tv
 https://view.apserver.in/tmp_hls3/aadhavantv/index.m3u8
 #EXTINF:-1 tvg-id="MTelevision" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1743837928_TELEVESION.png" tvg-region="Kodaikanal" group-title="Local Channels",M Television
@@ -1648,9 +1648,9 @@ http://7starcloud.com:1935/live/7star2/playlist.m3u8
 #EXTINF:-1  tvg-name="Thirumagal Tv" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240305_0920178224610300763181208.png",Thirumagal Tv
 http://ttv.7starcloud.com:1935/thirumagal/tv/playlist.m3u8
 #EXTINF:-1  tvg-name="KCTN Tv" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240315_0430295020070800902055299.png",KCTN Tv
-http://ttv.7starcloud.com:1935/kctn/tv/playlist.m3u8
+https://ktismaservers.in:3456/live/kctntvlive.m3u8
 #EXTINF:-1  tvg-name="VCTN Tv" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240315_0451574292623150284952506.png",VCTN Tv
-http://ttv.7starcloud.com:1935/vctn/tv/playlist.m3u8
+https://ktismaservers.in:3456/live/vctntvlive.m3u8
 #EXTINF:-1 tvg-id="NishaTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1731776131_WhatsApp_Image_2024-11-16_at_8.36.22_PM-removebg-preview.png" tvg-region="Salem" group-title="Local Channels",Nisha TV
 http://103.159.180.5:1935/live/nisha/live.m3u8
 

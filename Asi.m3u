@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz,https://github.com/whythishome/epg/raw/refs/heads/master/guides/dishtv.in_en.xml.gz" x-billed-message="StreamX"
-# Generated: 11-Jul-2026 17:15:01
+# Generated: 11-Jul-2026 18:28:24
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -2880,7 +2880,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Nazara_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=0000:0000
 #EXTVLCOPT:http-user-agent=curl/8.5.0
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://yowaimo.in/Sflex-ArtlPVT0719/AND_FLIX_HD.m3u8
+https://yowaimo.in/SF-SS/741567.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="FIFA 2026 | STREAMX" group-logo="https://newsonair.gov.in/wp-content/uploads/2026/06/FIFA-1.png" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_720,h_405,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/list/1920x1080list88f79d7c74df4d998da1bbd448f465ff.jpg",Unite8 Sports 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey

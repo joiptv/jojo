@@ -838,7 +838,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Food_Food_MOB/WDVLive/index.mpd?__hdnea__
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=39aa887ebbc35db6bd10217aba5e016b:a1862a47f6db0af137d0c69b3cb422bb
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
-https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_BTS/WDVLive/index.mpd?__hdnea__=st=1784046611~exp=1784068211~acl=/bpk-tv/Travel_XP_BTS/WDVLive/*~hmac=d831a9c3017e5ac495a66b624afbfdd140a7c9f376b134c1907b8ced15ab3d25
+https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_BTS/WDVLive/index.mpd?__hdnea__=st=1784068513~exp=1784090113~acl=/bpk-tv/Travel_XP_BTS/WDVLive/*~hmac=b888bf2f1ae542d61225cc0cd3a3530da6107a04ba02c153c4f1ed056c069368
 
 #EXTINF:-1 tvg-id="563" group-title="Malayalam" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kaumudy_TV.png",Kaumudy TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -4444,7 +4444,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_1_BTS/WDVLive/index
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea7985dacbb95f1c9d62e5a1675142e5:39d5910ca04841b5f32bf24623cdae58
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_1_BTS/WDVLive/index.mpd?__hdnea__=st=1784046618~exp=1784068218~acl=/bpk-tv/Star_Sports_Select_1_BTS/WDVLive/*~hmac=ca365f342c95eaaddd483f3ff82a8d97c3b9f9d53f235d96421260f6e06ceb51
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_1_BTS/WDVLive/index.mpd?__hdnea__=st=1784068517~exp=1784090117~acl=/bpk-tv/Star_Sports_Select_1_BTS/WDVLive/*~hmac=e3e55f634ddea2cb81c5fd0524982fc8c4f5f372c775054cfc4a491e744dc868
 
 #EXTINF:-1 tvg-id="461" group-title="Sports" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://img.media.jio.com/tvpimages/98/79/302114_1749665414817_l_medium.jpg",Star Sports Select 2 HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey

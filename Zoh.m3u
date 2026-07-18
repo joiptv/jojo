@@ -3620,7 +3620,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeTalkiesHD_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0bf930e665a756bab62df644407e0877:42e5003f036f924d5095e0d6f315c9f6
 #EXTVLCOPT:http-user-agent=curl/8.5.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1784377443~exp=1784399043~acl=/bpk-tv/ZeeMarathiHD_BTS/WDVLive/*~hmac=4ca7d9114c8b8066e6816ce2190a896e7dd4503b507d7fb734027bf96a1b4256","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1784399043~exp=1784420643~acl=/bpk-tv/ZeeMarathiHD_BTS/WDVLive/*~hmac=5d626b6bcfaa523905dc4da17e6946f8229062e9482456b1b74e545de6f4c5f6","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 #EXTINF:-1 tvg-id="1360" group-title="JioTV+ ▶ | Marathi" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeMarathiHD.png",Zee Marathi HD
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeMarathiHD_BTS/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey

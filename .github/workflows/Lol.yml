@@ -15,9 +15,9 @@ jobs:
       - name: Fetch and filter playlist content
         run: |
           curl -s "https://airtelxtream.yashnemade12250.workers.dev/" > all_channels.m3u
-          grep -E -A 1 'group-title="Asia Malayalam"' all_channels.m3u | grep -v '^--$' > Lol.m3u
+          grep -i -A 1 'ASIA | MALAYALAM' all_channels.m3u | grep -v '^--$' > Lol.m3u || true
           git config --global user.name 'github-actions'
           git config --global user.email 'actions@github.com'
           git add Lol.m3u
-          git commit -m "Update Lol.m3u with Asia Malayalam channels" || echo "No changes to commit"
+          git commit -m "Update Lol.m3u with ASIA | MALAYALAM channels" || echo "No changes to commit"
           git push

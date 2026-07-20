@@ -1,4 +1,4 @@
-name: Update Lol Playlist - Asia Malayalam
+name: Update Lol Playlist
 
 on:
   schedule:
@@ -12,13 +12,11 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Fetch and filter playlist content
+      - name: Fetch playlist content and update Lol.m3u
         run: |
-          curl -s "https://airtelxtream.yashnemade12250.workers.dev/" > all_channels.m3u
-          grep -i -A 1 'ASIA | MALAYALAM' all_channels.m3u | grep -v '^--$' > Lol.m3u || true
+          curl -s "https://airtelxtream.yashnemade12250.workers.dev/" > Lol.m3u
           git config --global user.name 'github-actions'
           git config --global user.email 'actions@github.com'
           git add Lol.m3u
-          git commit -m "Update Lol.m3u with ASIA | MALAYALAM channels" || echo "No changes to commit"
-          git pull --rebase origin main
+          git commit -m "Update Lol.m3u from worker" || echo "No changes to commit"
           git push

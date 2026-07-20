@@ -1,14 +1,7 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
- <head>
-  <title>Index of /</title>
- </head>
- <body>
-<h1>Index of /</h1>
-  <table>
-   <tr><th valign="top">&nbsp;</th><th><a href="?C=N;O=D">Name</a></th><th><a href="?C=M;O=A">Last modified</a></th><th><a href="?C=S;O=A">Size</a></th><th><a href="?C=D;O=A">Description</a></th></tr>
-   <tr><th colspan="5"><hr></th></tr>
-<tr><td valign="top">&nbsp;</td><td><a href="streamxyes.php">streamxyes.php</a>         </td><td align="right">2026-07-19 12:33  </td><td align="right"> 25K</td><td>&nbsp;</td></tr>
-   <tr><th colspan="5"><hr></th></tr>
-</table>
-</body></html>
+<!DOCTYPE html><html><head><meta http-equiv="Content-type" content="text/html; charset=UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="stylesheet" href="/_autoindex/assets/css/autoindex.css" /><script src="/_autoindex/assets/js/tablesort.js"></script><script src="/_autoindex/assets/js/tablesort.number.js"></script><title>Index of //</title><style>@media (prefers-color-scheme:dark){body{background-color:#000!important}}</style></head><body><div class="content"><h1 style="color: #555;">Index of //</h1>
+<div id="table-list"><table id="table-content"><thead class="t-header"><tr><th class="colname" aria-sort="ascending"><a class="name" href="?ND"  onclick="return false"">Name</a></th><th class="colname" data-sort-method="number"><a href="?MA"  onclick="return false"">Last Modified</a></th><th class="colname" data-sort-method="number"><a href="?SA"  onclick="return false"">Size</a></th></tr></thead>
+<tr data-sort-method="none"><td><a href="/"><img class="icon" src="/_autoindex/assets/icons/corner-left-up.svg" alt="Up">Parent Directory</a></td><td></td><td></td></tr>
+<tr><td data-sort="error_log"><a href="//error_log"><img class="icon" src="/_autoindex/assets/icons/file.svg" alt="File">error_log</a></td><td data-sort="1784512152">2026-07-20 01:49</td><td data-sort="34029331">  33232k</td></tr>
+<tr><td data-sort="streamxyes.php"><a href="//streamxyes.php"><img class="icon" src="/_autoindex/assets/icons/file-text.svg" alt="[TXT]">streamxyes.php</a></td><td data-sort="1784444637">2026-07-19 07:03</td><td data-sort="25516">     25k</td></tr>
+</table></div>
+<address>Proudly Served by LiteSpeed Web Server at yashlivetv.fun Port 443</address></div><script>new Tablesort(document.getElementById("table-content"));</script></body></html>

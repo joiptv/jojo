@@ -1,10 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<title>Error</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Admin Login — STREAMXYASH</title>
+  <link rel="stylesheet" href="/public/style.css">
 </head>
 <body>
-<pre>Error: Failed to lookup view &quot;admin-login&quot; in views directory &quot;/home/yashliv1/streamxpanel-yash/views&quot;<br> &nbsp; &nbsp;at Function.render (/home/yashliv1/nodevenv/streamxpanel-yash/20/lib/node_modules/express/lib/application.js:597:17)<br> &nbsp; &nbsp;at ServerResponse.render (/home/yashliv1/nodevenv/streamxpanel-yash/20/lib/node_modules/express/lib/response.js:1049:7)<br> &nbsp; &nbsp;at /home/yashliv1/streamxpanel-yash/routes/admin.js:33:7<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (/home/yashliv1/nodevenv/streamxpanel-yash/20/lib/node_modules/express/lib/router/layer.js:95:5)<br> &nbsp; &nbsp;at next (/home/yashliv1/nodevenv/streamxpanel-yash/20/lib/node_modules/express/lib/router/route.js:149:13)<br> &nbsp; &nbsp;at Route.dispatch (/home/yashliv1/nodevenv/streamxpanel-yash/20/lib/node_modules/express/lib/router/route.js:119:3)<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (/home/yashliv1/nodevenv/streamxpanel-yash/20/lib/node_modules/express/lib/router/layer.js:95:5)<br> &nbsp; &nbsp;at /home/yashliv1/nodevenv/streamxpanel-yash/20/lib/node_modules/express/lib/router/index.js:284:15<br> &nbsp; &nbsp;at Function.process_params (/home/yashliv1/nodevenv/streamxpanel-yash/20/lib/node_modules/express/lib/router/index.js:346:12)<br> &nbsp; &nbsp;at next (/home/yashliv1/nodevenv/streamxpanel-yash/20/lib/node_modules/express/lib/router/index.js:280:10)</pre>
+  <div class="wrap narrow">
+    <div class="brand"><span class="dot"></span> STREAMXYASH · Admin</div>
+    <div class="card center-card" style="padding: 30px 26px;">
+      <h1 style="margin-bottom: 4px;">Admin sign in</h1>
+      <p class="sub">Manage the playlist source, renewal link, and users.</p>
+      
+      <form method="POST" action="/admin/login" style="text-align: left;">
+        <label for="username">Username</label>
+        <input type="text" id="username" name="username" autocomplete="username" required>
+        <label for="password">Password</label>
+        <input type="password" id="password" name="password" autocomplete="current-password" required>
+        <button type="submit" class="btn-primary" style="width: 100%; justify-content: center; margin-top: 6px;">Sign in</button>
+      </form>
+    </div>
+  </div>
 </body>
 </html>

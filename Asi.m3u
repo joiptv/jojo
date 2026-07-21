@@ -1,13 +1,26 @@
 <!DOCTYPE html>
-<html style="height:100%">
+<html lang="en">
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-<title> 503 Service Unavailable
-</title><style>@media (prefers-color-scheme:dark){body{background-color:#000!important}}</style></head>
-<body style="color: #444; margin:0;font: normal 14px/20px Arial, Helvetica, sans-serif; height:100%; background-color: #fff;">
-<div style="height:auto; min-height:100%; ">     <div style="text-align: center; width:800px; margin-left: -400px; position:absolute; top: 30%; left:50%;">
-        <h1 style="margin:0; font-size:150px; line-height:150px; font-weight:bold;">503</h1>
-<h2 style="margin-top:20px;font-size: 30px;">Service Unavailable
-</h2>
-<p>The server is temporarily busy, try again later!</p>
-</div></div></body></html>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Admin Login — STREAMXYASH</title>
+  <link rel="stylesheet" href="/public/style.css">
+</head>
+<body>
+  <div class="wrap narrow">
+    <div class="brand"><span class="dot"></span> STREAMXYASH · Admin</div>
+    <div class="card center-card" style="padding: 30px 26px;">
+      <h1 style="margin-bottom: 4px;">Admin sign in</h1>
+      <p class="sub">Manage the playlist source, renewal link, and users.</p>
+      
+      <form method="POST" action="/admin/login" style="text-align: left;">
+        <label for="username">Username</label>
+        <input type="text" id="username" name="username" autocomplete="username" required>
+        <label for="password">Password</label>
+        <input type="password" id="password" name="password" autocomplete="current-password" required>
+        <button type="submit" class="btn-primary" style="width: 100%; justify-content: center; margin-top: 6px;">Sign in</button>
+      </form>
+    </div>
+  </div>
+</body>
+</html>

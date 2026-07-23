@@ -16,7 +16,7 @@ jobs:
         run: |
           # We use the TiviMate User-Agent which usually bypasses the Telegram preview
           curl -sL -A "TiviMate/5.1.0 (Linux; Android 11)" \
-          "https://activation-07live.pages.dev/playlist?user=test&pass=test" -o gig.m3u
+          "https://activation-07live.pages.dev/playlist?user=le-beta&pass=maar-moj&token=ddbc81af564f46ceb5bc278a5a079ec8e1ddcd7d14bb47f4b5cdd502069ed8f6" -o gig.m3u
 
       - name: Verify Content
         run: |

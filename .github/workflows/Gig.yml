@@ -12,33 +12,46 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Fetch and Bypass Landing Page
+      - name: Fetch Source Playlist
         run: |
-          # We use the TiviMate User-Agent which usually bypasses the Telegram preview
-          curl -sL -A "TiviMate/5.1.0 (Linux; Android 11)" \
-          "https://activation-07live.pages.dev/playlist?user=le-beta&pass=maar-moj&token=ddbc81af564f46ceb5bc278a5a079ec8e1ddcd7d14bb47f4b5cdd502069ed8f6" -o gig.m3u
+          # Replace SOURCE_URL with your active Vercel API or GitHub raw link
+          SOURCE_URL="INSERT_YOUR_WORKING_URL_HERE"
+          
+          # Downloading to a temporary file for processing
+          curl -sL -A "TiviMate/5.1.0" "$SOURCE_URL" -o temp.m3u
 
-      - name: Verify Content
+      - name: Verify Content and Filter JioTV Channels
         run: |
-          # Check the first line of the file
-          FIRST_LINE=$(head -n 1 gig.m3u)
+          # Check the first line of the fetched file
+          FIRST_LINE=$(head -n 1 temp.m3u)
           echo "First line of file is: $FIRST_LINE"
           
           if [[ "$FIRST_LINE" == *"#EXTM3U"* ]]; then
-            echo "Success: File is a valid M3U."
+            echo "Success: File is a valid M3U. Filtering channels..."
+            
+            # Initialize the primary playlist file
+            echo "#EXTM3U" > gig.m3u
+            
+            # Extract only channels containing the 'jiotv' tag
+            grep -A 1 -i "jiotv" temp.m3u >> gig.m3u
+            
+            # Clean up the output by removing grep's group separator dashes
+            sed -i '/^--$/d' gig.m3u
+            
+            echo "Filtering complete. gig.m3u is ready."
           else
-            echo "Error: Still getting HTML/Telegram page. Trying alternative URL..."
-            # Try the 'raw' variant as a backup
-            curl -sL -A "TiviMate/5.1.0" "https://local.07live.workers.dev/all.m3u?user=999&pass=999" -o gig.m3u
-            if ! grep -q "#EXTM3U" gig.m3u; then
-              echo "Both attempts failed to fetch raw M3U data."
-              exit 1
-            fi
+            echo "Error: Did not receive raw M3U data. Output received:"
+            cat temp.m3u
+            exit 1
           fi
 
       - name: Commit and Push
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
+          
+          # Add the main playlist file
           git add gig.m3u
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Updated Gig Playlist $(date +'%Y-%m-%d %H:%M')" && git push)
+          
+          # Commit only if there are changes
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Updated gig.m3u $(date +'%Y-%m-%d %H:%M')" && git push)

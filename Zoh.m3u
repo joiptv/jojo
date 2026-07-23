@@ -2343,7 +2343,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ersent/HLSPartner/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=e705c9330a935a119021d97c7677ce62:dd306a57de1715b0e1256d5c1737f485
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
 #EXTINF:-1 tvg-id="1115" group-title="English" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies.png",Star Movies
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_BTS/WDVLive/index.mpd?__hdnea__=st=1784742910~exp=1784764510~acl=/bpk-tv/Star_Movies_BTS/WDVLive/*~hmac=3510043b7c876d4b3def22a187f5088485511ce0402524d71a735a1f323b793f
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_BTS/WDVLive/index.mpd?__hdnea__=st=1784764808~exp=1784786408~acl=/bpk-tv/Star_Movies_BTS/WDVLive/*~hmac=752af89b9896d41ba0aceae591ac960d9fdfa25b7ba396144e7c51bd9bfcbec8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000:0000
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
@@ -5068,7 +5068,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Vijay_Takkar_MOB/WDVLive/index.mpd?__hdne
 #KODIPROP:inputstream.adaptive.license_key=4b7d579e28d45041ba78c3a92f0acc92:fbf33acfca489b1354955cbfb09570b5
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
 #EXTINF:-1 tvg-id="3276" group-title="English" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select.png",Star Movies Select
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_Select_BTS/WDVLive/index.mpd?__hdnea__=st=1784742915~exp=1784764515~acl=/bpk-tv/Star_Movies_Select_BTS/WDVLive/*~hmac=e7eee71cd02700480c0600c09d2c6f5f87b7886a6823797c4a45118a6fade1cb
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_Select_BTS/WDVLive/index.mpd?__hdnea__=st=1784764812~exp=1784786412~acl=/bpk-tv/Star_Movies_Select_BTS/WDVLive/*~hmac=34757c73b099e0e86fa2f93bf0d44f2674eb38acc21d4a7c5eb163c286454482
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fda1385956445199a867364b266de2f1:8b85980e71af02b532054322d846b468
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7

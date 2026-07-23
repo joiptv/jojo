@@ -2,56 +2,42 @@ name: Update Gig Playlist
 
 on:
   schedule:
-    - cron: '0 */3 * * *' # Updates every 3 hours
-  workflow_dispatch:      # Manual run button
+    - cron: '0 */6 * * *'   # every 6 hours
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # required to push with GITHUB_TOKEN
     steps:
-      - name: Checkout Repository
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Fetch Source Playlist
+      - name: Fetch playlist
         run: |
-          # Replace SOURCE_URL with your active Vercel API or GitHub raw link
-          SOURCE_URL="INSERT_YOUR_WORKING_URL_HERE"
-          
-          # Downloading to a temporary file for processing
-          curl -sL -A "TiviMate/5.1.0" "$SOURCE_URL" -o temp.m3u
-
-      - name: Verify Content and Filter JioTV Channels
-        run: |
-          # Check the first line of the fetched file
-          FIRST_LINE=$(head -n 1 temp.m3u)
-          echo "First line of file is: $FIRST_LINE"
-          
-          if [[ "$FIRST_LINE" == *"#EXTM3U"* ]]; then
-            echo "Success: File is a valid M3U. Filtering channels..."
-            
-            # Initialize the primary playlist file
-            echo "#EXTM3U" > gig.m3u
-            
-            # Extract only channels containing the 'jiotv' tag
-            grep -A 1 -i "jiotv" temp.m3u >> gig.m3u
-            
-            # Clean up the output by removing grep's group separator dashes
-            sed -i '/^--$/d' gig.m3u
-            
-            echo "Filtering complete. gig.m3u is ready."
-          else
-            echo "Error: Did not receive raw M3U data. Output received:"
-            cat temp.m3u
+          if ! curl -sfL -A "TiviMate/5.1.0" \
+            "https://activation-07live.pages.dev/playlist?user=${{ secrets.PLAYLIST_USER }}&pass=${{ secrets.PLAYLIST_PASS }}&token=${{ secrets.PLAYLIST_TOKEN }}" \
+            -o gig.m3u; then
+            echo "Primary fetch failed, trying fallback..."
+            curl -sfL -A "TiviMate/5.1.0" \
+              "https://local.07live.workers.dev/all.m3u?user=${{ secrets.FALLBACK_USER }}&pass=${{ secrets.FALLBACK_PASS }}" \
+              -o gig.m3u || exit 1
+          fi
+          if ! head -n 1 gig.m3u | grep -q "#EXTM3U"; then
+            echo "Invalid M3U file"
             exit 1
           fi
+          echo "Playlist fetched successfully"
 
-      - name: Commit and Push
+      - name: Commit and push if changed
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          
-          # Add the main playlist file
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add gig.m3u
-          
-          # Commit only if there are changes
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Updated gig.m3u $(date +'%Y-%m-%d %H:%M')" && git push)
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update Gig Playlist $(date +'%Y-%m-%d %H:%M')"
+            git push
+          fi

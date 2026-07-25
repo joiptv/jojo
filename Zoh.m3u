@@ -5884,7 +5884,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ShreeSanatan_TV_MOB/WDVLive/index.mpd?__h
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000:0000
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
-#EXTINF:-1 tvg-id="3494" group-title="News" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kadak_NW18.png",Kadak NW18
+#EXTINF:-1 tvg-id="3494" group-title="News" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/9532d6950be2155f1359d643a855dd05.png",Kadak NW18
 https://nw18live.cdn.jio.com/bpk-tv/Kadak_NW18_MOB/output01/index.m3u8?__hdnea__=st=1785002438~exp=1785024038~acl=/*~hmac=e2707395d820057e24921aef8c5e970c45cbf96b8c17050112c3c3566f23cc14
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=39dbfccd01035abd96b3d1c6e951f67d:9b9af61e909457c4718c04bb93bd21e8

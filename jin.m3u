@@ -1418,7 +1418,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Zee_Purvaiya_MOB/WDVLive/index.mpd?__hdne
 
 #EXTINF:-1 tvg-id="662" group-title="Malayalam" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Manorama_News.png",Manorama News
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e535383111765053a2f1c70260c9cabc:77faac4d755c1c2fb4f9f5d42baf1282
+#KODIPROP:inputstream.adaptive.license_key=e535383111765053a2f1c70260c9cabc:77faac4d755c1c2f34faf7d40baf1282
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
 https://jiotvmblive.cdn.jio.com/bpk-tv/Manorama_News_MOB/WDVLive/index.mpd?__hdnea__=st=1784995240~exp=1785016840~acl=/*~hmac=ff24f75d4dad105f439513ae7d9df45cd0c97da8b0ec8972f3fe29ede3c1d9f5
 

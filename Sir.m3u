@@ -4476,29 +4476,35 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/PMC_Telugu_MOB/WDVLive/index.mpd?__hdnea_
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
 https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeBanglaHD_MOB/WDVLive/index.mpd?__hdnea__=st=1784973641~exp=1784995241~acl=/*~hmac=8d46315e17f1c7fb7b2e0145c90a29767ead11cb4ef63d94d7062751e0d4b877
 
-#EXTINF:-1 tvg-id="1001" group-title="FIFA 2026 | STREAMX" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_720,h_405,c_scale,f_webp,q_auto:eco/resources/0-9-zeecafehd/list/1920x1080list60cd7fc8b57c4e1baf1cd4f603413540.jpg",Unite8 Sports 1 HD
+#EXTINF:-1 tvg-id="1001" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_720,h_405,c_scale,f_webp,q_auto:eco/resources/0-9-zeecafehd/list/1920x1080list60cd7fc8b57c4e1baf1cd4f603413540.jpg",Unite8 Sports 1 HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000:0000
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
 https://yowaimo.in/SF-SS/741567.m3u8
 
-#EXTINF:-1 tvg-id="undefined" group-title="FIFA 2026 | STREAMX" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_720,h_405,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/list/1920x1080list88f79d7c74df4d998da1bbd448f465ff.jpg",Unite8 Sports 2 HD
+#EXTINF:-1 tvg-id="undefined" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_720,h_405,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/list/1920x1080list88f79d7c74df4d998da1bbd448f465ff.jpg",Unite8 Sports 2 HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000:0000
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
 https://yowaimo.in/SF-SS/745202.m3u8
 
-#EXTINF:-1 tvg-id="undefined" group-title="FIFA 2026 | STREAMX" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://i.postimg.cc/FKh4DWFG/unite8-1.jpg",Unite8 Sports 1 HD | TATA PLAY
+#EXTINF:-1 tvg-id="undefined" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://i.postimg.cc/FKh4DWFG/unite8-1.jpg",Unite8 Sports 1 HD | TATA PLAY
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000:0000
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
 http://103.155.18.186:8000/play/a125/index.m3u8
 
-#EXTINF:-1 tvg-id="undefined" group-title="FIFA 2026 | STREAMX" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://i.postimg.cc/qRX6WZ2w/unite8-2.jpg",Unite8 Sports 2 HD | TATA PLAY
+#EXTINF:-1 tvg-id="undefined" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://i.postimg.cc/qRX6WZ2w/unite8-2.jpg",Unite8 Sports 2 HD | TATA PLAY
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000:0000
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
 http://103.155.18.186:8000/play/a126/index.m3u8
+
+#EXTINF:-1 tvg-id="009" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-IND_T20Is_fc-web.jpg",FANCODE | IND vs ZIM (ENG)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7148e4d133694c9e9720a1bac7159093:18d187fd131b82a360917f56da3e98d4
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
+https://in-mc-flive.fancode.com/mumbai/143352_english_dash_92407_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-id="undefined" group-title="FIFA 2026 | STREAMX" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/upsspx1433379567.png",TSN 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -4506,7 +4512,7 @@ http://103.155.18.186:8000/play/a126/index.m3u8
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
-#EXTINF:-1 tvg-id="1460" group-title="FIFA 2026 | STREAMX" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2025/06/fox-world-cup-2026.jpg",FOX SPORTS 4K
+#EXTINF:-1 tvg-id="1460" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2025/06/fox-world-cup-2026.jpg",FOX SPORTS 4K
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=63ff5bd50a863114f9d5fe0d18aff544:319760d139c5af680bab44664fd833ad
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7

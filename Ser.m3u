@@ -4482,6 +4482,12 @@ https://yowaimo.in/Sflex-ArtlPVT0719/ZEE_CAFE_HD.m3u8
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
 https://yowaimo.in/SF-SS/745202.m3u8
 
+#EXTINF:-1 tvg-id="1008" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-IND_T20Is_fc-web.jpg",ZIM vs IND (ENGLISH) 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000:0000
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+
 #EXTINF:-1 tvg-id="1003" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://i.postimg.cc/FKh4DWFG/unite8-1.jpg",Unite8 Sports 1 HD | TATA PLAY
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000:0000

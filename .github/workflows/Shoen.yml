@@ -1,0 +1,56 @@
+name: Shoe Playlist Sync
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: playlist-update
+  cancel-in-progress: true
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Download and Update M3U Links
+        run: |
+          # OTT Navigator-ൻ്റെ User-Agent ഉപയോഗിച്ച് 403 ബ്ലോക്ക് മറികടക്കുന്നു 
+          curl -s -L -A "OTT Navigator" "https://jio.shoeblivesite.dpdns.org/" -o temp.m3u
+          
+          # HTML പേജ് അല്ല, യഥാർത്ഥ M3U ആണ് കിട്ടിയതെന്ന് ഉറപ്പാക്കുന്നു
+          if grep -q "#EXTM3U" temp.m3u; then
+            echo "#EXTM3U" > Shoe.m3u
+            
+            # JioTV ടാഗ് ലൈൻ ഉള്ള ലിങ്കുകൾ മാത്രം ഫിൽറ്റർ ചെയ്യുന്നു
+            grep -i -A 1 "jiotv" temp.m3u >> Shoe.m3u
+            sed -i '/^--$/d' Shoe.m3u
+            
+            rm temp.m3u
+          else
+            echo "ഡൗൺലോഡ് പരാജയപ്പെട്ടു അല്ലെങ്കിൽ സെക്യൂരിറ്റി ബ്ലോക്ക് കാരണം HTML ലഭിച്ചു. സ്കിപ്പ് ചെയ്യുന്നു..."
+            rm temp.m3u
+            exit 1
+          fi
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          # Shoe.m3u ഫയൽ സ്റ്റേജ് ചെയ്യുന്നു
+          git add Shoe.m3u
+          
+          if git diff --staged --quiet; then
+            echo "പ്ലേലിസ്റ്റിൽ പുതിയ മാറ്റങ്ങൾ ഒന്നും തന്നെയില്ല."
+          else
+            git commit -m "chore: update Shoe.m3u with latest JioTV links"
+            git pull --rebase origin main
+            git push origin main
+          fi
+

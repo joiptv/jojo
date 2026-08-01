@@ -4546,7 +4546,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_2_BTS/WDVLive/index.mp
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=965dc2ddb1d85138ad787999a7f30ca5:859695076e67fe961836b564db6d689c
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd?__hdnea__=st=1785583844~exp=1785605444~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=66645a2385b2e0297b760cee96dbb9761046ef684f406ef8dcf1438f6f2564e3
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd?__hdnea__=st=1785605456~exp=1785627056~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=50108d14bf56286c9d238e9f7a3c01435d40f4a4599b2de9876ce3e895e511c8
 
 #EXTINF:-1 tvg-id="1142" group-title="Sports" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://img.media.jio.com/tvpimages/56/92/302115_1749665579801_l_medium.jpg",Star Sports 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -4564,7 +4564,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.m
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ea9b607549252068e260a5f4d7dd321:350c0aaffedf51cc1502e9543c7c885e
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/index.mpd?__hdnea__=st=1785582018~exp=1785603618~acl=/bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/*~hmac=972f6ca6b144e7769c8b659512d284b9a92ce9a7bcc379b513cd7c5c9a759716
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/index.mpd?__hdnea__=st=1785603656~exp=1785625256~acl=/bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/*~hmac=904ae2ee7bb1bb84c7d5ec38b956f58e8108a636ccc6d8d48548ce226a895b8d
 
 #EXTINF:-1 tvg-id="1109" group-title="Sports" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://img.media.jio.com/tvpimages/41/51/301983_1749666169105_l_medium.jpg",Star Sports 2 HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey

@@ -21,7 +21,7 @@ jobs:
       - name: Download and Update M3U Links
         run: |
           # ഡൗൺലോഡ് ചെയ്ത് Asi.m3u ഫയൽ അപ്ഡേറ്റ് ചെയ്യുന്നു
-          curl -L "https://jio.shoeblivesite.dpdns.org/" -o Asi.m3u
+          curl -L "http://shoebinfo.qzz.io/zee5/zee5.php" -o Asi.m3u
 
       - name: Commit and Push Changes
         run: |

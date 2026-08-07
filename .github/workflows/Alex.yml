@@ -1,0 +1,60 @@
+name: JioTV Playlist Format & Update
+
+on:
+ schedule:
+ - cron: '*/30 * * * *'
+ workflow_dispatch:
+
+concurrency:
+ group: playlist-update
+ cancel-in-progress: true
+
+jobs:
+ update-playlist:
+ runs-on: ubuntu-latest
+ steps:
+ - name: Checkout Repository
+ uses: actions/checkout@v4
+ with:
+ fetch-depth: 0
+
+ - name: Download and Process M3U Links
+ run: |
+ curl -s -L "https://alex4528.site/jplus/playlist.m3u" -o raw_playlist.m3u
+ 
+ python3 -c '
+ import re
+ 
+ with open("raw_playlist.m3u", "r", encoding="utf-8") as f:
+ content = f.read()
+ 
+ blocks = content.split("#EXTINF")
+ out_lines = ["#EXTM3U\n"]
+ 
+ for block in blocks[1:]:
+ block = "#EXTINF" + block
+ block = re.sub(r"(https?://[^\s]+?\.mpd)(\?[^\s]*)?", r"\1", block)
+ out_lines.append(block.strip() + "\n\n")
+ 
+ with open("alaxl.m3u", "w", encoding="utf-8") as f:
+ f.write("".join(out_lines))
+ '
+ 
+ rm raw_playlist.m3u
+
+ - name: Commit and Push Changes
+ run: |
+ git config --global user.name "github-actions[bot]"
+ git config --global user.email "github-actions[bot]@users.noreply.github.com"
+ 
+ git add alaxl.m3u
+ 
+ if git diff --staged --quiet; then
+ echo "പ്ലേലിസ്റ്റിൽ പുതിയ മാറ്റങ്ങൾ ഒന്നും തന്നെയില്ല."
+ else
+ git commit -m "chore: update alaxl.m3u with truncated URLs"
+ git pull --rebase origin main
+ git push origin main
+ fi
+``` മാറ്റങ്ങൾ വരുത്തിയിട്ടുണ്ട്.
+

@@ -15,7 +15,7 @@ jobs:
       - name: Fetch Playlist
         run: |
           # 'User-Agent' നൽകുന്നത് വഴി സെർവർ ബ്ലോക്ക് ചെയ്യുന്നത് ഒഴിവാക്കാം
-          curl -L -A "Mozilla/5.0" "https://local.07live.workers.dev/playlist.m3u?user=gana-sunega&pass=krish-ka" -o playlist.m3u
+          curl -L -A "Mozilla/5.0" "https://alex4528.site/jplus/playlist.m3u" -o playlist.m3u
 
       - name: Check if file is empty
         run: |

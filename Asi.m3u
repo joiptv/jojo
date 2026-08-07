@@ -1,5 +1,19 @@
 #EXTM3U
 
+
+
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Flower TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Flower_TV.png" group-title="Entertainment",Flower TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"HhS_k_5BV-mM38NoGqTxxQ","k":"tbJvB6pL_AtPZxIP6cffjg"},{"kty":"oct","kid":"kfIC5UmxWP-rdW2VTN1upg","k":"L6-pga1RwNduoKQzarxLSw"},{"kty":"oct","kid":"RC75vR8XXYGtTvbiA5Yh-w","k":"W65jrsXEBLPyUHO88fC6mA"},{"kty":"oct","kid":"5lrPAlXyXHKq2Pi8tLsuLA","k":"O-86oiLhR0IWOG5dhQ6jjw"}],"type":"temporary"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1786093202~exp=1786114802~acl=/*~hmac=4693b0faeae6412e8394cc7017e68384fe7042ce65c8d25533e34f42250e726b"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Flower_TV_MOB/WDVLive/index.mpd
+
 #EXTINF:-1 tvg-id="TV13 Gujarati" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV13_Gujarati.png" group-title="News", TV13 Gujarati
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"pD_q1qoPXVSh1PnGZ4DhsQ","k":"xT_1Av_Mh1YhlDuz_Q69_A"},{"kty":"oct","kid":"oZufM2CaVxOABN-Uh1j2Gg","k":"BKFeXCugVDeklh_ur3amyg"},{"kty":"oct","kid":"NwdfO9qUXcWsAFYnrpgF6A","k":"6AJHncbTnx9Fj_81Itsfog"},{"kty":"oct","kid":"RoCagUJdV4GwyiTcw2pKHg","k":"im76fjbqRtOuyvGtAQacPA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault

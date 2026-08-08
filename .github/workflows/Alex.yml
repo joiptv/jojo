@@ -12,8 +12,8 @@ concurrency:
 env:
   SOURCE_URL: "https://alex4528.site/jplus/playlist.m3u"
   OUTPUT_FILE: "alaxl.m3u"
-  # FILTER_TAG: ""          # set to e.g. "jiotv" if you only want channels with that tag
-  # FILTER_GROUP: ""        # set to e.g. "Entertainment" to filter by group-title
+  # FILTER_TAG: ""          # optional: set to "jiotv" to filter by tag
+  # FILTER_GROUP: ""        # optional: filter by group-title (e.g. "Entertainment")
 
 jobs:
   update-playlist:
@@ -36,7 +36,7 @@ jobs:
           test -s raw_playlist.m3u
           echo "✅ Source downloaded."
 
-      - name: Process and Validate Playlist (strict but flexible)
+      - name: Process and Validate Playlist (flexible)
         run: |
           python3 <<'PY'
           import re, sys, os, json
@@ -53,7 +53,8 @@ jobs:
               sys.exit(1)
 
           raw_blocks = content.split("#EXTINF")[1:]
-          print(f"Total #EXTINF entries found: {len(raw_blocks)}")
+          total_raw = len(raw_blocks)
+          print(f"Total #EXTINF entries found: {total_raw}")
 
           valid_blocks = []
 
@@ -63,25 +64,25 @@ jobs:
               if not block:
                   continue
 
-              # ---- Required components (must all be present) ----
-              # 1. MPD URL with __hdnea__
+              # ---- 1. Must have an MPD URL with __hdnea__ ----
               if not re.search(r"https?://[^\s]+\.mpd[^\s]*\?.*__hdnea__=", block, re.IGNORECASE):
                   continue
 
-              # 2. inputstream.adaptive
-              if not re.search(r"#KODIPROP:inputstream=inputstream\.adaptive", block, re.IGNORECASE):
+              # ---- 2. Must contain inputstream.adaptive (with or without K/ODIPROP) ----
+              if not re.search(r"inputstream\.adaptive", block, re.IGNORECASE):
                   continue
 
-              # 3. manifest_type=mpd
-              if not re.search(r"#KODIPROP:inputstream\.adaptive\.manifest_type=mpd", block, re.IGNORECASE):
+              # ---- 3. Must contain manifest_type=mpd ----
+              if not re.search(r"manifest_type\s*=\s*mpd", block, re.IGNORECASE):
                   continue
 
-              # 4. license_type=org.w3.clearkey
-              if not re.search(r"#KODIPROP:inputstream\.adaptive\.license_type=org\.w3\.clearkey", block, re.IGNORECASE):
+              # ---- 4. Must contain license_type=org.w3.clearkey ----
+              if not re.search(r"license_type\s*=\s*org\.w3\.clearkey", block, re.IGNORECASE):
                   continue
 
-              # 5. license_key JSON with "keys"
-              lic_match = re.search(r'license_key=({.+?})(?:\s|$)', block, re.IGNORECASE)
+              # ---- 5. Must contain license_key with valid JSON containing "keys" ----
+              # Try to find license_key=... or license_key:...
+              lic_match = re.search(r"license_key\s*[=:]\s*(\{.+?\})(?=\s|$)", block, re.IGNORECASE)
               if not lic_match:
                   continue
               try:
@@ -91,7 +92,7 @@ jobs:
               except json.JSONDecodeError:
                   continue
 
-              # ---- Optional filters ----
+              # ---- Optional filters (tag / group) ----
               if filter_tag and filter_tag not in block.lower():
                   continue
               if filter_group:
@@ -134,23 +135,6 @@ jobs:
           git add "$OUTPUT_FILE"
           if git diff --cached --quiet; then
             echo "No changes."
-            exit 0
-          fi
-          git commit -m "chore: update JioTV playlist (strict validation)"
-          git pull --rebase origin main
-          git push origin main        run: |
-          test -s "$OUTPUT_FILE"
-          grep -q "^#EXTM3U" "$OUTPUT_FILE"
-          grep -q "#EXTINF" "$OUTPUT_FILE"
-          echo "✅ Output playlist is valid."
-
-      - name: Commit and Push
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add "$OUTPUT_FILE"
-          if git diff --cached --quiet; then
-            echo "No changes detected."
             exit 0
           fi
           git commit -m "chore: update JioTV playlist"

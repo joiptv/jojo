@@ -1,4 +1,4 @@
-name: JioTV Playlist Update
+Name: JioTV Playlist Update
 
 on:
   schedule:
@@ -64,13 +64,10 @@ jobs:
               block = "#EXTINF" + raw
               block = block.strip()
 
-              # Each entry must contain an MPD URL.
               if not re.search(r"https?://[^\s]+\.mpd(?:\?[^\s]*)?", block):
                   print("Skipping entry without MPD URL.")
                   continue
 
-              # Preserve the source URL/query parameters.
-              # Only remove the known duplicated cookie suffix if present.
               block = re.sub(
                   r"&xxx=%7Ccookie=__hdnea__=[^\s]+",
                   "",
@@ -86,7 +83,6 @@ jobs:
 
           result = "#EXTM3U\n\n" + "\n\n".join(valid_blocks) + "\n"
 
-          # Basic sanity checks.
           if result.count("#EXTINF") != len(valid_blocks):
               print("ERROR: Playlist validation failed.")
               sys.exit(1)
@@ -111,8 +107,6 @@ jobs:
       - name: Commit and Push
         shell: bash
         run: |
-          set -euo pipefail
-
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 

@@ -64,17 +64,13 @@ jobs:
               block = "#EXTINF" + raw
               block = block.strip()
 
-              if not re.search(r"https?://[^\s]+\.mpd(?:\?[^\s]*)?", block):
+              # Check if the block contains an MPD URL
+              if not re.search(r"https?://[^\s]+\.mpd", block):
                   print("Skipping entry without MPD URL.")
                   continue
 
-              block = re.sub(
-                  r"&xxx=%7Ccookie=__hdnea__=[^\s]+",
-                  "",
-                  block,
-                  flags=re.IGNORECASE
-              )
-
+              # We are NO LONGER removing the cookie string from the URL.
+              # Passing the block exactly as it came from the source.
               valid_blocks.append(block)
 
           if not valid_blocks:

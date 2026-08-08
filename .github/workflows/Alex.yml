@@ -1,4 +1,4 @@
-Name: JioTV Playlist Update
+name: JioTV Playlist Update
 
 on:
   schedule:

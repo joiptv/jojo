@@ -1,8 +1,8 @@
-name: JioTV Playlist Format & Update
+name: JioTV Playlist Update
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: "*/30 * * * *"
   workflow_dispatch:
 
 concurrency:
@@ -12,47 +12,118 @@ concurrency:
 jobs:
   update-playlist:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Download and Process M3U Links
+      - name: Download Source Playlist
+        id: download
+        shell: bash
         run: |
-          curl -s -L "https://alex4528.site/jplus/playlist.m3u" -o raw_playlist.m3u
-          
-          python3 -c '
-          import re
-          
-          with open("raw_playlist.m3u", "r", encoding="utf-8") as f:
-              content = f.read()
-          
-          blocks = content.split("#EXTINF")
-          out_lines = ["#EXTM3U\n"]
-          
-          for block in blocks[1:]:
-              block = "#EXTINF" + block
-              block = re.sub(r"(https?://[^\s]+?\.mpd)(\?[^\s]*)?", r"\1", block)
-              out_lines.append(block.strip() + "\n\n")
-          
-          with open("alaxl.m3u", "w", encoding="utf-8") as f:
-              f.write("".join(out_lines))
-          '
-          
-          rm raw_playlist.m3u
+          set -euo pipefail
 
-      - name: Commit and Push Changes
+          SOURCE_URL="https://alex4528.site/jplus/playlist.m3u"
+
+          curl -fL --retry 3 --retry-delay 5 \
+            --connect-timeout 15 \
+            --max-time 120 \
+            "$SOURCE_URL" \
+            -o raw_playlist.m3u
+
+          test -s raw_playlist.m3u
+
+          echo "Source playlist downloaded successfully."
+
+      - name: Validate and Process Playlist
+        shell: bash
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
+          set -euo pipefail
+
+          python3 <<'PY'
+          import re
+          import sys
+          from pathlib import Path
+
+          source = Path("raw_playlist.m3u")
+          output = Path("alaxl.m3u")
+
+          content = source.read_text(encoding="utf-8")
+
+          if "#EXTINF" not in content:
+              print("ERROR: No EXTINF entries found.")
+              sys.exit(1)
+
+          blocks = content.split("#EXTINF")[1:]
+
+          valid_blocks = []
+
+          for raw in blocks:
+              block = "#EXTINF" + raw
+              block = block.strip()
+
+              # Each entry must contain an MPD URL.
+              if not re.search(r"https?://[^\s]+\.mpd(?:\?[^\s]*)?", block):
+                  print("Skipping entry without MPD URL.")
+                  continue
+
+              # Preserve the source URL/query parameters.
+              # Only remove the known duplicated cookie suffix if present.
+              block = re.sub(
+                  r"&xxx=%7Ccookie=__hdnea__=[^\s]+",
+                  "",
+                  block,
+                  flags=re.IGNORECASE
+              )
+
+              valid_blocks.append(block)
+
+          if not valid_blocks:
+              print("ERROR: No valid playlist entries found.")
+              sys.exit(1)
+
+          result = "#EXTM3U\n\n" + "\n\n".join(valid_blocks) + "\n"
+
+          # Basic sanity checks.
+          if result.count("#EXTINF") != len(valid_blocks):
+              print("ERROR: Playlist validation failed.")
+              sys.exit(1)
+
+          output.write_text(result, encoding="utf-8")
+
+          print(f"Valid entries: {len(valid_blocks)}")
+          print("Playlist validation successful.")
+          PY
+
+      - name: Verify Output
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          test -s alaxl.m3u
+          grep -q "^#EXTM3U" alaxl.m3u
+          grep -q "#EXTINF" alaxl.m3u
+
+          echo "Output playlist is valid."
+
+      - name: Commit and Push
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
           git add alaxl.m3u
-          
-          if git diff --staged --quiet; then
-            echo "പ്ലേലിസ്റ്റിൽ പുതിയ മാറ്റങ്ങൾ ഒന്നും തന്നെയില്ല."
-          else
-            git commit -m "chore: update alaxl.m3u with truncated URLs"
-            git pull --rebase origin main
-            git push origin main
+
+          if git diff --cached --quiet; then
+            echo "No changes detected."
+            exit 0
           fi
+
+          git commit -m "chore: update playlist"
+
+          git pull --rebase origin main
+          git push origin main

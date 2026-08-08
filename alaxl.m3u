@@ -1,24 +1,4 @@
 #EXTM3U
-
-#EXTM3U
-
-#EXTINF:-1 tvg-id="Rang" tvg-name="Rang" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rang.png" group-title="Entertainment",Rang
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"c2cDHW_SXeSF89hjvJt-2w","k":"rkuDSEvDqxRzQJlDj556xg"},{"kty":"oct","kid":"xhNGJSMCXTi2-991jJW69Q","k":"4zI6aaVjAePJKI1Y9vIPuQ"},{"kty":"oct","kid":"AMigGgNxU1CNpoPG-ZIRBg","k":"XT-HWlWT2oL9CwDnVMULrA"},{"kty":"oct","kid":"-7o-97OKVBWi2rSKFfAjvg","k":"-8g8967qTjgI4e_v5fJNdw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"__hdnea__=st=1786206604~exp=1786228204~acl=/*~hmac=c15fc8ee4242309f728912e8019617ade18dcaede0f32db6d082456696454aef"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Rang_MOB/WDVLive/index.mpd?__hdnea__=st=1786206604~exp=1786228204~acl=/*~hmac=c15fc8ee4242309f728912e8019617ade18dcaede0f32db6d082456696454aef
-
-
-
-#EXTINF:-1 tvg-id="Asianet HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asianet_HD.png" group-title="Entertainment", Asianet HD
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"2cBiry39UeCpLnZEb19Wfw","k":"NDXrvXDxhaFrB4yWypMjYQ"},{"kty":"oct","kid":"Nlg4jnpLW6mMJGmk8IsrqQ","k":"7GQJWhgSk4OqMX4ufTFJkw"},{"kty":"oct","kid":"zlnoLwYfV8WkI9M0KuTLfQ","k":"Uhilm42heisuSyF4AvcW8A"},{"kty":"oct","kid":"FhOCjm_IVm6XfH1DTg8xQQ","k":"TuPLxeCSs9X-UYnXH7qYTg"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
-#EXTHTTP:{"cookie":"__hdnea__=st=1786206604~exp=1786228204~acl=/*~hmac=c15fc8ee4242309f728912e8019617ade18dcaede0f32db6d082456696454aef"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Asianet_HD_MOB/WDVLive/index.mpd
-
 #EXTINF:-1 tvg-id="Maa HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maa_HD.png" group-title="Entertainment", Maa HD
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"E9mxetoVX0KYO7dmeqefOg","k":"TE2lnVFd5jD2y1lc6o2k_w"},{"kty":"oct","kid":"QZc-YzPwVNOL6xwtPVjQOA","k":"wNW62NvvBGqRKdUe0i6cag"},{"kty":"oct","kid":"yUqF2n5EVj-POmh7W-9kHA","k":"RFRQg0JQiHgwrb3nx1yqKw"},{"kty":"oct","kid":"2oxPIxzXWuKnHii0YmOhNA","k":"z5tZMNRofcoJ6p1Ldufd6g"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault

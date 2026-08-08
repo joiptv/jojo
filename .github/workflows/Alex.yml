@@ -66,11 +66,13 @@ jobs:
 
               # Check if the block contains an MPD URL
               if not re.search(r"https?://[^\s]+\.mpd", block):
-                  print("Skipping entry without MPD URL.")
+                  continue
+              
+              # Strictly filter to include only channels with the "jiotv" tag
+              if "jiotv" not in block.lower():
                   continue
 
-              # We are NO LONGER removing the cookie string from the URL.
-              # Passing the block exactly as it came from the source.
+              # Preserve DRM properties, cookies, and headers exactly as they came from the source
               valid_blocks.append(block)
 
           if not valid_blocks:
@@ -105,6 +107,18 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add alaxl.m3u
+
+          if git diff --cached --quiet; then
+            echo "No changes detected."
+            exit 0
+          fi
+
+          git commit -m "chore: update JioTV playlist"
+
+          git pull --rebase origin main
+          git push origin main
 
           git add alaxl.m3u
 

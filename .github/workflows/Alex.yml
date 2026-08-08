@@ -9,6 +9,13 @@ concurrency:
   group: playlist-update
   cancel-in-progress: true
 
+env:
+  SOURCE_URL: "https://alex4528.site/jplus/playlist.m3u"
+  OUTPUT_FILE: "alaxl.m3u"
+  FILTER_TAG: "jiotv"                     # leave empty to keep all
+  # FILTER_GROUP: "Entertainment"         # optional exact group-title
+  STRICT_MODE: "true"                     # set to "false" to relax validation
+
 jobs:
   update-playlist:
     runs-on: ubuntu-latest
@@ -20,114 +27,128 @@ jobs:
           fetch-depth: 0
 
       - name: Download Source Playlist
-        id: download
-        shell: bash
         run: |
           set -euo pipefail
-
-          SOURCE_URL="https://alex4528.site/jplus/playlist.m3u"
-
           curl -fL --retry 3 --retry-delay 5 \
             --connect-timeout 15 \
             --max-time 120 \
             "$SOURCE_URL" \
             -o raw_playlist.m3u
-
           test -s raw_playlist.m3u
+          echo "Source downloaded."
 
-          echo "Source playlist downloaded successfully."
-
-      - name: Validate and Process Playlist
-        shell: bash
+      - name: Process Playlist with Strict Validation
         run: |
-          set -euo pipefail
-
           python3 <<'PY'
-          import re
-          import sys
+          import re, sys, os
           from pathlib import Path
 
           source = Path("raw_playlist.m3u")
-          output = Path("alaxl.m3u")
+          output = Path(os.environ["OUTPUT_FILE"])
+          filter_tag = os.environ.get("FILTER_TAG", "").lower()
+          filter_group = os.environ.get("FILTER_GROUP")
+          strict = os.environ.get("STRICT_MODE", "true").lower() == "true"
 
           content = source.read_text(encoding="utf-8")
-
-          if "#EXTINF" not in content:
-              print("ERROR: No EXTINF entries found.")
+          if not content.startswith("#EXTM3U"):
+              print("ERROR: Not a valid M3U file.")
               sys.exit(1)
 
-          blocks = content.split("#EXTINF")[1:]
+          raw_blocks = content.split("#EXTINF")[1:]
+          if not raw_blocks:
+              print("ERROR: No #EXTINF entries.")
+              sys.exit(1)
 
           valid_blocks = []
-
-          for raw in blocks:
+          for raw in raw_blocks:
               block = "#EXTINF" + raw
               block = block.strip()
-
-              # Check if the block contains an MPD URL
-              if not re.search(r"https?://[^\s]+\.mpd", block):
-                  continue
-              
-              # Strictly filter to include only channels with the "jiotv" tag
-              if "jiotv" not in block.lower():
+              if not block:
                   continue
 
-              # Preserve DRM properties, cookies, and headers exactly as they came from the source
+              # ---- 1. Filter by tag (if set) ----
+              if filter_tag and filter_tag not in block.lower():
+                  continue
+
+              # ---- 2. Filter by group-title (if set) ----
+              if filter_group:
+                  m = re.search(r'group-title="([^"]+)"', block)
+                  if not m or m.group(1) != filter_group:
+                      continue
+
+              # ---- 3. Extract the MPD URL line ----
+              lines = block.splitlines()
+              url_line = None
+              for line in reversed(lines):
+                  if re.search(r"https?://[^\s]+\.mpd", line):
+                      url_line = line.strip()
+                      break
+              if not url_line:
+                  continue  # no MPD URL → drop
+
+              # ---- 4. Strict validation (match the reference) ----
+              if strict:
+                  # Required patterns (each must appear in the block)
+                  required = [
+                      r'#KODIPROP:inputstream=inputstream\.adaptive',
+                      r'#KODIPROP:inputstream\.adaptive\.manifest_type=mpd',
+                      r'#KODIPROP:inputstream\.adaptive\.license_type=org\.w3\.clearkey',
+                      r'#KODIPROP:inputstream\.adaptive\.license_key=\{"keys":\[.+\],"type":"temporary"\}',
+                      r'#EXTVLCOPT:http-user-agent=.+',
+                      r'#EXTHTTP:\{"cookie":"__hdnea__=st=\d+~exp=\d+~acl=/\*~hmac=[a-f0-9]+"\}',
+                  ]
+                  missing = False
+                  for pat in required:
+                      if not re.search(pat, block, re.IGNORECASE):
+                          missing = True
+                          break
+                  if missing:
+                      continue  # drop incomplete blocks
+
+                  # Also ensure the MPD URL contains __hdnea__ token
+                  if "__hdnea__" not in url_line:
+                      continue
+
+                  # Ensure EXTINF line has all expected attributes
+                  extinf = lines[0]  # first line is #EXTINF
+                  if not re.search(r'tvg-id="[^"]+"', extinf) or \
+                     not re.search(r'tvg-name="[^"]+"', extinf) or \
+                     not re.search(r'tvg-logo="https?://[^"]+"', extinf) or \
+                     not re.search(r'group-title="[^"]+"', extinf):
+                      continue
+
+              # ---- 5. Keep the block ----
               valid_blocks.append(block)
 
           if not valid_blocks:
-              print("ERROR: No valid playlist entries found.")
+              print("ERROR: No entries passed filters/validation.")
               sys.exit(1)
 
           result = "#EXTM3U\n\n" + "\n\n".join(valid_blocks) + "\n"
-
           if result.count("#EXTINF") != len(valid_blocks):
-              print("ERROR: Playlist validation failed.")
+              print("ERROR: Block count mismatch.")
               sys.exit(1)
 
           output.write_text(result, encoding="utf-8")
-
-          print(f"Valid entries: {len(valid_blocks)}")
-          print("Playlist validation successful.")
+          print(f"✅ Valid entries kept: {len(valid_blocks)}")
           PY
 
       - name: Verify Output
-        shell: bash
         run: |
-          set -euo pipefail
-
-          test -s alaxl.m3u
-          grep -q "^#EXTM3U" alaxl.m3u
-          grep -q "#EXTINF" alaxl.m3u
-
-          echo "Output playlist is valid."
+          test -s "$OUTPUT_FILE"
+          grep -q "^#EXTM3U" "$OUTPUT_FILE"
+          grep -q "#EXTINF" "$OUTPUT_FILE"
+          echo "Output valid."
 
       - name: Commit and Push
-        shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
-          git add alaxl.m3u
-
+          git add "$OUTPUT_FILE"
           if git diff --cached --quiet; then
-            echo "No changes detected."
+            echo "No changes."
             exit 0
           fi
-
-          git commit -m "chore: update JioTV playlist"
-
-          git pull --rebase origin main
-          git push origin main
-
-          git add alaxl.m3u
-
-          if git diff --cached --quiet; then
-            echo "No changes detected."
-            exit 0
-          fi
-
-          git commit -m "chore: update playlist"
-
+          git commit -m "chore: update JioTV playlist (strict validation)"
           git pull --rebase origin main
           git push origin main

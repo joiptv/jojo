@@ -4593,3 +4593,35 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCinema_BTS/WDVLive/index.mpd
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
 #EXTINF:-1 tvg-id="zee5-29" tvg-name="Zee Tamil" group-title="ZEE5 India" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEsnF1LQ0Uhz_QggJDymvPgdYGQ4CtZYB33E6DPOy-XZFfXl5e7oeUhJ0&amp;s=10" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Tamil.png" tvg-language="Tamil" tvg-category="Entertainment",Zee Tamil
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 tvg-id="jhs-30" tvg-name="News18 Kannada By @Premiumplugx" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Kannada_News.png" group-title="JioHotstar" group-logo="https://images.bhaskarassets.com/web2images/1884/2025/02/14/jiohotstarweb_1739512810.png", News18 Kannada @Premiumplugx
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premiumplugx(Android/15)
+#EXTINF:-1 tvg-id="jhs-31" tvg-name="CNN News18 By @Premiumplugx" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNN_NEWS_18.png" group-title="JioHotstar" group-logo="https://images.bhaskarassets.com/web2images/1884/2025/02/14/jiohotstarweb_1739512810.png", CNN News18 @Premiumplugx
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premiumplugx(Android/15)
+#EXTINF:-1 tvg-id="jhs-33" tvg-name="News18 India By @Premiumplugx" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" group-title="JioHotstar" group-logo="https://images.bhaskarassets.com/web2images/1884/2025/02/14/jiohotstarweb_1739512810.png", News18 India @Premiumplugx
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premiumplugx(Android/15)
+#EXTINF:-1 tvg-id="jhs-34" tvg-name="News18 Punjab Haryana By @Premiumplugx" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Haryana_and_HP_News.png" group-title="JioHotstar" group-logo="https://images.bhaskarassets.com/web2images/1884/2025/02/14/jiohotstarweb_1739512810.png", News18 Punjab Haryana @Premiumplugx
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premiumplugx(Android/15)
+#EXTINF:-1 tvg-id="jhs-35" tvg-name="News18 Lokmat By @Premiumplugx" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_Lokmat.png" group-title="JioHotstar" group-logo="https://images.bhaskarassets.com/web2images/1884/2025/02/14/jiohotstarweb_1739512810.png", News18 Lokmat @Premiumplugx
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premiumplugx(Android/15)
+#EXTINF:-1 tvg-id="jhs-36" tvg-name="News 18 Tamilnadu By @Premiumplugx" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png" group-title="JioHotstar" group-logo="https://images.bhaskarassets.com/web2images/1884/2025/02/14/jiohotstarweb_1739512810.png", News 18 Tamilnadu @Premiumplugx
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premiumplugx(Android/15)
+#EXTINF:-1 tvg-id="jhs-38" tvg-name="News18 Bangla By @Premiumplugx" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Bangla_News.png" group-title="JioHotstar" group-logo="https://images.bhaskarassets.com/web2images/1884/2025/02/14/jiohotstarweb_1739512810.png", News18 Bangla @Premiumplugx
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premiumplugx(Android/15)
+#EXTINF:-1 tvg-id="jhs-39" tvg-name="News18 Bihar Jharkhand By @Premiumplugx" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_BIHAR.png" group-title="JioHotstar" group-logo="https://images.bhaskarassets.com/web2images/1884/2025/02/14/jiohotstarweb_1739512810.png", News18 Bihar Jharkhand @Premiumplugx
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premiumplugx(Android/15)
+#EXTINF:-1 tvg-id="jhs-40" tvg-name="News18 Gujarati By @Premiumplugx" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_News_Gujarati.png" group-title="JioHotstar" group-logo="https://images.bhaskarassets.com/web2images/1884/2025/02/14/jiohotstarweb_1739512810.png", News18 Gujarati @Premiumplugx
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premiumplugx(Android/15)
+#EXTINF:-1 tvg-id="jhs-41" tvg-name="News18 Odia By @Premiumplugx" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_News_Oriya.png" group-title="JioHotstar" group-logo="https://images.bhaskarassets.com/web2images/1884/2025/02/14/jiohotstarweb_1739512810.png", News18 Odia @Premiumplugx
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premiumplugx(Android/15)
+#EXTINF:-1 tvg-id="jhs-42" tvg-name="News18 Assam North East By @Premiumplugx" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Assam.png" group-title="JioHotstar" group-logo="https://images.bhaskarassets.com/web2images/1884/2025/02/14/jiohotstarweb_1739512810.png", News18 Assam North East @Premiumplugx
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premiumplugx(Android/15)
+#EXTINF:-1 tvg-id="jhs-43" tvg-name="News18 JKLH By @Premiumplugx" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Urdu.png" group-title="JioHotstar" group-logo="https://images.bhaskarassets.com/web2images/1884/2025/02/14/jiohotstarweb_1739512810.png", News18 JKLH @Premiumplugx
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premiumplugx(Android/15)
+#EXTINF:-1 tvg-id="jhs-44" tvg-name="News18 Rajasthan By @Premiumplugx" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_RAJASTHAN.png" group-title="JioHotstar" group-logo="https://images.bhaskarassets.com/web2images/1884/2025/02/14/jiohotstarweb_1739512810.png", News18 Rajasthan @Premiumplugx
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premiumplugx(Android/15)
+#EXTINF:-1 tvg-id="jhs-46" tvg-name="News18 MP Chhattisgarh By @Premiumplugx" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_MP.png" group-title="JioHotstar" group-logo="https://images.bhaskarassets.com/web2images/1884/2025/02/14/jiohotstarweb_1739512810.png", News18 MP Chhattisgarh @Premiumplugx
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premiumplugx(Android/15)
+#EXTINF:-1 tvg-id="jhs-48" tvg-name="News18 Kerala By @Premiumplugx" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Kerala.png" group-title="JioHotstar" group-logo="https://images.bhaskarassets.com/web2images/1884/2025/02/14/jiohotstarweb_1739512810.png", News18 Kerala @Premiumplugx
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premiumplugx(Android/15)
+#EXTINF:-1 tvg-id="jhs-49" tvg-name="News18 UP Uttarakhand By @Premiumplugx" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_UP.png" group-title="JioHotstar" group-logo="https://images.bhaskarassets.com/web2images/1884/2025/02/14/jiohotstarweb_1739512810.png", News18 UP Uttarakhand @Premiumplugx
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premiumplugx(Android/15)

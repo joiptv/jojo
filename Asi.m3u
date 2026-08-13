@@ -91,7 +91,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_3_BTS/WDVLive/index.mpd?__hdn
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fc3aafe80845584199a637249fad2ffa:ca4474972fdb4bf8ecb164482853c692
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_2_BTS/WDVLive/index.mpd?__hdnea__=st=1786638621~exp=1786660221~acl=/bpk-tv/Star_Sports_2_BTS/WDVLive/*~hmac=cf3ccb5d9a1a75fbb407e6092d23bebea6941e1f257816b5bb04cd899434abe4
+https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_2_BTS/WDVLive/index.mpd?__hdnea__=st=1786651238~exp=1786672838~acl=/*~hmac=d71879142e8ecb8e8c61e7ec59302c8802785e509fc7d04d7851772867faea1e
 
 #EXTINF:-1 tvg-id="1109" tvg-name="Star Sports 2 HD" tvg-logo="https://img.media.jio.com/tvpimages/41/51/301983_1749666169105_l_medium.jpg" group-title="STAR",Star Sports 2 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -958,82 +958,82 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/SonyYAYMal_MOB/WDVLive/index.mpd?__hdnea_
 https://jiotvmblive.cdn.jio.com/bpk-tv/SonyYAYBen_MOB/WDVLive/index.mpd?__hdnea__=st=1786651238~exp=1786672838~acl=/*~hmac=d71879142e8ecb8e8c61e7ec59302c8802785e509fc7d04d7851772867faea1e
 
 #EXTINF:-1 tvg-id="sony-hd" tvg-name="SONY HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="SonyLiv",SONY HD
-https://dishmt.slivcdn.com/hls/live/2011671/SETHD/hdntl=exp=1786702032~acl=%2f*~id=9f7e178a-0d8f-41c5-b4ac-b9961dd7237a~data=hdntl~hmac=a0cecc807257d9df40851c8ad6da9a4558aebd52bd37c0cb873266d62b8eee94/master_2000.m3u8?aka_me_session_id=AAAAAAAAAADQ6H5qAAAAACwra9YF6ueYBiL8zCdhLOGCjf9eavGZ9g%2fqqo4gaCw8DnTvbbiPivowQgHd1lFuWtO7dczWyBFj&aka_media_format_type=hls
+https://dishmt.slivcdn.com/hls/live/2011671/SETHD/hdntl=exp=1786745235~acl=%2f*~id=63d07046-074d-4ac3-bb58-635c0e642363~data=hdntl~hmac=8c0319736f7f89047036c9c9b4418d9d70d397d1444649faa7bc8c8bf4a61de8/master_2000.m3u8?aka_me_session_id=AAAAAAAAAACTkX9qAAAAAB3EAmrNvaGuxmTnXrezUmQssK2EH95Z8YpVghYtwUlkuCJCfId%2f0LblFwFOgltOd+qsc94ovpIK&aka_media_format_type=hls
 
 #EXTINF:-1 tvg-id="sab-hd" tvg-name="SAB HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="SonyLiv",SAB HD
-https://dishmt.slivcdn.com/hls/live/2011749/SABHD/hdntl=exp=1786702032~acl=%2f*~id=9f7e178a-0d8f-41c5-b4ac-b9961dd7237a~data=hdntl~hmac=a0cecc807257d9df40851c8ad6da9a4558aebd52bd37c0cb873266d62b8eee94/master_2000.m3u8?aka_me_session_id=AAAAAAAAAADQ6H5qAAAAACwra9YF6ueYBiL8zCdhLOGCjf9eavGZ9g%2fqqo4gaCw8DnTvbbiPivowQgHd1lFuWtO7dczWyBFj&aka_media_format_type=hls
+https://dishmt.slivcdn.com/hls/live/2011749/SABHD/hdntl=exp=1786745235~acl=%2f*~id=63d07046-074d-4ac3-bb58-635c0e642363~data=hdntl~hmac=8c0319736f7f89047036c9c9b4418d9d70d397d1444649faa7bc8c8bf4a61de8/master_2000.m3u8?aka_me_session_id=AAAAAAAAAACTkX9qAAAAAB3EAmrNvaGuxmTnXrezUmQssK2EH95Z8YpVghYtwUlkuCJCfId%2f0LblFwFOgltOd+qsc94ovpIK&aka_media_format_type=hls
 
 #EXTINF:-1 tvg-id="sony-marathi" tvg-name="SONY MARATHI" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="SonyLiv",SONY MARATHI
-https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/hdntl=exp=1786702032~acl=%2f*~id=9f7e178a-0d8f-41c5-b4ac-b9961dd7237a~data=hdntl~hmac=a0cecc807257d9df40851c8ad6da9a4558aebd52bd37c0cb873266d62b8eee94/master_2000.m3u8?aka_me_session_id=AAAAAAAAAADQ6H5qAAAAACwra9YF6ueYBiL8zCdhLOGCjf9eavGZ9g%2fqqo4gaCw8DnTvbbiPivowQgHd1lFuWtO7dczWyBFj&aka_media_format_type=hls
+https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/hdntl=exp=1786745235~acl=%2f*~id=63d07046-074d-4ac3-bb58-635c0e642363~data=hdntl~hmac=8c0319736f7f89047036c9c9b4418d9d70d397d1444649faa7bc8c8bf4a61de8/master_2000.m3u8?aka_me_session_id=AAAAAAAAAACTkX9qAAAAAB3EAmrNvaGuxmTnXrezUmQssK2EH95Z8YpVghYtwUlkuCJCfId%2f0LblFwFOgltOd+qsc94ovpIK&aka_media_format_type=hls
 
 #EXTINF:-1 tvg-id="sony-pal" tvg-name="SONY PAL" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="SonyLiv",SONY PAL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5b5b4b88f3005b0489034d25478292eb:a401861fb99d6e41c9d9e309ca9837b3
-https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/hdntl=exp=1786702032~acl=%2f*~id=9f7e178a-0d8f-41c5-b4ac-b9961dd7237a~data=hdntl~hmac=a0cecc807257d9df40851c8ad6da9a4558aebd52bd37c0cb873266d62b8eee94/master_2000.m3u8?aka_me_session_id=AAAAAAAAAADQ6H5qAAAAACwra9YF6ueYBiL8zCdhLOGCjf9eavGZ9g%2fqqo4gaCw8DnTvbbiPivowQgHd1lFuWtO7dczWyBFj&aka_media_format_type=hls
+https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/hdntl=exp=1786745235~acl=%2f*~id=63d07046-074d-4ac3-bb58-635c0e642363~data=hdntl~hmac=8c0319736f7f89047036c9c9b4418d9d70d397d1444649faa7bc8c8bf4a61de8/master_2000.m3u8?aka_me_session_id=AAAAAAAAAACTkX9qAAAAAB3EAmrNvaGuxmTnXrezUmQssK2EH95Z8YpVghYtwUlkuCJCfId%2f0LblFwFOgltOd+qsc94ovpIK&aka_media_format_type=hls
 
 #EXTINF:-1 tvg-id="sony-aath" tvg-name="SONY AATH" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="SonyLiv",SONY AATH
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea3ad98932fd5df5ab26e5e845e4b941:86b6dd76818b8fa7a0bbd0f6113d65b0
-https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/hdntl=exp=1786702032~acl=%2f*~id=9f7e178a-0d8f-41c5-b4ac-b9961dd7237a~data=hdntl~hmac=a0cecc807257d9df40851c8ad6da9a4558aebd52bd37c0cb873266d62b8eee94/master_2000.m3u8?aka_me_session_id=AAAAAAAAAADQ6H5qAAAAACwra9YF6ueYBiL8zCdhLOGCjf9eavGZ9g%2fqqo4gaCw8DnTvbbiPivowQgHd1lFuWtO7dczWyBFj&aka_media_format_type=hls
+https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/hdntl=exp=1786745235~acl=%2f*~id=63d07046-074d-4ac3-bb58-635c0e642363~data=hdntl~hmac=8c0319736f7f89047036c9c9b4418d9d70d397d1444649faa7bc8c8bf4a61de8/master_2000.m3u8?aka_me_session_id=AAAAAAAAAACTkX9qAAAAAB3EAmrNvaGuxmTnXrezUmQssK2EH95Z8YpVghYtwUlkuCJCfId%2f0LblFwFOgltOd+qsc94ovpIK&aka_media_format_type=hls
 
 #EXTINF:-1 tvg-id="sony-yay" tvg-name="SONY YAY" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="SonyLiv",SONY YAY
-https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/hdntl=exp=1786702032~acl=%2f*~id=9f7e178a-0d8f-41c5-b4ac-b9961dd7237a~data=hdntl~hmac=a0cecc807257d9df40851c8ad6da9a4558aebd52bd37c0cb873266d62b8eee94/master_2000.m3u8?aka_me_session_id=AAAAAAAAAADQ6H5qAAAAACwra9YF6ueYBiL8zCdhLOGCjf9eavGZ9g%2fqqo4gaCw8DnTvbbiPivowQgHd1lFuWtO7dczWyBFj&aka_media_format_type=hls
+https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/hdntl=exp=1786745235~acl=%2f*~id=63d07046-074d-4ac3-bb58-635c0e642363~data=hdntl~hmac=8c0319736f7f89047036c9c9b4418d9d70d397d1444649faa7bc8c8bf4a61de8/master_2000.m3u8?aka_me_session_id=AAAAAAAAAACTkX9qAAAAAB3EAmrNvaGuxmTnXrezUmQssK2EH95Z8YpVghYtwUlkuCJCfId%2f0LblFwFOgltOd+qsc94ovpIK&aka_media_format_type=hls
 
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-name="SONY MAX HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="SonyLiv",SONY MAX HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9d2bfb4c9aa45ac488bd92ec0e351217:c980b395f0be528c4233417ef6305274
-https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/hdntl=exp=1786702032~acl=%2f*~id=9f7e178a-0d8f-41c5-b4ac-b9961dd7237a~data=hdntl~hmac=a0cecc807257d9df40851c8ad6da9a4558aebd52bd37c0cb873266d62b8eee94/master_2000.m3u8?aka_me_session_id=AAAAAAAAAADQ6H5qAAAAACwra9YF6ueYBiL8zCdhLOGCjf9eavGZ9g%2fqqo4gaCw8DnTvbbiPivowQgHd1lFuWtO7dczWyBFj&aka_media_format_type=hls
+https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/hdntl=exp=1786745235~acl=%2f*~id=63d07046-074d-4ac3-bb58-635c0e642363~data=hdntl~hmac=8c0319736f7f89047036c9c9b4418d9d70d397d1444649faa7bc8c8bf4a61de8/master_2000.m3u8?aka_me_session_id=AAAAAAAAAACTkX9qAAAAAB3EAmrNvaGuxmTnXrezUmQssK2EH95Z8YpVghYtwUlkuCJCfId%2f0LblFwFOgltOd+qsc94ovpIK&aka_media_format_type=hls
 
 #EXTINF:-1 tvg-id="sony-max" tvg-name="SONY MAX" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="SonyLiv",SONY MAX
-https://dishmt.slivcdn.com/hls/live/2011745/SonyMaxSD/hdntl=exp=1786702032~acl=%2f*~id=9f7e178a-0d8f-41c5-b4ac-b9961dd7237a~data=hdntl~hmac=a0cecc807257d9df40851c8ad6da9a4558aebd52bd37c0cb873266d62b8eee94/master_2000.m3u8?aka_me_session_id=AAAAAAAAAADQ6H5qAAAAACwra9YF6ueYBiL8zCdhLOGCjf9eavGZ9g%2fqqo4gaCw8DnTvbbiPivowQgHd1lFuWtO7dczWyBFj&aka_media_format_type=hls
+https://dishmt.slivcdn.com/hls/live/2011745/SonyMaxSD/hdntl=exp=1786745235~acl=%2f*~id=63d07046-074d-4ac3-bb58-635c0e642363~data=hdntl~hmac=8c0319736f7f89047036c9c9b4418d9d70d397d1444649faa7bc8c8bf4a61de8/master_2000.m3u8?aka_me_session_id=AAAAAAAAAACTkX9qAAAAAB3EAmrNvaGuxmTnXrezUmQssK2EH95Z8YpVghYtwUlkuCJCfId%2f0LblFwFOgltOd+qsc94ovpIK&aka_media_format_type=hls
 
 #EXTINF:-1 tvg-id="sony-wah" tvg-name="SONY WAH" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="SonyLiv",SONY WAH
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=336eb0b114415971a745af85368c8a7c:4dc9974ddfec2c6da275acd6d617661b
-https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/hdntl=exp=1786702032~acl=%2f*~id=9f7e178a-0d8f-41c5-b4ac-b9961dd7237a~data=hdntl~hmac=a0cecc807257d9df40851c8ad6da9a4558aebd52bd37c0cb873266d62b8eee94/master_2000.m3u8?aka_me_session_id=AAAAAAAAAADQ6H5qAAAAACwra9YF6ueYBiL8zCdhLOGCjf9eavGZ9g%2fqqo4gaCw8DnTvbbiPivowQgHd1lFuWtO7dczWyBFj&aka_media_format_type=hls
+https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/hdntl=exp=1786745235~acl=%2f*~id=63d07046-074d-4ac3-bb58-635c0e642363~data=hdntl~hmac=8c0319736f7f89047036c9c9b4418d9d70d397d1444649faa7bc8c8bf4a61de8/master_2000.m3u8?aka_me_session_id=AAAAAAAAAACTkX9qAAAAAB3EAmrNvaGuxmTnXrezUmQssK2EH95Z8YpVghYtwUlkuCJCfId%2f0LblFwFOgltOd+qsc94ovpIK&aka_media_format_type=hls
 
 #EXTINF:-1 tvg-id="sony-max2" tvg-name="SONY MAX2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="SonyLiv",SONY MAX2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18e4c354db7c506d996698caeced99d0:bba5064a2c162761bb92a15170c88b75
-https://dishmt.slivcdn.com/hls/live/2011908/MAX2/hdntl=exp=1786702032~acl=%2f*~id=9f7e178a-0d8f-41c5-b4ac-b9961dd7237a~data=hdntl~hmac=a0cecc807257d9df40851c8ad6da9a4558aebd52bd37c0cb873266d62b8eee94/master_2000.m3u8?aka_me_session_id=AAAAAAAAAADQ6H5qAAAAACwra9YF6ueYBiL8zCdhLOGCjf9eavGZ9g%2fqqo4gaCw8DnTvbbiPivowQgHd1lFuWtO7dczWyBFj&aka_media_format_type=hls
+https://dishmt.slivcdn.com/hls/live/2011908/MAX2/hdntl=exp=1786745235~acl=%2f*~id=63d07046-074d-4ac3-bb58-635c0e642363~data=hdntl~hmac=8c0319736f7f89047036c9c9b4418d9d70d397d1444649faa7bc8c8bf4a61de8/master_2000.m3u8?aka_me_session_id=AAAAAAAAAACTkX9qAAAAAB3EAmrNvaGuxmTnXrezUmQssK2EH95Z8YpVghYtwUlkuCJCfId%2f0LblFwFOgltOd+qsc94ovpIK&aka_media_format_type=hls
 
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="SONY PIX HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="SonyLiv",SONY PIX HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ff1fe6b2519562ca3a28602592cd547:d43132eca3cefc4e29ca8fe548a0638b
-https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/hdntl=exp=1786702032~acl=%2f*~id=9f7e178a-0d8f-41c5-b4ac-b9961dd7237a~data=hdntl~hmac=a0cecc807257d9df40851c8ad6da9a4558aebd52bd37c0cb873266d62b8eee94/master_2000.m3u8?aka_me_session_id=AAAAAAAAAADQ6H5qAAAAACwra9YF6ueYBiL8zCdhLOGCjf9eavGZ9g%2fqqo4gaCw8DnTvbbiPivowQgHd1lFuWtO7dczWyBFj&aka_media_format_type=hls
+https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/hdntl=exp=1786745235~acl=%2f*~id=63d07046-074d-4ac3-bb58-635c0e642363~data=hdntl~hmac=8c0319736f7f89047036c9c9b4418d9d70d397d1444649faa7bc8c8bf4a61de8/master_2000.m3u8?aka_me_session_id=AAAAAAAAAACTkX9qAAAAAB3EAmrNvaGuxmTnXrezUmQssK2EH95Z8YpVghYtwUlkuCJCfId%2f0LblFwFOgltOd+qsc94ovpIK&aka_media_format_type=hls
 
 #EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-name="SONY TEN 1 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="SonyLiv",SONY TEN 1 HD
-https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/hdntl=exp=1786702032~acl=%2f*~id=9f7e178a-0d8f-41c5-b4ac-b9961dd7237a~data=hdntl~hmac=a0cecc807257d9df40851c8ad6da9a4558aebd52bd37c0cb873266d62b8eee94/master_2000.m3u8?aka_me_session_id=AAAAAAAAAADQ6H5qAAAAACwra9YF6ueYBiL8zCdhLOGCjf9eavGZ9g%2fqqo4gaCw8DnTvbbiPivowQgHd1lFuWtO7dczWyBFj&aka_media_format_type=hls
+https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/hdntl=exp=1786745235~acl=%2f*~id=63d07046-074d-4ac3-bb58-635c0e642363~data=hdntl~hmac=8c0319736f7f89047036c9c9b4418d9d70d397d1444649faa7bc8c8bf4a61de8/master_2000.m3u8?aka_me_session_id=AAAAAAAAAACTkX9qAAAAAB3EAmrNvaGuxmTnXrezUmQssK2EH95Z8YpVghYtwUlkuCJCfId%2f0LblFwFOgltOd+qsc94ovpIK&aka_media_format_type=hls
 
 #EXTINF:-1 tvg-id="sony-ten-1" tvg-name="SONY TEN 1" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_1.png" group-title="SonyLiv",SONY TEN 1
-https://dishmt.slivcdn.com/hls/live/2011739/TEN1SD/hdntl=exp=1786702032~acl=%2f*~id=9f7e178a-0d8f-41c5-b4ac-b9961dd7237a~data=hdntl~hmac=a0cecc807257d9df40851c8ad6da9a4558aebd52bd37c0cb873266d62b8eee94/master_2000.m3u8?aka_me_session_id=AAAAAAAAAADQ6H5qAAAAACwra9YF6ueYBiL8zCdhLOGCjf9eavGZ9g%2fqqo4gaCw8DnTvbbiPivowQgHd1lFuWtO7dczWyBFj&aka_media_format_type=hls
+https://dishmt.slivcdn.com/hls/live/2011739/TEN1SD/hdntl=exp=1786745235~acl=%2f*~id=63d07046-074d-4ac3-bb58-635c0e642363~data=hdntl~hmac=8c0319736f7f89047036c9c9b4418d9d70d397d1444649faa7bc8c8bf4a61de8/master_2000.m3u8?aka_me_session_id=AAAAAAAAAACTkX9qAAAAAB3EAmrNvaGuxmTnXrezUmQssK2EH95Z8YpVghYtwUlkuCJCfId%2f0LblFwFOgltOd+qsc94ovpIK&aka_media_format_type=hls
 
 #EXTINF:-1 tvg-id="sony-ten-2-hd" tvg-name="SONY TEN 2 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="SonyLiv",SONY TEN 2 HD
-https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/hdntl=exp=1786702032~acl=%2f*~id=9f7e178a-0d8f-41c5-b4ac-b9961dd7237a~data=hdntl~hmac=a0cecc807257d9df40851c8ad6da9a4558aebd52bd37c0cb873266d62b8eee94/master_2000.m3u8?aka_me_session_id=AAAAAAAAAADQ6H5qAAAAACwra9YF6ueYBiL8zCdhLOGCjf9eavGZ9g%2fqqo4gaCw8DnTvbbiPivowQgHd1lFuWtO7dczWyBFj&aka_media_format_type=hls
+https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/hdntl=exp=1786745235~acl=%2f*~id=63d07046-074d-4ac3-bb58-635c0e642363~data=hdntl~hmac=8c0319736f7f89047036c9c9b4418d9d70d397d1444649faa7bc8c8bf4a61de8/master_2000.m3u8?aka_me_session_id=AAAAAAAAAACTkX9qAAAAAB3EAmrNvaGuxmTnXrezUmQssK2EH95Z8YpVghYtwUlkuCJCfId%2f0LblFwFOgltOd+qsc94ovpIK&aka_media_format_type=hls
 
 #EXTINF:-1 tvg-id="sony-ten-2" tvg-name="SONY TEN 2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="SonyLiv",SONY TEN 2
-https://dishmt.slivcdn.com/hls/live/2020590/TEN2SD/hdntl=exp=1786702032~acl=%2f*~id=9f7e178a-0d8f-41c5-b4ac-b9961dd7237a~data=hdntl~hmac=a0cecc807257d9df40851c8ad6da9a4558aebd52bd37c0cb873266d62b8eee94/master_2000.m3u8?aka_me_session_id=AAAAAAAAAADQ6H5qAAAAACwra9YF6ueYBiL8zCdhLOGCjf9eavGZ9g%2fqqo4gaCw8DnTvbbiPivowQgHd1lFuWtO7dczWyBFj&aka_media_format_type=hls
+https://dishmt.slivcdn.com/hls/live/2020590/TEN2SD/hdntl=exp=1786745235~acl=%2f*~id=63d07046-074d-4ac3-bb58-635c0e642363~data=hdntl~hmac=8c0319736f7f89047036c9c9b4418d9d70d397d1444649faa7bc8c8bf4a61de8/master_2000.m3u8?aka_me_session_id=AAAAAAAAAACTkX9qAAAAAB3EAmrNvaGuxmTnXrezUmQssK2EH95Z8YpVghYtwUlkuCJCfId%2f0LblFwFOgltOd+qsc94ovpIK&aka_media_format_type=hls
 
 #EXTINF:-1 tvg-id="sony-ten-3-hd" tvg-name="SONY TEN 3 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="SonyLiv",SONY TEN 3 HD
-https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/hdntl=exp=1786702032~acl=%2f*~id=9f7e178a-0d8f-41c5-b4ac-b9961dd7237a~data=hdntl~hmac=a0cecc807257d9df40851c8ad6da9a4558aebd52bd37c0cb873266d62b8eee94/master_2000.m3u8?aka_me_session_id=AAAAAAAAAADQ6H5qAAAAACwra9YF6ueYBiL8zCdhLOGCjf9eavGZ9g%2fqqo4gaCw8DnTvbbiPivowQgHd1lFuWtO7dczWyBFj&aka_media_format_type=hls
+https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/hdntl=exp=1786745235~acl=%2f*~id=63d07046-074d-4ac3-bb58-635c0e642363~data=hdntl~hmac=8c0319736f7f89047036c9c9b4418d9d70d397d1444649faa7bc8c8bf4a61de8/master_2000.m3u8?aka_me_session_id=AAAAAAAAAACTkX9qAAAAAB3EAmrNvaGuxmTnXrezUmQssK2EH95Z8YpVghYtwUlkuCJCfId%2f0LblFwFOgltOd+qsc94ovpIK&aka_media_format_type=hls
 
 #EXTINF:-1 tvg-id="sony-ten-3" tvg-name="SONY TEN 3" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="SonyLiv",SONY TEN 3
-https://dishmt.slivcdn.com/hls/live/2020592/TEN3SD/hdntl=exp=1786702032~acl=%2f*~id=9f7e178a-0d8f-41c5-b4ac-b9961dd7237a~data=hdntl~hmac=a0cecc807257d9df40851c8ad6da9a4558aebd52bd37c0cb873266d62b8eee94/master_2000.m3u8?aka_me_session_id=AAAAAAAAAADQ6H5qAAAAACwra9YF6ueYBiL8zCdhLOGCjf9eavGZ9g%2fqqo4gaCw8DnTvbbiPivowQgHd1lFuWtO7dczWyBFj&aka_media_format_type=hls
+https://dishmt.slivcdn.com/hls/live/2020592/TEN3SD/hdntl=exp=1786745235~acl=%2f*~id=63d07046-074d-4ac3-bb58-635c0e642363~data=hdntl~hmac=8c0319736f7f89047036c9c9b4418d9d70d397d1444649faa7bc8c8bf4a61de8/master_2000.m3u8?aka_me_session_id=AAAAAAAAAACTkX9qAAAAAB3EAmrNvaGuxmTnXrezUmQssK2EH95Z8YpVghYtwUlkuCJCfId%2f0LblFwFOgltOd+qsc94ovpIK&aka_media_format_type=hls
 
 #EXTINF:-1 tvg-id="sony-ten-4-hd" tvg-name="SONY TEN 4 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_HD_Telugu.png" group-title="SonyLiv",SONY TEN 4 HD
-https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/hdntl=exp=1786702032~acl=%2f*~id=9f7e178a-0d8f-41c5-b4ac-b9961dd7237a~data=hdntl~hmac=a0cecc807257d9df40851c8ad6da9a4558aebd52bd37c0cb873266d62b8eee94/master_2000.m3u8?aka_me_session_id=AAAAAAAAAADQ6H5qAAAAACwra9YF6ueYBiL8zCdhLOGCjf9eavGZ9g%2fqqo4gaCw8DnTvbbiPivowQgHd1lFuWtO7dczWyBFj&aka_media_format_type=hls
+https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/hdntl=exp=1786745235~acl=%2f*~id=63d07046-074d-4ac3-bb58-635c0e642363~data=hdntl~hmac=8c0319736f7f89047036c9c9b4418d9d70d397d1444649faa7bc8c8bf4a61de8/master_2000.m3u8?aka_me_session_id=AAAAAAAAAACTkX9qAAAAAB3EAmrNvaGuxmTnXrezUmQssK2EH95Z8YpVghYtwUlkuCJCfId%2f0LblFwFOgltOd+qsc94ovpIK&aka_media_format_type=hls
 
 #EXTINF:-1 tvg-id="sony-ten-4" tvg-name="SONY TEN 4" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_Telugu.png" group-title="SonyLiv",SONY TEN 4
-https://dishmt.slivcdn.com/hls/live/2020437/ten4sd/hdntl=exp=1786702032~acl=%2f*~id=9f7e178a-0d8f-41c5-b4ac-b9961dd7237a~data=hdntl~hmac=a0cecc807257d9df40851c8ad6da9a4558aebd52bd37c0cb873266d62b8eee94/master_2000.m3u8?aka_me_session_id=AAAAAAAAAADQ6H5qAAAAACwra9YF6ueYBiL8zCdhLOGCjf9eavGZ9g%2fqqo4gaCw8DnTvbbiPivowQgHd1lFuWtO7dczWyBFj&aka_media_format_type=hls
+https://dishmt.slivcdn.com/hls/live/2020437/ten4sd/hdntl=exp=1786745235~acl=%2f*~id=63d07046-074d-4ac3-bb58-635c0e642363~data=hdntl~hmac=8c0319736f7f89047036c9c9b4418d9d70d397d1444649faa7bc8c8bf4a61de8/master_2000.m3u8?aka_me_session_id=AAAAAAAAAACTkX9qAAAAAB3EAmrNvaGuxmTnXrezUmQssK2EH95Z8YpVghYtwUlkuCJCfId%2f0LblFwFOgltOd+qsc94ovpIK&aka_media_format_type=hls
 
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="SONY TEN 5 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="SonyLiv",SONY TEN 5 HD
-https://dishmt.slivcdn.com/hls/live/2020593/SONYSIXHD/hdntl=exp=1786702032~acl=%2f*~id=9f7e178a-0d8f-41c5-b4ac-b9961dd7237a~data=hdntl~hmac=a0cecc807257d9df40851c8ad6da9a4558aebd52bd37c0cb873266d62b8eee94/master_2000.m3u8?aka_me_session_id=AAAAAAAAAADQ6H5qAAAAACwra9YF6ueYBiL8zCdhLOGCjf9eavGZ9g%2fqqo4gaCw8DnTvbbiPivowQgHd1lFuWtO7dczWyBFj&aka_media_format_type=hls
+https://dishmt.slivcdn.com/hls/live/2020593/SONYSIXHD/hdntl=exp=1786745235~acl=%2f*~id=63d07046-074d-4ac3-bb58-635c0e642363~data=hdntl~hmac=8c0319736f7f89047036c9c9b4418d9d70d397d1444649faa7bc8c8bf4a61de8/master_2000.m3u8?aka_me_session_id=AAAAAAAAAACTkX9qAAAAAB3EAmrNvaGuxmTnXrezUmQssK2EH95Z8YpVghYtwUlkuCJCfId%2f0LblFwFOgltOd+qsc94ovpIK&aka_media_format_type=hls
 
 #EXTINF:-1 tvg-id="sony-ten-5" tvg-name="SONY TEN 5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="SonyLiv",SONY TEN 5
-https://dishmt.slivcdn.com/hls/live/2020594/SONYSIXSD/hdntl=exp=1786702032~acl=%2f*~id=9f7e178a-0d8f-41c5-b4ac-b9961dd7237a~data=hdntl~hmac=a0cecc807257d9df40851c8ad6da9a4558aebd52bd37c0cb873266d62b8eee94/master_2000.m3u8?aka_me_session_id=AAAAAAAAAADQ6H5qAAAAACwra9YF6ueYBiL8zCdhLOGCjf9eavGZ9g%2fqqo4gaCw8DnTvbbiPivowQgHd1lFuWtO7dczWyBFj&aka_media_format_type=hls
+https://dishmt.slivcdn.com/hls/live/2020594/SONYSIXSD/hdntl=exp=1786745235~acl=%2f*~id=63d07046-074d-4ac3-bb58-635c0e642363~data=hdntl~hmac=8c0319736f7f89047036c9c9b4418d9d70d397d1444649faa7bc8c8bf4a61de8/master_2000.m3u8?aka_me_session_id=AAAAAAAAAACTkX9qAAAAAB3EAmrNvaGuxmTnXrezUmQssK2EH95Z8YpVghYtwUlkuCJCfId%2f0LblFwFOgltOd+qsc94ovpIK&aka_media_format_type=hls
 
 #EXTINF:-1 tvg-id="bbc-earth" tvg-name="BBC EARTH" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="SonyLiv",BBC EARTH
-https://dishmt.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/hdntl=exp=1786702032~acl=%2f*~id=9f7e178a-0d8f-41c5-b4ac-b9961dd7237a~data=hdntl~hmac=a0cecc807257d9df40851c8ad6da9a4558aebd52bd37c0cb873266d62b8eee94/master_2000.m3u8?aka_me_session_id=AAAAAAAAAADQ6H5qAAAAACwra9YF6ueYBiL8zCdhLOGCjf9eavGZ9g%2fqqo4gaCw8DnTvbbiPivowQgHd1lFuWtO7dczWyBFj&aka_media_format_type=hls
+https://dishmt.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/hdntl=exp=1786745235~acl=%2f*~id=63d07046-074d-4ac3-bb58-635c0e642363~data=hdntl~hmac=8c0319736f7f89047036c9c9b4418d9d70d397d1444649faa7bc8c8bf4a61de8/master_2000.m3u8?aka_me_session_id=AAAAAAAAAACTkX9qAAAAAB3EAmrNvaGuxmTnXrezUmQssK2EH95Z8YpVghYtwUlkuCJCfId%2f0LblFwFOgltOd+qsc94ovpIK&aka_media_format_type=hls
 
 #EXTINF:-1 tvg-id="545" tvg-name="Nick Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="KIDS",Nick Hindi
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1347,7 +1347,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd?__h
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fc3aafe80845584199a637249fad2ffa:ca4474972fdb4bf8ecb164482853c692
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_2_BTS/WDVLive/index.mpd?__hdnea__=st=1786638621~exp=1786660221~acl=/bpk-tv/Star_Sports_2_BTS/WDVLive/*~hmac=cf3ccb5d9a1a75fbb407e6092d23bebea6941e1f257816b5bb04cd899434abe4
+https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_2_BTS/WDVLive/index.mpd?__hdnea__=st=1786651238~exp=1786672838~acl=/*~hmac=d71879142e8ecb8e8c61e7ec59302c8802785e509fc7d04d7851772867faea1e
 
 #EXTINF:-1 tvg-id="1109" tvg-name="Star Sports 2 HD" tvg-logo="https://img.media.jio.com/tvpimages/41/51/301983_1749666169105_l_medium.jpg" group-title="SPORTS",Star Sports 2 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1593,7 +1593,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/History_TV18_SD_MOB/WDVLive/index.mpd?__h
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0172b8cd13ed59349a05aadc58ae11e0:e4ab7836617767a2a6e7aaae17fad2b6
-https://jiotvpllive.cdn.jio.com/bpk-tv/History_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1786635907~exp=1786657507~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=6880ec1a0761c8619cff0d52afedf48e8b9f6bedca29ae24828f675b78f071ae
+https://jiotvpllive.cdn.jio.com/bpk-tv/History_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1786657769~exp=1786679369~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=dc3700b1ca8a9b32d62553e60bcc9612b69c40d6372601e297d89ab65b4314d4
 
 #EXTINF:-1 tvg-id="578" tvg-name="History TV18 HD Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="INFOTAINMENT",History TV18 HD Hindi
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1608,7 +1608,7 @@ https://nw18live.cdn.jio.com/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/index.m
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=021bd4635e8653bca6830adaca183b14:035ec746d6ee0d39cb7cb15963da8424
-https://game.denver69.fun/Jtv/K5yY9L/Jtv.mpd?id=164
+https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1786644491~exp=1786648091~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=89e41cf2f550a735d6c93068de03f86c651b9225083bf393c6a571bd79441546
 
 #EXTINF:-1 tvg-id="562" tvg-name="Travelxp HD Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png" group-title="INFOTAINMENT",Travelxp HD Hindi
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1680,7 +1680,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/CNBCTV18Prime_MOB/WDVLive/index.mpd?__hdn
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0172b8cd13ed59349a05aadc58ae11e0:e4ab7836617767a2a6e7aaae17fad2b6
-https://jiotvpllive.cdn.jio.com/bpk-tv/History_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1786635907~exp=1786657507~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=6880ec1a0761c8619cff0d52afedf48e8b9f6bedca29ae24828f675b78f071ae
+https://jiotvpllive.cdn.jio.com/bpk-tv/History_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1786657769~exp=1786679369~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=dc3700b1ca8a9b32d62553e60bcc9612b69c40d6372601e297d89ab65b4314d4
 
 #EXTINF:-1 tvg-id="151" tvg-name="Movies Now HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now_HD.png" group-title="English",Movies Now HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1692,7 +1692,7 @@ https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=021bd4635e8653bca6830adaca183b14:035ec746d6ee0d39cb7cb15963da8424
-https://game.denver69.fun/Jtv/K5yY9L/Jtv.mpd?id=164
+https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1786644491~exp=1786648091~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=89e41cf2f550a735d6c93068de03f86c651b9225083bf393c6a571bd79441546
 
 #EXTINF:-1 tvg-id="193" tvg-name="CNN" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNN.png" group-title="English",CNN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd

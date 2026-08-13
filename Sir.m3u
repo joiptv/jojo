@@ -18,8 +18,8 @@
     "keyId": "ab947ddbb9795d38bff35597b4f73108",
     "key": "2671e22eb7dc174c35b6aad4b113f7b0",
     "logo": "https://jiotv.catchup.cdn_jio.com/dare_images/images/Sports18_Khel.png",
-    "cookie": "__hdnea__=st=1786564761~exp=1786586361~acl=/bpk-tv/StarSportsKhel_BTS/WDVLive/*~hmac=91b087219bcdb7f9084fd1253d94d3b0a8f9a9019b80335b48be5bacc5832fb0",
-    "expire_time": "1786586361"
+    "cookie": "__hdnea__=st=1786586361~exp=1786607961~acl=/bpk-tv/StarSportsKhel_BTS/WDVLive/*~hmac=f732b1ee660750fc7e30fe164b3ed80d91aa8a4f862b9181e504c5fcf5c8442b",
+    "expire_time": "1786607961"
   },
   {
     "name": "Zee Marathi",
@@ -40,8 +40,8 @@
     "keyId": "509216860f8e594aaf7e921296f53851",
     "key": "536df1e35e2bb055be0117b51db8139c",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ZeeTalkies.png",
-    "cookie": "__hdnea__=st=1786571962~exp=1786593562~acl=/bpk-tv/ZeeTalkies_BTS/WDVLive/*~hmac=77473a048b0f27ed4cb53fcf60e3c2d76fa63832c2831f78a9fcdc3ed90e1800",
-    "expire_time": "1786593562"
+    "cookie": "__hdnea__=st=1786593562~exp=1786615162~acl=/bpk-tv/ZeeTalkies_BTS/WDVLive/*~hmac=0a6e8f2904b4bfb141b3edd4ca27f90ba5bbeefdf14c4ab52761bffdc978f487",
+    "expire_time": "1786615162"
   },
   {
     "name": "Zee Yuva",
@@ -51,8 +51,8 @@
     "keyId": "fa2af2feb3395a7b8b931bd772683831",
     "key": "411e7ecb174921ff97cc0162c2372c69",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ZeeYuva.png",
-    "cookie": "__hdnea__=st=1786571962~exp=1786593562~acl=/bpk-tv/ZeeYuva_BTS/WDVLive/*~hmac=501fc41a807874aecedff4e178557816a695b9592b9bd563b9161fc64d376f72",
-    "expire_time": "1786593562"
+    "cookie": "__hdnea__=st=1786593562~exp=1786615162~acl=/bpk-tv/ZeeYuva_BTS/WDVLive/*~hmac=15027c5eeabee080fc33b1ef950c99780073d43c4427006ee93871c3803562e3",
+    "expire_time": "1786615162"
   },
   {
     "name": "Zee Action",
@@ -62,8 +62,8 @@
     "keyId": "a881e2bda4785fecbd13e50e6e3ba530",
     "key": "3e27c8b04a620f1094bcbfdf0472c744",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ZeeAction.png",
-    "cookie": "__hdnea__=st=1786571961~exp=1786593561~acl=/bpk-tv/ZeeAction_BTS/WDVLive/*~hmac=4edec164b79bff741ab063e40d73251021d49123a36b00163471dd0541258507",
-    "expire_time": "1786593561"
+    "cookie": "__hdnea__=st=1786586361~exp=1786607961~acl=/bpk-tv/ZeeAction_BTS/WDVLive/*~hmac=11bedb356b32a8250d847a7acdf8e62b5b51e47a85268ffa5554dccaa0565259",
+    "expire_time": "1786607961"
   },
   {
     "name": "Zee Cinema",
@@ -73,8 +73,8 @@
     "keyId": "90d8713ba5e85d779d005b1f14a5bc8d",
     "key": "33650314fe1e945017640ba9878c5de9",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ZeeCinema.png",
-    "cookie": "__hdnea__=st=1786571961~exp=1786593561~acl=/bpk-tv/ZeeCinema_BTS/WDVLive/*~hmac=fb9c3602a62eb5583100d30ef0f68be16de2bc480aed998b67c5d36b49172847",
-    "expire_time": "1786593561"
+    "cookie": "__hdnea__=st=1786586361~exp=1786607961~acl=/bpk-tv/ZeeCinema_BTS/WDVLive/*~hmac=e72fec71543104537798ff76a880437c71258e256786275315436640a9d8fa1e",
+    "expire_time": "1786607961"
   },
   {
     "name": "Zee TV",
@@ -84,8 +84,8 @@
     "keyId": "135fa2c3db6756a2a89dc08c033680ec",
     "key": "5d2ed0c831759179354b2151a2cb0566",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ZeeTV.png",
-    "cookie": "__hdnea__=st=1786564761~exp=1786586361~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=9089ba58b8e70361333c95d97c147c023d642240bb18cd4cb429e65fb8f1a13e",
-    "expire_time": "1786586361"
+    "cookie": "__hdnea__=st=1786586361~exp=1786607961~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=edfbdb9dcaafd47cef869903eca2f86cca3253ec2c776d064226c8ec3590ce1f",
+    "expire_time": "1786607961"
   },
   {
     "name": "Zee Bollywood",
@@ -95,8 +95,8 @@
     "keyId": "5895b358bf9f57a0addbec524e473919",
     "key": "8fddf9c4394cb4984bafa3aaffb7dcca",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ZeeBollywood.png",
-    "cookie": "__hdnea__=st=1786564761~exp=1786586361~acl=/bpk-tv/ZeeBollywood_BTS/WDVLive/*~hmac=119452ee76976cc7d3add30ab16251bda5642a91809ee04b75aed80a4b9e9c6a",
-    "expire_time": "1786586361"
+    "cookie": "__hdnea__=st=1786586361~exp=1786607961~acl=/bpk-tv/ZeeBollywood_BTS/WDVLive/*~hmac=c8460f03810ba0f5178229feee7200b5a5219ed8453923052885e62a69320fde",
+    "expire_time": "1786607961"
   },
   {
     "name": "Zee Zest HD",
@@ -139,8 +139,8 @@
     "keyId": "a4ca77c81bc556d994f7ecbee3bcbd20",
     "key": "dade64f6771f47a113f6cfdf67606cd0",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ZeeClassicSD.png",
-    "cookie": "__hdnea__=st=1786571961~exp=1786593561~acl=/bpk-tv/ZeeClassicSD_BTS/WDVLive/*~hmac=d886779fbc1c2bc6c4053d012cf085ac40d605653ff45ac24437b8bd5699ea26",
-    "expire_time": "1786593561"
+    "cookie": "__hdnea__=st=1786586361~exp=1786607961~acl=/bpk-tv/ZeeClassicSD_BTS/WDVLive/*~hmac=8faa09e767b5ff7403b59aa31b979cd78bd29e7816546e1127b31ecbe2c7b0f6",
+    "expire_time": "1786607961"
   },
   {
     "name": "Zee Tamil HD",
@@ -172,8 +172,8 @@
     "keyId": "ca03fd99cf33533caecf065085c4dd69",
     "key": "2f6eeefb9d65dffabde6d7c1e15966a7",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ZeeKeralamHD.png",
-    "cookie": "__hdnea__=st=1786564762~exp=1786586362~acl=/bpk-tv/ZeeKeralamHD_BTS/WDVLive/*~hmac=45cb174b82becee0a3ba36754c6c97a3a017621662681e1e547f0ec6b1af8e0f",
-    "expire_time": "1786586362"
+    "cookie": "__hdnea__=st=1786586362~exp=1786607962~acl=/bpk-tv/ZeeKeralamHD_BTS/WDVLive/*~hmac=de3da368996bd0d5c6542727d53e0da513c228182533642a1b6b8b87fc43cf71",
+    "expire_time": "1786607962"
   },
   {
     "name": "Zee Cinemalu HD",
@@ -183,8 +183,8 @@
     "keyId": "b71f9a5cb8325078bb6b59528b553cc2",
     "key": "fa2c33f8a7d9933a347562bf092a90fe",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ZeeCinemaluHD.png",
-    "cookie": "__hdnea__=st=1786571962~exp=1786593562~acl=/bpk-tv/ZeeCinemaluHD_BTS/WDVLive/*~hmac=9d6d2e5849548f9c173b7f873a253f8a45e6debf0cc0f9457ce6d5b4c443583d",
-    "expire_time": "1786593562"
+    "cookie": "__hdnea__=st=1786593562~exp=1786615162~acl=/bpk-tv/ZeeCinemaluHD_BTS/WDVLive/*~hmac=eabac45ded0a87c9b98384149fb61cf03e730d18ed1521061fb736fc917df694",
+    "expire_time": "1786615162"
   },
   {
     "name": "Zee Bangla HD",
@@ -205,8 +205,8 @@
     "keyId": "4324ba5158d3536fa799f5a21a321bf5",
     "key": "688474553bec43448f55ec88c34c9bb1",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ZeePowerHD.png",
-    "cookie": "__hdnea__=st=1786571962~exp=1786593562~acl=/bpk-tv/ZeePowerHD_BTS/WDVLive/*~hmac=57cd9dc250347d1ea7e560c57114f22bc4745764db4bb8112d69f7b41505cfe3",
-    "expire_time": "1786593562"
+    "cookie": "__hdnea__=st=1786593562~exp=1786615162~acl=/bpk-tv/ZeePowerHD_BTS/WDVLive/*~hmac=03c1c319203b4d363d6a94a51de5e8487865baa15ca1e003dc0b6ff744df7179",
+    "expire_time": "1786615162"
   },
   {
     "name": "Zee Kannada HD",
@@ -216,8 +216,8 @@
     "keyId": "02f4cfad19cf547da40f77c29bd303b2",
     "key": "a3ba2f7a824f232d7162f7452fe97a60",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ZeeKannadaHD.png",
-    "cookie": "__hdnea__=st=1786571962~exp=1786593562~acl=/bpk-tv/ZeeKannadaHD_BTS/WDVLive/*~hmac=b92f0eccc3780f5f6aed2ed415bc85e5f4d82399e3cca3574754ff8486dfccea",
-    "expire_time": "1786593562"
+    "cookie": "__hdnea__=st=1786593562~exp=1786615162~acl=/bpk-tv/ZeeKannadaHD_BTS/WDVLive/*~hmac=6c7523dcc80f3ba17aeae01092644169d36a30a1e634194713d0d091e73ce360",
+    "expire_time": "1786615162"
   },
   {
     "name": "Zee Telugu HD",
@@ -249,7 +249,7 @@
     "keyId": "97f38fde4a1e5784aac3ca8ce3668304",
     "key": "f3ac52006e0cf7e2c317eceebf5f781c",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ZeePunjabi.png",
-    "cookie": "__hdnea__=st=1786564762~exp=1786586362~acl=/bpk-tv/ZeePunjabi_BTS/WDVLive/*~hmac=053af720b01344488548f04c4dabc2c290df9a28d85077d9c44d783cf049d280",
-    "expire_time": "1786586362"
+    "cookie": "__hdnea__=st=1786586362~exp=1786607962~acl=/bpk-tv/ZeePunjabi_BTS/WDVLive/*~hmac=c2ed54ebcba5a22f6982865f044024f15bdb3cebd274632678577be649dd84af",
+    "expire_time": "1786607962"
   }
 ]

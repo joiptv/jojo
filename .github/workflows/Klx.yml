@@ -9,22 +9,17 @@ concurrency:
   group: playlist-update
   cancel-in-progress: true
 
+permissions:
+  contents: write
+
 jobs:
   update-playlist:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.x'
 
       - name: Download and Process M3U Links
         run: |
-          # പുതിയ URL-ൽ നിന്ന് Klx.m3u എന്ന പേരിലേക്ക് പ്ലേലിസ്റ്റ് ഡൗൺലോഡ് ചെയ്യുന്നു
           curl -L "https://jhs-channels.rtxcric.workers.dev/playlist.m3u" -o Klx.m3u
 
       - name: Commit and Push Changes
@@ -32,13 +27,11 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           
-          # Klx.m3u ഫയൽ സ്റ്റേജ് ചെയ്യുന്നു
           git add Klx.m3u
           
           if git diff --staged --quiet; then
-            echo "പ്ലേലിസ്റ്റിൽ പുതിയ മാറ്റങ്ങൾ ഒന്നും തന്നെയില്ല."
+            echo "No changes detected in playlist."
           else
             git commit -m "chore: update Klx.m3u from external source"
-            git pull --rebase origin main
             git push origin main
           fi

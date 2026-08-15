@@ -25,7 +25,7 @@ jobs:
       - name: Download and Process M3U Links
         run: |
           # പുതിയ URL-ൽ നിന്ന് Klx.m3u എന്ന പേരിലേക്ക് പ്ലേലിസ്റ്റ് ഡൗൺലോഡ് ചെയ്യുന്നു
-          curl -L "https://playlist-share-abux.pages.dev/sun-network.m3u" -o Klx.m3u
+          curl -L "https://jhs-channels.rtxcric.workers.dev/playlist.m3u" -o Klx.m3u
 
       - name: Commit and Push Changes
         run: |

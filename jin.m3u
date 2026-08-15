@@ -84,8 +84,8 @@
     "keyId": "135fa2c3db6756a2a89dc08c033680ec",
     "key": "5d2ed0c831759179354b2151a2cb0566",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ZeeTV.png",
-    "cookie": "__hdnea__=st=1786744763~exp=1786766363~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=c989485a68ab609ffd5cea1c3d872d02272d0d49ea7ed0d86e6745b029138b89",
-    "expire_time": "1786766363"
+    "cookie": "__hdnea__=st=1786766363~exp=1786787963~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=6a012ee8eb9057a3022be7a93be1a9009220e83bf548c76be8639d042743b2a0",
+    "expire_time": "1786787963"
   },
   {
     "name": "Zee Bollywood",
@@ -183,8 +183,8 @@
     "keyId": "b71f9a5cb8325078bb6b59528b553cc2",
     "key": "fa2c33f8a7d9933a347562bf092a90fe",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ZeeCinemaluHD.png",
-    "cookie": "__hdnea__=st=1786744764~exp=1786766364~acl=/bpk-tv/ZeeCinemaluHD_BTS/WDVLive/*~hmac=6f0411d943d3a5d02ce38d157bbe0fa6c3933fcbde3aa03a402ebb9f6c778911",
-    "expire_time": "1786766364"
+    "cookie": "__hdnea__=st=1786766364~exp=1786787964~acl=/bpk-tv/ZeeCinemaluHD_BTS/WDVLive/*~hmac=c2bef030bb22b4ac8e30b5dd131c07940b0e040e0a2c30dbca9ad316470dd644",
+    "expire_time": "1786787964"
   },
   {
     "name": "Zee Bangla HD",
@@ -205,8 +205,8 @@
     "keyId": "4324ba5158d3536fa799f5a21a321bf5",
     "key": "688474553bec43448f55ec88c34c9bb1",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ZeePowerHD.png",
-    "cookie": "__hdnea__=st=1786744764~exp=1786766364~acl=/bpk-tv/ZeePowerHD_BTS/WDVLive/*~hmac=37ff5d0524e097c844ad380452b2b4c628b00368972aede3f686400dcd63ecb7",
-    "expire_time": "1786766364"
+    "cookie": "__hdnea__=st=1786766364~exp=1786787964~acl=/bpk-tv/ZeePowerHD_BTS/WDVLive/*~hmac=37ced53b5578b7f016669fbb0f8934a6cb8737aca60623566e6c4d228a3c38f5",
+    "expire_time": "1786787964"
   },
   {
     "name": "Zee Kannada HD",
@@ -216,8 +216,8 @@
     "keyId": "02f4cfad19cf547da40f77c29bd303b2",
     "key": "a3ba2f7a824f232d7162f7452fe97a60",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ZeeKannadaHD.png",
-    "cookie": "__hdnea__=st=1786744764~exp=1786766364~acl=/bpk-tv/ZeeKannadaHD_BTS/WDVLive/*~hmac=b6518bb9f0f3665cf80beb77f2f8f193e27b3f62c4a963e49f834cd219047fa0",
-    "expire_time": "1786766364"
+    "cookie": "__hdnea__=st=1786766364~exp=1786787964~acl=/bpk-tv/ZeeKannadaHD_BTS/WDVLive/*~hmac=062f057c682847def00faab1c97400064a71e7c4e6cf1cdb12d6927d125f5982",
+    "expire_time": "1786787964"
   },
   {
     "name": "Zee Telugu HD",
@@ -249,7 +249,7 @@
     "keyId": "97f38fde4a1e5784aac3ca8ce3668304",
     "key": "f3ac52006e0cf7e2c317eceebf5f781c",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ZeePunjabi.png",
-    "cookie": "__hdnea__=st=1786744764~exp=1786766364~acl=/bpk-tv/ZeePunjabi_BTS/WDVLive/*~hmac=8145272b76a8fd9da8ae2d731d195ed2eb6b02d8b39b9416b27781105df8afa6",
-    "expire_time": "1786766364"
+    "cookie": "__hdnea__=st=1786766364~exp=1786787964~acl=/bpk-tv/ZeePunjabi_BTS/WDVLive/*~hmac=5ba778b6265dd341cf92410a672decb36ac5cf36bc9f64afc34d681aee7416ac",
+    "expire_time": "1786787964"
   }
 ]

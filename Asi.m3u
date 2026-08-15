@@ -264,7 +264,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
 #EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-name="Zee TV HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1197,h_674,c_scale,f_webp,q_auto:eco/resources/0-9-zeetvhd/channel_list/1920x1080list3424a135de534b88a95bfd69d193ae1c.png" group-title="Zee5",Zee TV HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a23b609b33e254a48e4fc6fa7af0fd8d:4064c52328bfe9e6008776b48a431e4b
+#KODIPROP:inputstream.adaptive.license_key=65c3633157574361b191059e46e72968:78450b11381340c297d96c13183d3744
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTVHD_BTS/WDVLive/index.mpd?__hdnea__=st=1786760291~exp=1786781891~acl=/bpk-tv/ZeeTVHD_BTS/WDVLive/*~hmac=881b9deda1fed318ec9691a9be8550b4f31529fbb11b4748845406f1a2fa1e43
 
 #EXTINF:-1 tvg-id="0-9-zeeanmol" tvg-name="Anmol TV" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1197,h_674,c_scale,f_webp,q_auto:eco/resources/0-9-zeeanmol/channel_list/1920x1080listef6865f9714b40139037d98300559cd7.png" group-title="Zee5",Anmol TV
@@ -329,7 +329,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
 
-#EXTINF:-1 tvg-id="0-9-209" tvg-name="&xplorHD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1197,h_674,c_scale,f_webp,q_auto:eco/resources/0-9-209/channel_list/1920x1080list1fb75b73f2e441d49af9bc4a1ad782de.png" group-title="Zee5",&xplorHD
+#EXTINF:-1 tvg-id="0-9-209" tvg-name="&xplor HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1197,h_674,c_scale,f_webp,q_auto:eco/resources/0-9-209/channel_list/1920x1080list1fb75b73f2e441d49af9bc4a1ad782de.png" group-title="Zee5",&xplor HD
 https://liveserverayush.onrender.com/0-9-209.m3u8
 
 #EXTINF:-1 tvg-id="0-9-bigmagic_1786965389" tvg-name="Big Magic" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1197,h_674,c_scale,f_webp,q_auto:eco/resources/0-9-bigmagic_1786965389/channel_list/1920x1080listde632d881f1f4a879a94669005bb7256.png" group-title="Zee5",Big Magic
@@ -725,19 +725,13 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ColorsCineplexSuperhit_MOB/WDVLive/index.
 #KODIPROP:inputstream.adaptive.license_key=ad4dfcf1265153978f8d62e9bc6f8482:9f711591ae7d1a5e3e93f27e509a47f5
 https://jiotvmblive.cdn.jio.com/bpk-tv/ColorsCineplexBollywood_MOB/WDVLive/index.mpd?__hdnea__=st=1786766438~exp=1786788038~acl=/*~hmac=2bae21e35843ecebe0f03b2876821270fe266afef5f48e7f9fcbe0fa8c48bdf0
 
-#EXTINF:-1 tvg-id="487" tvg-name="Goldmines Hd" tvg-logo="https://i.ibb.co/fzXyG9kM/images-10.jpg" group-title="MOVIES",Goldmines Hd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b82b04755c355ebea0ca43bff527b5c7:3eb9c71283384f46634bd0dc3d354e2c
+#EXTINF:-1 tvg-id="000" tvg-name="Goldmines Hd" tvg-logo="https://i.ibb.co/fzXyG9kM/images-10.jpg" group-title="MOVIES",Goldmines Hd
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 
-#EXTINF:-1 tvg-id="487" tvg-name="Goldmines 2" tvg-logo="https://i.ibb.co/h1sKN8PD/240x240.jpg" group-title="MOVIES",Goldmines 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b82b04755c355ebea0ca43bff527b5c7:3eb9c71283384f46634bd0dc3d354e2c
+#EXTINF:-1 tvg-id="000" tvg-name="Goldmines 2" tvg-logo="https://i.ibb.co/h1sKN8PD/240x240.jpg" group-title="MOVIES",Goldmines 2
 https://cdn-2.pishow.tv/live/1460/master.m3u8
 
-#EXTINF:-1 tvg-id="487" tvg-name="Goldmines Movies HD" tvg-logo="https://i.ibb.co/S4jZWQ8Y/images-11.jpg" group-title="MOVIES",Goldmines Movies HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b82b04755c355ebea0ca43bff527b5c7:3eb9c71283384f46634bd0dc3d354e2c
+#EXTINF:-1 tvg-id="000" tvg-name="Goldmines Movies HD" tvg-logo="https://i.ibb.co/S4jZWQ8Y/images-11.jpg" group-title="MOVIES",Goldmines Movies HD
 https://cdn-2.pishow.tv/live/1461/master.m3u8
 
 #EXTINF:-1 tvg-id="1295" tvg-name="B4U Kadak" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Kadak.png" group-title="MOVIES",B4U Kadak
@@ -819,7 +813,7 @@ https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-id="0-9-176" tvg-name="The Movie Club" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20260325T012318SQUARE.png" group-title="MOVIES",The Movie Club
 https://pb-dkdpz5so0aqqr.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-dkdpz5so0aqqr/TMC_IN.m3u8?ads.ads_cdn=ak&ads.cdn=ak&pb_type=pb-dkdpz5so0aqqr_akamai
 
-#EXTINF:-1 tvg-id="0-9-176" tvg-name="The Movie Club+ 2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN40000100Y_20260204T004058SQUARE.png" group-title="MOVIES",The Movie Club+ 2
+#EXTINF:-1 tvg-id="0-9-16" tvg-name="The Movie Club+2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN40000100Y_20260204T004058SQUARE.png" group-title="MOVIES",The Movie Club+2
 https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf
 
 #EXTINF:-1 tvg-id="476_copy" tvg-name="Sony Max HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX.png" group-title="SonyLiv",Sony Max HD
@@ -1173,7 +1167,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol/default/manifest.mpd
 #EXTINF:-1 tvg-id="0-9-176" tvg-name="Zee Dil se" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Zee_Dil_Se.png" group-title="ENTERTAINMENT",Zee Dil se
 https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8
 
-#EXTINF:-1 tvg-id="0-9-176" tvg-name="Zee Horror Night's" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zhornights.png" group-title="ENTERTAINMENT",Zee Horror Night's
+#EXTINF:-1 tvg-id="0-9-176" tvg-name="Zee Horror Nights" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zhornights.png" group-title="ENTERTAINMENT",Zee Horror Nights
 https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8
 
 #EXTINF:-1 tvg-id="472" tvg-name="And TV HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AndTVHD.png" group-title="ENTERTAINMENT",And TV HD
@@ -3069,15 +3063,6 @@ https://d37d7pfp7vjqhh.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a
 
 #EXTINF:-1 tvg-id="2956" tvg-name="ETV Plus HD" tvg-logo="https://i.ibb.co/wr83fbq0/unnamed-1.jpg" group-title="Telugu",ETV Plus HD
 https://d2pk5pedkyu2d0.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_PLUS_H264_cloud_in/index.m3u8
-
-#EXTINF:-1 tvg-id="3558" tvg-name="ETV News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900001AQ_20250811T033458SQUARE.png" group-title="Telugu",ETV News
-https://cc-3448kp65yhc5w.akamaized.net/WWBI/Amagi/ETV_News_IN/playlist.m3u8
-
-#EXTINF:-1 tvg-id="3559" tvg-name="ETV Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900002RV_20250811T033455SQUARE.png" group-title="Telugu",ETV Music
-https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
-
-#EXTINF:-1 tvg-id="3560" tvg-name="ETV Josh" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900004LP_20250811T033452SQUARE.png" group-title="Telugu",ETV Josh
-https://cc-uyh1ow5zouoio.akamaized.net/WWBI/Amagi/ETV_Josh_IN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="3561" tvg-name="ETV Comedy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900003U3_20251106T195117SQUARE.png" group-title="Telugu",ETV Comedy
 https://cc-wie8j8y69d2uy.akamaized.net/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8
@@ -6036,6 +6021,21 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/SonyYAYKan_MOB/WDVLive/index.mpd?__hdnea_
 #KODIPROP:inputstream.adaptive.license_key=80643642f9e7554aae811e60720b2067:836c66a8f24c842bf24bbfd09b10a4bd
 https://jiotvmblive.cdn.jio.com/bpk-tv/DiscoveryKidsKan_MOB/WDVLive/index.mpd?__hdnea__=st=1786766438~exp=1786788038~acl=/*~hmac=2bae21e35843ecebe0f03b2876821270fe266afef5f48e7f9fcbe0fa8c48bdf0
 
+#EXTINF:-1 tvg-id="413" tvg-name="ETV News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900001AQ_20250811T033458SQUARE.png" group-title="3558",ETV News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6cbcc37865353abb23766638ca5d405:fcdddffe9027fbf34c3bdb5f91cc5847
+https://cc-3448kp65yhc5w.akamaized.net/WWBI/Amagi/ETV_News_IN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="413" tvg-name="ETV Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900002RV_20250811T033455SQUARE.png" group-title="3559",ETV Music
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6cbcc37865353abb23766638ca5d405:fcdddffe9027fbf34c3bdb5f91cc5847
+https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="413" tvg-name="ETV Josh" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900004LP_20250811T033452SQUARE.png" group-title="3560",ETV Josh
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6cbcc37865353abb23766638ca5d405:fcdddffe9027fbf34c3bdb5f91cc5847
+https://cc-uyh1ow5zouoio.akamaized.net/WWBI/Amagi/ETV_Josh_IN/playlist.m3u8
+
 #EXTINF:-1 tvg-id="517" tvg-name="Chardikla Time TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Chardikla_Time_TV.png" group-title="Punjabi",Chardikla Time TV
 https://jiotvmblive.cdn.jio.com/bpk-tv/Chardikla_Time_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1786766438~exp=1786788038~acl=/*~hmac=2bae21e35843ecebe0f03b2876821270fe266afef5f48e7f9fcbe0fa8c48bdf0
 
@@ -7296,6 +7296,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Oscar_Movies_MOB/WDVLive/index.mpd?__hdne
 #KODIPROP:inputstream.adaptive.license_key=4e32d7151dac5318a55bab88320ba70d:768c85f2155e292a5d63edcd7003d7f0
 https://jiotvmblive.cdn.jio.com/bpk-tv/B4U_Bhojpuri_MOB/WDVLive/index.mpd?__hdnea__=st=1786766438~exp=1786788038~acl=/*~hmac=2bae21e35843ecebe0f03b2876821270fe266afef5f48e7f9fcbe0fa8c48bdf0
 
+#EXTINF:-1 tvg-id="0-9-216" tvg-name="Zee Biskope" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1197,h_674,c_scale,f_webp,q_auto:eco/resources/0-9-216/channel_list/1920x1080list277eec9ca86a41f2bdc68935794767e9.png" group-title="Bhojpuri",Zee Biskope
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5dc6e925a323584cb48685099442b2b4:1027f5fe3d5d6c6f0524f3b4f8f85dae
+https://liveserverayush.onrender.com/0-9-216.m3u8
+
 #EXTINF:-1 tvg-id="1798" tvg-name="Pasand" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pasand.png" group-title="Bhojpuri",Pasand
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -7358,11 +7363,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Narikaa_MOB/WDVLive/index.mpd?__hdnea__=s
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1025acf964795689982726e2d16a73c5:d88575df3e3d1adb7a82da65f0000aa6
 https://jiotvmblive.cdn.jio.com/bpk-tv/BVG_MOB/WDVLive/index.mpd?__hdnea__=st=1786766438~exp=1786788038~acl=/*~hmac=2bae21e35843ecebe0f03b2876821270fe266afef5f48e7f9fcbe0fa8c48bdf0
-
-#EXTINF:-1 tvg-id="0-9-216" tvg-name="Zee Biskope" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1197,h_674,c_scale,f_webp,q_auto:eco/resources/0-9-216/channel_list/1920x1080list277eec9ca86a41f2bdc68935794767e9.png" group-title="BHOJPURI",Zee Biskope
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5dc6e925a323584cb48685099442b2b4:1027f5fe3d5d6c6f0524f3b4f8f85dae
-https://liveserverayush.onrender.com/0-9-216.m3u8
 
 #EXTINF:-1 tvg-id="3423" tvg-name="SONY YAY Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyYAYMal.png" group-title="Malyalam",SONY YAY Malayalam
 #KODIPROP:inputstream.adaptive.manifest_type=mpd

@@ -1614,7 +1614,7 @@ https://nw18live.cdn.jio.com/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/index.m
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=021bd4635e8653bca6830adaca183b14:035ec746d6ee0d39cb7cb15963da8424
-https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1786904225~exp=1786907825~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=45db5570623441eb22fff7c0e575a09d21ce5bb7e0582612a5820418e99d8ffc
+https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1786922284~exp=1786925884~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=939a2aa7c167ec1d13175e88327d15202dba997c7c1b264c6c66c923e181bb9c
 
 #EXTINF:-1 tvg-id="562" tvg-name="Travelxp HD Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png" group-title="INFOTAINMENT",Travelxp HD Hindi
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1698,7 +1698,7 @@ https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=021bd4635e8653bca6830adaca183b14:035ec746d6ee0d39cb7cb15963da8424
-https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1786904225~exp=1786907825~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=45db5570623441eb22fff7c0e575a09d21ce5bb7e0582612a5820418e99d8ffc
+https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1786922284~exp=1786925884~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=939a2aa7c167ec1d13175e88327d15202dba997c7c1b264c6c66c923e181bb9c
 
 #EXTINF:-1 tvg-id="193" tvg-name="CNN" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNN.png" group-title="English",CNN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd

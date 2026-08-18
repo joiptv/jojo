@@ -1648,7 +1648,7 @@ https://nw18live.cdn.jio.com/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/index.m
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=021bd4635e8653bca6830adaca183b14:035ec746d6ee0d39cb7cb15963da8424
-https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787015619~exp=1787019219~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=968f686b097b8b6c3bc3a46716b5a819034559b7ee940595d95c725c1b8edb2d
+https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787033825~exp=1787037425~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=2bf87ed06dd2a0b0d5ee8f4cd3196142c0322a9057d4dfe38f06c28233612b5d
 
 #EXTINF:-1 tvg-id="562" tvg-name="Travelxp HD Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png" group-title="INFOTAINMENT",Travelxp HD Hindi
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1738,7 +1738,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeTalkies_MOB/WDVLive/index.mpd?__hdnea_
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=021bd4635e8653bca6830adaca183b14:035ec746d6ee0d39cb7cb15963da8424
-https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787015619~exp=1787019219~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=968f686b097b8b6c3bc3a46716b5a819034559b7ee940595d95c725c1b8edb2d
+https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787033825~exp=1787037425~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=2bf87ed06dd2a0b0d5ee8f4cd3196142c0322a9057d4dfe38f06c28233612b5d
 
 #EXTINF:-1 tvg-id="166" tvg-name="Cartoon Network Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNTelugu.png" group-title="Telugu",Cartoon Network Telugu
 #KODIPROP:inputstream.adaptive.manifest_type=mpd

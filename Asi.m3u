@@ -25,7 +25,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_Romance_MOB/WDVLive/index.mpd?_
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6afa4754bc15dd28ab6806f417d319d:6a74ef2884813547109ee96098610387
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787134930~exp=1787156530~acl=/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/*~hmac=820b6b7ec45a06de5cae420aab931fe2b6a5088865bee70dcc6dbeea9ac06f79
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787156732~exp=1787178332~acl=/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/*~hmac=f69a049d17bb0576a407dacb31bd38e36e72afcf542a1a66ac014e0c4a0d76e8
 
 #EXTINF:-1 tvg-id="3098" tvg-name="Star Gold Thrills" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Thrills.png" group-title="STAR",Star Gold Thrills
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -265,7 +265,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a23b609b33e254a48e4fc6fa7af0fd8d:4064c52328bfe9e6008776b48a431e4b
-https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTVHD_BTS/WDVLive/index.mpd?__hdnea__=st=1787135081~exp=1787156681~acl=/bpk-tv/ZeeTVHD_BTS/WDVLive/*~hmac=2394e6ba28cefb7e8dace16f319d2cd948c8e15cd136b8cb8c294990a22131df
+https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTVHD_BTS/WDVLive/index.mpd?__hdnea__=st=1787156723~exp=1787178323~acl=/bpk-tv/ZeeTVHD_BTS/WDVLive/*~hmac=2e84b73829740e4e91d90e1c31500a2ddec5edb4743c027e674f8a4e399b2cc6
 
 #EXTINF:-1 tvg-id="0-9-zeeanmol" tvg-name="Anmol TV" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1197,h_674,c_scale,f_webp,q_auto:eco/resources/0-9-zeeanmol/channel_list/1920x1080listef6865f9714b40139037d98300559cd7.png" group-title="Zee5",Anmol TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -624,7 +624,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/SonyBBCEarthEng_MOB/WDVLive/index.mpd?__h
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f45e69507f0f5aa1a6e82374efb0af25:f84348219837769feb5a26a7b1cd31dc
-https://jiotvpllive.cdn.jio.com/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/index.mpd?__hdnea__=st=1787135099~exp=1787156699~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=b2e1e02435f80a9129806aa2d452a359fed63e8a84b03ca5fbba1b7fefe2cc86
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/index.mpd?__hdnea__=st=1787156728~exp=1787178328~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=d3df46ce339ca72074f26d3700c031a0b055b76d6df9c1e650524f39d92a1fb4
 
 #EXTINF:-1 tvg-id="762" tvg-name="Sony Pix HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyPIX.png" group-title="SONY",Sony Pix HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -648,7 +648,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/SonyBBCEarthEng_MOB/WDVLive/index.mpd?__h
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f45e69507f0f5aa1a6e82374efb0af25:f84348219837769feb5a26a7b1cd31dc
-https://jiotvpllive.cdn.jio.com/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/index.mpd?__hdnea__=st=1787135099~exp=1787156699~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=b2e1e02435f80a9129806aa2d452a359fed63e8a84b03ca5fbba1b7fefe2cc86
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/index.mpd?__hdnea__=st=1787156728~exp=1787178328~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=d3df46ce339ca72074f26d3700c031a0b055b76d6df9c1e650524f39d92a1fb4
 
 #EXTINF:-1 tvg-id="853" tvg-name="Sony BBC Earth HD Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyBBCEarthTam.png" group-title="SONY",Sony BBC Earth HD Tamil
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -846,7 +846,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_HD_MOB/WDVLive/index.mpd?__hdne
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6afa4754bc15dd28ab6806f417d319d:6a74ef2884813547109ee96098610387
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787134930~exp=1787156530~acl=/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/*~hmac=820b6b7ec45a06de5cae420aab931fe2b6a5088865bee70dcc6dbeea9ac06f79
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787156732~exp=1787178332~acl=/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/*~hmac=f69a049d17bb0576a407dacb31bd38e36e72afcf542a1a66ac014e0c4a0d76e8
 
 #EXTINF:-1 tvg-id="1119" tvg-name="Star Gold Select" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select.png" group-title="MOVIES",Star Gold Select
 https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_Select_MOB/WDVLive/index.mpd?__hdnea__=st=1787155208~exp=1787176808~acl=/*~hmac=f2aa73b3561255a29673f03e4426e2384a66d1b30a54e90708c00fe37200a414
@@ -957,7 +957,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/b4u_movies/HLSPartner/index.m3u8?__hdnea_
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab0674eba3f5adf96a9b65a6e82d208:476f813d8651987fc1b4074693676fd8
-https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/index.mpd?__hdnea__=st=1787135084~exp=1787156684~acl=/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/*~hmac=1d6bddaf6137580f4533cf4e7a6b0a422f888c8ff967a4fe237104ef117c7205
+https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/index.mpd?__hdnea__=st=1787156725~exp=1787178325~acl=/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/*~hmac=f50f2a7c0bbb12687826e0ef9ebfcc115d5fd2a0bc0b1fc61a035f8979da803b
 
 #EXTINF:-1 tvg-id="2761" tvg-name="Zee Anmol Cinema 2" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeAnmolCinema2.png" group-title="MOVIES",Zee Anmol Cinema 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -995,7 +995,7 @@ https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-a
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=67e52f4bdcfc525898be0446feb7f185:8cf5c24b168105bca24b358eb05f6df4
-https://jiotvpllive.cdn.jio.com/bpk-tv/AndXploreHD_BTS/WDVLive/index.mpd?__hdnea__=st=1787135115~exp=1787156715~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=4afb1945ac10242d0e20a0f756e13b4f3ed73555d9f2bbacd49ff0a715c134b2
+https://jiotvpllive.cdn.jio.com/bpk-tv/AndXploreHD_BTS/WDVLive/index.mpd?__hdnea__=st=1787156731~exp=1787178331~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=2d0c8394406bc532f7c2beb1f7d7d17dd9981028dc8f498a466b92a8d31c74c4
 
 #EXTINF:-1 tvg-id="3075" tvg-name="Shemaroo Bollywood" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/smrbol.png" group-title="MOVIES",Shemaroo Bollywood
 https://jiotvmblive.cdn.jio.com/bpk-tv/smrbol/HLSPartner/index.m3u8?__hdnea__=st=1787155208~exp=1787176808~acl=/*~hmac=f2aa73b3561255a29673f03e4426e2384a66d1b30a54e90708c00fe37200a414
@@ -1157,13 +1157,13 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ColorsHD_MOB/WDVLive/index.mpd?__hdnea__=
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=65c3633157574361b191059e46e72968:78450b11381340c297d96c13183d3744
-https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTVHD_BTS/WDVLive/index.mpd?__hdnea__=st=1787135081~exp=1787156681~acl=/bpk-tv/ZeeTVHD_BTS/WDVLive/*~hmac=2394e6ba28cefb7e8dace16f319d2cd948c8e15cd136b8cb8c294990a22131df
+https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTVHD_BTS/WDVLive/index.mpd?__hdnea__=st=1787156723~exp=1787178323~acl=/bpk-tv/ZeeTVHD_BTS/WDVLive/*~hmac=2e84b73829740e4e91d90e1c31500a2ddec5edb4743c027e674f8a4e399b2cc6
 
 #EXTINF:-1 tvg-id="167" tvg-name="Zee TV HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTVHD.png" group-title="ENTERTAINMENT",Zee TV HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a23b609b33e254a48e4fc6fa7af0fd8d:4064c52328bfe9e6008776b48a431e4b
-https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTVHD_BTS/WDVLive/index.mpd?__hdnea__=st=1787135081~exp=1787156681~acl=/bpk-tv/ZeeTVHD_BTS/WDVLive/*~hmac=2394e6ba28cefb7e8dace16f319d2cd948c8e15cd136b8cb8c294990a22131df
+https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTVHD_BTS/WDVLive/index.mpd?__hdnea__=st=1787156723~exp=1787178323~acl=/bpk-tv/ZeeTVHD_BTS/WDVLive/*~hmac=2e84b73829740e4e91d90e1c31500a2ddec5edb4743c027e674f8a4e399b2cc6
 
 #EXTINF:-1 tvg-id="471" tvg-name="Sony SAB HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonySAB.png" group-title="ENTERTAINMENT",Sony SAB HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1193,7 +1193,7 @@ https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-a
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=88295124db295a6b9f5027dc6049e294:641c40230a95cb76d1949125f9552fda
-https://jiotvpllive.cdn.jio.com/bpk-tv/AndTVHD_BTS/WDVLive/index.mpd?__hdnea__=st=1787135112~exp=1787156712~acl=/bpk-tv/AndTVHD_BTS/WDVLive/*~hmac=3895dae21993741a02cbcdb0a7aa7a8a74b9b8f486c4d9c7b907523e3042d81d
+https://jiotvpllive.cdn.jio.com/bpk-tv/AndTVHD_BTS/WDVLive/index.mpd?__hdnea__=st=1787156727~exp=1787178327~acl=/bpk-tv/AndTVHD_BTS/WDVLive/*~hmac=5efac5aa2f0fc4fe8591af0794642f3f0358197f37619eb1a460db1b48b76797
 
 #EXTINF:-1 tvg-id="474" tvg-name="Sony Pal" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyPAL.png" group-title="ENTERTAINMENT",Sony Pal
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1621,7 +1621,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/History_TV18_SD_MOB/WDVLive/index.mpd?__h
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0172b8cd13ed59349a05aadc58ae11e0:e4ab7836617767a2a6e7aaae17fad2b6
-https://jiotvpllive.cdn.jio.com/bpk-tv/History_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787135079~exp=1787156679~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=ecbb20666df224649a1a95fcf3cd19c05591896c2c2b8a30b44fe138b83e76d2
+https://jiotvpllive.cdn.jio.com/bpk-tv/History_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787156702~exp=1787178302~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=444669c0ab3988883e52fde83017daecb5f2aa23f75699eb7cc60e6b29a8c06c
 
 #EXTINF:-1 tvg-id="578" tvg-name="History TV18 HD Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="INFOTAINMENT",History TV18 HD Hindi
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1642,13 +1642,13 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_HD_BTS/WDVLive/index.mpd?__hdne
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39aa887ebbc35db6bd10217aba5e016b:a1862a47f6db0af137d0c69b3cb422bb
-https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_BTS/WDVLive/index.mpd?__hdnea__=st=1787135091~exp=1787156691~acl=/bpk-tv/Travel_XP_BTS/WDVLive/*~hmac=cb6389be1551b6f4cc611a52dbe8bdcf6adede4b616374c21c1160b7ea4f3089
+https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_BTS/WDVLive/index.mpd?__hdnea__=st=1787156727~exp=1787178327~acl=/bpk-tv/Travel_XP_BTS/WDVLive/*~hmac=8bb6dbe64d7dd9d570cca3aa87a156e05720cb36e65dd8b24ebbfe5e31d036df
 
 #EXTINF:-1 tvg-id="821" tvg-name="Sony BBC Earth HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyBBCEarthHin.png" group-title="INFOTAINMENT",Sony BBC Earth HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f45e69507f0f5aa1a6e82374efb0af25:f84348219837769feb5a26a7b1cd31dc
-https://jiotvpllive.cdn.jio.com/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/index.mpd?__hdnea__=st=1787135099~exp=1787156699~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=b2e1e02435f80a9129806aa2d452a359fed63e8a84b03ca5fbba1b7fefe2cc86
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/index.mpd?__hdnea__=st=1787156728~exp=1787178328~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=d3df46ce339ca72074f26d3700c031a0b055b76d6df9c1e650524f39d92a1fb4
 
 #EXTINF:-1 tvg-id="852" tvg-name="Sony BBC Earth HD English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyBBCEarthEng.png" group-title="INFOTAINMENT",Sony BBC Earth HD English
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1660,13 +1660,13 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/SonyBBCEarthEng_MOB/WDVLive/index.mpd?__h
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b006dd7965e5777a7fa33dd636c2e5d:179f796bdf11b750bebd469a3aeae1d0
-https://jiotvpllive.cdn.jio.com/bpk-tv/National_Geographic_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787135114~exp=1787156714~acl=/bpk-tv/National_Geographic_HD_BTS/WDVLive/*~hmac=544baee7340d388049df54864fb0b49e4cab8457d79db7153ea3334a7b373be6
+https://jiotvpllive.cdn.jio.com/bpk-tv/National_Geographic_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787156730~exp=1787178330~acl=/bpk-tv/National_Geographic_HD_BTS/WDVLive/*~hmac=535a49d23a1b49114de95b00ba4e99d013409101eb0ccbe504f4a50aab0cca42
 
 #EXTINF:-1 tvg-id="1332" tvg-name="Nat Geo Wild HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nat_Geo_Wild_HD.png" group-title="INFOTAINMENT",Nat Geo Wild HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fc661aa1af51c98950c43329391d18:c2677c874886e78d24b3fb656c5734e0
-https://jiotvpllive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787135107~exp=1787156707~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=d35cccd579771b5ba6c8ef6ae5f01f3bfcd8129f344304129d819abfcdc61704
+https://jiotvpllive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787156730~exp=1787178330~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=0843ab77ab2593a1ac421fc332c0ca90cf09d7e640ab2bb721f88d35c1877e60
 
 #EXTINF:-1 tvg-id="2437" tvg-name="Wild Earth" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Wild_Earth.png" group-title="INFOTAINMENT",Wild Earth
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1708,7 +1708,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/CNBCTV18Prime_MOB/WDVLive/index.mpd?__hdn
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0172b8cd13ed59349a05aadc58ae11e0:e4ab7836617767a2a6e7aaae17fad2b6
-https://jiotvpllive.cdn.jio.com/bpk-tv/History_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787135079~exp=1787156679~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=ecbb20666df224649a1a95fcf3cd19c05591896c2c2b8a30b44fe138b83e76d2
+https://jiotvpllive.cdn.jio.com/bpk-tv/History_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787156702~exp=1787178302~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=444669c0ab3988883e52fde83017daecb5f2aa23f75699eb7cc60e6b29a8c06c
 
 #EXTINF:-1 tvg-id="151" tvg-name="Movies Now HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now_HD.png" group-title="English",Movies Now HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2373,7 +2373,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Food_Food_MOB/WDVLive/index.mpd?__hdnea__
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39aa887ebbc35db6bd10217aba5e016b:a1862a47f6db0af137d0c69b3cb422bb
-https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_BTS/WDVLive/index.mpd?__hdnea__=st=1787135091~exp=1787156691~acl=/bpk-tv/Travel_XP_BTS/WDVLive/*~hmac=cb6389be1551b6f4cc611a52dbe8bdcf6adede4b616374c21c1160b7ea4f3089
+https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_BTS/WDVLive/index.mpd?__hdnea__=st=1787156727~exp=1787178327~acl=/bpk-tv/Travel_XP_BTS/WDVLive/*~hmac=8bb6dbe64d7dd9d570cca3aa87a156e05720cb36e65dd8b24ebbfe5e31d036df
 
 #EXTINF:-1 tvg-id="563" tvg-name="Kaumudy TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kaumudy_TV.png" group-title="Malayalam",Kaumudy TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -3372,7 +3372,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/CNTamil_MOB/WDVLive/index.mpd?__hdnea__=s
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f45e69507f0f5aa1a6e82374efb0af25:f84348219837769feb5a26a7b1cd31dc
-https://jiotvpllive.cdn.jio.com/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/index.mpd?__hdnea__=st=1787135099~exp=1787156699~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=b2e1e02435f80a9129806aa2d452a359fed63e8a84b03ca5fbba1b7fefe2cc86
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/index.mpd?__hdnea__=st=1787156728~exp=1787178328~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=d3df46ce339ca72074f26d3700c031a0b055b76d6df9c1e650524f39d92a1fb4
 
 #EXTINF:-1 tvg-id="824" tvg-name="Puthu Yugam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Puthu_Yugam.png" group-title="Tamil",Puthu Yugam
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -4473,13 +4473,13 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Gyandarshan_MOB/WDVLive/index.mpd?__hd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fc661aa1af51c98950c43329391d18:c2677c874886e78d24b3fb656c5734e0
-https://jiotvpllive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787135107~exp=1787156707~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=d35cccd579771b5ba6c8ef6ae5f01f3bfcd8129f344304129d819abfcdc61704
+https://jiotvpllive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787156730~exp=1787178330~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=0843ab77ab2593a1ac421fc332c0ca90cf09d7e640ab2bb721f88d35c1877e60
 
 #EXTINF:-1 tvg-id="1335" tvg-name="National Geographic HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/National_Geographic_HD.png" group-title="English",National Geographic HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b006dd7965e5777a7fa33dd636c2e5d:179f796bdf11b750bebd469a3aeae1d0
-https://jiotvpllive.cdn.jio.com/bpk-tv/National_Geographic_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787135114~exp=1787156714~acl=/bpk-tv/National_Geographic_HD_BTS/WDVLive/*~hmac=544baee7340d388049df54864fb0b49e4cab8457d79db7153ea3334a7b373be6
+https://jiotvpllive.cdn.jio.com/bpk-tv/National_Geographic_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787156730~exp=1787178330~acl=/bpk-tv/National_Geographic_HD_BTS/WDVLive/*~hmac=535a49d23a1b49114de95b00ba4e99d013409101eb0ccbe504f4a50aab0cca42
 
 #EXTINF:-1 tvg-id="1338" tvg-name="RT India" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/RT_TV.png" group-title="English",RT India
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -7516,61 +7516,61 @@ https://shoebinfo.qzz.io/test/hot.php/ESPN-1-AFRICA-LIVE.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6bd071206ea552ba32a22496af8f2a5:962e83890c212fb4fe0fdab30bc2ba0d
-https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Sports_MOB/WDVLive/index.mpd?__hdnea__=st=1787140804~exp=1787162404~acl=/*~hmac=0ab6b725624f0fe8a434f8ef23ab65356c13f6b47dce404f39370fef6960ba61
+https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Sports_MOB/WDVLive/index.mpd?__hdnea__=st=1787150959~exp=1787172559~acl=/*~hmac=ae1cd0870ce8aa0f30704cbeb2fec420ac9c05f78af43f0914778da03c946bf9
 
 #EXTINF:-1 tvg-id="875" tvg-name="Eurosport HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png" group-title="SPORTS2",Eurosport HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b3bcfaeae129566f80a3afb2b533f917:6843545622aa27cab11368ffb3cae72a
-https://jiotvmblive.cdn.jio.com/bpk-tv/Dsports_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1787140804~exp=1787162404~acl=/*~hmac=0ab6b725624f0fe8a434f8ef23ab65356c13f6b47dce404f39370fef6960ba61
+https://jiotvmblive.cdn.jio.com/bpk-tv/Dsports_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1787150959~exp=1787172559~acl=/*~hmac=ae1cd0870ce8aa0f30704cbeb2fec420ac9c05f78af43f0914778da03c946bf9
 
 #EXTINF:-1 tvg-id="889" tvg-name="Jio Sports HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports.png" group-title="SPORTS2",Jio Sports HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=efebee7d002b5e519c5df02b191a2709:30fc4c79935da32b16aea1362e6b4892
-https://jiotvmblive.cdn.jio.com/bpk-tv/Jio_Sports_MOB/WDVLive/index.mpd?__hdnea__=st=1787140804~exp=1787162404~acl=/*~hmac=0ab6b725624f0fe8a434f8ef23ab65356c13f6b47dce404f39370fef6960ba61
+https://jiotvmblive.cdn.jio.com/bpk-tv/Jio_Sports_MOB/WDVLive/index.mpd?__hdnea__=st=1787150959~exp=1787172559~acl=/*~hmac=ae1cd0870ce8aa0f30704cbeb2fec420ac9c05f78af43f0914778da03c946bf9
 
 #EXTINF:-1 tvg-id="1163" tvg-name="JioGames HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Esports_HD.png" group-title="SPORTS2",JioGames HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=17df4d1c15ab5fcb88dc46f94e16412c:f5ff1078996afe0b18841250f3f8cf9a
-https://jiotvmblive.cdn.jio.com/bpk-tv/Jio_Esports_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1787140804~exp=1787162404~acl=/*~hmac=0ab6b725624f0fe8a434f8ef23ab65356c13f6b47dce404f39370fef6960ba61
+https://jiotvmblive.cdn.jio.com/bpk-tv/Jio_Esports_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1787150959~exp=1787172559~acl=/*~hmac=ae1cd0870ce8aa0f30704cbeb2fec420ac9c05f78af43f0914778da03c946bf9
 
 #EXTINF:-1 tvg-id="1294" tvg-name="Eurosport" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports.png" group-title="SPORTS2",Eurosport
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4197a27f1c445f06a04a3616aa95b575:0345ef0f4815e7a99418c94c4adfcb52
-https://jiotvmblive.cdn.jio.com/bpk-tv/Dsports_MOB/WDVLive/index.mpd?__hdnea__=st=1787140804~exp=1787162404~acl=/*~hmac=0ab6b725624f0fe8a434f8ef23ab65356c13f6b47dce404f39370fef6960ba61
+https://jiotvmblive.cdn.jio.com/bpk-tv/Dsports_MOB/WDVLive/index.mpd?__hdnea__=st=1787150959~exp=1787172559~acl=/*~hmac=ae1cd0870ce8aa0f30704cbeb2fec420ac9c05f78af43f0914778da03c946bf9
 
 #EXTINF:-1 tvg-id="1529" tvg-name="MI TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MI_TV.png" group-title="SPORTS2",MI TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d958cdeb2bf55ab8869fc3e483446ab6:8b3eaa90d6f76eb35ca312189c398ff9
-https://jiotvmblive.cdn.jio.com/bpk-tv/MI_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1787140804~exp=1787162404~acl=/*~hmac=0ab6b725624f0fe8a434f8ef23ab65356c13f6b47dce404f39370fef6960ba61
+https://jiotvmblive.cdn.jio.com/bpk-tv/MI_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1787150959~exp=1787172559~acl=/*~hmac=ae1cd0870ce8aa0f30704cbeb2fec420ac9c05f78af43f0914778da03c946bf9
 
 #EXTINF:-1 tvg-id="0-9-zeecafehd" tvg-name="Unite8 Sports 1 HD" tvg-logo="https://i.postimg.cc/FH40r1LZ/unite8-1HD.png" group-title="SPORTS2",Unite8 Sports 1 HD
-https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Unite8_Sports_1HD/index/index.m3u8?__hdnea__=st=1787140804~exp=1787162404~acl=/*~hmac=0ab6b725624f0fe8a434f8ef23ab65356c13f6b47dce404f39370fef6960ba61
+https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Unite8_Sports_1HD/index/index.m3u8?__hdnea__=st=1787150959~exp=1787172559~acl=/*~hmac=ae1cd0870ce8aa0f30704cbeb2fec420ac9c05f78af43f0914778da03c946bf9
 
 #EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-name="Unite8 Sports 2 HD" tvg-logo="https://i.postimg.cc/htng2RH2/Unite8-2HD.png" group-title="SPORTS2",Unite8 Sports 2 HD
-https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Unite8_Sports_2HD/index/index.m3u8?__hdnea__=st=1787140804~exp=1787162404~acl=/*~hmac=0ab6b725624f0fe8a434f8ef23ab65356c13f6b47dce404f39370fef6960ba61
+https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Unite8_Sports_2HD/index/index.m3u8?__hdnea__=st=1787150959~exp=1787172559~acl=/*~hmac=ae1cd0870ce8aa0f30704cbeb2fec420ac9c05f78af43f0914778da03c946bf9
 
 #EXTINF:-1 tvg-id="1003" tvg-name="Unite8 Sports 1 HD | TATA PLAY" tvg-logo="https://i.postimg.cc/FKh4DWFG/unite8-1.jpg" group-title="SPORTS2",Unite8 Sports 1 HD | TATA PLAY
-http://103.155.18.186:8000/play/a125/index.m3u8?__hdnea__=st=1787140804~exp=1787162404~acl=/*~hmac=0ab6b725624f0fe8a434f8ef23ab65356c13f6b47dce404f39370fef6960ba61
+http://103.155.18.186:8000/play/a125/index.m3u8?__hdnea__=st=1787150959~exp=1787172559~acl=/*~hmac=ae1cd0870ce8aa0f30704cbeb2fec420ac9c05f78af43f0914778da03c946bf9
 
 #EXTINF:-1 tvg-id="1011" tvg-name="Unite8 Sports 2 HD | TATA PLAY" tvg-logo="https://i.postimg.cc/qRX6WZ2w/unite8-2.jpg" group-title="SPORTS2",Unite8 Sports 2 HD | TATA PLAY
-http://103.155.18.186:8000/play/a126/index.m3u8?__hdnea__=st=1787140804~exp=1787162404~acl=/*~hmac=0ab6b725624f0fe8a434f8ef23ab65356c13f6b47dce404f39370fef6960ba61
+http://103.155.18.186:8000/play/a126/index.m3u8?__hdnea__=st=1787150959~exp=1787172559~acl=/*~hmac=ae1cd0870ce8aa0f30704cbeb2fec420ac9c05f78af43f0914778da03c946bf9
 
 #EXTINF:-1 tvg-id="1018" tvg-name="TSN 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/upsspx1433379567.png" group-title="SPORTS2",TSN 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
-https://otte-qw.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd?__hdnea__=st=1787140804~exp=1787162404~acl=/*~hmac=0ab6b725624f0fe8a434f8ef23ab65356c13f6b47dce404f39370fef6960ba61
+https://otte-qw.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd?__hdnea__=st=1787150959~exp=1787172559~acl=/*~hmac=ae1cd0870ce8aa0f30704cbeb2fec420ac9c05f78af43f0914778da03c946bf9
 
 #EXTINF:-1 tvg-id="1460" tvg-name="FOX SPORTS 4K" tvg-logo="https://i.postimg.cc/JnnFsQZG/FOX-4K.png" group-title="SPORTS2",FOX SPORTS 4K
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
-https://otte-qw.live.pv-cdn.net/bom-nitro/live/clients/enc/xperu6ixu9/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd?__hdnea__=st=1787140804~exp=1787162404~acl=/*~hmac=0ab6b725624f0fe8a434f8ef23ab65356c13f6b47dce404f39370fef6960ba61
+https://otte-qw.live.pv-cdn.net/bom-nitro/live/clients/enc/xperu6ixu9/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd?__hdnea__=st=1787150959~exp=1787172559~acl=/*~hmac=ae1cd0870ce8aa0f30704cbeb2fec420ac9c05f78af43f0914778da03c946bf9
 
 #EXTINF:-1 tvg-id="460" tvg-name="Star Sports Select 1 HD" tvg-logo="https://img.media.jio.com/tvpimages/96/65/302113_1749664252703_l_medium.jpg" group-title="SPORTS2",Star Sports Select 1 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -7720,145 +7720,145 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsKhel_BTS/WDVLive/index.mpd?__hd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5b39b43eac995ba58be147d4274b80ad:7a90a6f3fa4f42ae694436f830f442c2
-https://jiotvmblive.cdn.jio.com/bpk-tv/Brave_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1787140804~exp=1787162404~acl=/*~hmac=0ab6b725624f0fe8a434f8ef23ab65356c13f6b47dce404f39370fef6960ba61
+https://jiotvmblive.cdn.jio.com/bpk-tv/Brave_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1787150959~exp=1787172559~acl=/*~hmac=ae1cd0870ce8aa0f30704cbeb2fec420ac9c05f78af43f0914778da03c946bf9
 
 #EXTINF:-1 tvg-id="2779" tvg-name="Red Bull TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Red_Bull_TV.png" group-title="SPORTS2",Red Bull TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9d8303ed3e0b56078f7ac6d6bd8199c0:eb60e3e7edc02fbfa3e4c8e841b65b87
-https://jiotvmblive.cdn.jio.com/bpk-tv/Red_Bull_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1787140804~exp=1787162404~acl=/*~hmac=0ab6b725624f0fe8a434f8ef23ab65356c13f6b47dce404f39370fef6960ba61
+https://jiotvmblive.cdn.jio.com/bpk-tv/Red_Bull_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1787150959~exp=1787172559~acl=/*~hmac=ae1cd0870ce8aa0f30704cbeb2fec420ac9c05f78af43f0914778da03c946bf9
 
 #EXTINF:-1 tvg-id="3011" tvg-name="Lancs TV HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Lancs_TV_HD.png" group-title="SPORTS2",Lancs TV HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=032977e68d9851fcb150f147b89cf9e8:e1e870afc222d2d2a7f913e3205f4fa5
-https://jiotvmblive.cdn.jio.com/bpk-tv/Lancs_TV_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1787140804~exp=1787162404~acl=/*~hmac=0ab6b725624f0fe8a434f8ef23ab65356c13f6b47dce404f39370fef6960ba61
+https://jiotvmblive.cdn.jio.com/bpk-tv/Lancs_TV_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1787150959~exp=1787172559~acl=/*~hmac=ae1cd0870ce8aa0f30704cbeb2fec420ac9c05f78af43f0914778da03c946bf9
 
 #EXTINF:-1 tvg-id="3146" tvg-name="All Women's Sports Network" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AWSN.png" group-title="SPORTS2",All Women's Sports Network
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8f7f3239c37f521ba1804aebdcd7404a:516e21012c50b8e6c51b297b07bb0675
-https://jiotvmblive.cdn.jio.com/bpk-tv/AWSN_MOB/WDVLive/index.mpd?__hdnea__=st=1787140804~exp=1787162404~acl=/*~hmac=0ab6b725624f0fe8a434f8ef23ab65356c13f6b47dce404f39370fef6960ba61
+https://jiotvmblive.cdn.jio.com/bpk-tv/AWSN_MOB/WDVLive/index.mpd?__hdnea__=st=1787150959~exp=1787172559~acl=/*~hmac=ae1cd0870ce8aa0f30704cbeb2fec420ac9c05f78af43f0914778da03c946bf9
 
 #EXTINF:-1 tvg-id="3204" tvg-name="Penta TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Penta_TV.png" group-title="SPORTS2",Penta TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd38f502b44b5aec8196ac4aebd3ca7c:b26a13589bc487b06f421a6bb00b2100
-https://jiotvmblive.cdn.jio.com/bpk-tv/Penta_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1787140804~exp=1787162404~acl=/*~hmac=0ab6b725624f0fe8a434f8ef23ab65356c13f6b47dce404f39370fef6960ba61
+https://jiotvmblive.cdn.jio.com/bpk-tv/Penta_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1787150959~exp=1787172559~acl=/*~hmac=ae1cd0870ce8aa0f30704cbeb2fec420ac9c05f78af43f0914778da03c946bf9
 
 #EXTINF:-1 tvg-id="3243" tvg-name="Pickleball Now" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pickleball_Now.png" group-title="SPORTS2",Pickleball Now
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fc418df9af225e18a8fc6278a6e9cd75:64cf8bec9b8133a32187241bba87d635
-https://jiotvmblive.cdn.jio.com/bpk-tv/Pickleball_Now_MOB/WDVLive/index.mpd?__hdnea__=st=1787140804~exp=1787162404~acl=/*~hmac=0ab6b725624f0fe8a434f8ef23ab65356c13f6b47dce404f39370fef6960ba61
+https://jiotvmblive.cdn.jio.com/bpk-tv/Pickleball_Now_MOB/WDVLive/index.mpd?__hdnea__=st=1787150959~exp=1787172559~acl=/*~hmac=ae1cd0870ce8aa0f30704cbeb2fec420ac9c05f78af43f0914778da03c946bf9
 
 #EXTINF:-1 tvg-id="162" tvg-name="Sony Ten 1 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="SPORTS2",Sony Ten 1 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3525c924e54154b39533d86b1c7a428a:8548b566fc6608a7d3bd601ee5f3d889
-https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1787140804~exp=1787162404~acl=/*~hmac=0ab6b725624f0fe8a434f8ef23ab65356c13f6b47dce404f39370fef6960ba61
+https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1787150959~exp=1787172559~acl=/*~hmac=ae1cd0870ce8aa0f30704cbeb2fec420ac9c05f78af43f0914778da03c946bf9
 
 #EXTINF:-1 tvg-id="514" tvg-name="Sony Ten 1" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_1.png" group-title="SPORTS2",Sony Ten 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3394be91407c5fe99d784d2f2d6d4a12:58665e1df41f9f22ed73c56384bb3f51
-https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_1_MOB/WDVLive/index.mpd?__hdnea__=st=1787140804~exp=1787162404~acl=/*~hmac=0ab6b725624f0fe8a434f8ef23ab65356c13f6b47dce404f39370fef6960ba61
+https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_1_MOB/WDVLive/index.mpd?__hdnea__=st=1787150959~exp=1787172559~acl=/*~hmac=ae1cd0870ce8aa0f30704cbeb2fec420ac9c05f78af43f0914778da03c946bf9
 
 #EXTINF:-1 tvg-id="891" tvg-name="Sony Ten 2 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="SPORTS2",Sony Ten 2 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91fce77f2f8056f084ed961c7ebe86ed:8214bd5eb6c21444e8ea644824affd79
-https://jiotvmblive.cdn.jio.com/bpk-tv/Ten2_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1787140804~exp=1787162404~acl=/*~hmac=0ab6b725624f0fe8a434f8ef23ab65356c13f6b47dce404f39370fef6960ba61
+https://jiotvmblive.cdn.jio.com/bpk-tv/Ten2_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1787150959~exp=1787172559~acl=/*~hmac=ae1cd0870ce8aa0f30704cbeb2fec420ac9c05f78af43f0914778da03c946bf9
 
 #EXTINF:-1 tvg-id="523" tvg-name="Sony Ten 2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_2.png" group-title="SPORTS2",Sony Ten 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=671ce7c8ccc95e0a95cba0d12831d12e:175d284c9647b6feb379e7c1650a4f82
-https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_2_MOB/WDVLive/index.mpd?__hdnea__=st=1787140804~exp=1787162404~acl=/*~hmac=0ab6b725624f0fe8a434f8ef23ab65356c13f6b47dce404f39370fef6960ba61
+https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_2_MOB/WDVLive/index.mpd?__hdnea__=st=1787150959~exp=1787172559~acl=/*~hmac=ae1cd0870ce8aa0f30704cbeb2fec420ac9c05f78af43f0914778da03c946bf9
 
 #EXTINF:-1 tvg-id="892" tvg-name="Sony Ten 3 HD Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="SPORTS2",Sony Ten 3 HD Hindi
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=111e6908b965566e97139efddf7ef459:c87903abbc052e1f21e51ebd928d9cb1
-https://jiotvmblive.cdn.jio.com/bpk-tv/Ten3_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1787140804~exp=1787162404~acl=/*~hmac=0ab6b725624f0fe8a434f8ef23ab65356c13f6b47dce404f39370fef6960ba61
+https://jiotvmblive.cdn.jio.com/bpk-tv/Ten3_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1787150959~exp=1787172559~acl=/*~hmac=ae1cd0870ce8aa0f30704cbeb2fec420ac9c05f78af43f0914778da03c946bf9
 
 #EXTINF:-1 tvg-id="524" tvg-name="Sony Ten 3 Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_3.png" group-title="SPORTS2",Sony Ten 3 Hindi
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=68318f7c97c55ba6ab8d0398a88fed3e:d312fb3325b4eb9462b4a0d2b6794adf
-https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_3_MOB/WDVLive/index.mpd?__hdnea__=st=1787140804~exp=1787162404~acl=/*~hmac=0ab6b725624f0fe8a434f8ef23ab65356c13f6b47dce404f39370fef6960ba61
+https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_3_MOB/WDVLive/index.mpd?__hdnea__=st=1787150959~exp=1787172559~acl=/*~hmac=ae1cd0870ce8aa0f30704cbeb2fec420ac9c05f78af43f0914778da03c946bf9
 
 #EXTINF:-1 tvg-id="1774" tvg-name="Sony Ten 4 Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_Tamil.png" group-title="SPORTS2",Sony Ten 4 Tamil
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0df5f800775c5979ab8aeaff28ee674b:47dd1b9c8d4049760059aab27bddf1cb
-https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_4_Tamil_MOB/WDVLive/index.mpd?__hdnea__=st=1787140804~exp=1787162404~acl=/*~hmac=0ab6b725624f0fe8a434f8ef23ab65356c13f6b47dce404f39370fef6960ba61
+https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_4_Tamil_MOB/WDVLive/index.mpd?__hdnea__=st=1787150959~exp=1787172559~acl=/*~hmac=ae1cd0870ce8aa0f30704cbeb2fec420ac9c05f78af43f0914778da03c946bf9
 
 #EXTINF:-1 tvg-id="1775" tvg-name="Sony Ten 4 Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images//Ten_4_Telugu.png" group-title="SPORTS2",Sony Ten 4 Telugu
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=494a8a050ecc5a22adab6dc304ead1b4:9b3bbf2ccb71a876a2bbeb9cde00d7bf
-https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_4_Telugu_MOB/WDVLive/index.mpd?__hdnea__=st=1787140804~exp=1787162404~acl=/*~hmac=0ab6b725624f0fe8a434f8ef23ab65356c13f6b47dce404f39370fef6960ba61
+https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_4_Telugu_MOB/WDVLive/index.mpd?__hdnea__=st=1787150959~exp=1787172559~acl=/*~hmac=ae1cd0870ce8aa0f30704cbeb2fec420ac9c05f78af43f0914778da03c946bf9
 
 #EXTINF:-1 tvg-id="155" tvg-name="Sony Ten 5 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="SPORTS2",Sony Ten 5 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8cb7b40cefe053ea91895e3194bb9912:467cf6d740b7212fcfc648644fb79943
-https://jiotvmblive.cdn.jio.com/bpk-tv/Six_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1787140804~exp=1787162404~acl=/*~hmac=0ab6b725624f0fe8a434f8ef23ab65356c13f6b47dce404f39370fef6960ba61
+https://jiotvmblive.cdn.jio.com/bpk-tv/Six_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1787150959~exp=1787172559~acl=/*~hmac=ae1cd0870ce8aa0f30704cbeb2fec420ac9c05f78af43f0914778da03c946bf9
 
 #EXTINF:-1 tvg-id="525" tvg-name="Sony Ten 5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="SPORTS2",Sony Ten 5
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d2d8709de11d5955b60c57d3c955733e:7655200b24bf82808fb8addf2f02847b
-https://jiotvmblive.cdn.jio.com/bpk-tv/Sony_Six_SD_MOB/WDVLive/index.mpd?__hdnea__=st=1787140804~exp=1787162404~acl=/*~hmac=0ab6b725624f0fe8a434f8ef23ab65356c13f6b47dce404f39370fef6960ba61
+https://jiotvmblive.cdn.jio.com/bpk-tv/Sony_Six_SD_MOB/WDVLive/index.mpd?__hdnea__=st=1787150959~exp=1787172559~acl=/*~hmac=ae1cd0870ce8aa0f30704cbeb2fec420ac9c05f78af43f0914778da03c946bf9
 
 #EXTINF:-1 tvg-id="162" tvg-name="Sony LIV Sports 1" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_1.png" group-title="SPORTS2",Sony LIV Sports 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e4c5dba5bfe5a7c9338bc086eb80379:b8e8932f440084e1d2b705fa52eef94b
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_1_MOB/WDVLive/index.mpd?__hdnea__=st=1787140804~exp=1787162404~acl=/*~hmac=0ab6b725624f0fe8a434f8ef23ab65356c13f6b47dce404f39370fef6960ba61
+https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_1_MOB/WDVLive/index.mpd?__hdnea__=st=1787150959~exp=1787172559~acl=/*~hmac=ae1cd0870ce8aa0f30704cbeb2fec420ac9c05f78af43f0914778da03c946bf9
 
 #EXTINF:-1 tvg-id="3373" tvg-name="Sony LIV Sports 2" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_2.png" group-title="SPORTS2",Sony LIV Sports 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ef24516ae38b50d18049343cd1cd998a:eb4810ec250a1795a0019dba7881ff45
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_2_MOB/WDVLive/index.mpd?__hdnea__=st=1787140804~exp=1787162404~acl=/*~hmac=0ab6b725624f0fe8a434f8ef23ab65356c13f6b47dce404f39370fef6960ba61
+https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_2_MOB/WDVLive/index.mpd?__hdnea__=st=1787150959~exp=1787172559~acl=/*~hmac=ae1cd0870ce8aa0f30704cbeb2fec420ac9c05f78af43f0914778da03c946bf9
 
 #EXTINF:-1 tvg-id="3374" tvg-name="Sony LIV Sports 3" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_3.png" group-title="SPORTS2",Sony LIV Sports 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3afa887864e6545aa006db21aeb39054:6b8cce271f3cd923d0df32d45b44f6df
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_3_MOB/WDVLive/index.mpd?__hdnea__=st=1787140804~exp=1787162404~acl=/*~hmac=0ab6b725624f0fe8a434f8ef23ab65356c13f6b47dce404f39370fef6960ba61
+https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_3_MOB/WDVLive/index.mpd?__hdnea__=st=1787150959~exp=1787172559~acl=/*~hmac=ae1cd0870ce8aa0f30704cbeb2fec420ac9c05f78af43f0914778da03c946bf9
 
 #EXTINF:-1 tvg-id="3397" tvg-name="Sony LIV Sports 4 Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_4_Tamil.png" group-title="SPORTS2",Sony LIV Sports 4 Tamil
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f266ceda9555faf8b40c586ac40406a:92f9a1ca4c16545db65ad0578bd1baa3
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_4_Tamil_MOB/WDVLive/index.mpd?__hdnea__=st=1787140804~exp=1787162404~acl=/*~hmac=0ab6b725624f0fe8a434f8ef23ab65356c13f6b47dce404f39370fef6960ba61
+https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_4_Tamil_MOB/WDVLive/index.mpd?__hdnea__=st=1787150959~exp=1787172559~acl=/*~hmac=ae1cd0870ce8aa0f30704cbeb2fec420ac9c05f78af43f0914778da03c946bf9
 
 #EXTINF:-1 tvg-id="3398" tvg-name="Sony LIV Sports 4 Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_4_Telugu.png" group-title="SPORTS2",Sony LIV Sports 4 Telugu
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d39c423d72a5f1ca5df1de110c80422:572a9370c22c8b5d741352ebf8f68721
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_4_Telugu_MOB/WDVLive/index.mpd?__hdnea__=st=1787140804~exp=1787162404~acl=/*~hmac=0ab6b725624f0fe8a434f8ef23ab65356c13f6b47dce404f39370fef6960ba61
+https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_4_Telugu_MOB/WDVLive/index.mpd?__hdnea__=st=1787150959~exp=1787172559~acl=/*~hmac=ae1cd0870ce8aa0f30704cbeb2fec420ac9c05f78af43f0914778da03c946bf9
 
 #EXTINF:-1 tvg-id="3399" tvg-name="Sony LIV Sports 5" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_5.png" group-title="SPORTS2",Sony LIV Sports 5
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cee8550bf50b569d8ad2ed0c5264f0d2:565a95f1c332c03534e1e5fcc1ff9a8b
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_5_MOB/WDVLive/index.mpd?__hdnea__=st=1787140804~exp=1787162404~acl=/*~hmac=0ab6b725624f0fe8a434f8ef23ab65356c13f6b47dce404f39370fef6960ba61
+https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_5_MOB/WDVLive/index.mpd?__hdnea__=st=1787150959~exp=1787172559~acl=/*~hmac=ae1cd0870ce8aa0f30704cbeb2fec420ac9c05f78af43f0914778da03c946bf9
 
 #EXTINF:-1 tvg-id="3528" tvg-name="Sony Liv Sports 4 Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLivSports4Kan.png" group-title="SPORTS2",Sony Liv Sports 4 Kannada
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11ea8c4152bd55f19ecf2fcecaadf14d:e1cd78b9fc344ad20e873cff3c2354f0
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLivSports4Kan_MOB/WDVLive/index.mpd?__hdnea__=st=1787140804~exp=1787162404~acl=/*~hmac=0ab6b725624f0fe8a434f8ef23ab65356c13f6b47dce404f39370fef6960ba61
+https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLivSports4Kan_MOB/WDVLive/index.mpd?__hdnea__=st=1787150959~exp=1787172559~acl=/*~hmac=ae1cd0870ce8aa0f30704cbeb2fec420ac9c05f78af43f0914778da03c946bf9
 
 #EXTINF:-1 tvg-id="3530" tvg-name="UIPM Pentathlon World Cup" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/UIPMPentathlonWC.png" group-title="SPORTS2",UIPM Pentathlon World Cup
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59414fca13b95985ad38ba9074840a81:16e62faf7f2ef75112ebb98377a2a03e
-https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd?__hdnea__=st=1787140804~exp=1787162404~acl=/*~hmac=0ab6b725624f0fe8a434f8ef23ab65356c13f6b47dce404f39370fef6960ba61
+https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd?__hdnea__=st=1787150959~exp=1787172559~acl=/*~hmac=ae1cd0870ce8aa0f30704cbeb2fec420ac9c05f78af43f0914778da03c946bf9
 
 #EXTINF:-1 tvg-id="460" tvg-name="Star Sports Select 1 HD" tvg-logo="https://img.media.jio.com/tvpimages/96/65/302113_1749664252703_l_medium.jpg" group-title="SPORTS3",Star Sports Select 1 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -8008,43 +8008,43 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsKhel_BTS/WDVLive/index.mpd?__hd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3394be91407c5fe99d784d2f2d6d4a12:58665e1df41f9f22ed73c56384bb3f51
-https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_1_MOB/WDVLive/index.mpd?__hdnea__=st=1787139537~exp=1787161137~acl=/*~hmac=ae503f68752f3c4fd32181667226ec087a3c8e98b8f95dc98d12438f7fb869f7
+https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_1_MOB/WDVLive/index.mpd?__hdnea__=st=1787157593~exp=1787179193~acl=/*~hmac=dd1d232b25af9b883b4b1c6229460ae73fea5a1b062a6b97380a91bfce723ad4
 
 #EXTINF:-1 tvg-id="STEN2" tvg-name="Sony Sports 2 SD" tvg-logo="" group-title="SPORTS4",Sony Sports 2 SD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=671ce7c8ccc95e0a95cba0d12831d12e:175d284c9647b6feb379e7c1650a4f82
-https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_2_MOB/WDVLive/index.mpd?__hdnea__=st=1787139537~exp=1787161137~acl=/*~hmac=ae503f68752f3c4fd32181667226ec087a3c8e98b8f95dc98d12438f7fb869f7
+https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_2_MOB/WDVLive/index.mpd?__hdnea__=st=1787157593~exp=1787179193~acl=/*~hmac=dd1d232b25af9b883b4b1c6229460ae73fea5a1b062a6b97380a91bfce723ad4
 
 #EXTINF:-1 tvg-id="STEN3" tvg-name="Sony Sports 3 SD" tvg-logo="" group-title="SPORTS4",Sony Sports 3 SD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=68318f7c97c55ba6ab8d0398a88fed3e:d312fb3325b4eb9462b4a0d2b6794adf
-https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_3_MOB/WDVLive/index.mpd?__hdnea__=st=1787139537~exp=1787161137~acl=/*~hmac=ae503f68752f3c4fd32181667226ec087a3c8e98b8f95dc98d12438f7fb869f7
+https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_3_MOB/WDVLive/index.mpd?__hdnea__=st=1787157593~exp=1787179193~acl=/*~hmac=dd1d232b25af9b883b4b1c6229460ae73fea5a1b062a6b97380a91bfce723ad4
 
 #EXTINF:-1 tvg-id="STENT" tvg-name="Sony Sports 4 Tamil" tvg-logo="" group-title="SPORTS4",Sony Sports 4 Tamil
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0df5f800775c5979ab8aeaff28ee674b:47dd1b9c8d4049760059aab27bddf1cb
-https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_4_Tamil_MOB/WDVLive/index.mpd?__hdnea__=st=1787139537~exp=1787161137~acl=/*~hmac=ae503f68752f3c4fd32181667226ec087a3c8e98b8f95dc98d12438f7fb869f7
+https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_4_Tamil_MOB/WDVLive/index.mpd?__hdnea__=st=1787157593~exp=1787179193~acl=/*~hmac=dd1d232b25af9b883b4b1c6229460ae73fea5a1b062a6b97380a91bfce723ad4
 
 #EXTINF:-1 tvg-id="STENTU" tvg-name="Sony Sports 4 Telugu" tvg-logo="" group-title="SPORTS4",Sony Sports 4 Telugu
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=494a8a050ecc5a22adab6dc304ead1b4:9b3bbf2ccb71a876a2bbeb9cde00d7bf
-https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_4_Telugu_MOB/WDVLive/index.mpd?__hdnea__=st=1787139537~exp=1787161137~acl=/*~hmac=ae503f68752f3c4fd32181667226ec087a3c8e98b8f95dc98d12438f7fb869f7
+https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_4_Telugu_MOB/WDVLive/index.mpd?__hdnea__=st=1787157593~exp=1787179193~acl=/*~hmac=dd1d232b25af9b883b4b1c6229460ae73fea5a1b062a6b97380a91bfce723ad4
 
 #EXTINF:-1 tvg-id="STEN5" tvg-name="Sony Sports 5 SD" tvg-logo="" group-title="SPORTS4",Sony Sports 5 SD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d2d8709de11d5955b60c57d3c955733e:7655200b24bf82808fb8addf2f02847b
-https://jiotvmblive.cdn.jio.com/bpk-tv/Sony_Six_SD_MOB/WDVLive/index.mpd?__hdnea__=st=1787139537~exp=1787161137~acl=/*~hmac=ae503f68752f3c4fd32181667226ec087a3c8e98b8f95dc98d12438f7fb869f7
+https://jiotvmblive.cdn.jio.com/bpk-tv/Sony_Six_SD_MOB/WDVLive/index.mpd?__hdnea__=st=1787157593~exp=1787179193~acl=/*~hmac=dd1d232b25af9b883b4b1c6229460ae73fea5a1b062a6b97380a91bfce723ad4
 
 #EXTINF:-1 tvg-id="SETHD" tvg-name="Sony SET HD" tvg-logo="" group-title="SPORTS4",Sony SET HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=17baf7d2f243c3aa85f5203137aad6da:15d0fb6df895c4d18368f5058f207511
-https://jiotvmblive.cdn.jio.com/bpk-tv/Sony_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1787139537~exp=1787161137~acl=/*~hmac=ae503f68752f3c4fd32181667226ec087a3c8e98b8f95dc98d12438f7fb869f7
+https://jiotvmblive.cdn.jio.com/bpk-tv/Sony_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1787157593~exp=1787179193~acl=/*~hmac=dd1d232b25af9b883b4b1c6229460ae73fea5a1b062a6b97380a91bfce723ad4
 
 #EXTINF:-1 tvg-id="E1SD" tvg-name="Star Sports 1 SD" tvg-logo="https://i.ibb.co/pmVQWFZ/SS1HD.jpg" group-title="SPORTS4",Star Sports 1 SD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -8188,83 +8188,83 @@ https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_2_Kannada_BTS/WDVLive/index.
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=400d0f354dca5d44a540cd80db766f4c:22da170bb5ae36ef5cab42b3842658d8
-https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/index.mpd?__hdnea__=st=1787139537~exp=1787161137~acl=/*~hmac=ae503f68752f3c4fd32181667226ec087a3c8e98b8f95dc98d12438f7fb869f7
+https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/index.mpd?__hdnea__=st=1787157593~exp=1787179193~acl=/*~hmac=dd1d232b25af9b883b4b1c6229460ae73fea5a1b062a6b97380a91bfce723ad4
 
 #EXTINF:-1 tvg-id="NICK" tvg-name="Nick Hindi" tvg-logo="" group-title="SPORTS4",Nick Hindi
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c2adcfad63a35590b854ad5f2a0196da:c33d877834cab56aefcee23b05430b2e
-https://jiotvmblive.cdn.jio.com/bpk-tv/Nick_Hindi_MOB/WDVLive/index.mpd?__hdnea__=st=1787139537~exp=1787161137~acl=/*~hmac=ae503f68752f3c4fd32181667226ec087a3c8e98b8f95dc98d12438f7fb869f7
+https://jiotvmblive.cdn.jio.com/bpk-tv/Nick_Hindi_MOB/WDVLive/index.mpd?__hdnea__=st=1787157593~exp=1787179193~acl=/*~hmac=dd1d232b25af9b883b4b1c6229460ae73fea5a1b062a6b97380a91bfce723ad4
 
 #EXTINF:-1 tvg-id="POGO" tvg-name="Pogo Hindi" tvg-logo="" group-title="SPORTS4",Pogo Hindi
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d19984624fc15209b3cb5cf3bf99232f:baca6aa9494ed43cf02975eda742eeab
-https://jiotvmblive.cdn.jio.com/bpk-tv/Pogo_Hindi_MOB/WDVLive/index.mpd?__hdnea__=st=1787139537~exp=1787161137~acl=/*~hmac=ae503f68752f3c4fd32181667226ec087a3c8e98b8f95dc98d12438f7fb869f7
+https://jiotvmblive.cdn.jio.com/bpk-tv/Pogo_Hindi_MOB/WDVLive/index.mpd?__hdnea__=st=1787157593~exp=1787179193~acl=/*~hmac=dd1d232b25af9b883b4b1c6229460ae73fea5a1b062a6b97380a91bfce723ad4
 
 #EXTINF:-1 tvg-id="YAY" tvg-name="Sony Yay Bangla" tvg-logo="" group-title="SPORTS4",Sony Yay Bangla
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d47f3928511059edaf93dd22bee23d37:f6adc793045dc831d82c2ea9f999bbc9
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyYAYBen_MOB/WDVLive/index.mpd?__hdnea__=st=1787139537~exp=1787161137~acl=/*~hmac=ae503f68752f3c4fd32181667226ec087a3c8e98b8f95dc98d12438f7fb869f7
+https://jiotvmblive.cdn.jio.com/bpk-tv/SonyYAYBen_MOB/WDVLive/index.mpd?__hdnea__=st=1787157593~exp=1787179193~acl=/*~hmac=dd1d232b25af9b883b4b1c6229460ae73fea5a1b062a6b97380a91bfce723ad4
 
 #EXTINF:-1 tvg-id="SAATH" tvg-name="Sony Aath" tvg-logo="" group-title="SPORTS4",Sony Aath
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea3ad98932fd5df5ab26e5e845e4b941:86b6dd76818b8fa7a0bbd0f6113d65b0
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyAATH_MOB/WDVLive/index.mpd?__hdnea__=st=1787139537~exp=1787161137~acl=/*~hmac=ae503f68752f3c4fd32181667226ec087a3c8e98b8f95dc98d12438f7fb869f7
+https://jiotvmblive.cdn.jio.com/bpk-tv/SonyAATH_MOB/WDVLive/index.mpd?__hdnea__=st=1787157593~exp=1787179193~acl=/*~hmac=dd1d232b25af9b883b4b1c6229460ae73fea5a1b062a6b97380a91bfce723ad4
 
 #EXTINF:-1 tvg-id="SHIVA" tvg-name="Sonic Bangla" tvg-logo="" group-title="SPORTS4",Sonic Bangla
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d26427bf9a85808bd34848fa7ae1f8a:aac720bb73a9db2b2cb64763d5f8942b
-https://jiotvmblive.cdn.jio.com/bpk-tv/Sonic_Bangla_MOB/WDVLive/index.mpd?__hdnea__=st=1787139537~exp=1787161137~acl=/*~hmac=ae503f68752f3c4fd32181667226ec087a3c8e98b8f95dc98d12438f7fb869f7
+https://jiotvmblive.cdn.jio.com/bpk-tv/Sonic_Bangla_MOB/WDVLive/index.mpd?__hdnea__=st=1787157593~exp=1787179193~acl=/*~hmac=dd1d232b25af9b883b4b1c6229460ae73fea5a1b062a6b97380a91bfce723ad4
 
 #EXTINF:-1 tvg-id="ROGTV" tvg-name="Unique TV" tvg-logo="" group-title="SPORTS4",Unique TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fc9f48f9ec80513c9687deb1a6fd061c:15d9d6704bbf6beb20190a2bc232603f
-https://jiotvmblive.cdn.jio.com/bpk-tv/Unique_Tv_MOB/WDVLive/index.mpd?__hdnea__=st=1787139537~exp=1787161137~acl=/*~hmac=ae503f68752f3c4fd32181667226ec087a3c8e98b8f95dc98d12438f7fb869f7
+https://jiotvmblive.cdn.jio.com/bpk-tv/Unique_Tv_MOB/WDVLive/index.mpd?__hdnea__=st=1787157593~exp=1787179193~acl=/*~hmac=dd1d232b25af9b883b4b1c6229460ae73fea5a1b062a6b97380a91bfce723ad4
 
 #EXTINF:-1 tvg-id="DISRY" tvg-name="Discovery" tvg-logo="" group-title="SPORTS4",Discovery
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d16b43f3e1be5634914a63e9a23f7e20:dd103236260a3dfe448871a671cba00e
-https://jiotvmblive.cdn.jio.com/bpk-tv/Discovery_Channel_Ben_MOB/WDVLive/index.mpd?__hdnea__=st=1787139537~exp=1787161137~acl=/*~hmac=ae503f68752f3c4fd32181667226ec087a3c8e98b8f95dc98d12438f7fb869f7
+https://jiotvmblive.cdn.jio.com/bpk-tv/Discovery_Channel_Ben_MOB/WDVLive/index.mpd?__hdnea__=st=1787157593~exp=1787179193~acl=/*~hmac=dd1d232b25af9b883b4b1c6229460ae73fea5a1b062a6b97380a91bfce723ad4
 
 #EXTINF:-1 tvg-id="DKIDS" tvg-name="Discovery Kids" tvg-logo="" group-title="SPORTS4",Discovery Kids
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=001a44205b2158be9db4bca1636ae5ac:9d1bddb7d66d4a73801abde7bc460a89
-https://jiotvmblive.cdn.jio.com/bpk-tv/DiscoveryKidsHin_MOB/WDVLive/index.mpd?__hdnea__=st=1787139537~exp=1787161137~acl=/*~hmac=ae503f68752f3c4fd32181667226ec087a3c8e98b8f95dc98d12438f7fb869f7
+https://jiotvmblive.cdn.jio.com/bpk-tv/DiscoveryKidsHin_MOB/WDVLive/index.mpd?__hdnea__=st=1787157593~exp=1787179193~acl=/*~hmac=dd1d232b25af9b883b4b1c6229460ae73fea5a1b062a6b97380a91bfce723ad4
 
 #EXTINF:-1 tvg-id="CN" tvg-name="Cartoon Network" tvg-logo="" group-title="SPORTS4",Cartoon Network
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dfdcfe466f865e51ac6b9345a03478fc:4cfddb414841586f0f992f2810ec2931
-https://jiotvmblive.cdn.jio.com/bpk-tv/CNHindi_MOB/WDVLive/index.mpd?__hdnea__=st=1787139537~exp=1787161137~acl=/*~hmac=ae503f68752f3c4fd32181667226ec087a3c8e98b8f95dc98d12438f7fb869f7
+https://jiotvmblive.cdn.jio.com/bpk-tv/CNHindi_MOB/WDVLive/index.mpd?__hdnea__=st=1787157593~exp=1787179193~acl=/*~hmac=dd1d232b25af9b883b4b1c6229460ae73fea5a1b062a6b97380a91bfce723ad4
 
 #EXTINF:-1 tvg-id="CBC" tvg-name="Colors Bangla Cinema" tvg-logo="" group-title="SPORTS4",Colors Bangla Cinema
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c94ad2cee7bb5e53afa47065d7a84cae:bb1abc5594beb61f5096ef8723c127aa
-https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Bangla_Cinema_MOB/WDVLive/index.mpd?__hdnea__=st=1787139537~exp=1787161137~acl=/*~hmac=ae503f68752f3c4fd32181667226ec087a3c8e98b8f95dc98d12438f7fb869f7
+https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Bangla_Cinema_MOB/WDVLive/index.mpd?__hdnea__=st=1787157593~exp=1787179193~acl=/*~hmac=dd1d232b25af9b883b4b1c6229460ae73fea5a1b062a6b97380a91bfce723ad4
 
 #EXTINF:-1 tvg-id="ZBS" tvg-name="Zee Bangla Sonar" tvg-logo="" group-title="SPORTS4",Zee Bangla Sonar
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=05dcf4433e055e2f960e8ac859afbec4:75a1ab16efc8145bea71a71f39c8eb04
-https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeBanglaSonar_MOB/WDVLive/index.mpd?__hdnea__=st=1787139537~exp=1787161137~acl=/*~hmac=ae503f68752f3c4fd32181667226ec087a3c8e98b8f95dc98d12438f7fb869f7
+https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeBanglaSonar_MOB/WDVLive/index.mpd?__hdnea__=st=1787157593~exp=1787179193~acl=/*~hmac=dd1d232b25af9b883b4b1c6229460ae73fea5a1b062a6b97380a91bfce723ad4
 
 #EXTINF:-1 tvg-id="ZEEB" tvg-name="Zee Bangla HD" tvg-logo="" group-title="SPORTS4",Zee Bangla HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1df83e058b864da896c9288eef63b113:fc32f26239054b56aab48225305598fe
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd?__hdnea__=st=1787139537~exp=1787161137~acl=/*~hmac=ae503f68752f3c4fd32181667226ec087a3c8e98b8f95dc98d12438f7fb869f7
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd?__hdnea__=st=1787157593~exp=1787179193~acl=/*~hmac=dd1d232b25af9b883b4b1c6229460ae73fea5a1b062a6b97380a91bfce723ad4
 
 #EXTINF:-1 tvg-id="JMOVIES" tvg-name="Jalsha Movies" tvg-logo="" group-title="SPORTS4",Jalsha Movies
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e860f0d6577258b2b264d4bb2ecbfd4a:fd55bcc08db185b0a573a93e24fab8f6
-https://jiotvmblive.cdn.jio.com/bpk-tv/Jalsha_Movies_MOB/WDVLive/index.mpd?__hdnea__=st=1787139537~exp=1787161137~acl=/*~hmac=ae503f68752f3c4fd32181667226ec087a3c8e98b8f95dc98d12438f7fb869f7
+https://jiotvmblive.cdn.jio.com/bpk-tv/Jalsha_Movies_MOB/WDVLive/index.mpd?__hdnea__=st=1787157593~exp=1787179193~acl=/*~hmac=dd1d232b25af9b883b4b1c6229460ae73fea5a1b062a6b97380a91bfce723ad4
 

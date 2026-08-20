@@ -25,7 +25,7 @@ jobs:
       - name: Download and Process M3U Links
         run: |
           # നിങ്ങളുടെ വർക്കർ URL-ൽ നിന്ന് gogo.m3u എന്ന പേരിലേക്ക് ഡൗൺലോഡ് ചെയ്യുന്നു
-          curl -L "https://yashiptvplaylist.livenoww.workers.dev/" -o gogo.m3u
+          curl -L "https://la.drmlive.net/tp/playlist" -o gogo.m3u
 
       - name: Commit and Push Changes
         run: |

@@ -25,7 +25,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_Romance_MOB/WDVLive/index.mpd?_
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6afa4754bc15dd28ab6806f417d319d:6a74ef2884813547109ee96098610387
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787305947~exp=1787327547~acl=/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/*~hmac=68cdcf532487eee273228f090f35c9b2a2413bade627307cb7258b4d1a837678
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787327790~exp=1787349390~acl=/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/*~hmac=966883545fe5b012e0e2d94e09968f3a77bfe0513c0b95cf629931517bc7bdad
 
 #EXTINF:-1 tvg-id="3098" tvg-name="Star Gold Thrills" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Thrills.png" group-title="STAR",Star Gold Thrills
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -846,7 +846,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_HD_MOB/WDVLive/index.mpd?__hdne
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6afa4754bc15dd28ab6806f417d319d:6a74ef2884813547109ee96098610387
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787305947~exp=1787327547~acl=/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/*~hmac=68cdcf532487eee273228f090f35c9b2a2413bade627307cb7258b4d1a837678
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787327790~exp=1787349390~acl=/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/*~hmac=966883545fe5b012e0e2d94e09968f3a77bfe0513c0b95cf629931517bc7bdad
 
 #EXTINF:-1 tvg-id="1119" tvg-name="Star Gold Select" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select.png" group-title="MOVIES",Star Gold Select
 https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_Select_MOB/WDVLive/index.mpd?__hdnea__=st=1787324409~exp=1787346009~acl=/*~hmac=b71cc8d85855d462edad15639bf9e6b1f4a6a38a7d6bd814922f7c7fa905d33d

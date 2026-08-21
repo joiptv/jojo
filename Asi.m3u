@@ -1193,7 +1193,7 @@ https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-a
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=88295124db295a6b9f5027dc6049e294:641c40230a95cb76d1949125f9552fda
-https://jiotvpllive.cdn.jio.com/bpk-tv/AndTVHD_BTS/WDVLive/index.mpd?__hdnea__=st=1787317514~exp=1787339114~acl=/bpk-tv/AndTVHD_BTS/WDVLive/*~hmac=8ef598ccec743a033fbaf92ace7b2db90a97705303dad8047d5916f8c1b43e0c
+https://jiotvpllive.cdn.jio.com/bpk-tv/AndTVHD_BTS/WDVLive/index.mpd?__hdnea__=st=1787339115~exp=1787360715~acl=/bpk-tv/AndTVHD_BTS/WDVLive/*~hmac=2bc67a484bef3d3ffef299611e2f839b8509ac905711a168fd0d45dea8ae88a9
 
 #EXTINF:-1 tvg-id="474" tvg-name="Sony Pal" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyPAL.png" group-title="ENTERTAINMENT",Sony Pal
 #KODIPROP:inputstream.adaptive.manifest_type=mpd

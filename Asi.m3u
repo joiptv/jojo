@@ -957,7 +957,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/b4u_movies/HLSPartner/index.m3u8?__hdnea_
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab0674eba3f5adf96a9b65a6e82d208:476f813d8651987fc1b4074693676fd8
-https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/index.mpd?__hdnea__=st=1787526422~exp=1787548022~acl=/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/*~hmac=dc01fae3df4940ac5a29386a898861b9f0264b774f9be3a7ca64e38d24755680
+https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/index.mpd?__hdnea__=st=1787548306~exp=1787569906~acl=/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/*~hmac=d8c6bd8919293354b2d07038f0cfd2e1a1fd17b8eb94fa845db042e27c437333
 
 #EXTINF:-1 tvg-id="2761" tvg-name="Zee Anmol Cinema 2" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeAnmolCinema2.png" group-title="MOVIES",Zee Anmol Cinema 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1621,7 +1621,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/History_TV18_SD_MOB/WDVLive/index.mpd?__h
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0172b8cd13ed59349a05aadc58ae11e0:e4ab7836617767a2a6e7aaae17fad2b6
-https://jiotvpllive.cdn.jio.com/bpk-tv/History_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787526418~exp=1787548018~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=6049fa145afcf9a666a2ae7020d5c10f1bdddcbaf55adb50ec36cb05fd6a1647
+https://jiotvpllive.cdn.jio.com/bpk-tv/History_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787548304~exp=1787569904~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=c5512c472efe5efca27a809cfb6e9cba5857aebb418369ea29504425ec18e990
 
 #EXTINF:-1 tvg-id="578" tvg-name="History TV18 HD Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="INFOTAINMENT",History TV18 HD Hindi
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1642,7 +1642,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_HD_BTS/WDVLive/index.mpd?__hdne
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39aa887ebbc35db6bd10217aba5e016b:a1862a47f6db0af137d0c69b3cb422bb
-https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_BTS/WDVLive/index.mpd?__hdnea__=st=1787526428~exp=1787548028~acl=/bpk-tv/Travel_XP_BTS/WDVLive/*~hmac=965fd1fa18b362d7243fce89bfe06005183c49e1369592760db16c69be292daa
+https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_BTS/WDVLive/index.mpd?__hdnea__=st=1787548307~exp=1787569907~acl=/bpk-tv/Travel_XP_BTS/WDVLive/*~hmac=36262e9a5c4a17505a759b1c32c67ec3243b9a398c576e30c5c38d33d6d4de1f
 
 #EXTINF:-1 tvg-id="821" tvg-name="Sony BBC Earth HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyBBCEarthHin.png" group-title="INFOTAINMENT",Sony BBC Earth HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1708,7 +1708,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/CNBCTV18Prime_MOB/WDVLive/index.mpd?__hdn
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0172b8cd13ed59349a05aadc58ae11e0:e4ab7836617767a2a6e7aaae17fad2b6
-https://jiotvpllive.cdn.jio.com/bpk-tv/History_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787526418~exp=1787548018~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=6049fa145afcf9a666a2ae7020d5c10f1bdddcbaf55adb50ec36cb05fd6a1647
+https://jiotvpllive.cdn.jio.com/bpk-tv/History_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787548304~exp=1787569904~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=c5512c472efe5efca27a809cfb6e9cba5857aebb418369ea29504425ec18e990
 
 #EXTINF:-1 tvg-id="151" tvg-name="Movies Now HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now_HD.png" group-title="English",Movies Now HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2373,7 +2373,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Food_Food_MOB/WDVLive/index.mpd?__hdnea__
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39aa887ebbc35db6bd10217aba5e016b:a1862a47f6db0af137d0c69b3cb422bb
-https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_BTS/WDVLive/index.mpd?__hdnea__=st=1787526428~exp=1787548028~acl=/bpk-tv/Travel_XP_BTS/WDVLive/*~hmac=965fd1fa18b362d7243fce89bfe06005183c49e1369592760db16c69be292daa
+https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_BTS/WDVLive/index.mpd?__hdnea__=st=1787548307~exp=1787569907~acl=/bpk-tv/Travel_XP_BTS/WDVLive/*~hmac=36262e9a5c4a17505a759b1c32c67ec3243b9a398c576e30c5c38d33d6d4de1f
 
 #EXTINF:-1 tvg-id="563" tvg-name="Kaumudy TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kaumudy_TV.png" group-title="Malayalam",Kaumudy TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd

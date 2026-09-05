@@ -21,7 +21,7 @@ jobs:
       - name: Download and Update M3U Links
         run: |
           # OTT Navigator-ൻ്റെ User-Agent ഉപയോഗിച്ച് 403 ബ്ലോക്ക് മറികടക്കുന്നു 
-          curl -s -L -A "OTT Navigator" "https://jio.shoeblivesite.dpdns.org/" -o temp.m3u
+          curl -s -L -A "OTT Navigator" "https://premiumplugx.com/VIP/playlist.m3u" -o temp.m3u
           
           # HTML പേജ് അല്ല, യഥാർത്ഥ M3U ആണ് കിട്ടിയതെന്ന് ഉറപ്പാക്കുന്നു
           if grep -q "#EXTM3U" temp.m3u; then

@@ -28,7 +28,7 @@ jobs:
           python-version: '3.x'
 
       - name: Download Original Playlist
-        run: curl -L "https://clarity-tv.vercel.app/api/playlist/?id=ALLINONE" -o Ser.m3u
+        run: curl -L "https://mute-sunset-8225.streamstar18.workers.dev/" -o Ser.m3u
 
       - name: Extract Links and Create New Playlist
         shell: python

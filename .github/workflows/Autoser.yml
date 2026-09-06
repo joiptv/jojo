@@ -1,4 +1,4 @@
-name: Auto-Activate and Update Sir Playlist
+name: Sir 
 
 on:
   schedule:
